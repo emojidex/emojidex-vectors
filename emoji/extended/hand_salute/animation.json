@@ -1,0 +1,12 @@
+{
+  "name": "hand_salute",
+  "loops": 0,
+  "skip_first": false,
+  "default_delay": "100/1000",
+  "frames": [
+    {"0": 100},
+    {"1": 100},
+    {"2": 100},
+    {"3": 500}
+  ]
+}

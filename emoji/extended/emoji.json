@@ -1,0 +1,748 @@
+[
+  {
+    "code": "apple_of_discord",
+    "code_ja": "不和のりんご",
+    "category": "abstract"
+  },
+  {
+    "code": "Aquarius_plain",
+    "code_ja": "水瓶座(四角)",
+    "category": "symbols"
+  },
+  {
+    "code": "Aquarius_round",
+    "code_ja": "水瓶座(丸)",
+    "category": "symbols"
+  },
+  {
+    "code": "Aquarius_sign",
+    "code_ja": "水瓶座(シンボル)",
+    "category": "symbols"
+  },
+  {
+    "code": "Aries_plain",
+    "code_ja": "牡羊座(四角)",
+    "category": "symbols"
+  },
+  {
+    "code": "Aries_round",
+    "code_ja": "牡羊座(丸)",
+    "category": "symbols"
+  },
+  {
+    "code": "Aries_sign",
+    "code_ja": "牡羊座(シンボル)",
+    "category": "symbols"
+  },
+  {
+    "code": "assault_rifle",
+    "code_ja": "アサルトライフル",
+	  "tags": ["weapon", "gun"],
+    "category": "tools"
+  },
+  {
+    "code": "magic_wand",
+    "code_ja": "魔法の杖",
+    "category": "tools"
+  },
+  {
+    "code": "menorah",
+    "code_ja": "メノラー",
+    "category": "objects"
+  },
+  {
+    "code": "bgok",
+    "code_ja": "ニワトリ(鳴き)",
+    "category": "nature"
+  },
+  {
+    "code": "t_rex",
+    "code_ja": "ティラノサウルス",
+    "category": "nature"
+  },
+  {
+    "code": "black_pegasus",
+    "code_ja": "ペガサス(黒)",
+    "category": "nature"
+  },
+  {
+    "code": "bowtie",
+    "code_ja": "ちょうネクタイ",
+    "category": "faces"
+  },
+  {
+    "code": "Cancer_plain",
+    "code_ja": "蟹座(四角)",
+    "category": "symbols"
+  },
+  {
+    "code": "Cancer_round",
+    "code_ja": "蟹座(丸)",
+    "category": "symbols"
+  },
+  {
+    "code": "Cancer_sign",
+    "code_ja": "蟹座(シンボル)",
+    "category": "symbols"
+  },
+  {
+    "code": "Capricorn_plain",
+    "code_ja": "山羊座(四角)",
+    "category": "symbols"
+  },
+  {
+    "code": "Capricorn_round",
+    "code_ja": "山羊座(丸)",
+    "category": "symbols"
+  },
+  {
+    "code": "Capricorn_sign",
+    "code_ja": "山羊座(シンボル)",
+    "category": "symbols"
+  },
+  {
+    "code": "combat_knife",
+    "code_ja": "コンバットナイフ",
+    "category": "tools"
+  },
+  {
+    "code": "couple_in_love",
+    "code_ja": "手をつないだカップルとハート",
+    "category": "people"
+  },
+  {
+    "code": "disposable_razor",
+    "code_ja": "使い捨てカミソリ",
+    "category": "tools"
+  },
+  {
+    "code": "drunk",
+    "code_ja": "酔っ払い",
+    "category": "faces"
+  },
+  {
+    "code": "DSLR",
+    "code_ja": "一眼レフ",
+    "category": "tools"
+  },
+  {
+    "code": "family_daughters",
+    "code_ja": "両親と娘たち",
+    "category": "people"
+  },
+  {
+    "code": "Gemini_plain",
+    "code_ja": "双子座(四角)",
+    "category": "symbols"
+  },
+  {
+    "code": "Gemini_round",
+    "code_ja": "双子座(丸)",
+    "category": "symbols"
+  },
+  {
+    "code": "Gemini_sign",
+    "code_ja": "双子座(シンボル)",
+    "category": "symbols"
+  },
+  {
+    "code": "gentleman_octopus",
+    "code_ja": "紳士タコ",
+    "category": "nature"
+  },
+  {
+    "code": "hand_salute",
+    "code_ja": "挙手",
+    "category": "gestures"
+  },
+  {
+    "code": "middle_finger",
+    "code_ja": "中指を立てる",
+    "category": "gestures"
+  },
+  {
+    "code": "jumping_spider",
+    "code_ja": "ハエトリグモ",
+    "category": "nature"
+  },
+  {
+    "code": "Leo_plain",
+    "code_ja": "獅子座(四角)",
+    "category": "symbols"
+  },
+  {
+    "code": "Leo_round",
+    "code_ja": "獅子座(丸)",
+    "category": "symbols"
+  },
+  {
+    "code": "Leo_sign",
+    "code_ja": "獅子座(シンボル)",
+    "category": "symbols"
+  },
+  {
+    "code": "Leo_1",
+    "code_ja": "獅子座(1)",
+    "category": "symbols"
+  },
+  {
+    "code": "Leo_2",
+    "code_ja": "獅子座(2)",
+    "category": "symbols"
+  },
+  {
+    "code": "Libra_plain",
+    "code_ja": "天秤座(四角)",
+    "category": "symbols"
+  },
+  {
+    "code": "Libra_round",
+    "code_ja": "天秤座(丸)",
+    "category": "symbols"
+  },
+  {
+    "code": "Libra_sign",
+    "code_ja": "天秤座(シンボル)",
+    "category": "symbols"
+  },
+  {
+    "code": "check_button_green",
+    "code_ja": "緑チェック・ボタン",
+    "category": "symbols"
+  },
+  {
+    "code": "ninja",
+    "code_ja": "忍者",
+    "category": "people"
+  },
+  {
+    "code": "monster",
+    "code_ja": "モンスター",
+    "category": "people"
+  },
+  {
+    "code": "oars",
+    "code_ja": "櫂",
+    "category": "transportation"
+  },
+  {
+    "code": "Ophiuchus_plain",
+    "code_ja": "蛇遣い座(四角)",
+    "category": "symbols"
+  },
+  {
+    "code": "Ophiuchus_round",
+    "code_ja": "蛇遣い座(丸)",
+    "category": "symbols"
+  },
+  {
+    "code": "penguin_chick",
+    "code_ja": "子どもペンギン",
+    "category": "nature"
+  },
+  {
+    "code": "pepperoni_cream_cheese_pizza",
+    "code_ja": "ペパロニクリームチーズピザ",
+    "category": "food"
+  },
+  {
+    "code": "sandwich",
+    "code_ja": "サンドイッチ",
+    "category": "food"
+  },
+  {
+    "code": "cupcake",
+    "code_ja": "カップケーキ",
+    "category": "food"
+  },
+  {
+    "code": "Pisces_plain",
+    "code_ja": "魚座(四角)",
+    "category": "symbols"
+  },
+  {
+    "code": "Pisces_round",
+    "code_ja": "魚座(丸)",
+    "category": "symbols"
+  },
+  {
+    "code": "Pisces_sign",
+    "code_ja": "魚座(シンボル)",
+    "category": "symbols"
+  },
+  {
+    "code": "puke_finger",
+    "code_ja": "嘔吐2",
+    "category": "people"
+  },
+  {
+    "code": "puke",
+    "code_ja": "嘔吐",
+    "category": "faces"
+  },
+  {
+    "code": "purple_smiling_face_with_horns",
+    "code_ja": "角あり笑顔(紫)",
+    "category": "faces"
+  },
+  {
+    "code": "quoll",
+    "code_ja": "フクロネコ",
+    "category": "nature"
+  },
+  {
+    "code": "rainbow_sky",
+    "code_ja": "虹空",
+    "category": "nature"
+  },
+  {
+    "code": "rainbow_solid",
+    "code_ja": "虹(不透明)",
+    "category": "nature"
+  },
+  {
+    "code": "Sagittarius_plain",
+    "code_ja": "射手座(四角)",
+    "category": "symbols"
+  },
+  {
+    "code": "Sagittarius_round",
+    "code_ja": "射手座(丸)",
+    "category": "symbols"
+  },
+  {
+    "code": "Sagittarius_sign",
+    "code_ja": "射手座(シンボル)",
+    "category": "symbols"
+  },
+  {
+    "code": "Scorpio_plain",
+    "code_ja": "蠍座(四角)",
+    "category": "symbols"
+  },
+  {
+    "code": "Scorpio_round",
+    "code_ja": "蠍座(丸)",
+    "category": "symbols"
+  },
+  {
+    "code": "Scorpio_sign",
+    "code_ja": "蠍座(シンボル)",
+    "category": "symbols"
+  },
+  {
+    "code": "scuba_diver",
+    "code_ja": "スキューバダイバー",
+    "category": "people"
+  },
+  {
+    "code": "asian_person",
+    "code_ja": "黄色人",
+    "category": "people"
+  },
+  {
+    "code": "black_person",
+    "code_ja": "黒人",
+    "category": "people"
+  },
+  {
+    "code": "hispanic_person",
+    "code_ja": "ヒスパニック人",
+    "category": "people"
+  },
+  {
+    "code": "shit",
+    "code_ja": "うんち",
+    "category": "abstract"
+  },
+  {
+    "code": "siamese_kitten",
+    "code_ja": "シャム猫",
+    "category": "nature"
+  },
+  {
+    "code": "skull_with_jaw",
+    "code_ja": "ドクロ",
+    "category": "people"
+  },
+  {
+    "code": "smiley_angry_face",
+    "code_ja": "スマイリー(怒った顔)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_anguished",
+    "code_ja": "スマイリー(悲しい顔)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_astonished_face",
+    "code_ja": "スマイリー(びっくり)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_blush",
+    "code_ja": "スマイリー(にこにこ)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_bowtie",
+    "code_ja": "スマイリー(ちょうネクタイ)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_confounded_face",
+    "code_ja": "スマイリー(困惑)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_confused",
+    "code_ja": "スマイリー(困る)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_crying_face",
+    "code_ja": "スマイリー(涙)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_disappointed_but_relieved_face",
+    "code_ja": "スマイリー(やれやれ)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_disappointed_face",
+    "code_ja": "スマイリー(がっかり)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_dizzy_face",
+    "code_ja": "スマイリー(ふらふら)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_drunk",
+    "code_ja": "スマイリー(酔っぱらい)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_expressionless",
+    "code_ja": "スマイリー(ぼけーっとした顔)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_face_savouring_delicious_food",
+    "code_ja": "スマイリー(うまい)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_face_with_look_of_triumph",
+    "code_ja": "スマイリー(勝ち誇り)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_face_with_medical_mask",
+    "code_ja": "スマイリー(風邪ひき)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_face_with_open_mouth_and_cold_sweat",
+    "code_ja": "スマイリー(冷や汗2)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_face_with_stuck_out_tongue_and_winking_eye",
+    "code_ja": "スマイリー(あっかんべー)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_face_with_tears_of_joy",
+    "code_ja": "スマイリー(泣き笑い)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_fearful_face",
+    "code_ja": "スマイリー(青ざめ)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_flushed",
+    "code_ja": "スマイリー(ぽっ)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_frowning",
+    "code_ja": "スマイリー(しかめっ面)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_grimacing",
+    "code_ja": "スマイリー(いーっ)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_grin",
+    "code_ja": "スマイリー(うっしっし)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_grinning",
+    "code_ja": "スマイリー(にんまり)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_heart_eyes",
+    "code_ja": "スマイリー(目がハート)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_hushed",
+    "code_ja": "スマイリー(しーん)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_kissing_closed_eyes",
+    "code_ja": "スマイリー(チュッ)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_kissing_heart",
+    "code_ja": "スマイリー(投げキッス)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_kissing_smiling_eyes",
+    "code_ja": "スマイリー(チューしよ)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_kissing",
+    "code_ja": "スマイリー(チュー)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_laughing",
+    "code_ja": "スマイリー(笑い)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_loudly_crying_face",
+    "code_ja": "スマイリー(大泣き)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_open_mouth",
+    "code_ja": "スマイリー(ぽかんと)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_pensive_face",
+    "code_ja": "スマイリー(しょんぼり)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_persevering_face",
+    "code_ja": "スマイリー(がまん顔)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_pouting_face",
+    "code_ja": "スマイリー(ふくれっ面)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_puke",
+    "code_ja": "スマイリー(嘔吐)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_relaxed",
+    "code_ja": "スマイリー(リラックス)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_relieved",
+    "code_ja": "スマイリー(ほっとした顔)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_satisfied",
+    "code_ja": "スマイリー(満足)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_sleeping",
+    "code_ja": "スマイリー(睡眠中)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_sleepy_face",
+    "code_ja": "スマイリー(眠い)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_smile",
+    "code_ja": "スマイリー(嬉しい顔)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_smiley",
+    "code_ja": "スマイリー(スマイル)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_smirk",
+    "code_ja": "スマイリー(ふっ)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_stuck_out_tongue_closed_eyes",
+    "code_ja": "スマイリー(べーっ)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_stuck_out_tongue",
+    "code_ja": "スマイリー(べー)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_sweat_smile",
+    "code_ja": "スマイリー(冷や汗)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_sweat",
+    "code_ja": "スマイリー(困り顔)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_tired_face",
+    "code_ja": "スマイリー(疲れた顔)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_unamused",
+    "code_ja": "スマイリー(横目)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_weary_face",
+    "code_ja": "スマイリー(うんざり)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_white_smiling_face",
+    "code_ja": "スマイリー(スマイルフェイス)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_wink",
+    "code_ja": "スマイリー(ウインク)",
+    "category": "faces"
+  },
+  {
+    "code": "smiley_worried",
+    "code_ja": "スマイリー(心配)",
+    "category": "faces"
+  },
+  {
+    "code": "snake_alt",
+    "code_ja": "ヘビ2",
+    "category": "nature"
+  },
+  {
+    "code": "sun_with_face2",
+    "code_ja": "顔太陽2",
+    "category": "nature"
+  },
+  {
+    "code": "Taurus_plain",
+    "code_ja": "牡牛座(四角)",
+    "category": "symbols"
+  },
+  {
+    "code": "Taurus_round",
+    "code_ja": "牡牛座(丸)",
+    "category": "symbols"
+  },
+  {
+    "code": "Taurus_sign",
+    "code_ja": "牡牛座(シンボル)",
+    "category": "symbols"
+  },
+  {
+    "code": "two_men_in_love",
+    "code_ja": "手をつないだ二人の男性とハート",
+    "category": "people"
+  },
+  {
+    "code": "two_men_with_heart",
+    "code_ja": "二人の男性とハート",
+    "category": "people"
+  },
+  {
+    "code": "two_women_in_love",
+    "code_ja": "手をつないだ二人の女性とハート",
+    "category": "people"
+  },
+  {
+    "code": "two_women_with_heart",
+    "code_ja": "二人の女性とハート",
+    "category": "people"
+  },
+  {
+    "code": "unicorn",
+    "code_ja": "ユニコーン",
+    "category": "nature"
+  },
+  {
+    "code": "birds_head",
+    "code_ja": "鳥の頭",
+    "category": "nature"
+  },
+  {
+    "code": "catfish",
+    "code_ja": "ナマズ",
+    "category": "nature"
+  },
+  {
+    "code": "extraterrestrial_alien",
+    "code_ja": "宇宙人",
+    "category": "people"
+  },
+  {
+    "code": "extraterrestrial_alien_simple",
+    "code_ja": "宇宙人(シンプル)",
+    "category": "people"
+  },
+  {
+    "code": "robot",
+    "code_ja": "ロボット",
+    "category": "people"
+  },
+  {
+    "code": "robot_2",
+    "code_ja": "ロボット(2)",
+    "category": "people"
+  },
+  {
+    "code": "island",
+    "code_ja": "島",
+    "category": "places"
+  },
+  {
+    "code": "Virgo_plain",
+    "code_ja": "乙女座(四角)",
+    "category": "symbols"
+  },
+  {
+    "code": "Virgo_round",
+    "code_ja": "乙女座(丸)",
+    "category": "symbols"
+  },
+  {
+    "code": "Virgo_sign",
+    "code_ja": "乙女座(シンボル)",
+    "category": "symbols"
+  }
+]
