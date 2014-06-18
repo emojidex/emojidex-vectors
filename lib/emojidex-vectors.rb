@@ -1,4 +1,1 @@
-module Emojidex
-  class Vectors
-  end
-end
+require 'emojidex/vectors'
