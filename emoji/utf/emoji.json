@@ -707,6 +707,90 @@
     "unicode": "1f320"
   },
   {
+    "moji": "🌡",
+    "code": "thermometer",
+    "code_ja": "温度計",
+    "category": "nature",
+    "unicode": "1f321"
+  },
+  {
+    "moji": "🌢",
+    "code": "black_droplet",
+    "code_ja": "雫",
+    "category": "nature",
+    "unicode": "1f322"
+  },
+  {
+    "moji": "🌣",
+    "code": "white_sun",
+    "code_ja": "白い太陽",
+    "category": "nature",
+    "unicode": "1f323"
+  },
+  {
+    "moji": "🌤",
+    "code": "white_sun_with_small_cloud",
+    "code_ja": "太陽と雲",
+    "category": "nature",
+    "unicode": "1f324"
+  },
+  {
+    "moji": "🌥",
+    "code": "white_sun_behind_cloud",
+    "code_ja": "雲間の太陽",
+    "category": "nature",
+    "unicode": "1f325"
+  },
+  {
+    "moji": "🌦",
+    "code": "white_sun_behind_cloud_with_rain",
+    "code_ja": "太陽と雨雲",
+    "category": "nature",
+    "unicode": "1f326"
+  },
+  {
+    "moji": "🌧",
+    "code": "cloud_with_rain",
+    "code_ja": "雨雲",
+    "category": "nature",
+    "unicode": "1f327"
+  },
+  {
+    "moji": "🌨",
+    "code": "cloud_with_snow",
+    "code_ja": "雪雲",
+    "category": "nature",
+    "unicode": "1f328"
+  },
+  {
+    "moji": "🌩",
+    "code": "cloud_with_lightning",
+    "code_ja": "雷雲",
+    "category": "nature",
+    "unicode": "1f329"
+  },
+  {
+    "moji": "🌪",
+    "code": "cloud_with_tornado",
+    "code_ja": "竜巻",
+    "category": "nature",
+    "unicode": "1f32a"
+  },
+  {
+    "moji": "🌫",
+    "code": "fog",
+    "code_ja": "濃霧",
+    "category": "nature",
+    "unicode": "1f32b"
+  },
+  {
+    "moji": "🌬",
+    "code": "wind_blowing_face",
+    "code_ja": "風になびく髪",
+    "category": "people",
+    "unicode": "1f32c"
+  },
+  {
     "moji": "🌰",
     "code": "chestnut",
     "code_ja": "栗",
@@ -747,6 +831,13 @@
     "code_ja": "サボテン",
     "category": "nature",
     "unicode": "1f335"
+  },
+  {
+    "moji": "🌶",
+    "code": "hot_pepper",
+    "code_ja": "唐辛子",
+    "category": "nature",
+    "unicode": "1f336"
   },
   {
     "moji": "🌷",
@@ -1239,6 +1330,13 @@
     "unicode": "1f37c"
   },
   {
+    "moji": "🍽",
+    "code": "fork_and_knife_with_plate",
+    "code_ja": "ナイフとフォークとお皿",
+    "category": "food",
+    "unicode": "1f37d"
+  },
+  {
     "moji": "🎀",
     "code": "ribbon",
     "code_ja": "リボン",
@@ -1377,6 +1475,90 @@
     "code_ja": "卒業式",
     "category": "objects",
     "unicode": "1f393"
+  },
+  {
+    "moji": "🎔",
+    "code": "heart_with_tip_on_the_left",
+    "code_ja": "飛び散るハート",
+    "category": "objects",
+    "unicode": "1f394"
+  },
+  {
+    "moji": "🎕",
+    "code": "bouquet_of_flowers",
+    "code_ja": "花束",
+    "category": "objects",
+    "unicode": "1f395"
+  },
+  {
+    "moji": "🎖",
+    "code": "military_medal",
+    "code_ja": "勲章",
+    "category": "objects",
+    "unicode": "1f396"
+  },
+  {
+    "moji": "🎗",
+    "code": "reminder_ribbon",
+    "code_ja": "リマインダーリボン",
+    "category": "objects",
+    "unicode": "1f397"
+  },
+  {
+    "moji": "🎘",
+    "code": "musical_keyboard_with_jacks",
+    "code_ja": "キーボード",
+    "category": "objects",
+    "unicode": "1f398"
+  },
+  {
+    "moji": "🎙",
+    "code": "studio_microphone",
+    "code_ja": "スタジオマイク",
+    "category": "objects",
+    "unicode": "1f399"
+  },
+  {
+    "moji": "🎚",
+    "code": "level_slider",
+    "code_ja": "レベルスライダー",
+    "category": "objects",
+    "unicode": "1f39a"
+  },
+  {
+    "moji": "🎛",
+    "code": "control_knobs",
+    "code_ja": "コントロールノブ",
+    "category": "objects",
+    "unicode": "1f39b"
+  },
+  {
+    "moji": "🎜",
+    "code": "beamed_ascending_musical_notes",
+    "code_ja": "8分音符1",
+    "category": "objects",
+    "unicode": "1f39c"
+  },
+  {
+    "moji": "🎝",
+    "code": "beamed_descending_musical_notes",
+    "code_ja": "8分音符2",
+    "category": "objects",
+    "unicode": "1f39d"
+  },
+  {
+    "moji": "🎞",
+    "code": "film_frames",
+    "code_ja": "フィルムフレーム",
+    "category": "objects",
+    "unicode": "1f39e"
+  },
+  {
+    "moji": "🎟",
+    "code": "admission_tickets",
+    "code_ja": "入場券",
+    "category": "objects",
+    "unicode": "1f39f"
   },
   {
     "moji": "🎠",
@@ -1638,6 +1820,13 @@
     "unicode": "1f3c4"
   },
   {
+    "moji": "🏅",
+    "code": "sports_medal",
+    "code_ja": "メダル",
+    "category": "objects",
+    "unicode": "1f3c5"
+  },
+  {
     "moji": "🏆",
     "code": "trophy",
     "code_ja": "トロフィー",
@@ -1671,6 +1860,111 @@
     "code_ja": "スイミング",
     "category": "people",
     "unicode": "1f3ca"
+  },
+  {
+    "moji": "🏋",
+    "code": "weight_lifter",
+    "code_ja": "ウエイトリフティング",
+    "category": "people",
+    "unicode": "1f3cb"
+  },
+  {
+    "moji": "🏌",
+    "code": "golfer",
+    "code_ja": "ゴルファー",
+    "category": "people",
+    "unicode": "1f3cc"
+  },
+  {
+    "moji": "🏍",
+    "code": "racing_motorcycle",
+    "code_ja": "レーシングバイク",
+    "category": "people",
+    "unicode": "1f3cd"
+  },
+  {
+    "moji": "🏎",
+    "code": "racing_car",
+    "code_ja": "レーシングカー",
+    "category": "people",
+    "unicode": "1f3ce"
+  },
+  {
+    "moji": "🏔",
+    "code": "snow_capped_mountain",
+    "code_ja": "雪山",
+    "category": "nature",
+    "unicode": "1f3d4"
+  },
+  {
+    "moji": "🏕",
+    "code": "camping",
+    "code_ja": "キャンプ",
+    "category": "objects",
+    "unicode": "1f3d5"
+  },
+  {
+    "moji": "🏖",
+    "code": "beach_with_umbrella",
+    "code_ja": "ビーチパラソル",
+    "category": "objects",
+    "unicode": "1f3d6"
+  },
+  {
+    "moji": "🏗",
+    "code": "building_construction",
+    "code_ja": "建設中",
+    "category": "objects",
+    "unicode": "1f3d7"
+  },
+  {
+    "moji": "🏘",
+    "code": "house_buildings",
+    "code_ja": "集合住宅",
+    "category": "objects",
+    "unicode": "1f3d8"
+  },
+  {
+    "moji": "🏙",
+    "code": "cityscape",
+    "code_ja": "都市の景観",
+    "category": "objects",
+    "unicode": "1f3d9"
+  },
+  {
+    "moji": "🏚",
+    "code": "derelict_house_building",
+    "code_ja": "廃屋",
+    "category": "objects",
+    "unicode": "1f3da"
+  },
+  {
+    "moji": "🏛",
+    "code": "classical_building",
+    "code_ja": "クラシックな建物",
+    "category": "objects",
+    "unicode": "1f3db"
+  },
+  {
+    "moji": "🏜",
+    "code": "desert",
+    "code_ja": "砂漠",
+    "category": "places",
+    "unicode": "1f3dc"
+  },
+  {
+    "moji": "🏝",
+    "code": "desert_island",
+    "code_ja": "無人島",
+    "category": "places",
+    "unicode": "1f3dd"
+  },
+  {
+    "moji": "🏞",
+    "code": "national_park",
+    "code_ja": "国立公園",
+    "category": "places",
+    "unicode": "1f3de"
   },
   {
     "moji": "🏠",
@@ -2788,7 +3082,7 @@
   {
     "moji": "💐",
     "code": "bouquet",
-    "code_ja": "花束",
+    "code_ja": "ブーケ",
     "category": "objects",
     "unicode": "1f490"
   },
@@ -2955,7 +3249,7 @@
   },
   {
     "moji": "💩",
-    "code": "poop",
+    "code": "pile_of_poo",
     "code_ja": "うんち",
     "category": "abstract",
     "unicode": "1f4a9"
@@ -4135,6 +4429,13 @@
     "code_ja": "12時半",
     "category": "objects",
     "unicode": "1f567"
+  },
+  {
+    "moji": "🖕",
+    "code": "middle_finger",
+    "code_ja": "中指",
+    "category": "gestures",
+    "unicode": "1f595"
   },
   {
     "moji": "🗻",
@@ -5660,7 +5961,7 @@
   },
   {
     "moji": "♥",
-    "code": "black_heart_suit",
+    "code": "heart_suit",
     "code_ja": "ハート",
     "category": "symbols",
     "unicode": "2665"

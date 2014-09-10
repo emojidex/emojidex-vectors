@@ -1,20 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-	 y="0px" width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+	 y="0px" width="64px" height="64px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
 <g>
 	<g>
-		
-			<ellipse fill="#FFFFFF" stroke="#231815" stroke-width="2.5926" stroke-miterlimit="10" cx="16.525" cy="32" rx="11.667" ry="20.2"/>
-		<ellipse fill="#231815" cx="12.808" cy="32" rx="7.95" ry="13.67"/>
-		<ellipse fill="#FFFFFF" cx="11.234" cy="24.114" rx="2.624" ry="3.796"/>
+		<g>
+			<ellipse style="fill:#FFFFFF;" cx="16.5246582" cy="32" rx="11.666748" ry="20.2001953"/>
+			<path style="fill:#231815;" d="M16.5244141,53.4960938c-7.269043,0-12.9628906-9.4423828-12.9628906-21.4960938
+				s5.6938477-21.4960938,12.9628906-21.4960938S29.487793,19.9462891,29.487793,32S23.793457,53.4960938,16.5244141,53.4960938z
+				 M16.5244141,13.0966797c-5.6210938,0-10.3701172,8.65625-10.3701172,18.9033203s4.7490234,18.9042969,10.3701172,18.9042969
+				c5.621582,0,10.3706055-8.6572266,10.3706055-18.9042969S22.1459961,13.0966797,16.5244141,13.0966797z"/>
+		</g>
+		<ellipse style="fill:#231815;" cx="12.8081055" cy="32" rx="7.9501953" ry="13.6699219"/>
+		<ellipse style="fill:#FFFFFF;" cx="11.234375" cy="24.1142578" rx="2.6240234" ry="3.7958984"/>
 	</g>
 	<g>
-		
-			<ellipse fill="#FFFFFF" stroke="#231815" stroke-width="2.5926" stroke-miterlimit="10" cx="47.476" cy="32" rx="11.667" ry="20.199"/>
-		<ellipse fill="#231815" cx="43.759" cy="32" rx="7.95" ry="13.669"/>
-		<ellipse fill="#FFFFFF" cx="42.185" cy="24.114" rx="2.624" ry="3.796"/>
+		<g>
+			<ellipse style="fill:#FFFFFF;" cx="47.4755859" cy="32.0009766" rx="11.6669922" ry="20.1982422"/>
+			<path style="fill:#231815;" d="M47.4746094,53.4951172c-7.2685547,0-12.9619141-9.4414063-12.9619141-21.4941406
+				c0-12.0546875,5.6933594-21.4970703,12.9619141-21.4970703c7.2695313,0,12.9638672,9.4423828,12.9638672,21.4970703
+				C60.4384766,44.0537109,54.7441406,53.4951172,47.4746094,53.4951172z M47.4746094,13.0966797
+				c-5.6210938,0-10.3701172,8.6572266-10.3701172,18.9042969c0,10.2460938,4.7490234,18.9023438,10.3701172,18.9023438
+				c5.6220703,0,10.3720703-8.65625,10.3720703-18.9023438C57.8466797,21.7539063,53.0966797,13.0966797,47.4746094,13.0966797z"/>
+		</g>
+		<ellipse style="fill:#231815;" cx="43.7587891" cy="32.0009766" rx="7.9501953" ry="13.6689453"/>
+		<ellipse style="fill:#FFFFFF;" cx="42.1845703" cy="24.1142578" rx="2.6240234" ry="3.7968752"/>
 	</g>
 </g>
 </svg>
