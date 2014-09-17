@@ -1,119 +1,136 @@
 [
   {
     "moji": "🀄",
-    "code": "mahjong_tile_red_dragon",
+    "full_name": "mahjong_tile_red_dragon",
+    "code": "mahjong",
     "code_ja": "麻雀",
     "category": "objects",
     "unicode": "1f004"
   },
   {
     "moji": "🃏",
-    "code": "playing_card_black_joker",
+    "full_name": "playing_card_black_joker",
+    "code": "black_joker",
     "code_ja": "ジョーカー",
     "category": "objects",
     "unicode": "1f0cf"
   },
   {
     "moji": "🅰",
-    "code": "negative_squared_latin_capital_letter_A",
+    "full_name": "negative_squared_latin_capital_letter_A",
+    "code": "a",
     "code_ja": "A型",
     "category": "symbols",
     "unicode": "1f170"
   },
   {
     "moji": "🅱",
-    "code": "negative_squared_latin_capital_letter_B",
+    "full_name": "negative_squared_latin_capital_letter_B",
+    "code": "b",
     "code_ja": "B型",
     "category": "symbols",
     "unicode": "1f171"
   },
   {
     "moji": "🅿",
-    "code": "negative_squared_latin_capital_letter_P",
+    "full_name": "negative_squared_latin_capital_letter_P",
+    "code": "parking",
     "code_ja": "駐車場",
     "category": "symbols",
     "unicode": "1f17f"
   },
   {
     "moji": "🅾",
-    "code": "negative_squared_latin_capital_letter_O",
+    "full_name": "negative_squared_latin_capital_letter_O",
+    "code": "o2",
     "code_ja": "O型",
     "category": "symbols",
     "unicode": "1f17e"
   },
   {
     "moji": "🆎",
-    "code": "negative_squared_AB",
+    "full_name": "negative_squared_AB",
+    "code": "ab",
     "code_ja": "AB型",
     "category": "symbols",
     "unicode": "1f18e"
   },
   {
     "moji": "🆑",
-    "code": "squared_cl",
+    "full_name": "squared_cl",
+    "code": "cl",
     "code_ja": "クリアマーク",
     "category": "symbols",
     "unicode": "1f191"
   },
   {
     "moji": "🆒",
-    "code": "squared_cool",
+    "full_name": "squared_cool",
+    "code": "cool",
     "code_ja": "クールマーク",
     "category": "symbols",
     "unicode": "1f192"
   },
   {
     "moji": "🆓",
-    "code": "squared_free",
+    "full_name": "squared_free",
+    "code": "free",
     "code_ja": "フリーマーク",
     "category": "symbols",
     "unicode": "1f193"
   },
   {
     "moji": "🆔",
-    "code": "squared_id",
+    "full_name": "squared_id",
+    "code": "id",
     "code_ja": "IDマーク",
     "category": "symbols",
     "unicode": "1f194"
   },
   {
     "moji": "🆕",
-    "code": "squared_new",
+    "full_name": "squared_new",
+    "code": "new",
     "code_ja": "NEWマーク",
     "category": "symbols",
     "unicode": "1f195"
   },
   {
     "moji": "🆖",
-    "code": "squared_ng",
+    "full_name": "squared_ng",
+    "code": "ng",
     "code_ja": "NGマーク",
     "category": "symbols",
     "unicode": "1f196"
   },
   {
     "moji": "🆗",
-    "code": "squared_ok",
+    "full_name": "squared_ok",
+    "code": "ok",
     "code_ja": "OKマーク",
     "category": "symbols",
     "unicode": "1f197"
   },
   {
     "moji": "🆘",
-    "code": "squared_sos",
+    "full_name": "squared_sos",
+    "code": "sos",
     "code_ja": "SOSマーク",
     "category": "symbols",
     "unicode": "1f198"
   },
   {
     "moji": "🆙",
-    "code": "squared_up_with_exclamation_mark",
+    "full_name": "squared_up_with_exclamation_mark",
+    "code": "up",
     "code_ja": "UPマーク",
     "category": "symbols",
     "unicode": "1f199"
   },
   {
     "moji": "🆚",
-    "code": "squared_vs",
+    "full_name": "squared_vs",
+    "code": "vs",
     "code_ja": "VSマーク",
     "category": "symbols",
     "unicode": "1f19a"
@@ -302,175 +319,200 @@
   },
   {
     "moji": "🇨🇳",
-    "code": "regional_indicator_symbol_letters_CN",
+    "full_name": "regional_indicator_symbol_letters_CN",
+    "code": "cn",
     "code_ja": "中国国旗",
     "category": "symbols",
     "unicode": "1f1e81f1f3"
   },
   {
     "moji": "🇩🇪",
-    "code": "regional_indicator_symbol_letters_DE",
+    "full_name": "regional_indicator_symbol_letters_DE",
+    "code": "de",
     "code_ja": "ドイツ国旗",
     "category": "symbols",
     "unicode": "1f1e91f1ea"
   },
   {
     "moji": "🇪🇸",
-    "code": "regional_indicator_symbol_letters_ES",
+    "full_name": "regional_indicator_symbol_letters_ES",
+    "code": "es",
     "code_ja": "スペイン国旗",
     "category": "symbols",
     "unicode": "1f1ea1f1f8"
   },
   {
     "moji": "🇫🇷",
-    "code": "regional_indicator_symbol_letters_FR",
+    "full_name": "regional_indicator_symbol_letters_FR",
+    "code": "fr",
     "code_ja": "フランス国旗",
     "category": "symbols",
     "unicode": "1f1eb1f1f7"
   },
   {
     "moji": "🇬🇧",
-    "code": "regional_indicator_symbol_letters_GB",
+    "full_name": "regional_indicator_symbol_letters_GB",
+    "code": "gb",
     "code_ja": "イギリス国旗",
     "category": "symbols",
     "unicode": "1f1ec1f1e7"
   },
   {
     "moji": "🇮🇹",
-    "code": "regional_indicator_symbol_letters_IT",
+    "full_name": "regional_indicator_symbol_letters_IT",
+    "code": "it",
     "code_ja": "イタリア国旗",
     "category": "symbols",
     "unicode": "1f1ee1f1f9"
   },
   {
     "moji": "🇯🇵",
-    "code": "regional_indicator_symbol_letters_JP",
+    "full_name": "regional_indicator_symbol_letters_JP",
+    "code": "jp",
     "code_ja": "日本国旗",
     "category": "symbols",
     "unicode": "1f1ef1f1f5"
   },
   {
     "moji": "🇰🇷",
-    "code": "regional_indicator_symbol_letters_KR",
+    "full_name": "regional_indicator_symbol_letters_KR",
+    "code": "kr",
     "code_ja": "韓国国旗",
     "category": "symbols",
     "unicode": "1f1f01f1f7"
   },
   {
     "moji": "🇷🇺",
-    "code": "regional_indicator_symbol_letters_RU",
+    "full_name": "regional_indicator_symbol_letters_RU",
+    "code": "ru",
     "code_ja": "ロシア国旗",
     "category": "symbols",
     "unicode": "1f1f71f1fa"
   },
   {
     "moji": "🇺🇸",
-    "code": "regional_indicator_symbol_letters_US",
+    "full_name": "regional_indicator_symbol_letters_US",
+    "code": "us",
     "code_ja": "アメリカ国旗",
     "category": "symbols",
     "unicode": "1f1fa1f1f8"
   },
   {
     "moji": "🈁",
-    "code": "squared_katakana_koko",
+    "full_name": "squared_katakana_koko",
+    "code": "koko",
     "code_ja": "ココマーク",
     "category": "symbols",
     "unicode": "1f201"
   },
   {
     "moji": "🈂",
-    "code": "squared_katakana_sa",
+    "full_name": "squared_katakana_sa",
+    "code": "sa",
     "code_ja": "サービスマーク",
     "category": "symbols",
     "unicode": "1f202"
   },
   {
     "moji": "🈚",
-    "code": "squared_cjk_unified_ideograph_7121",
+    "full_name": "squared_cjk_unified_ideograph_7121",
+    "code": "u7121",
     "code_ja": "無料マーク",
     "category": "symbols",
     "unicode": "1f21a"
   },
   {
     "moji": "🈯",
-    "code": "squared_cjk_unified_ideograph_6307",
+    "full_name": "squared_cjk_unified_ideograph_6307",
+    "code": "u6307",
     "code_ja": "指定マーク",
     "category": "symbols",
     "unicode": "1f22f"
   },
   {
     "moji": "🈲",
-    "code": "squared_cjk_unified_ideograph_7981",
+    "full_name": "squared_cjk_unified_ideograph_7981",
+    "code": "u7981",
     "code_ja": "禁止マーク",
     "category": "symbols",
     "unicode": "1f232"
   },
   {
     "moji": "🈳",
-    "code": "squared_cjk_unified_ideograph_7a7a",
+    "full_name": "squared_cjk_unified_ideograph_7a7a",
+    "code": "u7a7a",
     "code_ja": "空マーク",
     "category": "symbols",
     "unicode": "1f233"
   },
   {
     "moji": "🈴",
-    "code": "squared_cjk_unified_ideograph_5408",
+    "full_name": "squared_cjk_unified_ideograph_5408",
+    "code": "u5408",
     "code_ja": "合格マーク",
     "category": "symbols",
     "unicode": "1f234"
   },
   {
     "moji": "🈵",
-    "code": "squared_cjk_unified_ideograph_6e80",
+    "full_name": "squared_cjk_unified_ideograph_6e80",
+    "code": "u6e80",
     "code_ja": "満マーク",
     "category": "symbols",
     "unicode": "1f235"
   },
   {
     "moji": "🈶",
-    "code": "squared_cjk_unified_ideograph_6709",
+    "full_name": "squared_cjk_unified_ideograph_6709",
+    "code": "u6709",
     "code_ja": "有料マーク",
     "category": "symbols",
     "unicode": "1f236"
   },
   {
     "moji": "🈷",
-    "code": "squared_cjk_unified_ideograph_6708",
+    "full_name": "squared_cjk_unified_ideograph_6708",
+    "code": "u6708",
     "code_ja": "月マーク",
     "category": "symbols",
     "unicode": "1f237"
   },
   {
     "moji": "🈸",
-    "code": "squared_cjk_unified_ideograph_7533",
+    "full_name": "squared_cjk_unified_ideograph_7533",
+    "code": "u7533",
     "code_ja": "申マーク",
     "category": "symbols",
     "unicode": "1f238"
   },
   {
     "moji": "🈹",
-    "code": "squared_cjk_unified_ideograph_5272",
+    "full_name": "squared_cjk_unified_ideograph_5272",
+    "code": "u5272",
     "code_ja": "割引マーク",
     "category": "symbols",
     "unicode": "1f239"
   },
   {
     "moji": "🈺",
-    "code": "squared_cjk_unified_ideograph_55b6",
+    "full_name": "squared_cjk_unified_ideograph_55b6",
+    "code": "u55b6",
     "code_ja": "営業中マーク",
     "category": "symbols",
     "unicode": "1f23a"
   },
   {
     "moji": "🉐",
-    "code": "circled_ideograph_advantage",
+    "full_name": "circled_ideograph_advantage",
+    "code": "ideograph_advantage",
     "code_ja": "お得マーク",
     "category": "symbols",
     "unicode": "1f250"
   },
   {
     "moji": "🉑",
-    "code": "circled_ideograph_accept",
+    "full_name": "circled_ideograph_accept",
+    "code": "accept",
     "code_ja": "許可マーク",
     "category": "symbols",
     "unicode": "1f251"
@@ -519,14 +561,16 @@
   },
   {
     "moji": "🌆",
-    "code": "cityspace_at_dusk",
+    "full_name": "cityspace_at_dusk",
+    "code": "city_dusk",
     "code_ja": "都市の夕暮れ",
     "category": "nature",
     "unicode": "1f306"
   },
   {
     "moji": "🌇",
-    "code": "sunset_over_buildings",
+    "full_name": "sunset_over_buildings",
+    "code": "city_sunset",
     "code_ja": "夕日",
     "category": "nature",
     "unicode": "1f307"
@@ -541,14 +585,15 @@
   {
     "moji": "🌉",
     "code": "bridge_at_night",
-    "code_ja": "夜の端",
+    "code_ja": "夜の橋",
     "category": "nature",
     "unicode": "1f309"
   },
   {
     "moji": "🌊",
-    "code": "water_wave",
-    "code_ja": "波",
+    "full_name": "water_wave",
+    "code": "ocean",
+    "code_ja": "海",
     "category": "nature",
     "unicode": "1f30a"
   },
@@ -568,21 +613,24 @@
   },
   {
     "moji": "🌍",
-    "code": "earth_globe_europe_africa",
+    "full_name": "earth_globe_europe_africa",
+    "code": "earth_africa",
     "code_ja": "地球(ヨーロッパ〜アフリカ)",
     "category": "nature",
     "unicode": "1f30d"
   },
   {
     "moji": "🌎",
-    "code": "earth_globe_americas",
+    "full_name": "earth_globe_americas",
+    "code": "earth_americas",
     "code_ja": "地球(アメリカ)",
     "category": "nature",
     "unicode": "1f30e"
   },
   {
     "moji": "🌏",
-    "code": "earth_globe_asia_australia",
+    "full_name": "earth_globe_asia_australia",
+    "code": "earth_asia",
     "code_ja": "地球(アジア〜オーストラリア)",
     "category": "nature",
     "unicode": "1f30f"
@@ -596,6 +644,7 @@
   },
   {
     "moji": "🌑",
+    "full_name": "new_moon_symbol",
     "code": "new_moon",
     "code_ja": "新月",
     "category": "cosmos",
@@ -603,13 +652,15 @@
   },
   {
     "moji": "🌒",
-    "code": "waxing_crescent_moon_symbol",
+    "full_name": "waxing_crescent_moon_symbol",
+    "code": "waxing_crescent_moon",
     "code_ja": "三日月",
     "category": "cosmos",
     "unicode": "1f312"
   },
   {
     "moji": "🌓",
+    "full_name": "first_quarter_moon_symbol",
     "code": "first_quarter_moon",
     "code_ja": "上弦の月",
     "category": "cosmos",
@@ -617,6 +668,7 @@
   },
   {
     "moji": "🌔",
+    "full_name": "waxing_gibbous_moon_symbol",
     "code": "waxing_gibbous_moon",
     "code_ja": "十三夜",
     "category": "cosmos",
@@ -624,6 +676,7 @@
   },
   {
     "moji": "🌕",
+    "full_name": "full_moon_symbol",
     "code": "full_moon",
     "code_ja": "満月",
     "category": "cosmos",
@@ -631,13 +684,15 @@
   },
   {
     "moji": "🌖",
-    "code": "waning_gibbous_moon_symbol",
+    "full_name": "waning_gibbous_moon_symbol",
+    "code": "waning_gibbous_moon",
     "code_ja": "十八夜",
     "category": "cosmos",
     "unicode": "1f316"
   },
   {
     "moji": "🌗",
+    "full_name": "last_quarter_moon_symbol",
     "code": "last_quarter_moon",
     "code_ja": "下弦の月",
     "category": "cosmos",
@@ -645,7 +700,8 @@
   },
   {
     "moji": "🌘",
-    "code": "waning_crescent_moon_symbol",
+    "full_name": "waning_crescent_moon_symbol",
+    "code": "waning_crescent_moon",
     "code_ja": "二十六夜",
     "category": "cosmos",
     "unicode": "1f318"
@@ -701,7 +757,8 @@
   },
    {
     "moji": "🌠",
-    "code": "shooting_star",
+    "full_name": "shooting_star",
+    "code": "stars",
     "code_ja": "流れ星",
     "category": "cosmos",
     "unicode": "1f320"
@@ -799,7 +856,7 @@
   },
   {
     "moji": "🌱",
-    "code": "seeding",
+    "code": "seedling",
     "code_ja": "芽",
     "category": "nature",
     "unicode": "1f331"
@@ -883,7 +940,8 @@
   },
   {
     "moji": "🌽",
-    "code": "ear_of_maize",
+    "full_name": "ear_of_maize",
+    "code" : "corn",
     "code_ja": "とうろもこし",
     "category": "food",
     "unicode": "1f33d"
@@ -925,7 +983,8 @@
   },
   {
     "moji": "🍃",
-    "code": "leaf_fluttering_in_wind",
+    "full_name": "leaf_fluttering_in_wind",
+    "code" : "leaves",
     "code_ja": "風に舞う葉",
     "category": "nature",
     "unicode": "1f343"
@@ -946,7 +1005,8 @@
   },
   {
     "moji": "🍆",
-    "code": "aubergine",
+    "full_name": "aubergine",
+    "code": "eggplant",
     "code_ja": "ナス",
     "category": "food",
     "unicode": "1f346"
@@ -1002,7 +1062,8 @@
   },
   {
     "moji": "🍎",
-    "code": "red_apple",
+    "full_name": "red_apple",
+    "code": "apple",
     "code_ja": "リンゴ",
     "category": "food",
     "unicode": "1f34e"
@@ -1051,6 +1112,7 @@
   },
   {
     "moji": "🍕",
+    "full_name": "slice_of_pizza",
     "code": "pizza",
     "code_ja": "ピザ",
     "category": "food",
@@ -1086,21 +1148,24 @@
   },
   {
     "moji": "🍚",
-    "code": "cooked_rice",
+    "full_name": "cooked_rice",
+    "code": "rice",
     "code_ja": "ごはん",
     "category": "food",
     "unicode": "1f35a"
   },
   {
     "moji": "🍛",
-    "code": "curry_and_rice",
+    "full_name": "curry_and_rice",
+    "code": "curry",
     "code_ja": "カレーライス",
     "category": "food",
     "unicode": "1f35b"
   },
   {
     "moji": "🍜",
-    "code": "steaming_bowl",
+    "full_name": "steaming_bowl",
+    "code": "ramen",
     "code_ja": "ラーメン",
     "category": "food",
     "unicode": "1f35c"
@@ -1121,14 +1186,16 @@
   },
   {
     "moji": "🍟",
-    "code": "french_fries",
+    "full_name": "french_fries",
+    "code": "fries",
     "code_ja": "フライドポテト",
     "category": "food",
     "unicode": "1f35f"
   },
   {
     "moji": "🍠",
-    "code": "roasted_sweet_potato",
+    "full_name": "roasted_sweet_potato",
+    "code": "sweet_potato",
     "code_ja": "焼きいも",
     "category": "food",
     "unicode": "1f360"
@@ -1163,14 +1230,16 @@
   },
   {
     "moji": "🍥",
-    "code": "fish_cake_with_swirl_design",
+    "full_name": "fish_cake_with_swirl_design",
+    "code": "fish_cake",
     "code_ja": "なると",
     "category": "food",
     "unicode": "1f365"
   },
   {
     "moji": "🍦",
-    "code": "soft_ice_cream",
+    "full_name": "soft_ice_cream",
+    "code": "icecream",
     "code_ja": "ソフトクリーム",
     "category": "food",
     "unicode": "1f366"
@@ -1240,29 +1309,33 @@
   },
   {
     "moji": "🍰",
-    "code": "shortcake",
+    "full_name": "shortcake",
+    "code": "cake",
     "code_ja": "ショートケーキ",
     "category": "food",
     "unicode": "1f370"
   },
   {
     "moji": "🍱",
-    "code": "bento_box",
+    "full_name": "bento_box",
+    "code": "bento",
     "code_ja": "お弁当",
     "category": "food",
     "unicode": "1f371"
   },
   {
     "moji": "🍲",
-    "code": "pot_of_food",
+    "full_name": "pot_of_food",
+    "code": "stew",
     "code_ja": "鍋",
     "category": "food",
     "unicode": "1f372"
   },
   {
     "moji": "🍳",
-    "code": "cooking",
-    "code_ja": "料理",
+    "full_name": "cooking",
+    "code": "egg",
+    "code_ja": "目玉焼き",
     "category": "food",
     "unicode": "1f373"
   },
@@ -1275,14 +1348,16 @@
   },
   {
     "moji": "🍵",
-    "code": "teacup_without_handle",
+    "full_name": "teacup_without_handle",
+    "code": "tea",
     "code_ja": "お茶",
     "category": "food",
     "unicode": "1f375"
   },
   {
     "moji": "🍶",
-    "code": "sake_bottle_and_cup",
+    "full_name": "sake_bottle_and_cup",
+    "code": "sake",
     "code_ja": "日本酒",
     "category": "food",
     "unicode": "1f376"
@@ -1296,7 +1371,8 @@
   },
   {
     "moji": "🍸",
-    "code": "cocktail_glass",
+    "full_name": "cocktail_glass",
+    "code": "cocktail",
     "code_ja": "カクテル",
     "category": "food",
     "unicode": "1f378"
@@ -1310,14 +1386,16 @@
   },
   {
     "moji": "🍺",
-    "code": "beer_mug",
-    "code_ja": "ビールジョッキ",
+    "full_name": "beer_mug",
+    "code": "beer",
+    "code_ja": "ビール",
     "category": "food",
     "unicode": "1f37a"
   },
   {
     "moji": "🍻",
-    "code": "clinking_beer_mugs",
+    "full_name": "clinking_beer_mugs",
+    "code": "beers",
     "code_ja": "乾杯",
     "category": "food",
     "unicode": "1f37b"
@@ -1345,14 +1423,16 @@
   },
   {
     "moji": "🎁",
-    "code": "wrapped_present",
+    "full_name": "wrapped_present",
+    "code": "gift",
     "code_ja": "プレゼント",
     "category": "objects",
     "unicode": "1f381"
   },
   {
     "moji": "🎂",
-    "code": "birthday_cake",
+    "full_name": "birthday_cake",
+    "code": "birthday",
     "code_ja": "バースデーケーキ",
     "category": "food",
     "unicode": "1f382"
@@ -1373,7 +1453,8 @@
   },
   {
     "moji": "🎅",
-    "code": "father_christmas",
+    "full_name": "father_christmas",
+    "code": "santa",
     "code_ja": "サンタクロース",
     "category": "people",
     "unicode": "1f385"
@@ -1387,7 +1468,8 @@
   },
   {
     "moji": "🎇",
-    "code": "firework_sparkler",
+    "full_name": "firework_sparkler",
+    "code": "sparkler",
     "code_ja": "線香花火",
     "category": "objects",
     "unicode": "1f387"
@@ -1401,7 +1483,8 @@
   },
   {
     "moji": "🎉",
-    "code": "party_popper",
+    "full_name": "party_popper",
+    "code": "tada",
     "code_ja": "クラッカー",
     "category": "objects",
     "unicode": "1f389"
@@ -1429,21 +1512,24 @@
   },
   {
     "moji": "🎍",
-    "code": "pine_decoration",
+    "full_name": "pine_decoration",
+    "code": "bamboo",
     "code_ja": "門松",
     "category": "objects",
     "unicode": "1f38d"
   },
   {
     "moji": "🎎",
-    "code": "japanese_dolls",
+    "full_name": "japanese_dolls",
+    "code": "dolls",
     "code_ja": "ひな祭り",
     "category": "objects",
     "unicode": "1f38e"
   },
   {
     "moji": "🎏",
-    "code": "carp_streamer",
+    "full_name": "carp_streamer",
+    "code": "flags",
     "code_ja": "こいのぼり",
     "category": "objects",
     "unicode": "1f38f"
@@ -1457,7 +1543,8 @@
   },
   {
     "moji": "🎑",
-    "code": "moon_viewing_ceremony",
+    "full_name": "moon_viewing_ceremony",
+    "code": "rice_scene",
     "code_ja": "お月見",
     "category": "objects",
     "unicode": "1f391"
@@ -1471,7 +1558,8 @@
   },
   {
     "moji": "🎓",
-    "code": "graduation_cap",
+    "full_name": "graduation_cap",
+    "code": "mortar_board",
     "code_ja": "卒業式",
     "category": "objects",
     "unicode": "1f393"
@@ -1618,14 +1706,16 @@
   },
   {
     "moji": "🎨",
-    "code": "artist_palette",
+    "full_name": "artist_palette",
+    "code": "art",
     "code_ja": "パレット",
     "category": "objects",
     "unicode": "1f3a8"
   },
   {
     "moji": "🎩",
-    "code": "top_hat",
+    "full_name": "top_hat",
+    "code": "tophat",
     "code_ja": "シルクハット",
     "category": "objects",
     "unicode": "1f3a9"
@@ -1646,7 +1736,8 @@
   },
   {
     "moji": "🎬",
-    "code": "clapper_board",
+    "full_name": "clapper_board",
+    "code": "clapper",
     "code_ja": "カチンコ",
     "category": "objects",
     "unicode": "1f3ac"
@@ -1667,9 +1758,10 @@
   },
   {
     "moji": "🎯",
-    "code": "direct_hit",
-    "code_ja": "当たり",
-    "category": "abstract",
+    "full_name": "direct_hit",
+    "code": "dart",
+    "code_ja": "ダーツ",
+    "category": "objects",
     "unicode": "1f3af"
   },
   {
@@ -1681,7 +1773,8 @@
   },
   {
     "moji": "🎱",
-    "code": "billiards",
+    "full_name": "billiards",
+    "code": "8ball",
     "code_ja": "ビリヤード",
     "category": "objects",
     "unicode": "1f3b1"
@@ -1716,7 +1809,8 @@
   },
   {
     "moji": "🎶",
-    "code": "multiple_musical_notes",
+    "full_name": "multiple_musical_notes",
+    "code": "notes",
     "code_ja": "メロディー",
     "category": "abstract",
     "unicode": "1f3b6"
@@ -1772,21 +1866,24 @@
   },
   {
     "moji": "🎾",
-    "code": "tennis_racquet_and_ball",
-    "code_ja": "テニスラケットとボール",
+    "full_name": "tennis_racquet_and_ball",
+    "code": "tennis",
+    "code_ja": "テニス",
     "category": "objects",
     "unicode": "1f3be"
   },
   {
     "moji": "🎿",
-    "code": "ski_and_ski_boot",
+    "full_name": "ski_and_ski_boot",
+    "code": "ski",
     "code_ja": "スキー",
     "category": "objects",
     "unicode": "1f3bf"
   },
   {
     "moji": "🏀",
-    "code": "basketball_and_hoop",
+    "full_name": "basketball_and_hoop",
+    "code": "basketball",
     "code_ja": "バスケットボール",
     "category": "objects",
     "unicode": "1f3c0"
@@ -1842,7 +1939,8 @@
   },
   {
     "moji": "🏈",
-    "code": "american_football",
+    "full_name": "american_football",
+    "code": "football",
     "code_ja": "フットボール",
     "category": "objects",
     "unicode": "1f3c8"
@@ -1968,7 +2066,8 @@
   },
   {
     "moji": "🏠",
-    "code": "house_building",
+    "full_name": "house_building",
+    "code": "house",
     "code_ja": "家",
     "category": "places",
     "unicode": "1f3e0"
@@ -1982,14 +2081,16 @@
   },
   {
     "moji": "🏢",
-    "code": "office_building",
+    "full_name": "office_building",
+    "code": "office",
     "code_ja": "オフィスビル",
     "category": "places",
     "unicode": "1f3e2"
   },
   {
     "moji": "🏣",
-    "code": "japanese_post_office",
+    "full_name": "japanese_post_office",
+    "code": "post_office",
     "code_ja": "郵便局",
     "category": "places",
     "unicode": "1f3e3"
@@ -2017,7 +2118,8 @@
   },
   {
     "moji": "🏧",
-    "code": "automated_teller_machine",
+    "full_name": "automated_teller_machine",
+    "code": "atm",
     "code_ja": "ATM",
     "category": "places",
     "unicode": "1f3e7"
@@ -2094,7 +2196,8 @@
   },
   {
     "moji": "🐁",
-    "code": "mouse",
+    "full_name": "mouse",
+    "code": "mouse2",
     "code_ja": "ハツカネズミ",
     "category": "nature",
     "unicode": "1f401"
@@ -2115,15 +2218,17 @@
   },
   {
     "moji": "🐄",
-    "code": "cow",
+    "full_name": "cow",
+    "code": "cow2",
     "code_ja": "乳牛",
     "category": "nature",
     "unicode": "1f404"
   },
   {
     "moji": "🐅",
-    "code": "tiger",
-    "code_ja": "トラ",
+    "full_name": "tiger",
+    "code": "tiger2",
+    "code_ja": "トラ2",
     "category": "nature",
     "unicode": "1f405"
   },
@@ -2136,15 +2241,17 @@
   },
   {
     "moji": "🐇",
-    "code": "rabbit",
-    "code_ja": "ウサギ",
+    "full_name": "rabbit",
+    "code": "rabbit2",
+    "code_ja": "ウサギ2",
     "category": "nature",
     "unicode": "1f407"
   },
   {
     "moji": "🐈",
-    "code": "cat",
-    "code_ja": "ネコ",
+    "full_name": "cat",
+    "code": "cat2",
+    "code_ja": "ネコ2",
     "category": "nature",
     "unicode": "1f408"
   },
@@ -2164,8 +2271,9 @@
   },
   {
     "moji": "🐋",
-    "code": "whale",
-    "code_ja": "クジラ",
+    "full_name": "whale",
+    "code": "whale2",
+    "code_ja": "クジラ2",
     "category": "nature",
     "unicode": "1f40b"
   },
@@ -2185,7 +2293,8 @@
   },
   {
     "moji": "🐎",
-    "code": "horse",
+    "full_name": "horse",
+    "code": "racehorse",
     "code_ja": "ウマ",
     "category": "nature",
     "unicode": "1f40e"
@@ -2234,15 +2343,17 @@
   },
   {
     "moji": "🐕",
-    "code": "dog",
-    "code_ja": "イヌ",
+    "full_name": "dog",
+    "code": "dog2",
+    "code_ja": "イヌ2",
     "category": "nature",
     "unicode": "1f415"
   },
   {
     "moji": "🐖",
-    "code": "pig",
-    "code_ja": "ブタ",
+    "full_name": "pig",
+    "code": "pig2",
+    "code_ja": "ブタ2",
     "category": "nature",
     "unicode": "1f416"
   },
@@ -2269,7 +2380,8 @@
   },
   {
     "moji": "🐚",
-    "code": "spiral_shell",
+    "full_name": "spiral_shell",
+    "code": "shell",
     "code_ja": "巻貝",
     "category": "nature",
     "unicode": "1f41a"
@@ -2277,7 +2389,7 @@
   {
     "moji": "🐛",
     "code": "bug",
-    "code_ja": "毛虫",
+    "code_ja": "虫",
     "category": "nature",
     "unicode": "1f41b"
   },
@@ -2290,14 +2402,16 @@
   },
   {
     "moji": "🐝",
-    "code": "honeybee",
+    "full_name": "honeybee",
+    "code": "bee",
     "code_ja": "ミツバチ",
     "category": "nature",
     "unicode": "1f41d"
   },
   {
     "moji": "🐞",
-    "code": "lady_beetle",
+    "full_name": "lady_beetle",
+    "code": "beetle",
     "code_ja": "てんとう虫",
     "category": "nature",
     "unicode": "1f41e"
@@ -2346,7 +2460,8 @@
   },
   {
     "moji": "🐥",
-    "code": "front_facing_baby_chick",
+    "full_name": "front_facing_baby_chick",
+    "code": "hatched_chick",
     "code_ja": "ヒヨコ2",
     "category": "nature",
     "unicode": "1f425"
@@ -2388,7 +2503,8 @@
   },
   {
     "moji": "🐫",
-    "code": "bactrian_camel",
+    "full_name": "bactrian_camel",
+    "code": "camel",
     "code_ja": "フタコブラクダ",
     "category": "nature",
     "unicode": "1f42b"
@@ -2402,36 +2518,41 @@
   },
   {
     "moji": "🐭",
-    "code": "mouse_face",
+    "full_name": "mouse_face",
+    "code": "mouse",
     "code_ja": "ネズミ2",
     "category": "nature",
     "unicode": "1f42d"
   },
   {
     "moji": "🐮",
-    "code": "cow_face",
+    "full_name": "cow_face",
+    "code": "cow",
     "code_ja": "ウシ",
     "category": "nature",
     "unicode": "1f42e"
   },
   {
     "moji": "🐯",
-    "code": "tiger_face",
-    "code_ja": "トラ2",
+    "full_name": "tiger_face",
+    "code": "tiger",
+    "code_ja": "トラ",
     "category": "nature",
     "unicode": "1f42f"
   },
   {
     "moji": "🐰",
-    "code": "rabbit_face",
-    "code_ja": "ウサギ2",
+    "full_name": "rabbit_face",
+    "code": "rabbit",
+    "code_ja": "ウサギ",
     "category": "nature",
     "unicode": "1f430"
   },
   {
     "moji": "🐱",
-    "code": "cat_face",
-    "code_ja": "ネコ2",
+    "full_name": "cat_face",
+    "code": "cat",
+    "code_ja": "ネコ",
     "category": "nature",
     "unicode": "1f431"
   },
@@ -2444,14 +2565,16 @@
   },
   {
     "moji": "🐳",
-    "code": "spouting_whale",
-    "code_ja": "クジラ2",
+    "full_name": "spouting_whale",
+    "code": "whale",
+    "code_ja": "クジラ",
     "category": "nature",
     "unicode": "1f433"
   },
   {
     "moji": "🐴",
-    "code": "horse_face",
+    "full_name": "horse_face",
+    "code": "horse",
     "code_ja": "ウマ2",
     "category": "nature",
     "unicode": "1f434"
@@ -2465,42 +2588,48 @@
   },
   {
     "moji": "🐶",
-    "code": "dog_face",
-    "code_ja": "イヌ2",
+    "full_name": "dog_face",
+    "code": "dog",
+    "code_ja": "イヌ",
     "category": "nature",
     "unicode": "1f436"
   },
   {
     "moji": "🐷",
-    "code": "pig_face",
-    "code_ja": "ブタ2",
+    "full_name": "pig_face",
+    "code": "pig",
+    "code_ja": "ブタ",
     "category": "nature",
     "unicode": "1f437"
   },
   {
     "moji": "🐸",
-    "code": "frog_face",
+    "full_name": "frog_face",
+    "code": "frog",
     "code_ja": "カエル",
     "category": "nature",
     "unicode": "1f438"
   },
   {
     "moji": "🐹",
-    "code": "hamster_face",
+    "full_name": "hamster_face",
+    "code": "hamster",
     "code_ja": "ハムスター",
     "category": "nature",
     "unicode": "1f439"
   },
   {
     "moji": "🐺",
-    "code": "wolf_face",
+    "full_name": "wolf_face",
+    "code": "wolf",
     "code_ja": "オオカミ",
     "category": "nature",
     "unicode": "1f43a"
   },
   {
     "moji": "🐻",
-    "code": "bear_face",
+    "full_name": "bear_face",
+    "code": "bear",
     "code_ja": "クマ",
     "category": "nature",
     "unicode": "1f43b"
@@ -2521,8 +2650,9 @@
   },
   {
     "moji": "🐾",
-    "code": "paw_prints",
-    "code_ja": "足跡(犬)",
+    "full_name": "paw_prints",
+    "code": "feet",
+    "code_ja": "足跡(動物)",
     "category": "nature",
     "unicode": "1f43e"
   },
@@ -2549,7 +2679,8 @@
   },
   {
     "moji": "👄",
-    "code": "mouth",
+    "full_name": "mouth",
+    "code": "lips",
     "code_ja": "口",
     "category": "people",
     "unicode": "1f444"
@@ -2563,77 +2694,88 @@
   },
   {
     "moji": "👆",
-    "code": "white_up_pointing_backhand_index",
+    "full_name": "white_up_pointing_backhand_index",
+    "code": "point_up_2",
     "code_ja": "指さし(上)",
     "category": "gestures",
     "unicode": "1f446"
   },
   {
     "moji": "👇",
-    "code": "white_down_pointing_backhand_index",
+    "full_name": "white_down_pointing_backhand_index",
+    "code": "point_down",
     "code_ja": "指さし(下)",
     "category": "gestures",
     "unicode": "1f447"
   },
   {
     "moji": "👈",
-    "code": "white_left_pointing_backhand_index",
+    "full_name": "white_left_pointing_backhand_index",
+    "code": "point_left",
     "code_ja": "指さし(左)",
     "category": "gestures",
     "unicode": "1f448"
   },
   {
     "moji": "👉",
-    "code": "white_right_pointing_backhand_index",
+    "full_name": "white_right_pointing_backhand_index",
+    "code": "point_right",
     "code_ja": "指さし(右)",
     "category": "gestures",
     "unicode": "1f449"
   },
   {
     "moji": "👊",
-    "code": "fisted_hand_sign",
+    "full_name": "fisted_hand_sign",
+    "code": "punch",
     "code_ja": "パンチ",
     "category": "gestures",
     "unicode": "1f44a"
   },
   {
     "moji": "👋",
-    "code": "waving_hand_sign",
+    "full_name": "waving_hand_sign",
+    "code": "wave",
     "code_ja": "バイバイ",
     "category": "gestures",
     "unicode": "1f44b"
   },
   {
     "moji": "👌",
-    "code": "ok_hand_sign",
+    "full_name": "ok_hand_sign",
+    "code": "ok_hand",
     "code_ja": "オーケー",
     "category": "gestures",
     "unicode": "1f44c"
   },
   {
     "moji": "👍",
-    "code": "thumbs_up_sign",
+    "full_name": "thumbs_up_sign",
+    "code": "thumbsup",
     "code_ja": "グッド",
     "category": "gestures",
     "unicode": "1f44d"
   },
   {
     "moji": "👎",
-    "code": "thumbs_down_sign",
+    "full_name": "thumbs_down_sign",
+    "code": "thumbsdown",
     "code_ja": "ブーイング",
     "category": "gestures",
     "unicode": "1f44e"
   },
   {
     "moji": "👏",
-    "code": "clapping_hands_sign",
+    "full_name": "clapping_hands_sign",
+    "code": "clap",
     "code_ja": "拍手",
     "category": "gestures",
     "unicode": "1f44f"
   },
   {
     "moji": "👐",
-    "code": "open_hands_sign",
+    "full_name": "open_hands_sign",
+    "code": "open_hands",
     "code_ja": "おっはー",
     "category": "gestures",
     "unicode": "1f450"
@@ -2668,7 +2810,8 @@
   },
   {
     "moji": "👕",
-    "code": "t_shirt",
+    "full_name": "t_shirt",
+    "code": "shirt",
     "code_ja": "Tシャツ",
     "category": "objects",
     "unicode": "1f455"
@@ -2745,21 +2888,24 @@
   },
   {
     "moji": "👠",
-    "code": "high_heeled_shoe",
+    "full_name": "high_heeled_shoe",
+    "code": "high_heel",
     "code_ja": "ハイヒール",
     "category": "objects",
     "unicode": "1f460"
   },
   {
     "moji": "👡",
-    "code": "womans_sandal",
+    "full_name": "womans_sandal",
+    "code": "sandal",
     "code_ja": "サンダル",
     "category": "objects",
     "unicode": "1f461"
   },
   {
     "moji": "👢",
-    "code": "womans_boots",
+    "full_name": "womans_boots",
+    "code": "boot",
     "code_ja": "ブーツ",
     "category": "objects",
     "unicode": "1f462"
@@ -2822,7 +2968,8 @@
   },
   {
     "moji": "👫",
-    "code": "couple_holding_hands",
+    "full_name": "couple_holding_hands",
+    "code": "couple",
     "code_ja": "手をつないだカップル",
     "category": "people",
     "unicode": "1f46b"
@@ -2843,14 +2990,16 @@
   },
   {
     "moji": "👮",
-    "code": "police_officer",
+    "full_name": "police_officer",
+    "code": "cop",
     "code_ja": "警察官",
     "category": "people",
     "unicode": "1f46e"
   },
   {
     "moji": "👯",
-    "code": "woman_with_bunny_ears",
+    "full_name": "woman_with_bunny_ears",
+    "code": "bunny_girl",
     "code_ja": "バニーガール",
     "category": "people",
     "unicode": "1f46f"
@@ -2941,21 +3090,24 @@
   },
   {
     "moji": "👼",
-    "code": "baby_angel",
+    "full_name": "baby_angel",
+    "code": "angel",
     "code_ja": "天使",
     "category": "people",
     "unicode": "1f47c"
   },
   {
     "moji": "👽",
-    "code": "UFO",
-    "code_ja": "UFO",
-    "category": "transportation",
+    "full_name": "extraterrestrial_alien",
+    "code": "alien",
+    "code_ja": "エイリアン",
+    "category": "people",
     "unicode": "1f47d"
   },
   {
     "moji": "👾",
-    "code": "alien_monster",
+    "full_name": "alien_monster",
+    "code": "space_invader",
     "code_ja": "宇宙怪物",
     "category": "people",
     "unicode": "1f47e"
@@ -3004,15 +3156,17 @@
   },
   {
     "moji": "💅",
-    "code": "nail_polish",
+    "full_name": "nail_polish",
+    "code": "nail_care",
     "code_ja": "ネイル",
     "category": "objects",
     "unicode": "1f485"
   },
   {
     "moji": "💆",
-    "code": "face_massage",
-    "code_ja": "エステ",
+    "full_name": "face_massage",
+    "code": "massage",
+    "code_ja": "マッサージ",
     "category": "people",
     "unicode": "1f486"
   },
@@ -3025,7 +3179,8 @@
   },
   {
     "moji": "💈",
-    "code": "barber_pole",
+    "full_name": "barber_pole",
+    "code": "barber",
     "code_ja": "床屋",
     "category": "objects",
     "unicode": "1f488"
@@ -3046,8 +3201,9 @@
   },
   {
     "moji": "💋",
-    "code": "kiss_mark",
-    "code_ja": "キスマーク",
+    "full_name": "kiss_mark",
+    "code": "kiss",
+    "code_ja": "キス",
     "category": "objects",
     "unicode": "1f48b"
   },
@@ -3067,14 +3223,16 @@
   },
   {
     "moji": "💎",
-    "code": "gem_stone",
+    "full_name": "gem_stone",
+    "code": "gem",
     "code_ja": "宝石",
     "category": "objects",
     "unicode": "1f48e"
   },
   {
     "moji": "💏",
-    "code": "kiss",
+    "full_name": "kiss",
+    "code": "couplekiss",
     "code_ja": "カップルのキス",
     "category": "people",
     "unicode": "1f48f"
@@ -3102,6 +3260,7 @@
   },
   {
     "moji": "💓",
+    "full_name": "beating_heart",
     "code": "heartbeat",
     "code_ja": "ドキドキしているハート",
     "category": "abstract",
@@ -3130,14 +3289,16 @@
   },
   {
     "moji": "💗",
-    "code": "growing_heart",
+    "full_name": "growing_heart",
+    "code": "heartpulse",
     "code_ja": "ハート(ドキドキ)",
     "category": "abstract",
     "unicode": "1f497"
   },
   {
     "moji": "💘",
-    "code": "heart_with_arrow",
+    "full_name": "heart_with_arrow",
+    "code": "cupid",
     "code_ja": "矢がささったハート",
     "category": "abstract",
     "unicode": "1f498"
@@ -3172,7 +3333,8 @@
   },
   {
     "moji": "💝",
-    "code": "heart_with_ribbon",
+    "full_name": "heart_with_ribbon",
+    "code": "gift_heart",
     "code_ja": "リボンがけのハート",
     "category": "abstract",
     "unicode": "1f49d"
@@ -3193,14 +3355,16 @@
   },
   {
     "moji": "💡",
-    "code": "electric_light_bulb",
+    "full_name": "electric_light_bulb",
+    "code": "bulb",
     "code_ja": "電球",
     "category": "abstract",
     "unicode": "1f4a1"
   },
   {
     "moji": "💢",
-    "code": "anger_symbol",
+    "full_name": "anger_symbol",
+    "code": "anger",
     "code_ja": "怒りマーク",
     "category": "abstract",
     "unicode": "1f4a2"
@@ -3214,21 +3378,24 @@
   },
   {
     "moji": "💤",
-    "code": "sleeping_symbol",
+    "full_name": "sleeping_symbol",
+    "code": "zzz",
     "code_ja": "睡眠マーク",
     "category": "abstract",
     "unicode": "1f4a4"
   },
   {
     "moji": "💥",
-    "code": "collision_symbol",
+    "full_name": "collision_symbol",
+    "code": "boom",
     "code_ja": "衝撃",
     "category": "abstract",
     "unicode": "1f4a5"
   },
   {
     "moji": "💦",
-    "code": "splashing_sweat_symbol",
+    "full_name": "splashing_sweat_symbol",
+    "code": "sweat_drops",
     "code_ja": "焦りマーク",
     "category": "abstract",
     "unicode": "1f4a6"
@@ -3242,28 +3409,32 @@
   },
   {
     "moji": "💨",
-    "code": "dash_symbol",
+    "full_name": "dash_symbol",
+    "code": "dash",
     "code_ja": "ダッシュ",
     "category": "abstract",
     "unicode": "1f4a8"
   },
   {
     "moji": "💩",
-    "code": "pile_of_poo",
+    "full_name": "pile_of_poo",
+    "code": "poop",
     "code_ja": "うんち",
     "category": "abstract",
     "unicode": "1f4a9"
   },
   {
     "moji": "💪",
-    "code": "flexed_biceps",
+    "full_name": "flexed_biceps",
+    "code": "muscle",
     "code_ja": "力こぶ",
     "category": "abstract",
     "unicode": "1f4aa"
   },
   {
     "moji": "💫",
-    "code": "dizzy_symbol",
+    "full_name": "dizzy_symbol",
+    "code": "dizzy",
     "code_ja": "目が回る",
     "category": "abstract",
     "unicode": "1f4ab"
@@ -3291,7 +3462,8 @@
   },
   {
     "moji": "💯",
-    "code": "hundred_points_symbol",
+    "full_name": "hundred_points_symbol",
+    "code": "100",
     "code_ja": "100点満点",
     "category": "abstract",
     "unicode": "1f4af"
@@ -3326,28 +3498,32 @@
   },
   {
     "moji": "💴",
-    "code": "banknote_with_yen_sign",
+    "full_name": "banknote_with_yen_sign",
+    "code": "yen",
     "code_ja": "お札",
     "category": "objects",
     "unicode": "1f4b4"
   },
   {
     "moji": "💵",
-    "code": "banknote_with_dollar_sign",
+    "full_name": "banknote_with_dollar_sign",
+    "code": "dollar",
     "code_ja": "ドル札",
     "category": "objects",
     "unicode": "1f4b5"
   },
   {
     "moji": "💶",
-    "code": "banknote_with_euro_sign",
+    "full_name": "banknote_with_euro_sign",
+    "code": "euro",
     "code_ja": "ユーロ札",
     "category": "objects",
     "unicode": "1f4b6"
   },
   {
     "moji": "💷",
-    "code": "banknote_with_pound_sign",
+    "full_name": "banknote_with_pound_sign",
+    "code": "pound",
     "code_ja": "ポンド札",
     "category": "objects",
     "unicode": "1f4b7"
@@ -3361,7 +3537,8 @@
   },
   {
     "moji": "💹",
-    "code": "chart_with_upwards_trend_and_yen_sign",
+    "full_name": "chart_with_upwards_trend_and_yen_sign",
+    "code": "chart",
     "code_ja": "株価",
     "category": "abstract",
     "unicode": "1f4b9"
@@ -3375,7 +3552,8 @@
   },
   {
     "moji": "💻",
-    "code": "personal_computer",
+    "full_name": "personal_computer",
+    "code": "computer",
     "code_ja": "パソコン",
     "category": "objects",
     "unicode": "1f4bb"
@@ -3403,7 +3581,8 @@
   },
   {
     "moji": "💿",
-    "code": "optical_disc",
+    "full_name": "optical_disc",
+    "code": "cd",
     "code_ja": "CD",
     "category": "objects",
     "unicode": "1f4bf"
@@ -3445,14 +3624,16 @@
   },
   {
     "moji": "📅",
-    "code": "calendar",
+    "full_name": "calendar",
+    "code": "date",
     "code_ja": "カレンダー",
     "category": "objects",
     "unicode": "1f4c5"
   },
   {
     "moji": "📆",
-    "code": "tear_off_calendar",
+    "full_name": "tear_off_calendar",
+    "code": "calendar",
     "code_ja": "日めくりカレンダー",
     "category": "objects",
     "unicode": "1f4c6"
@@ -3564,7 +3745,8 @@
   },
   {
     "moji": "📖",
-    "code": "open_book",
+    "full_name": "open_book",
+    "code": "book",
     "code_ja": "開かれた本",
     "category": "objects",
     "unicode": "1f4d6"
@@ -3613,7 +3795,8 @@
   },
   {
     "moji": "📝",
-    "code": "memo",
+    "full_name": "memo",
+    "code": "pencil",
     "code_ja": "メモ",
     "category": "objects",
     "unicode": "1f4dd"
@@ -3634,28 +3817,32 @@
   },
   {
     "moji": "📠",
-    "code": "fax_machine",
+    "full_name": "fax_machine",
+    "code": "fax",
     "code_ja": "FAX",
     "category": "objects",
     "unicode": "1f4e0"
   },
   {
     "moji": "📡",
-    "code": "satellite_antenna",
+    "full_name": "satellite_antenna",
+    "code": "satellite",
     "code_ja": "アンテナ",
     "category": "objects",
     "unicode": "1f4e1"
   },
   {
     "moji": "📢",
-    "code": "public_address_loudspeaker",
+    "full_name": "public_address_loudspeaker",
+    "code": "loudspeaker",
     "code_ja": "拡声器",
     "category": "objects",
     "unicode": "1f4e2"
   },
   {
     "moji": "📣",
-    "code": "cheering_megaphone",
+    "full_name": "cheering_megaphone",
+    "code": "mega",
     "code_ja": "メガホン",
     "category": "objects",
     "unicode": "1f4e3"
@@ -3683,7 +3870,8 @@
   },
   {
     "moji": "📧",
-    "code": "e_mail_symbol",
+    "full_name": "e_mail_symbol",
+    "code": "e_mail",
     "code_ja": "eメール",
     "category": "abstract",
     "unicode": "1f4e7"
@@ -3697,35 +3885,40 @@
   },
   {
     "moji": "📩",
-    "code": "envelope_with_downwards_arrow_above",
+    "full_name": "envelope_with_downwards_arrow_above",
+    "code": "envelope_with_arrow",
     "code_ja": "メール送信",
     "category": "abstract",
     "unicode": "1f4e9"
   },
   {
     "moji": "📪",
-    "code": "closed_mailbox_with_lowered_flag",
+    "full_name": "closed_mailbox_with_lowered_flag",
+    "code": "mailbox_closed",
     "code_ja": "メールボックス",
     "category": "objects",
     "unicode": "1f4ea"
   },
   {
     "moji": "📫",
-    "code": "closed_mailbox_with_raised_flag",
+    "full_name": "closed_mailbox_with_raised_flag",
+    "code": "mailbox",
     "code_ja": "メールボックス2",
     "category": "objects",
     "unicode": "1f4eb"
   },
   {
     "moji": "📬",
-    "code": "open_mailbox_with_raised_flag",
+    "full_name": "open_mailbox_with_raised_flag",
+    "code": "mailbox_with_mail",
     "code_ja": "メールボックス3",
     "category": "objects",
     "unicode": "1f4ec"
   },
   {
     "moji": "📭",
-    "code": "open_mailbox_with_lowered_flag",
+    "full_name": "open_mailbox_with_lowered_flag",
+    "code": "mailbox_with_no_mail",
     "code_ja": "メールボックス4",
     "category": "objects",
     "unicode": "1f4ed"
@@ -3760,8 +3953,9 @@
   },
   {
     "moji": "📲",
-    "code": "mobile_phone_with_rightwards_arrow_at_left",
-    "code_ja": "終了",
+    "full_name": "mobile_phone_with_rightwards_arrow_at_left",
+    "code": "calling",
+    "code_ja": "着信中",
     "category": "symbols",
     "unicode": "1f4f2"
   },
@@ -3788,7 +3982,8 @@
   },
   {
     "moji": "📶",
-    "code": "antenna_with_bars",
+    "full_name": "antenna_with_bars",
+    "code": "signal_strength",
     "code_ja": "電波状況",
     "category": "abstract",
     "unicode": "1f4f6"
@@ -3809,7 +4004,8 @@
   },
   {
     "moji": "📺",
-    "code": "television",
+    "full_name": "television",
+    "code": "tv",
     "code_ja": "テレビ",
     "category": "objects",
     "unicode": "1f4fa"
@@ -3823,7 +4019,8 @@
   },
   {
     "moji": "📼",
-    "code": "videocassette",
+    "full_name": "videocassette",
+    "code": "vhs",
     "code_ja": "ビデオテープ",
     "category": "objects",
     "unicode": "1f4fc"
@@ -3837,49 +4034,56 @@
   },
   {
     "moji": "🔁",
-    "code": "clockwise_rightwards_and_leftwards_open_circle_arrows",
+    "full_name": "clockwise_rightwards_and_leftwards_open_circle_arrows",
+    "code": "repeat",
     "code_ja": "リピート",
     "category": "abstract",
     "unicode": "1f501"
   },
   {
     "moji": "🔂",
-    "code": "clockwise_rightwards_and_leftwards_open_circle_arrows_with_circled_one_overlay",
+    "full_name": "clockwise_rightwards_and_leftwards_open_circle_arrows_with_circled_one_overlay",
+    "code": "repeat_one",
     "code_ja": "1曲リピート",
     "category": "abstract",
     "unicode": "1f502"
   },
   {
     "moji": "🔃",
-    "code": "clockwise_downwards_and_upwards_open_circle_arrows",
+    "full_name": "clockwise_downwards_and_upwards_open_circle_arrows",
+    "code": "arrows_clockwise",
     "code_ja": "再読み込み",
     "category": "abstract",
     "unicode": "1f503"
   },
   {
     "moji": "🔄",
-    "code": "anticlockwise_downwards_and_upwards_open_circle_arrows",
+    "full_name": "anticlockwise_downwards_and_upwards_open_circle_arrows",
+    "code": "arrows_counterclockwise",
     "code_ja": "読み込み中",
     "category": "abstract",
     "unicode": "1f504"
   },
   {
     "moji": "🔅",
-    "code": "low_brightness_symbol",
+    "full_name": "low_brightness_symbol",
+    "code": "low_brightness",
     "code_ja": "明るさ(暗)",
     "category": "abstract",
     "unicode": "1f505"
   },
   {
     "moji": "🔆",
-    "code": "high_brightness_symbol",
+    "full_name": "high_brightness_symbol",
+    "code": "high_brightness",
     "code_ja": "明るさ(明)",
     "category": "abstract",
     "unicode": "1f506"
   },
   {
     "moji": "🔇",
-    "code": "speaker_with_cancellation_stroke",
+    "full_name": "speaker_with_cancellation_stroke",
+    "code": "mute",
     "code_ja": "ミュート",
     "category": "abstract",
     "unicode": "1f507"
@@ -3893,14 +4097,16 @@
   },
   {
     "moji": "🔉",
-    "code": "speaker_with_one_sound_wave",
+    "full_name": "speaker_with_one_sound_wave",
+    "code": "sound",
     "code_ja": "音量(小)",
     "category": "abstract",
     "unicode": "1f509"
   },
   {
     "moji": "🔊",
-    "code": "speaker_with_three_sound_waves",
+    "full_name": "speaker_with_three_sound_waves",
+    "code": "loud_sound",
     "code_ja": "音量(大)",
     "category": "abstract",
     "unicode": "1f50a"
@@ -3921,14 +4127,16 @@
   },
   {
     "moji": "🔍",
-    "code": "left_pointing_magnifying_glass",
+    "full_name": "left_pointing_magnifying_glass",
+    "code": "mag",
     "code_ja": "虫めがね",
     "category": "objects",
     "unicode": "1f50d"
   },
   {
     "moji": "🔎",
-    "code": "right_pointing_magnifying_glass",
+    "full_name": "right_pointing_magnifying_glass",
+    "code": "mag_right",
     "code_ja": "調べる",
     "category": "objects",
     "unicode": "1f50e"
@@ -3963,7 +4171,8 @@
   },
   {
     "moji": "🔓",
-    "code": "open_lock",
+    "full_name": "open_lock",
+    "code": "unlock",
     "code_ja": "ロック(解除)",
     "category": "objects",
     "unicode": "1f513"
@@ -3977,7 +4186,8 @@
   },
   {
     "moji": "🔕",
-    "code": "bell_with_cancellation_stroke",
+    "full_name": "bell_with_cancellation_stroke",
+    "code": "no_bell",
     "code_ja": "サウンドオフ",
     "category": "abstract",
     "unicode": "1f515"
@@ -3991,7 +4201,8 @@
   },
   {
     "moji": "🔗",
-    "code": "link_symbol",
+    "full_name": "link_symbol",
+    "code": "link",
     "code_ja": "リンク",
     "category": "abstract",
     "unicode": "1f517"
@@ -4005,42 +4216,48 @@
   },
   {
     "moji": "🔙",
-    "code": "back_with_leftwards_arrow_above",
+    "full_name": "back_with_leftwards_arrow_above",
+    "code": "back",
     "code_ja": "BACK",
     "category": "abstract",
     "unicode": "1f519"
   },
   {
     "moji": "🔚",
-    "code": "end_with_leftwards_arrow_above",
+    "full_name": "end_with_leftwards_arrow_above",
+    "code": "end",
     "code_ja": "END",
     "category": "abstract",
     "unicode": "1f51a"
   },
   {
     "moji": "🔛",
-    "code": "on_with_exclamation_mark_with_left_right_arrow_above",
+    "full_name": "on_with_exclamation_mark_with_left_right_arrow_above",
+    "code": "on",
     "code_ja": "ON",
     "category": "abstract",
     "unicode": "1f51b"
   },
   {
     "moji": "🔜",
-    "code": "soon_with_rightwards_arrow_above",
+    "full_name": "soon_with_rightwards_arrow_above",
+    "code": "soon",
     "code_ja": "SOON",
     "category": "abstract",
     "unicode": "1f51c"
   },
   {
     "moji": "🔝",
-    "code": "top_with_upwards_arrow_above",
+    "full_name": "top_with_upwards_arrow_above",
+    "code": "top",
     "code_ja": "TOP",
     "category": "abstract",
     "unicode": "1f51d"
   },
   {
     "moji": "🔞",
-    "code": "no_one_under_eighteen_symbol",
+    "full_name": "no_one_under_eighteen_symbol",
+    "code": "underage",
     "code_ja": "18禁",
     "category": "abstract",
     "unicode": "1f51e"
@@ -4054,35 +4271,40 @@
   },
   {
     "moji": "🔠",
-    "code": "input_symbol_for_latin_capital_letters",
+    "full_name": "input_symbol_for_latin_capital_letters",
+    "code": "capital_abcd",
     "code_ja": "大文字",
     "category": "abstract",
     "unicode": "1f520"
   },
   {
     "moji": "🔡",
-    "code": "input_symbol_for_latin_small_letters",
+    "full_name": "input_symbol_for_latin_small_letters",
+    "code": "abcd",
     "code_ja": "小文字",
     "category": "abstract",
     "unicode": "1f521"
   },
   {
     "moji": "🔢",
-    "code": "input_symbol_for_numbers",
+    "full_name": "input_symbol_for_numbers",
+    "code": "1234",
     "code_ja": "数字",
     "category": "abstract",
     "unicode": "1f522"
   },
   {
     "moji": "🔣",
-    "code": "input_symbol_for_symbols",
+    "full_name": "input_symbol_for_symbols",
+    "code": "symbols",
     "code_ja": "記号",
     "category": "abstract",
     "unicode": "1f523"
   },
   {
     "moji": "🔤",
-    "code": "input_symbol_for_latin_letters",
+    "full_name": "input_symbol_for_latin_letters",
+    "code": "abc",
     "code_ja": "ABC",
     "category": "abstract",
     "unicode": "1f524"
@@ -4096,7 +4318,8 @@
   },
   {
     "moji": "🔦",
-    "code": "electric_torch",
+    "full_name": "electric_torch",
+    "code": "flashlight",
     "code_ja": "懐中電灯",
     "category": "tools",
     "unicode": "1f526"
@@ -4124,14 +4347,16 @@
   },
   {
     "moji": "🔪",
-    "code": "kitchen_knife",
+    "full_name": "hocho",
+    "code": "knife",
     "code_ja": "包丁",
     "category": "tools",
     "unicode": "1f52a"
   },
   {
     "moji": "🔫",
-    "code": "pistol",
+    "full_name": "pistol",
+    "code": "gun",
     "code_ja": "ピストル",
     "category": "tools",
     "unicode": "1f52b"
@@ -4159,21 +4384,24 @@
   },
   {
     "moji": "🔯",
-    "code": "six_pointed_star_with_middle_dot",
+    "full_name": "six_pointed_star_with_middle_dot",
+    "code": "six_pointed_star",
     "code_ja": "六芒星",
     "category": "objects",
     "unicode": "1f52f"
   },
   {
     "moji": "🔰",
-    "code": "japanese_symbol_for_beginner",
+    "full_name": "japanese_symbol_for_beginner",
+    "code": "beginner",
     "code_ja": "若葉マーク",
     "category": "objects",
     "unicode": "1f530"
   },
   {
     "moji": "🔱",
-    "code": "trident_emblem",
+    "full_name": "trident_emblem",
+    "code": "trident",
     "code_ja": "紋章",
     "category": "objects",
     "unicode": "1f531"
@@ -4194,7 +4422,8 @@
   },
   {
     "moji": "🔴",
-    "code": "large_red_circle",
+    "full_name": "large_red_circle",
+    "code": "red_circle",
     "code_ja": "大丸(赤)",
     "category": "abstract",
     "unicode": "1f534"
@@ -4236,196 +4465,224 @@
   },
   {
     "moji": "🔺",
-    "code": "up_pointing_red_triangle",
+    "full_name": "up_pointing_red_triangle",
+    "code": "small_red_triangle",
     "code_ja": "上向き三角3",
     "category": "abstract",
     "unicode": "1f53a"
   },
   {
     "moji": "🔻",
-    "code": "down_pointing_red_triangle",
+    "full_name": "down_pointing_red_triangle",
+    "code": "small_red_triangle_down",
     "code_ja": "下向き三角3",
     "category": "abstract",
     "unicode": "1f53b"
   },
   {
     "moji": "🔼",
-    "code": "up_pointing_small_red_triangle",
+    "full_name": "up_pointing_small_red_triangle",
+    "code": "arrow_up_small",
     "code_ja": "上向き三角",
     "category": "abstract",
     "unicode": "1f53c"
   },
   {
     "moji": "🔽",
-    "code": "down_pointing_small_red_triangle",
+    "full_name": "down_pointing_small_red_triangle",
+    "code": "arrow_down_small",
     "code_ja": "下向き三角",
     "category": "abstract",
     "unicode": "1f53d"
   },
   {
     "moji": "🕐",
-    "code": "clock_face_one_oclock",
+    "full_name": "clock_face_one_oclock",
+    "code": "clock1",
     "code_ja": "1時",
     "category": "objects",
     "unicode": "1f550"
   },
   {
     "moji": "🕑",
-    "code": "clock_face_two_oclock",
+    "full_name": "clock_face_two_oclock",
+    "code": "clock2",
     "code_ja": "2時",
     "category": "objects",
     "unicode": "1f551"
   },
   {
     "moji": "🕒",
-    "code": "clock_face_three_oclock",
+    "full_name": "clock_face_three_oclock",
+    "code": "clock3",
     "code_ja": "3時",
     "category": "objects",
     "unicode": "1f552"
   },
   {
     "moji": "🕓",
-    "code": "clock_face_four_oclock",
+    "full_name": "clock_face_four_oclock",
+    "code": "clock4",
     "code_ja": "4時",
     "category": "objects",
     "unicode": "1f553"
   },
   {
     "moji": "🕔",
-    "code": "clock_face_five_oclock",
+    "full_name": "clock_face_five_oclock",
+    "code": "clock5",
     "code_ja": "5時",
     "category": "objects",
     "unicode": "1f554"
   },
   {
     "moji": "🕕",
-    "code": "clock_face_six_oclock",
+    "full_name": "clock_face_six_oclock",
+    "code": "clock6",
     "code_ja": "6時",
     "category": "objects",
     "unicode": "1f555"
   },
   {
     "moji": "🕖",
-    "code": "clock_face_seven_oclock",
+    "full_name": "clock_face_seven_oclock",
+    "code": "clock7",
     "code_ja": "7時",
     "category": "objects",
     "unicode": "1f556"
   },
   {
     "moji": "🕗",
-    "code": "clock_face_eight_oclock",
+    "full_name": "clock_face_eight_oclock",
+    "code": "clock8",
     "code_ja": "8時",
     "category": "objects",
     "unicode": "1f557"
   },
   {
     "moji": "🕘",
-    "code": "clock_face_nine_oclock",
+    "full_name": "clock_face_nine_oclock",
+    "code": "clock9",
     "code_ja": "9時",
     "category": "objects",
     "unicode": "1f558"
   },
   {
     "moji": "🕙",
-    "code": "clock_face_ten_oclock",
+    "full_name": "clock_face_ten_oclock",
+    "code": "clock10",
     "code_ja": "10時",
     "category": "objects",
     "unicode": "1f559"
   },
   {
     "moji": "🕚",
-    "code": "clock_face_eleven_oclock",
+    "full_name": "clock_face_eleven_oclock",
+    "code": "clock11",
     "code_ja": "11時",
     "category": "objects",
     "unicode": "1f55a"
   },
   {
     "moji": "🕛",
-    "code": "clock_face_twelve_oclock",
+    "full_name": "clock_face_twelve_oclock",
+    "code": "clock12",
     "code_ja": "12時",
     "category": "objects",
     "unicode": "1f55b"
   },
   {
     "moji": "🕜",
-    "code": "clock_face_one_thirty",
+    "full_name": "clock_face_one_thirty",
+    "code": "clock130",
     "code_ja": "1時半",
     "category": "objects",
     "unicode": "1f55c"
   },
   {
     "moji": "🕝",
-    "code": "clock_face_two_thirty",
+    "full_name": "clock_face_two_thirty",
+    "code": "clock230",
     "code_ja": "2時半",
     "category": "objects",
     "unicode": "1f55d"
   },
   {
     "moji": "🕞",
-    "code": "clock_face_three_thirty",
+    "full_name": "clock_face_three_thirty",
+    "code": "clock330",
     "code_ja": "3時半",
     "category": "objects",
     "unicode": "1f55e"
   },
   {
     "moji": "🕟",
-    "code": "clock_face_four_thirty",
+    "full_name": "clock_face_four_thirty",
+    "code": "clock430",
     "code_ja": "4時半",
     "category": "objects",
     "unicode": "1f55f"
   },
   {
     "moji": "🕠",
-    "code": "clock_face_five_thirty",
+    "full_name": "clock_face_five_thirty",
+    "code": "clock530",
     "code_ja": "5時半",
     "category": "objects",
     "unicode": "1f560"
   },
   {
     "moji": "🕡",
-    "code": "clock_face_six_thirty",
+    "full_name": "clock_face_six_thirty",
+    "code": "clock630",
     "code_ja": "6時半",
     "category": "objects",
     "unicode": "1f561"
   },
   {
     "moji": "🕢",
-    "code": "clock_face_seven_thirty",
+    "full_name": "clock_face_seven_thirty",
+    "code": "clock730",
     "code_ja": "7時半",
     "category": "objects",
     "unicode": "1f562"
   },
   {
     "moji": "🕣",
-    "code": "clock_face_eight_thirty",
+    "full_name": "clock_face_eight_thirty",
+    "code": "clock830",
     "code_ja": "8時半",
     "category": "objects",
     "unicode": "1f563"
   },
   {
     "moji": "🕤",
-    "code": "clock_face_nine_thirty",
+    "full_name": "clock_face_nine_thirty",
+    "code": "clock930",
     "code_ja": "9時半",
     "category": "objects",
     "unicode": "1f564"
   },
   {
     "moji": "🕥",
-    "code": "clock_face_ten_thirty",
+    "full_name": "clock_face_ten_thirty",
+    "code": "clock1030",
     "code_ja": "10時半",
     "category": "objects",
     "unicode": "1f565"
   },
   {
     "moji": "🕦",
-    "code": "clock_face_eleven_thirty",
+    "full_name": "clock_face_eleven_thirty",
+    "code": "clock1130",
     "code_ja": "11時半",
     "category": "objects",
     "unicode": "1f566"
   },
   {
     "moji": "🕧",
-    "code": "clock_face_twelve_thirty",
+    "full_name": "clock_face_twelve_thirty",
+    "code": "clock1230",
     "code_ja": "12時半",
     "category": "objects",
     "unicode": "1f567"
@@ -4460,7 +4717,8 @@
   },
   {
     "moji": "🗾",
-    "code": "silhouette_of_japan",
+    "full_name": "silhouette_of_japan",
+    "code": "japan",
     "code_ja": "日本",
     "category": "nature",
     "unicode": "1f5fe"
@@ -4474,6 +4732,7 @@
   },
   {
     "moji": "😀",
+    "full_name": "grinning_face",
     "code": "grinning",
     "code_ja": "にんまり",
     "category": "faces",
@@ -4481,6 +4740,7 @@
   },
   {
     "moji": "😁",
+    "full_name": "grinning_face_with_smiling_eyes",
     "code": "grin",
     "code_ja": "うっしっし",
     "category": "faces",
@@ -4488,7 +4748,8 @@
   },
   {
     "moji": "😂",
-    "code": "face_with_tears_of_joy",
+    "full_name": "face_with_tears_of_joy",
+    "code": "joy",
     "code_ja": "泣き笑い",
     "emoticon": ";D",
     "category": "faces",
@@ -4496,6 +4757,7 @@
   },
   {
     "moji": "😃",
+    "full_name": "smiling_face_with_open_mouth",
     "code": "smiley",
     "code_ja": "スマイル",
     "emoticon": ":)",
@@ -4504,6 +4766,7 @@
   },
   {
     "moji": "😄",
+    "full_name": "smiling_face_with_open_mouth_and_smiling_eyes",
     "code": "smile",
     "code_ja": "嬉しい顔",
     "category": "faces",
@@ -4511,6 +4774,7 @@
   },
   {
     "moji": "😅",
+    "full_name": "smiling_face_with_open_mouth_and_cold_sweat",
     "code": "sweat_smile",
     "code_ja": "冷や汗",
     "category": "faces",
@@ -4518,6 +4782,7 @@
   },
   {
     "moji": "😆",
+    "full_name": "smiling_face_with_open_mouth_and_tightly_closed_eyes",
     "code": "laughing",
     "code_ja": "笑い",
     "emoticon": ":D",
@@ -4526,20 +4791,23 @@
   },
   {
     "moji": "😇",
-    "code": "smiling_face_with_halo",
+    "full_name": "smiling_face_with_halo",
+    "code": "innocent",
     "code_ja": "天使の笑顔",
     "category": "faces",
     "unicode": "1f607"
   },
   {
     "moji": "😈",
-    "code": "smiling_face_with_horns",
+    "full_name": "smiling_face_with_horns",
+    "code": "smiling_imp",
     "code_ja": "怒り(悪魔)",
     "category": "faces",
     "unicode": "1f608"
   },
   {
     "moji": "😉",
+    "full_name": "winking_face",
     "code": "wink",
     "code_ja": "ウインク",
     "emoticon": ";)",
@@ -4548,6 +4816,7 @@
   },
   {
     "moji": "😊",
+    "full_name": "smiling_face_with_smiling_eyes",
     "code": "blush",
     "code_ja": "にこにこ",
     "emoticon": ":$",
@@ -4556,13 +4825,15 @@
   },
   {
     "moji": "😋",
-    "code": "face_savouring_delicious_food",
+    "full_name": "face_savouring_delicious_food",
+    "code": "yum",
     "code_ja": "うまい",
     "category": "faces",
     "unicode": "1f60b"
   },
   {
     "moji": "😌",
+    "full_name": "relieved_face",
     "code": "relieved",
     "code_ja": "ほっとした顔",
     "category": "faces",
@@ -4570,6 +4841,7 @@
   },
   {
     "moji": "😍",
+    "full_name": "smiling_face_with_heart_shaped_eyes",
     "code": "heart_eyes",
     "code_ja": "目がハート",
     "category": "faces",
@@ -4577,13 +4849,15 @@
   },
   {
     "moji": "😎",
-    "code": "smiling_face_with_sunglasses",
+    "full_name": "smiling_face_with_sunglasses",
+    "code": "sunglasses",
     "code_ja": "キリッ",
     "category": "faces",
     "unicode": "1f60e"
   },
   {
     "moji": "😏",
+    "full_name": "smirking_face",
     "code": "smirk",
     "code_ja": "ふっ",
     "category": "faces",
@@ -4598,6 +4872,7 @@
   },
   {
     "moji": "😑",
+    "full_name": "expressionless_face",
     "code": "expressionless",
     "code_ja": "ぼけーっとした顔",
     "category": "faces",
@@ -4605,6 +4880,7 @@
   },
   {
     "moji": "😒",
+    "full_name": "unamused_face",
     "code": "unamused",
     "code_ja": "横目",
     "category": "faces",
@@ -4612,6 +4888,7 @@
   },
   {
     "moji": "😓",
+    "full_name": "face_with_cold_sweat",
     "code": "sweat",
     "code_ja": "困り顔",
     "emoticon": "(:|",
@@ -4620,13 +4897,15 @@
   },
   {
     "moji": "😔",
-    "code": "pensive_face",
+    "full_name": "pensive_face",
+    "code": "pensive",
     "code_ja": "しょんぼり",
     "category": "faces",
     "unicode": "1f614"
   },
   {
     "moji": "😕",
+    "full_name": "confused_face",
     "code": "confused",
     "code_ja": "困る",
     "emoticon": ":^)",
@@ -4635,13 +4914,15 @@
   },
   {
     "moji": "😖",
-    "code": "confounded_face",
+    "full_name": "confounded_face",
+    "code": "confounded",
     "code_ja": "混乱",
     "category": "faces",
     "unicode": "1f616"
   },
   {
     "moji": "😗",
+    "full_name": "kissing_face",
     "code": "kissing",
     "code_ja": "チュー",
     "emoticon": ":*",
@@ -4650,6 +4931,7 @@
   },
   {
     "moji": "😘",
+    "full_name": "face_throwing_a_kiss",
     "code": "kissing_heart",
     "code_ja": "投げキッス",
     "category": "faces",
@@ -4657,6 +4939,7 @@
   },
   {
     "moji": "😙",
+    "full_name": "kissing_face_with_smiling_eyes",
     "code": "kissing_smiling_eyes",
     "code_ja": "チューしよ",
     "category": "faces",
@@ -4664,6 +4947,7 @@
   },
   {
     "moji": "😚",
+    "full_name": "kissing_face_with_closed_eyes",
     "code": "kissing_closed_eyes",
     "code_ja": "チュッ",
     "category": "faces",
@@ -4671,6 +4955,7 @@
   },
   {
     "moji": "😛",
+    "full_name": "face_with_stuck_out_tongue",
     "code": "stuck_out_tongue",
     "code_ja": "べー",
     "emoticon": ":P",
@@ -4679,6 +4964,7 @@
   },
   {
     "moji": "😜",
+    "full_name": "face_with_stuck_out_tongue_and_winking_eye",
     "code": "stuck_out_tongue_winking_eye",
     "code_ja": "あっかんべー",
     "emoticon": ";P",
@@ -4687,6 +4973,7 @@
   },
   {
     "moji": "😝",
+    "full_name": "face_with_stuck_out_tongue_and_tightly_closed_eyes",
     "code": "stuck_out_tongue_closed_eyes",
     "code_ja": "べーっ",
     "emoticon": "XP",
@@ -4695,13 +4982,15 @@
   },
   {
     "moji": "😞",
-    "code": "disappointed_face",
+    "full_name": "disappointed_face",
+    "code": "disappointed",
     "code_ja": "がっかり",
     "category": "faces",
     "unicode": "1f61e"
   },
   {
     "moji": "😟",
+    "full_name": "worried_face",
     "code": "worried",
     "code_ja": "心配",
     "category": "faces",
@@ -4709,21 +4998,24 @@
   },
   {
     "moji": "😠",
-    "code": "angry_face",
+    "full_name": "angry_face",
+    "code": "angry",
     "code_ja": "怒った顔",
     "category": "faces",
     "unicode": "1f620"
   },
   {
     "moji": "😡",
-    "code": "pouting_face",
+    "full_name": "pouting_face",
+    "code": "rage",
     "code_ja": "ふくれっ面",
     "category": "faces",
     "unicode": "1f621"
   },
   {
     "moji": "😢",
-    "code": "crying_face",
+    "full_name": "crying_face",
+    "code": "cry",
     "code_ja": "涙",
     "emoticon": ":'(",
     "category": "faces",
@@ -4731,27 +5023,31 @@
   },
   {
     "moji": "😣",
-    "code": "persevering_face",
+    "full_name": "persevering_face",
+    "code": "persevere",
     "code_ja": "がまん顔",
     "category": "faces",
     "unicode": "1f623"
   },
   {
     "moji": "😤",
-    "code": "face_with_look_of_triumph",
+    "full_name": "face_with_look_of_triumph",
+    "code": "triumph",
     "code_ja": "勝ち誇り",
     "category": "faces",
     "unicode": "1f624"
   },
   {
     "moji": "😥",
-    "code": "disappointed_but_relieved_face",
+    "full_name": "disappointed_but_relieved_face",
+    "code": "disappointed_relieved",
     "code_ja": "やれやれ",
     "category": "faces",
     "unicode": "1f625"
   },
   {
     "moji": "😦",
+    "full_name": "frowning_face_with_open_mouth",
     "code": "frowning",
     "code_ja": "しかめっ面",
     "emoticon": ":(",
@@ -4760,6 +5056,7 @@
   },
   {
     "moji": "😧",
+    "full_name": "anguished_face",
     "code": "anguished",
     "code_ja": "悲しい顔",
     "category": "faces",
@@ -4767,14 +5064,16 @@
   },
   {
     "moji": "😨",
-    "code": "fearful_face",
+    "full_name": "fearful_face",
+    "code": "fearful",
     "code_ja": "青ざめ",
     "category": "faces",
     "unicode": "1f628"
   },
   {
     "moji": "😩",
-    "code": "weary_face",
+    "full_name": "weary_face",
+    "code": "weary",
     "code_ja": "うんざり",
     "emoticon": "X(",
     "category": "faces",
@@ -4782,7 +5081,8 @@
   },
   {
     "moji": "😪",
-    "code": "sleepy_face",
+    "full_name": "sleepy_face",
+    "code": "sleepy",
     "code_ja": "睡眠中",
     "category": "faces",
     "unicode": "1f62a"
@@ -4796,6 +5096,7 @@
   },
   {
     "moji": "😬",
+    "full_name": "grimacing_face",
     "code": "grimacing",
     "code_ja": "いーっ",
     "category": "faces",
@@ -4803,13 +5104,15 @@
   },
   {
     "moji": "😭",
-    "code": "loudly_crying_face",
+    "full_name": "loudly_crying_face",
+    "code": "sob",
     "code_ja": "大泣き",
     "category": "faces",
     "unicode": "1f62d"
   },
   {
     "moji": "😮",
+    "full_name": "face_with_open_mouth",
     "code": "open_mouth",
     "code_ja": "ぽかんと",
     "emoticon": ":O",
@@ -4818,6 +5121,7 @@
   },
   {
     "moji": "😯",
+    "full_name": "hushed_face",
     "code": "hushed",
     "code_ja": "しーん",
     "emoticon": ":x",
@@ -4826,27 +5130,31 @@
   },
   {
     "moji": "😰",
-    "code": "face_with_open_mouth_and_cold_sweat",
+    "full_name": "face_with_open_mouth_and_cold_sweat",
+    "code": "cold_sweat",
     "code_ja": "冷や汗2",
     "category": "faces",
     "unicode": "1f630"
   },
   {
     "moji": "😱",
-    "code": "face_screaming_in_fear",
+    "full_name": "face_screaming_in_fear",
+    "code": "scream",
     "code_ja": "ショッキング",
     "category": "faces",
     "unicode": "1f631"
   },
   {
     "moji": "😲",
-    "code": "astonished_face",
+    "full_name": "astonished_face",
+    "code": "astonished",
     "code_ja": "びっくり",
     "category": "faces",
     "unicode": "1f632"
   },
   {
     "moji": "😳",
+    "full_name": "flushed_face",
     "code": "flushed",
     "code_ja": "ぽっ",
     "category": "faces",
@@ -4854,6 +5162,7 @@
   },
   {
     "moji": "😴",
+    "full_name": "sleeping_face",
     "code": "sleeping",
     "code_ja": "眠い",
     "category": "faces",
@@ -4869,63 +5178,72 @@
   },
   {
     "moji": "😶",
-    "code": "face_without_mouth",
+    "full_name": "face_without_mouth",
+    "code": "no_mouth",
     "code_ja": "無表情",
     "category": "faces",
     "unicode": "1f636"
   },
   {
     "moji": "😷",
-    "code": "face_with_medical_mask",
+    "full_name": "face_with_medical_mask",
+    "code": "mask",
     "code_ja": "風邪ひき",
     "category": "faces",
     "unicode": "1f637"
   },
   {
     "moji": "😸",
-    "code": "grinning_cat_face_with_smiling_eyes",
+    "full_name": "grinning_cat_face_with_smiling_eyes",
+    "code": "smile_cat",
     "code_ja": "うっしっし(ネコ)",
     "category": "faces",
     "unicode": "1f638"
   },
   {
     "moji": "😹",
-    "code": "cat_face_with_tears_of_joy",
+    "full_name": "cat_face_with_tears_of_joy",
+    "code": "joy_cat",
     "code_ja": "泣き笑い(ネコ)",
     "category": "faces",
     "unicode": "1f639"
   },
   {
     "moji": "😺",
-    "code": "smiling_cat_face_with_open_mouth",
+    "full_name": "smiling_cat_face_with_open_mouth",
+    "code": "smiley_cat",
     "code_ja": "にこ(ネコ)",
     "category": "faces",
     "unicode": "1f63a"
   },
   {
     "moji": "😻",
-    "code": "smiling_cat_face_with_heart_shaped_eyes",
+    "full_name": "smiling_cat_face_with_heart_shaped_eyes",
+    "code": "heart_eyes_cat",
     "code_ja": "目がハート(ネコ)",
     "category": "faces",
     "unicode": "1f63b"
   },
   {
     "moji": "😼",
-    "code": "cat_face_with_wry_smile",
+    "full_name": "cat_face_with_wry_smile",
+    "code": "smirk_cat",
     "code_ja": "きりり(ネコ)",
     "category": "faces",
     "unicode": "1f63c"
   },
   {
     "moji": "😽",
-    "code": "kissing_cat_face_with_closed_eyes",
+    "full_name": "kissing_cat_face_with_closed_eyes",
+    "code": "kissing_cat",
     "code_ja": "チュー(ネコ)",
     "category": "faces",
     "unicode": "1f63d"
   },
   {
     "moji": "😾",
-    "code": "pouting_cat_face",
+    "full_name": "pouting_cat_face",
+    "code": "pouting_cat",
     "code_ja": "ぷー(ネコ)",
     "category": "faces",
     "unicode": "1f63e"
@@ -4939,63 +5257,72 @@
   },
   {
     "moji": "🙀",
-    "code": "weary_cat_face",
+    "full_name": "weary_cat_face",
+    "code": "scream_cat",
     "code_ja": "ほえー(ネコ)",
     "category": "faces",
     "unicode": "1f640"
   },
   {
     "moji": "🙅",
-    "code": "face_with_no_good_gesture",
+    "full_name": "face_with_no_good_gesture",
+    "code": "no_good",
     "code_ja": "NG",
     "category": "gestures",
     "unicode": "1f645"
   },
   {
     "moji": "🙆",
-    "code": "face_with_ok_gesture",
+    "full_name": "face_with_ok_gesture",
+    "code": "ok_woman",
     "code_ja": "OK",
     "category": "gestures",
     "unicode": "1f646"
   },
   {
     "moji": "🙇",
-    "code": "person_bowing_deeply",
+    "full_name": "person_bowing_deeply",
+    "code": "bow",
     "code_ja": "平謝り",
     "category": "gestures",
     "unicode": "1f647"
   },
   {
     "moji": "🙈",
-    "code": "see_no_evil_monkey",
+    "full_name": "see_no_evil_monkey",
+    "code": "see_no_evil",
     "code_ja": "見ざる",
     "category": "gestures",
     "unicode": "1f648"
   },
   {
     "moji": "🙉",
-    "code": "hear_no_evil_monkey",
+    "full_name": "hear_no_evil_monkey",
+    "code": "hear_no_evil",
     "code_ja": "聞かざる",
     "category": "gestures",
     "unicode": "1f649"
   },
   {
     "moji": "🙊",
-    "code": "speak_no_evil_monkey",
+    "full_name": "speak_no_evil_monkey",
+    "code": "speak_no_evil",
     "code_ja": "言わざる",
     "category": "gestures",
     "unicode": "1f64a"
   },
   {
     "moji": "🙋",
-    "code": "happy_person_raising_one_hand",
+    "full_name": "happy_person_raising_one_hand",
+    "code": "raising_hand",
     "code_ja": "キャラクター(挙手)",
     "category": "gestures",
     "unicode": "1f64b"
   },
   {
     "moji": "🙌",
-    "code": "person_raising_both_hands_in_celebration",
+    "full_name": "person_raising_both_hands_in_celebration",
+    "code": "raised_hands",
     "code_ja": "バンザイ",
     "category": "gestures",
     "unicode": "1f64c"
@@ -5016,7 +5343,8 @@
   },
   {
     "moji": "🙏",
-    "code": "person_with_folded_hands",
+    "full_name": "person_with_folded_hands",
+    "code": "pray",
     "code_ja": "お願い",
     "category": "gestures",
     "unicode": "1f64f"
@@ -5051,14 +5379,16 @@
   },
   {
     "moji": "🚄",
-    "code": "high_speed_train",
+    "full_name": "high_speed_train",
+    "code": "bullettrain_side",
     "code_ja": "新幹線",
     "category": "transportation",
     "unicode": "1f684"
   },
   {
     "moji": "🚅",
-    "code": "high_speed_train_with_bullet_nose",
+    "full_name": "high_speed_train_with_bullet_nose",
+    "code": "bullettrain_front",
     "code_ja": "新幹線2",
     "category": "transportation",
     "unicode": "1f685"
@@ -5128,7 +5458,8 @@
   },
   {
     "moji": "🚏",
-    "code": "bus_stop",
+    "full_name": "bus_stop",
+    "code": "busstop",
     "code_ja": "バス停",
     "category": "transportation",
     "unicode": "1f68f"
@@ -5184,7 +5515,8 @@
   },
   {
     "moji": "🚗",
-    "code": "car",
+    "full_name": "automobile",
+    "code": "red_car",
     "code_ja": "車",
     "category": "transportation",
     "unicode": "1f697"
@@ -5198,14 +5530,16 @@
   },
   {
     "moji": "🚙",
-    "code": "RV",
+    "full_name": "recreational_vehicle",
+    "code": "blue_car",
     "code_ja": "RV車",
     "category": "transportation",
     "unicode": "1f699"
   },
   {
     "moji": "🚚",
-    "code": "delivery_truck",
+    "full_name": "delivery_truck",
+    "code": "truck",
     "code_ja": "トラック",
     "category": "transportation",
     "unicode": "1f69a"
@@ -5282,7 +5616,8 @@
   },
   {
     "moji": "🚥",
-    "code": "horizontal_traffic_light",
+    "full_name": "horizontal_traffic_light",
+    "code": "traffic_light",
     "code_ja": "信号(横)",
     "category": "objects",
     "unicode": "1f6a5"
@@ -5296,14 +5631,16 @@
   },
   {
     "moji": "🚧",
-    "code": "construction_sign",
+    "full_name": "construction_sign",
+    "code": "construction",
     "code_ja": "工事中",
     "category": "objects",
     "unicode": "1f6a7"
   },
   {
     "moji": "🚨",
-    "code": "police_cars_revolving_light",
+    "full_name": "police_cars_revolving_light",
+    "code": "rotating_light",
     "code_ja": "パトカーのランプ",
     "category": "objects",
     "unicode": "1f6a8"
@@ -5331,49 +5668,56 @@
   },
   {
     "moji": "🚬",
-    "code": "smoking_symbol",
+    "full_name": "smoking_symbol",
+    "code": "smoking",
     "code_ja": "喫煙",
     "category": "symbols",
     "unicode": "1f6ac"
   },
   {
     "moji": "🚭",
-    "code": "no_smoking_symbol",
+    "full_name": "no_smoking_symbol",
+    "code": "no_smoking",
     "code_ja": "禁煙",
     "category": "symbols",
     "unicode": "1f6ad"
   },
   {
     "moji": "🚮",
-    "code": "put_litter_in_its_place_symbol",
+    "full_name": "put_litter_in_its_place_symbol",
+    "code": "put_litter_in_its_place",
     "code_ja": "ゴミ箱",
     "category": "symbols",
     "unicode": "1f6ae"
   },
   {
     "moji": "🚯",
-    "code": "do_not_litter_symbol",
+    "full_name": "do_not_litter_symbol",
+    "code": "do_not_litter",
     "code_ja": "ポイ捨て禁止",
     "category": "symbols",
     "unicode": "1f6af"
   },
   {
     "moji": "🚰",
-    "code": "potable_water_symbol",
+    "full_name": "potable_water_symbol",
+    "code": "potable_water",
     "code_ja": "飲料水",
     "category": "symbols",
     "unicode": "1f6b0"
   },
   {
     "moji": "🚱",
-    "code": "non_potable_water_symbol",
+    "full_name": "non_potable_water_symbol",
+    "code": "non_potable_water",
     "code_ja": "非飲料水",
     "category": "symbols",
     "unicode": "1f6b1"
   },
   {
     "moji": "🚲",
-    "code": "bicycle",
+    "full_name": "bicycle",
+    "code": "bike",
     "code_ja": "自転車",
     "category": "transportation",
     "unicode": "1f6b2"
@@ -5401,8 +5745,9 @@
   },
   {
     "moji": "🚶",
-    "code": "pedestrian",
-    "code_ja": "歩く人",
+    "full_name": "pedestrian",
+    "code": "walking",
+    "code_ja": "ウォーキング",
     "category": "people",
     "unicode": "1f6b6"
   },
@@ -5422,14 +5767,16 @@
   },
   {
     "moji": "🚹",
-    "code": "mens_symbol",
+    "full_name": "mens_symbol",
+    "code": "mens",
     "code_ja": "男性マーク",
     "category": "symbols",
     "unicode": "1f6b9"
   },
   {
     "moji": "🚺",
-    "code": "womens_symbol",
+    "full_name": "womens_symbol",
+    "code": "womens",
     "code_ja": "女性マーク",
     "category": "symbols",
     "unicode": "1f6ba"
@@ -5457,7 +5804,8 @@
   },
   {
     "moji": "🚾",
-    "code": "water_closet",
+    "full_name": "water_closet",
+    "code": "wc",
     "code_ja": "トイレマーク",
     "category": "symbols",
     "unicode": "1f6be"
@@ -5513,112 +5861,128 @@
   },
   {
     "moji": "#️⃣",
-    "code": "hash_key",
+    "full_name": "number_sign",
+    "code": "hash",
     "code_ja": "#",
     "category": "symbols",
     "unicode": "002320e3"
   },
   {
     "moji": "️1️⃣",
-    "code": "keycap_1",
+    "full_name": "digit_one",
+    "code": "one",
     "code_ja": "1",
     "category": "symbols",
     "unicode": "003120e3"
   },
   {
     "moji": "️2️⃣",
-    "code": "keycap_2",
+    "full_name": "digit_two",
+    "code": "two",
     "code_ja": "2",
     "category": "symbols",
     "unicode": "003220e3"
   },
   {
     "moji": "️3️⃣",
-    "code": "keycap_3",
+    "full_name": "digit_three",
+    "code": "three",
     "code_ja": "3",
     "category": "symbols",
     "unicode": "003320e3"
   },
   {
     "moji": "️4️⃣",
-    "code": "keycap_4",
+    "full_name": "digit_four",
+    "code": "four",
     "code_ja": "4",
     "category": "symbols",
     "unicode": "003420e3"
   },
   {
     "moji": "️5️⃣",
-    "code": "keycap_5",
+    "full_name": "digit_five",
+    "code": "five",
     "code_ja": "5",
     "category": "symbols",
     "unicode": "003520e3"
   },
   {
     "moji": "️6️⃣",
-    "code": "keycap_6",
+    "full_name": "digit_six",
+    "code": "six",
     "code_ja": "6",
     "category": "symbols",
     "unicode": "003620e3"
   },
   {
     "moji": "️7️⃣",
-    "code": "keycap_7",
+    "full_name": "digit_seven",
+    "code": "seven",
     "code_ja": "7",
     "category": "symbols",
     "unicode": "003720e3"
   },
   {
     "moji": "️8️⃣",
-    "code": "keycap_8",
+    "full_name": "digit_eight",
+    "code": "eight",
     "code_ja": "8",
     "category": "symbols",
     "unicode": "003820e3"
   },
   {
     "moji": "️9️⃣",
-    "code": "keycap_9",
+    "full_name": "digit_nine",
+    "code": "nine",
     "code_ja": "9",
     "category": "symbols",
     "unicode": "003920e3"
   },
   {
     "moji": "️0️⃣",
-    "code": "keycap_0",
+    "full_name": "digit_zero",
+    "code": "zero",
     "code_ja": "0",
     "category": "symbols",
     "unicode": "003020e3"
   },
   {
     "moji": "©",
-    "code": "copyright_sign",
+    "full_name": "copyright_sign",
+    "code": "copyright",
     "code_ja": "コピーライトマーク",
     "category": "symbols",
     "unicode": "00a9"
   },
   {
     "moji": "®",
-    "code": "registered_sign",
+    "full_name": "registered_sign",
+    "code": "registered",
     "code_ja": "レジスタードマーク",
     "category": "symbols",
     "unicode": "00ae"
   },
   {
     "moji": "‼",
-    "code": "double_exclamation_mark",
+    "full_name": "double_exclamation_mark",
+    "code": "bangbang",
     "code_ja": "！！",
     "category": "abstract",
     "unicode": "203c"
   },
   {
     "moji": "⁉",
-    "code": "exclamation_question_mark",
+    "full_name": "exclamation_question_mark",
+    "code": "interrobang",
     "code_ja": "！？",
     "category": "abstract",
     "unicode": "2049"
   },
   {
     "moji": "™",
-    "code": "trade_mark_sign",
+    "full_name": "trade_mark_sign",
+    "code": "tm",
     "code_ja": "トレードマーク",
     "category": "symbols",
     "unicode": "2122"
@@ -5646,28 +6010,32 @@
   },
   {
     "moji": "↖",
-    "code": "north_west_arrow",
+    "full_name": "north_west_arrow",
+    "code": "arrow_upper_left",
     "code_ja": "左斜め上向き矢印",
     "category": "abstract",
     "unicode": "2196"
   },
   {
     "moji": "↗",
-    "code": "north_east_arrow",
+    "full_name": "north_east_arrow",
+    "code": "arrow_upper_right",
     "code_ja": "右斜め上向き矢印",
     "category": "abstract",
     "unicode": "2197"
   },
   {
     "moji": "↘",
-    "code": "south_east_arrow",
+    "full_name": "south_east_arrow",
+    "code": "arrow_lower_right",
     "code_ja": "右斜め下向き矢印",
     "category": "abstract",
     "unicode": "2198"
   },
   {
     "moji": "↙",
-    "code": "south_west_arrow",
+    "full_name": "south_west_arrow",
+    "code": "arrow_lower_left",
     "code_ja": "左斜め下向き矢印",
     "category": "abstract",
     "unicode": "2199"
@@ -5681,7 +6049,8 @@
   },
   {
     "moji": "↪",
-    "code": "rightwards_arrow_with_hook",
+    "full_name": "rightwards_arrow_with_hook",
+    "code": "arrow_right_hook",
     "code_ja": "回り矢印2",
     "category": "abstract",
     "unicode": "21aa"
@@ -5702,28 +6071,32 @@
   },
   {
     "moji": "⏩",
-    "code": "black_right_pointing_double_triangle",
+    "full_name": "black_right_pointing_double_triangle",
+    "code": "fast_forward",
     "code_ja": "右向き三角2",
     "category": "abstract",
     "unicode": "23e9"
   },
   {
     "moji": "⏪",
-    "code": "black_left_pointing_double_triangle",
+    "full_name": "black_left_pointing_double_triangle",
+    "code": "rewind",
     "code_ja": "左向き三角2",
     "category": "abstract",
     "unicode": "23ea"
   },
   {
     "moji": "⏫",
-    "code": "black_up_pointing_double_triangle",
+    "full_name": "black_up_pointing_double_triangle",
+    "code": "arrow_double_up",
     "code_ja": "上向き三角2",
     "category": "abstract",
     "unicode": "23eb"
   },
   {
     "moji": "⏬",
-    "code": "black_down_pointing_double_triangle",
+    "full_name": "black_down_pointing_double_triangle",
+    "code": "arrow_double_down",
     "code_ja": "下向き三角2",
     "category": "abstract",
     "unicode": "23ec"
@@ -5737,14 +6110,16 @@
   },
   {
     "moji": "⏳",
-    "code": "hourglass_with_flowing_sand",
+    "full_name": "hourglass_with_flowing_sand",
+    "code": "hourglass_flowing_sand",
     "code_ja": "砂時計2",
     "category": "objects",
     "unicode": "23f3"
   },
   {
     "moji": "Ⓜ️",
-    "code": "circled_latin_capital_letter_m",
+    "full_name": "circled_latin_capital_letter_m",
+    "code": "m",
     "code_ja": "Mマーク",
     "category": "symbols",
     "unicode": "24c2"
@@ -5765,14 +6140,16 @@
   },
   {
     "moji": "▶",
-    "code": "black_right_pointing_triangle",
+    "full_name": "black_right_pointing_triangle",
+    "code": "arrow_forward",
     "code_ja": "右向き三角",
     "category": "abstract",
     "unicode": "25b6"
   },
   {
     "moji": "◀",
-    "code": "black_left_pointing_triangle",
+    "full_name": "black_left_pointing_triangle",
+    "code": "arrow_backward",
     "code_ja": "左向き三角",
     "category": "abstract",
     "unicode": "25c0"
@@ -5807,7 +6184,8 @@
   },
   {
     "moji": "☀",
-    "code": "sun",
+    "full_name": "black_sun_with_rays",
+    "code": "sunny",
     "code_ja": "晴れ",
     "category": "nature",
     "unicode": "2600"
@@ -5821,7 +6199,8 @@
   },
   {
     "moji": "☎",
-    "code": "black_telephone",
+    "full_name": "black_telephone",
+    "code": "telephone",
     "code_ja": "黒電話",
     "category": "objects",
     "unicode": "260e"
@@ -5835,28 +6214,32 @@
   },
   {
     "moji": "☔",
-    "code": "umbrella_with_rain_drops",
+    "full_name": "umbrella_with_rain_drops",
+    "code": "umbrella",
     "code_ja": "雨",
     "category": "nature",
     "unicode": "2614"
   },
   {
     "moji": "☕",
-    "code": "hot_beverage",
+    "full_name": "hot_beverage",
+    "code": "coffee",
     "code_ja": "コーヒー",
     "category": "objects",
     "unicode": "2615"
   },
   {
     "moji": "☝",
-    "code": "white_up_pointing_index",
+    "full_name": "white_up_pointing_index",
+    "code": "point_up",
     "code_ja": "指さし",
     "category": "gestures",
     "unicode": "261d"
   },
   {
     "moji": "☺",
-    "code": "smiling_face",
+    "full_name": "white_smiling_face",
+    "code": "relaxed",
     "code_ja": "スマイルフェイス",
     "category": "faces",
     "unicode": "263a"
@@ -5947,48 +6330,55 @@
   },
   {
     "moji": "♠",
-    "code": "black_spade_suit",
+    "full_name": "black_spade_suit",
+    "code": "spades",
     "code_ja": "スペード",
     "category": "symbols",
     "unicode": "2660"
   },
   {
     "moji": "♣",
-    "code": "black_club_suit",
+    "full_name": "black_club_suit",
+    "code": "clubs",
     "code_ja": "クラブ",
     "category": "symbols",
     "unicode": "2663"
   },
   {
     "moji": "♥",
-    "code": "heart_suit",
+    "full_name": "heart_suit",
+    "code": "hearts",
     "code_ja": "ハート",
     "category": "symbols",
     "unicode": "2665"
   },
   {
     "moji": "♦",
-    "code": "black_diamond_suit",
+    "full_name": "black_diamond_suit",
+    "code": "diamonds",
     "code_ja": "ダイヤ",
     "category": "symbols",
     "unicode": "2666"
   },
   {
     "moji": "♨",
-    "code": "hot_springs",
+    "full_name": "hot_springs",
+    "code": "hotsprings",
     "code_ja": "温泉",
     "category": "places",
     "unicode": "2668"
   },
   {
     "moji": "♻",
-    "code": "black_universal_recycling_symbol",
+    "full_name": "black_universal_recycling_symbol",
+    "code": "recycle",
     "code_ja": "リサイクルマーク",
     "category": "symbols",
     "unicode": "267b"
   },
   {
     "moji": "♿",
+    "full_name": "wheelchair_symbol",
     "code": "wheelchair",
     "code_ja": "車椅子マーク",
     "category": "symbols",
@@ -6003,35 +6393,40 @@
   },
   {
     "moji": "⚠",
-    "code": "warning_sign",
+    "full_name": "warning_sign",
+    "code": "warning",
     "code_ja": "注意",
     "category": "symbols",
     "unicode": "26a0"
   },
   {
     "moji": "⚡",
-    "code": "high_voltage_sign",
+    "full_name": "high_voltage_sign",
+    "code": "zap",
     "code_ja": "イナズマ",
     "category": "nature",
     "unicode": "26a1"
   },
   {
     "moji": "⚪",
-    "code": "medium_white_circle",
+    "full_name": "medium_white_circle",
+    "code": "white_circle",
     "code_ja": "中丸(白)",
     "category": "abstract",
     "unicode": "26aa"
   },
   {
     "moji": "⚫",
-    "code": "medium_black_circle",
+    "full_name": "medium_black_circle",
+    "code": "black_circle",
     "code_ja": "中丸(黒)",
     "category": "abstract",
     "unicode": "26ab"
   },
   {
     "moji": "⚽",
-    "code": "soccer_ball",
+    "full_name": "soccer_ball",
+    "code": "soccer",
     "code_ja": "サッカー",
     "category": "objects",
     "unicode": "26bd"
@@ -6045,14 +6440,16 @@
   },
   {
     "moji": "⛄",
-    "code": "snowman_without_snow",
+    "full_name": "snowman_without_snow",
+    "code": "snowman",
     "code_ja": "雪だるま",
     "category": "nature",
     "unicode": "26c4"
   },
   {
     "moji": "⛅",
-    "code": "sun_behind_cloud",
+    "full_name": "sun_behind_cloud",
+    "code": "partly_sunny",
     "code_ja": "晴れときどき曇り",
     "category": "nature",
     "unicode": "26c5"
@@ -6087,7 +6484,8 @@
   },
   {
     "moji": "⛳",
-    "code": "flag_in_hole",
+    "full_name": "flag_in_hole",
+    "code": "golf",
     "code_ja": "ゴルフ",
     "category": "objects",
     "unicode": "26f3"
@@ -6108,21 +6506,24 @@
   },
   {
     "moji": "⛽",
-    "code": "fuel_pump",
+    "full_name": "fuel_pump",
+    "code": "fuelpump",
     "code_ja": "ガソリンスタンド",
     "category": "places",
     "unicode": "26fd"
   },
   {
     "moji": "✂",
-    "code": "black_scissors",
+    "full_name": "black_scissors",
+    "code": "scissors",
     "code_ja": "はさみ",
     "category": "objects",
     "unicode": "2702"
   },
   {
     "moji": "✅",
-    "code": "white_heavy_check_mark",
+    "full_name": "white_heavy_check_mark",
+    "code": "white_check_mark",
     "code_ja": "チェックマーク2",
     "category": "abstract",
     "unicode": "2705"
@@ -6143,7 +6544,8 @@
   },
   {
     "moji": "✊",
-    "code": "raised_fist",
+    "full_name": "raised_fist",
+    "code": "fist",
     "code_ja": "グー",
     "category": "gestures",
     "unicode": "270a"
@@ -6157,14 +6559,16 @@
   },
   {
     "moji": "✌",
-    "code": "victory_hand",
+    "full_name": "victory_hand",
+    "code": "v",
     "code_ja": "チョキ",
     "category": "gestures",
     "unicode": "270c"
   },
   {
     "moji": "✏",
-    "code": "pencil",
+    "full_name": "pencil",
+    "code": "pencil2",
     "code_ja": "鉛筆",
     "category": "objects",
     "unicode": "270f"
@@ -6227,7 +6631,8 @@
   },
   {
     "moji": "❌",
-    "code": "cross_mark",
+    "full_name": "cross_mark",
+    "code": "x",
     "code_ja": "×",
     "category": "abstract",
     "unicode": "274c"
@@ -6241,34 +6646,39 @@
   },
   {
     "moji": "❓",
-    "code": "black_question_mark_ornament",
+    "full_name": "black_question_mark_ornament",
+    "code": "question",
     "code_ja": "？2",
     "category": "abstract",
     "unicode": "2753"
   },
   {
     "moji": "❔",
-    "code": "white_question_mark_ornament",
+    "full_name": "white_question_mark_ornament",
+    "code": "grey_question",
     "code_ja": "？",
     "category": "abstract",
     "unicode": "2754"
   },
   {
     "moji": "❕",
-    "code": "white_exclamation_mark_ornament",
+    "full_name": "white_exclamation_mark_ornament",
+    "code": "grey_exclamation",
     "code_ja": "！",
     "category": "abstract",
     "unicode": "2755"
   },
   {
     "moji": "❗",
-    "code": "heavy_exclamation_mark_symbol",
+    "full_name": "heavy_exclamation_mark_symbol",
+    "code": "exclamation",
     "code_ja": "！2",
     "category": "abstract",
     "unicode": "2757"
   },
   {
     "moji": "❤",
+    "full_name": "heavy_black_heart",
     "code": "heart",
     "code_ja": "ハート",
     "category": "abstract",
@@ -6297,7 +6707,8 @@
   },
   {
     "moji": "➡",
-    "code": "black_rightwards_arrow",
+    "full_name": "black_rightwards_arrow",
+    "code": "arrow_right",
     "code_ja": "右向き矢印",
     "category": "abstract",
     "unicode": "27a1"
@@ -6318,35 +6729,40 @@
   },
     {
     "moji": "⤴",
-    "code": "arrow_pointing_rightwards_then_curving_upwards",
+    "full_name": "arrow_pointing_rightwards_then_curving_upwards",
+    "code": "arrow_heading_up",
     "code_ja": "上向きカーブ矢印",
     "category": "abstract",
     "unicode": "2934"
   },
   {
     "moji": "⤵",
-    "code": "arrow_pointing_rightwards_then_curving_downwards",
+    "full_name": "arrow_pointing_rightwards_then_curving_downwards",
+    "code": "arrow_heading_down",
     "code_ja": "下向きカーブ矢印",
     "category": "abstract",
     "unicode": "2935"
   },
   {
     "moji": "⬅",
-    "code": "leftwards_black_arrow",
+    "full_name": "leftwards_black_arrow",
+    "code": "arrow_left",
     "code_ja": "左向き矢印",
     "category": "abstract",
     "unicode": "2b05"
   },
   {
     "moji": "⬆",
-    "code": "upwards_black_arrow",
+    "full_name": "upwards_black_arrow",
+    "code": "arrow_up",
     "code_ja": "上向き矢印",
     "category": "abstract",
     "unicode": "2b06"
   },
   {
     "moji": "⬇",
-    "code": "downwards_black_arrow",
+    "full_name": "downwards_black_arrow",
+    "code": "arrow_down",
     "code_ja": "下向き矢印",
     "category": "abstract",
     "unicode": "2b07"
@@ -6367,14 +6783,16 @@
   },
   {
     "moji": "⭐",
-    "code": "white_medium_star",
+    "full_name": "white_medium_star",
+    "code": "star",
     "code_ja": "中星(白)",
     "category": "abstract",
     "unicode": "2b50"
   },
   {
     "moji": "⭕",
-    "code": "heavy_large_circle",
+    "full_name": "heavy_large_circle",
+    "code": "o",
     "code_ja": "○",
     "category": "abstract",
     "unicode": "2b55"
@@ -6395,14 +6813,16 @@
   },
   {
     "moji": "㊗",
-    "code": "circled_ideograph_congratulation",
+    "full_name": "circled_ideograph_congratulation",
+    "code": "congratulation",
     "code_ja": "祝マーク",
     "category": "symbols",
     "unicode": "3297"
   },
   {
     "moji": "㊙",
-    "code": "circled_ideograph_secret",
+    "full_name": "circled_ideograph_secret",
+    "code": "secret",
     "code_ja": "マル秘",
     "category": "symbols",
     "unicode": "3299"

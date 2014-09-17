@@ -706,8 +706,8 @@
     "category": "nature"
   },
   {
-    "code": "extraterrestrial_alien",
-    "code_ja": "宇宙人",
+    "code": "UFO",
+    "code_ja": "UFO",
     "category": "people"
   },
   {
@@ -1164,5 +1164,10 @@
     "code": "running",
     "code_ja": "ランニング",
     "category": "people"
+  },
+  {
+    "code": "9ball",
+    "code_ja": "ビリヤード2",
+    "category": "object"
   }
 ]
