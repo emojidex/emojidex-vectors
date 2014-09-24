@@ -1,128 +1,161 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-	 y="0px" width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+	 y="0px" width="64px" height="64px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="32.0004883" y1="69.875" x2="32.0004845" y2="0.374733">
+	<stop  offset="0" style="stop-color:#545454"/>
+	<stop  offset="1" style="stop-color:#141414"/>
+</linearGradient>
+<rect style="fill:url(#SVGID_1_);" width="64" height="64"/>
 <g>
-	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="32.0005" y1="69.875" x2="32.0005" y2="0.3747">
-		<stop  offset="0" style="stop-color:#545454"/>
-		<stop  offset="1" style="stop-color:#141414"/>
-	</linearGradient>
-	<rect fill="url(#SVGID_1_)" width="64" height="64"/>
+	<rect x="26.1171875" y="54.96875" width="11.765625" height="5.78125"/>
+	<rect x="13.859375" y="55.75" width="6.25" height="3.375"/>
+	<rect x="43.890625" y="55.75" width="6.25" height="3.375"/>
+</g>
+<g>
 	<g>
-		<rect x="27.258" y="54.969" width="11.766" height="5.031"/>
-		<rect x="15" y="55.75" width="6.25" height="3"/>
-		<rect x="45.031" y="55.75" width="6.25" height="3"/>
+		<path style="fill:#ECECED;" d="M52.5625,53.6875c0,1.6503906-1.3496094,3-3,3h-34.875c-1.6499023,0-3-1.3496094-3-3V12.815918
+			c0-1.6499023,1.3500977-3,3-3h34.875c1.6503906,0,3,1.3500977,3,3V53.6875z"/>
+		<path d="M49.5625,57.1875h-34.875c-1.9296875,0-3.5-1.5703125-3.5-3.5V12.815918c0-1.9296875,1.5703125-3.5,3.5-3.5h34.875
+			c1.9296875,0,3.5,1.5703125,3.5,3.5V53.6875C53.0625,55.6171875,51.4921875,57.1875,49.5625,57.1875z M14.6875,10.315918
+			c-1.378418,0-2.5,1.121582-2.5,2.5V53.6875c0,1.3789063,1.121582,2.5,2.5,2.5h34.875c1.3789063,0,2.5-1.1210938,2.5-2.5V12.815918
+			c0-1.378418-1.1210938-2.5-2.5-2.5H14.6875z"/>
 	</g>
+	<rect x="11.6875" y="36.875" style="fill:#939393;" width="40.875" height="5.875"/>
+	<path d="M52.5625,37c-7.4072266,3.0878906-14.1875,4.125-20.4375,4.125c-5.1835938,0-16.9248047-1.0664063-20.4375-4.125
+		c0-8.375,0-23.746582,0-23.746582h40.875C52.5625,13.253418,52.5625,30.625,52.5625,37z"/>
 	<g>
-		<path fill="#ECECED" d="M52.438,53.688c0,1.65-1.35,3-3,3H14.563c-1.65,0-3-1.35-3-3V12.816c0-1.65,1.35-3,3-3h34.875
-			c1.65,0,3,1.35,3,3V53.688z"/>
-		<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M52.438,53.688c0,1.65-1.35,3-3,3H14.563c-1.65,0-3-1.35-3-3V12.816
-			c0-1.65,1.35-3,3-3h34.875c1.65,0,3,1.35,3,3V53.688z"/>
-	</g>
-	<rect x="11.563" y="36.875" fill="#939393" width="40.875" height="5.875"/>
-	<path d="M52.438,37C45.03,40.088,38.25,41.125,32,41.125c-5.184,0-16.925-1.066-20.438-4.125c0-8.375,0-23.747,0-23.747h40.875
-		C52.438,13.253,52.438,30.625,52.438,37z"/>
-	<g>
-		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="19.5278" y1="9.9897" x2="50.5632" y2="50.4753">
-			<stop  offset="0" style="stop-color:#BFE0FF"/>
-			<stop  offset="1" style="stop-color:#10005F"/>
-		</linearGradient>
-		
-			<rect x="14.188" y="19.753" fill="url(#SVGID_2_)" stroke="#000000" stroke-width="0.8892" stroke-miterlimit="10" width="35.625" height="13.013"/>
-		<polygon opacity="0.58" fill="#FFFFFF" points="49.313,19.753 43.031,19.753 36.25,32.827 49.813,32.827 		"/>
-		
-			<rect x="14.188" y="19.753" fill="none" stroke="#000000" stroke-width="0.8909" stroke-miterlimit="10" width="35.625" height="13.074"/>
-	</g>
-	<rect x="11.563" y="45.25" fill="#0473B7" width="40.875" height="6.75"/>
-	<g>
-		<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M52.438,53.688c0,1.65-1.35,3-3,3H14.563c-1.65,0-3-1.35-3-3V12.816
-			c0-1.65,1.35-3,3-3h34.875c1.65,0,3,1.35,3,3V53.688z"/>
-	</g>
-	<g>
-		<rect x="11.563" y="43.648" width="8.063" height="8.125"/>
 		<g>
-			<rect x="15.594" y="44.977" fill="#FFD524" width="3.188" height="4.005"/>
-			<rect x="15.594" y="48.981" fill="#FF2727" width="3.188" height="1.464"/>
+			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="19.652832" y1="9.9902344" x2="50.6881561" y2="50.4757538">
+				<stop  offset="0" style="stop-color:#BFE0FF"/>
+				<stop  offset="1" style="stop-color:#10005F"/>
+			</linearGradient>
+			<rect x="14.3125" y="19.753418" style="fill:url(#SVGID_2_);" width="35.625" height="13.0126953"/>
+			<path d="M50.3818359,33.2109375H13.8676758V19.3085938h36.5141602V33.2109375z M14.7573242,32.3212891h34.7358398V20.1982422
+				H14.7573242V32.3212891z"/>
+		</g>
+		<polygon style="opacity:0.58;fill:#FFFFFF;" points="49.9375,19.753418 43.15625,19.753418 36.375,32.8271484 49.9375,32.8271484 
+					"/>
+		<path d="M50.3828125,33.2724609h-36.515625V19.3081055h36.515625V33.2724609z M14.7578125,32.3818359h34.734375V20.1987305
+			h-34.734375V32.3818359z"/>
+	</g>
+	<rect x="11.6875" y="45.25" style="fill:#0473B7;" width="40.875" height="6.75"/>
+	<path d="M49.5625,57.1875h-34.875c-1.9296875,0-3.5-1.5703125-3.5-3.5V12.815918c0-1.9296875,1.5703125-3.5,3.5-3.5h34.875
+		c1.9296875,0,3.5,1.5703125,3.5,3.5V53.6875C53.0625,55.6171875,51.4921875,57.1875,49.5625,57.1875z M14.6875,10.315918
+		c-1.378418,0-2.5,1.121582-2.5,2.5V53.6875c0,1.3789063,1.121582,2.5,2.5,2.5h34.875c1.3789063,0,2.5-1.1210938,2.5-2.5V12.815918
+		c0-1.378418-1.1210938-2.5-2.5-2.5H14.6875z"/>
+	<g>
+		<rect x="11.6875" y="43.6484375" width="8.0625" height="8.125"/>
+		<g>
+			<rect x="15.71875" y="44.9765625" style="fill:#FFD524;" width="3.1875" height="4.0048828"/>
+			<rect x="15.71875" y="48.9814453" style="fill:#FF2727;" width="3.1875" height="1.4638672"/>
 		</g>
 		<g>
 			<defs>
-				<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="8.563" y="37.719" width="17.25" height="17.25">
+				<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="8.6875" y="37.71875" width="17.25" height="17.25">
 					<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
 					<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
 				</filter>
 			</defs>
-			<mask maskUnits="userSpaceOnUse" x="8.563" y="37.719" width="17.25" height="17.25" id="SVGID_3_">
-				<g filter="url(#Adobe_OpacityMaskFilter)">
+			<mask maskUnits="userSpaceOnUse" x="8.6875" y="37.71875" width="17.25" height="17.25" id="SVGID_3_">
+				<g style="filter:url(#Adobe_OpacityMaskFilter);">
 					
-						<image overflow="visible" width="22" height="22" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
-EAMCAwYAAAGKAAABsgAAAfn/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+						<image style="overflow:visible;" width="89" height="89" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEBLAEsAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAIrAAADUQAABLT/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
-JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIABYAFgMBIgACEQEDEQH/
-xAB2AAEBAQEBAAAAAAAAAAAAAAAABQYCBwEBAAAAAAAAAAAAAAAAAAAAABAAAgICAwEAAAAAAAAA
-AAAAAwQBAiATFAUGJBEAAgEDAwUAAAAAAAAAAAAAAREAMQISQQMEgZHRIhMSAQAAAAAAAAAAAAAA
-AAAAACD/2gAMAwEAAhEDEQAAAMRW61x5urCVWCOD/9oACAECAAEFAMP/2gAIAQMAAQUAw//aAAgB
-AQABBQBJIjhC+ZvUUqFhnzFxVsYoNBCCnvU5agty97r+jkf/2gAIAQICBj8AH//aAAgBAwIGPwAf
-/9oACAEBAQY/AMLKamZWkuDjke5KEIuTcNKTZIWIJfYx8YE3agRXbJFqrkPM1+z6uf/Z" transform="matrix(1 0 0 1 6 35)">
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAGAAYAMBIgACEQEDEQH/
+xACVAAACAwEBAQAAAAAAAAAAAAAFBgADBwQCAQEBAAAAAAAAAAAAAAAAAAAAABAAAQMDAwMEAQUA
+AAAAAAAAAAECAwQHFzQFNhARBiBQIRIxIjITFRYRAAADAgwGAgMBAAAAAAAAAAACAwExECARsXKS
+stPjBDR0IRITpAU1URRBMkJSEgEAAAAAAAAAAAAAAAAAAABQ/9oADAMBAAIRAxEAAADrCVqY4RPg
+4RQ9jZFLyN8T4ODVkuiAdTbFM+9EJlF3fcCuY7zi9SYGFWiZ3ogHVWpXCJXhKl90uKOfu5wSJOCQ
+VomeaGB1doVA0VBFQtbw3F/POYoE9wo49DzvRAOptimXEw1ow3A7grzcXOXD54Jomd6IB1PVhJn8
+0CGf+n6CB80CGfzQIZ/olbEf/9oACAECAAEFAPZP/9oACAEDAAEFAPZP/9oACAEBAAEFAPLvM902
+Pdcnb8ZO34ydvxk7fjJ2/GTt+Mnb8ZO34ydvxk7fjwvySu8giuTyHqjHKfwvFhegrVT0Wt09yeQi
+J3IqdXEdKJSjqUlpSWFW9bW6e5PISnh+ywQEcAkA6AlgKiAmj+qlrdPcnkLE7upYyCMjjEjHRksZ
+URlVGL+bW6e5PIYE/XSp8QIRp8Ig5CVCoQq0Hfutbp7k8hhXs+lcQOI3COHOJXFQ4q3DvlbW6e5P
+IWr2WllIJSOUSUdKSylRKVUnfpa3T3J5CQS/VYKgjqBKgdUEtQVFQSPVylrdPcnkPSOZWkdUJVjq
+olqu4+RXL0tbp7k8h691Pu4Vzl9NrdP5L4R/fbjisxWYrMVmKzFZisxWYrMVni3jH+dj/9oACAEC
+AgY/ABP/2gAIAQMCBj8AE//aAAgBAQEGPwBmSyiSB0mpFUlVKdppTNMz+VCs/A0+UqKXw0+UqKXw
+0+UqKXw0+UqKXw0+UqKXw0+UqKXw0+UqKXw0+UqKXw0+UqKXw0+UqKXwzZ84mkm3LmIwnRYYsvOw
+0svOc/wC7dO0eJwZA4cYnkaaUxwXbp2jw8Q4ODg6J5GmlMcF26do8EoZwDg4ODg2HyNNKY4Lt07R
+wwMDIrQ2DyNNKY4Lt07R4GRmhoaPI00pjgu3TtHgYGRWhoaPI00pjgu3TtHEoYGRWhsHkaaUxwXb
+p2jwSB4eHh4eG8YfI00pjgu3TtHiPDw8PieRppTHBdunaPFeHxfI00pjhme+79aRMqfT6XU/Vpmy
+83UL8/A9p2+MPadvjD2nb4w9p2+MPadvjD2nb4w9p2+MPadvjD2nb4w9p2+MMyT7X2vsNI2Xp9Pl
+5GGZ/s8rx//Z" transform="matrix(0.24 0 0 0.24 6.6875 35.71875)">
 					</image>
 				</g>
 			</mask>
-			<g mask="url(#SVGID_3_)">
-				<circle fill="#FFF6C0" cx="17.188" cy="46.344" r="8.625"/>
+			<g style="mask:url(#SVGID_3_);">
+				<circle style="fill:#FFF6C0;" cx="17.3125" cy="46.34375" r="8.625"/>
 			</g>
 		</g>
 	</g>
 	<g>
-		<rect x="44.125" y="43.648" width="8.063" height="8.125"/>
+		<rect x="44.25" y="43.6484375" width="8.0625" height="8.125"/>
 		<g>
-			<rect x="44.969" y="44.977" fill="#FFD524" width="3.188" height="4.005"/>
-			<rect x="44.969" y="48.981" fill="#FF2727" width="3.188" height="1.464"/>
+			<rect x="45.09375" y="44.9765625" style="fill:#FFD524;" width="3.1875" height="4.0048828"/>
+			<rect x="45.09375" y="48.9814453" style="fill:#FF2727;" width="3.1875" height="1.4638672"/>
 		</g>
 		<g>
 			<defs>
-				<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="37.938" y="37.719" width="17.25" height="17.25">
+				<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="38.0625" y="37.71875" width="17.25" height="17.25">
 					<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
 					<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
 				</filter>
 			</defs>
-			<mask maskUnits="userSpaceOnUse" x="37.938" y="37.719" width="17.25" height="17.25" id="SVGID_4_">
-				<g filter="url(#Adobe_OpacityMaskFilter_1_)">
+			<mask maskUnits="userSpaceOnUse" x="38.0625" y="37.71875" width="17.25" height="17.25" id="SVGID_4_">
+				<g style="filter:url(#Adobe_OpacityMaskFilter_1_);">
 					
-						<image overflow="visible" width="23" height="22" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
-EAMCAwYAAAGMAAABtAAAAgL/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+						<image style="overflow:visible;" width="89" height="89" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEBLAEsAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAIrAAADOAAABGL/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
-JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIABYAFwMBIgACEQEDEQH/
-xAB4AAEBAQEBAAAAAAAAAAAAAAAABQYDBwEBAAAAAAAAAAAAAAAAAAAAABAAAQQDAQAAAAAAAAAA
-AAAAAwECEwQgBQYUEQABBAAEBwEAAAAAAAAAAAABABECEiExcQRBUWGB0TITAxIBAAAAAAAAAAAA
-AAAAAAAAIP/aAAwDAQACEQMRAAAAw1jntTzdWEeyEcH/2gAIAQIAAQUAw//aAAgBAwABBQDD/9oA
-CAEBAAEFAKlUloi8ySIlMo7PNvE0ylBBsXiXcVZ0Kpd9G9bPp//aAAgBAgIGPwAf/9oACAEDAgY/
-AB//2gAIAQEBBj8ApDuVYE2UdvL2lIRB1LI2zdcMltath+sH0sEDtwTPkE3xNWzsPKBmD97Bh1fB
-f//Z" transform="matrix(1 0 0 1 35 35)">
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAGAAXAMBIgACEQEDEQH/
+xACWAAABBQEBAAAAAAAAAAAAAAAHAAMEBQYCAQEBAAAAAAAAAAAAAAAAAAAAABAAAQQBAgUEAwEA
+AAAAAAAAAAECAwQXNAUQESESRyBQExQVFgcmEQAAAQYOAQIHAQAAAAAAAAAAEAERMQIDICGxEnKS
+w9PjBDSkNYUUExVBUYGhYlNzRBIBAAAAAAAAAAAAAAAAAAAAUP/aAAwDAQACEQMRAAAAg85Ns2Cx
+6Ngsj0axZLg2Cx6NhtwwWAVtucHsvqyIzli4U8TQRDP8WNeeFgTlgFfXLxZ2UOzHXOnCLEsYpT1F
+7TkIsCcsAreZ9L6ypbIs3Ibg5F6iEaon1IyWBOWAVtuNkyxo3zQ90rpZRIkUchrwRYE5YBW2QuQf
+ogIwHu+RgPCAgfogIH5Yp9Yf/9oACAECAAEFAPZP/9oACAEDAAEFAPZP/9oACAEBAAEFAJf6XvrJ
+cnb8ZO34ydvxk7fjJ2/GTt+Mnb8ZO34ydvxk7fj8xZ/VbGo4pG5T4XixuQVFT0ePLGoGsVyw1eYy
+qfVH1SWqPjVq8PHljUInNa0BDAMgPgHwE0BZgHN7VPHljUV283VoyGMZGfGPjJoyzGWWclPHljUV
+E61kIUGJ05D0Jk6WULacPHljUVV61nELhjuncPcTO6WXFt3Dx5Y1EL+11aUhlGSnyj5SaUsSlh/c
+p48sahF5LXn5ENgZYPsD7BNYLE/MVeanjyxqBFVCKwqDLZ9ofaJbKqOcqrw8eWNRxRVQ73CuVfT4
+8k/l3fJisxWYrMVmKzFZisxWYrMVn4X/AD3/2gAIAQICBj8AE//aAAgBAwIGPwAT/9oACAEBAQY/
+AG2DZfKIZaOYyWHnwP8A1GnylR5fDT5So8vhp8pUeXw0+UqPL4afKVHl8NPlKjy+GnylR5fDT5So
+8vhp8pUeXw0+UqPL4e9TWPJ8XyJiD+nPmzkInJR9Q9ptSwFEVB66zD2m1KSIRmCgoKCoHXWYe02p
+QgGCgoKCgoHCCddZh7TalIaEcvXWYe02pSGhHByddZh7TalIaEcHJ11mHtNqUhoRy9dZh7TalIgL
+CwsLCyJJ11mHtNqUkQjCwsLEQjL11mHtNqWCuF11mGm/dETjnOjx/mdP7hym3xhym3xhym3xhym3
+xhym3xhym3xhym3xhym3xhym3xhym3xh7H63+fxvXmfjNnTJ32SP/9k=" transform="matrix(0.24 0 0 0.24 36.0625 35.71875)">
 					</image>
 				</g>
 			</mask>
-			<g mask="url(#SVGID_4_)">
-				<circle fill="#FFF6C0" cx="46.563" cy="46.344" r="8.625"/>
+			<g style="mask:url(#SVGID_4_);">
+				<circle style="fill:#FFF6C0;" cx="46.6875" cy="46.34375" r="8.625"/>
 			</g>
 		</g>
 	</g>
-	<rect x="21.25" y="19.753" width="2.25" height="13.372"/>
-	<rect x="32" y="19.753" width="2.25" height="13.372"/>
+	<rect x="21.375" y="19.753418" width="2.25" height="13.371582"/>
+	<rect x="32.125" y="19.753418" width="2.25" height="13.371582"/>
 	<g>
-		<path fill="#F09400" d="M38.6,17.288V15.3h-0.662v-0.331h1.656V15.3h-0.662v1.988H38.6z"/>
-		<path fill="#F09400" d="M40.195,17.288v-0.331h-0.33V15.3h0.33v-0.331h0.994V15.3h0.332v1.657h-0.332v0.331H40.195z M41.189,15.3
-			h-0.994v1.657h0.994V15.3z"/>
-		<path fill="#F09400" d="M41.793,17.288v-2.319h0.33v0.994h0.332v-0.332h0.332V15.3h0.332v-0.331h0.33V15.3h-0.33v0.332h-0.332
-			v0.332h-0.332v0.331h0.332v0.332h0.332v0.332h0.33v0.331h-0.33v-0.331h-0.332v-0.332h-0.332v-0.332h-0.332v0.994H41.793z"/>
-		<path fill="#F09400" d="M44.383,17.288v-0.994h-0.33v-0.331h-0.332v-0.994h0.332v0.994h0.33v0.331h0.332v-0.331h0.332v-0.994h0.33
-			v0.994h-0.33v0.331h-0.332v0.994H44.383z"/>
-		<path fill="#F09400" d="M45.98,17.288v-0.331h-0.332V15.3h0.332v-0.331h0.994V15.3h0.33v1.657h-0.33v0.331H45.98z M46.975,15.3
-			H45.98v1.657h0.994V15.3z"/>
+		<path style="fill:#F09400;" d="M38.7246094,17.2880859v-1.9882813H38.0625V14.96875h1.65625v0.3310547h-0.6621094v1.9882813
+			H38.7246094z"/>
+		<path style="fill:#F09400;" d="M40.3203125,17.2880859v-0.3310547h-0.3300781v-1.6572266h0.3300781V14.96875h0.9941406v0.3310547
+			h0.3320313v1.6572266h-0.3320313v0.3310547H40.3203125z M41.3144531,15.2998047h-0.9941406v1.6572266h0.9941406V15.2998047z"/>
+		<path style="fill:#F09400;" d="M41.9179688,17.2880859V14.96875h0.3300781v0.9941406h0.3320313v-0.331543h0.3320313v-0.331543
+			h0.3320313V14.96875h0.3300781v0.3310547h-0.3300781v0.331543h-0.3320313v0.331543h-0.3320313v0.3310547h0.3320313v0.331543
+			h0.3320313v0.331543h0.3300781v0.3310547h-0.3300781v-0.3310547h-0.3320313v-0.331543h-0.3320313v-0.331543h-0.3320313v0.9941406
+			H41.9179688z"/>
+		<path style="fill:#F09400;" d="M44.5078125,17.2880859v-0.9941406h-0.3300781v-0.3310547h-0.3320313V14.96875h0.3320313v0.9941406
+			h0.3300781v0.3310547h0.3320313v-0.3310547h0.3320313V14.96875h0.3300781v0.9941406H45.171875v0.3310547h-0.3320313v0.9941406
+			H44.5078125z"/>
+		<path style="fill:#F09400;" d="M46.1054688,17.2880859v-0.3310547h-0.3320313v-1.6572266h0.3320313V14.96875h0.9941406v0.3310547
+			h0.3300781v1.6572266h-0.3300781v0.3310547H46.1054688z M47.0996094,15.2998047h-0.9941406v1.6572266h0.9941406V15.2998047z"/>
 	</g>
-	<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="41.9707" y1="13.3447" x2="39.7207" y2="19.0947">
+	<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="42.0966797" y1="13.3452148" x2="39.8466797" y2="19.0952168">
 		<stop  offset="0" style="stop-color:#BFE0FF"/>
 		<stop  offset="1" style="stop-color:#000000"/>
 	</linearGradient>
-	<rect x="32" y="14.003" opacity="0.3" fill="url(#SVGID_5_)" width="17.813" height="4.125"/>
+	<rect x="32.125" y="14.003418" style="opacity:0.3;fill:url(#SVGID_5_);" width="17.8125" height="4.125"/>
 </g>
 </svg>

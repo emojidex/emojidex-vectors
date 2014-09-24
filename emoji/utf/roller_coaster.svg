@@ -1,65 +1,116 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-	 y="0px" width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+	 y="0px" width="64px" height="64px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
 <g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="57.7353516" y1="22.4521484" x2="57.7353516" y2="38.2212067">
+		<stop  offset="0" style="stop-color:#9F5B00"/>
+		<stop  offset="1" style="stop-color:#EBBF26"/>
+	</linearGradient>
 	
-		<rect x="55.056" y="15.75" fill-rule="evenodd" clip-rule="evenodd" fill="#FFB448" stroke="#070200" stroke-miterlimit="10" width="5.359" height="52.334"/>
-	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FFB448" stroke="#070200" stroke-miterlimit="10" points="44.332,68.5 
-		39.332,68.5 39.332,25.58 44.332,19.58 	"/>
-	
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FFB448" stroke="#070200" stroke-width="0.9231" stroke-miterlimit="10" points="
-		24.391,71.584 29.18,71.584 29.18,37.75 24.391,43.75 	"/>
-	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#0C0300" stroke="#000000" stroke-miterlimit="10" points="7.582,64.75 
-		45.044,14.083 71.915,14.083 71.915,17.75 45.923,17.75 11.293,65.75 	"/>
+		<rect x="55.0556641" y="15.75" style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_1_);" width="5.359375" height="52.3339844"/>
+	<path style="fill:#070200;" d="M60.8769531,68.5458984H54.59375V15.2885742h6.2832031V68.5458984z M55.5175781,67.6220703
+		h4.4355469V16.2114258h-4.4355469V67.6220703z"/>
+</g>
+<g>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="41.8320313" y1="25.8452148" x2="41.8320313" y2="40.5855713">
+		<stop  offset="0" style="stop-color:#9F5B00"/>
+		<stop  offset="1" style="stop-color:#EBBF26"/>
+	</linearGradient>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_2_);" points="44.3320313,68.5 39.3320313,68.5 
+		39.3320313,25.5800781 44.3320313,19.5800781 	"/>
+	<path style="fill:#070200;" d="M44.7939453,68.9619141h-5.9238281V25.4130859l5.9238281-7.1079102V68.9619141z
+		 M39.7939453,68.0380859h4.0761719V20.8549805l-4.0761719,4.8920898V68.0380859z"/>
+</g>
+<g>
+	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="26.7856445" y1="42.0830078" x2="26.7856445" y2="52.277626">
+		<stop  offset="0" style="stop-color:#9F5B00"/>
+		<stop  offset="1" style="stop-color:#EBBF26"/>
+	</linearGradient>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_3_);" points="24.390625,71.5839844 29.1801758,71.5839844 
+		29.1801758,37.75 24.390625,43.75 	"/>
+	<path style="fill:#070200;" d="M29.6416016,72.0458984h-5.7124023V43.5878906l5.7124023-7.15625V72.0458984z
+		 M24.8520508,71.1220703H28.71875V39.0683594l-3.8666992,4.8427734V71.1220703z"/>
+</g>
+<g>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#0C0300;" points="7.5820313,64.75 45.0439453,14.0834961 
+		71.9150391,14.0834961 71.9150391,17.75 45.9228516,17.75 11.293457,65.75 	"/>
+	<path d="M11.4970703,66.3222656l-4.7529297-1.2802734l38.0478516-51.4584961h27.6230469V18.25H46.1787109L11.4970703,66.3222656z
+		 M8.4199219,64.4580078l2.6699219,0.7197266L45.6669922,17.25h25.7480469v-2.6665039H45.2958984L8.4199219,64.4580078z"/>
+</g>
+<g>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#231815;" points="57.2568359,5.8334961 55.6728516,2.4169922 
+		53.6806641,2.4169922 51.1728516,9.75 56.4306641,9.75 	"/>
+	<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#231815;" cx="47.2978516" cy="12.1669922" r="1.375"/>
+	<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#231815;" cx="55.0556641" cy="12.1669922" r="1.375"/>
 	<g>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#231815" points="57.257,5.833 55.673,2.417 53.681,2.417 51.173,9.75 
-			56.431,9.75 		"/>
-		<circle fill-rule="evenodd" clip-rule="evenodd" fill="#231815" cx="47.298" cy="12.167" r="1.375"/>
-		<circle fill-rule="evenodd" clip-rule="evenodd" fill="#231815" cx="55.056" cy="12.167" r="1.375"/>
-		
-			<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#E30012" stroke="#231815" stroke-width="0.8891" stroke-miterlimit="10" points="
-			57.923,12.167 43.673,12.167 43.673,9.583 44.673,5.167 48.673,5.167 50.923,8 55.056,8 56.09,5.167 57.923,5.167 		"/>
+		<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#E30012;" points="57.9228516,12.1669922 43.6728516,12.1669922 
+			43.6728516,9.5834961 44.6728516,5.1669922 48.6728516,5.1669922 50.9228516,8 55.0556641,8 56.0898438,5.1669922 
+			57.9228516,5.1669922 		"/>
+		<path style="fill:#231815;" d="M58.3671875,12.6113281H43.2285156v-3.027832l1.0888672-4.8608398h4.5703125l2.25,2.8330078
+			h3.6074219l1.0341797-2.8330078h2.5878906V12.6113281z M44.1152344,11.7226563h13.3632813V5.6113281h-1.078125
+			l-1.0341797,2.8330078h-4.6582031l-2.25-2.8330078h-3.4296875l-0.921875,4.0703125L44.1152344,11.7226563z"/>
 	</g>
+</g>
+<g>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#231815;" points="38,9.5957031 34.2978516,8.90625 
+		33.1435547,10.5297852 37.6650391,16.8237305 40.7128906,12.5390625 	"/>
+	<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#231815;" cx="37.3886719" cy="21.3823242" r="1.3750514"/>
+	<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#231815;" cx="41.8847656" cy="15.0605469" r="1.3750514"/>
 	<g>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#231815" points="38,9.596 34.298,8.906 33.144,10.53 37.665,16.824 
-			40.713,12.539 		"/>
-		<circle fill-rule="evenodd" clip-rule="evenodd" fill="#231815" cx="37.389" cy="21.382" r="1.375"/>
-		<circle fill-rule="evenodd" clip-rule="evenodd" fill="#231815" cx="41.885" cy="15.061" r="1.375"/>
-		
-			<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#E30012" stroke="#231815" stroke-width="0.8891" stroke-miterlimit="10" points="
-			43.547,12.724 35.287,24.336 33.183,22.839 30.163,19.464 32.481,16.205 36.094,16.013 38.489,12.646 36.78,10.161 37.843,8.667 
-					"/>
+		<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#E30012;" points="43.546875,12.7241211 35.2871094,24.3364258 
+			33.1826172,22.8388672 30.1630859,19.4638672 32.4814453,16.2045898 36.09375,16.0131836 38.4892578,12.6455078 
+			36.7802734,10.1606445 37.8427734,8.6669922 		"/>
+		<path style="fill:#231815;" d="M35.3916016,24.956543l-2.4667969-1.7553711l-3.3295898-3.7055664l2.6484375-3.7236328
+			l3.6118164-0.1914063l2.0908203-2.9394531L36.2373047,10.15625l1.5009766-2.109375l6.4287109,4.5727539L35.3916016,24.956543z
+			 M30.730957,19.4321289l2.7827148,3.1103516l1.6679688,1.1757813l7.7451172-10.8896484l-4.9794922-3.5415039l-0.6240234,0.8779297
+			l1.7089844,2.4848633l-2.7001953,3.7958984l-3.612793,0.1914063L30.730957,19.4321289z"/>
 	</g>
+</g>
+<g>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#231815;" points="28.4165039,22.3110352 24.7143555,21.621582 
+		23.5600586,23.2451172 28.081543,29.5390625 31.1293945,25.2543945 	"/>
+	<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#231815;" cx="27.8051758" cy="34.0979004" r="1.3752503"/>
+	<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#231815;" cx="32.3010254" cy="27.7758789" r="1.3749099"/>
 	<g>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#231815" points="28.417,22.311 24.714,21.622 23.56,23.245 
-			28.082,29.539 31.129,25.254 		"/>
-		<circle fill-rule="evenodd" clip-rule="evenodd" fill="#231815" cx="27.805" cy="34.098" r="1.375"/>
-		<circle fill-rule="evenodd" clip-rule="evenodd" fill="#231815" cx="32.301" cy="27.776" r="1.375"/>
-		
-			<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#E30012" stroke="#231815" stroke-width="0.8891" stroke-miterlimit="10" points="
-			33.963,25.439 25.704,37.052 23.599,35.555 20.58,32.179 22.898,28.92 26.51,28.729 28.906,25.361 27.197,22.876 28.259,21.382 		
-			"/>
+		<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#E30012;" points="33.9628906,25.4394531 25.7036133,37.0517578 
+			23.5991211,35.5546875 20.5795898,32.1791992 22.8979492,28.9199219 26.5102539,28.7285156 28.9057617,25.3608398 
+			27.1967773,22.8759766 28.2592773,21.3823242 		"/>
+		<path style="fill:#231815;" d="M25.8081055,37.671875l-2.4667969-1.7548828l-3.3295898-3.7060547l2.6484375-3.7236328
+			l3.6123047-0.1914063l2.0908203-2.9394531l-1.7089844-2.4848633l1.5004883-2.109375l6.4282227,4.5727539L25.8081055,37.671875z
+			 M21.1474609,32.1474609l2.7832031,3.1103516l1.6669922,1.1757813l7.7451172-10.8896484l-4.9790039-3.5415039
+			l-0.6245117,0.8779297l1.7089844,2.4848633l-2.7001953,3.7958984l-3.6123047,0.1914063L21.1474609,32.1474609z"/>
 	</g>
+</g>
+<g>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#231815;" points="19.1303711,34.9589844 15.4282227,34.2695313 
+		14.2739258,35.8935547 18.7954102,42.1875 21.8432617,37.9023438 	"/>
+	<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#231815;" cx="18.519043" cy="46.7460938" r="1.3754494"/>
+	<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#231815;" cx="23.0148926" cy="40.4243164" r="1.3749099"/>
 	<g>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#231815" points="19.13,34.959 15.428,34.27 14.274,35.894 18.795,42.188 
-			21.843,37.902 		"/>
-		<circle fill-rule="evenodd" clip-rule="evenodd" fill="#231815" cx="18.519" cy="46.746" r="1.375"/>
-		<circle fill-rule="evenodd" clip-rule="evenodd" fill="#231815" cx="23.015" cy="40.424" r="1.375"/>
-		
-			<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#E30012" stroke="#231815" stroke-width="0.8891" stroke-miterlimit="10" points="
-			24.677,38.088 16.417,49.7 14.313,48.203 11.293,44.828 13.612,41.568 17.224,41.377 19.62,38.01 17.911,35.524 18.973,34.031 		
-			"/>
+		<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#E30012;" points="24.6767578,38.0878906 16.4174805,49.7001953 
+			14.3129883,48.203125 11.293457,44.828125 13.6118164,41.5683594 17.2241211,41.3769531 19.6196289,38.0097656 
+			17.9106445,35.5244141 18.9731445,34.03125 		"/>
+		<path style="fill:#231815;" d="M16.5219727,50.3203125l-2.4667969-1.7548828l-3.3295898-3.7050781l2.6484375-3.7246094
+			l3.6123047-0.1914063l2.0908203-2.9384766l-1.7089844-2.4853516l1.5004883-2.109375l6.4282227,4.5722656L16.5219727,50.3203125z
+			 M11.8613281,44.7958984l2.7832031,3.1103516l1.6669922,1.1757813l7.7451172-10.8896484l-4.9790039-3.5410156
+			l-0.6245117,0.8769531l1.7089844,2.4853516l-2.7001953,3.7958984l-3.6123047,0.1914063L11.8613281,44.7958984z"/>
 	</g>
+</g>
+<g>
+	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#231815;" points="9.4165039,48.1914063 5.7143555,47.5019531 
+		4.5600586,49.1259766 9.081543,55.4199219 12.1293945,51.1347656 	"/>
+	<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#231815;" cx="8.8051758" cy="59.9785156" r="1.3754494"/>
+	<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#231815;" cx="13.3010254" cy="53.6567383" r="1.3749099"/>
 	<g>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#231815" points="9.417,48.191 5.714,47.502 4.56,49.126 9.082,55.42 
-			12.129,51.135 		"/>
-		<circle fill-rule="evenodd" clip-rule="evenodd" fill="#231815" cx="8.805" cy="59.979" r="1.375"/>
-		<circle fill-rule="evenodd" clip-rule="evenodd" fill="#231815" cx="13.301" cy="53.657" r="1.375"/>
-		
-			<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#E30012" stroke="#231815" stroke-width="0.8891" stroke-miterlimit="10" points="
-			14.963,51.32 6.704,62.933 4.599,61.436 1.58,58.061 3.898,54.801 7.51,54.609 9.906,51.242 8.197,48.757 9.259,47.264 		"/>
+		<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#E30012;" points="14.9628906,51.3203125 6.7036133,62.9326172 
+			4.5991211,61.4355469 1.5795898,58.0605469 3.8979492,54.8007813 7.5102539,54.609375 9.9057617,51.2421875 8.1967773,48.7568359 
+			9.2592773,47.2636719 		"/>
+		<path style="fill:#231815;" d="M6.8081055,63.5527344l-2.4667969-1.7548828l-3.3295898-3.7050781l2.6484375-3.7246094
+			l3.6123047-0.1914063l2.0908203-2.9384766l-1.7089844-2.4853516l1.5004883-2.109375l6.4282227,4.5722656L6.8081055,63.5527344z
+			 M2.1474609,58.0283203l2.7832031,3.1103516l1.6669922,1.1757813l7.7451172-10.8896484l-4.9790039-3.5410156l-0.6245117,0.8769531
+			l1.7089844,2.4853516l-2.7001953,3.7958984l-3.6123047,0.1914063L2.1474609,58.0283203z"/>
 	</g>
 </g>
 </svg>
