@@ -3,7 +3,7 @@
 <svg id='phantom_svg' width='64px' height='64px' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1'>
   <defs>
     <!-- Images. -->
-    <svg id='frame0' width='64px' height='64px' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <svg id='frame0' viewBox='0 0 64 64' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
       <g>
         <g>
           <path fill='none' stroke='#C10021' stroke-width='3.8988' stroke-miterlimit='10' d='M26.003,58.871
@@ -27,7 +27,7 @@
         <path fill='none' stroke='#C10021' stroke-width='1.8429' stroke-miterlimit='10' d='M39.664,15.865c0,0,6.43-1.399,9.684,5.817'/>
       </g>
     </svg>
-    <svg id='frame1' width='64px' height='64px' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <svg id='frame1' viewBox='0 0 64 64' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
       <path fill='none' stroke='#C10D23' stroke-width='5' stroke-miterlimit='10' d='M32,28.333c0,0,0.112-19.805,16-19.805
 	c9.668,0,15.349,17.031,3.334,30.138C36.668,54.667,32,57,32,57s-4.333-1.667-18.667-18.333C1.038,24.371,6.333,8.4,17.667,8.529
 	C32.112,8.692,32,28.333,32,28.333z'/>
@@ -140,7 +140,7 @@ bZ7FstGccqJJknU8Xz/njv5Rw//Z' transform='matrix(1 0 0 1 4 6)'>
 		c0-17.581,13.356-31.833,29.833-31.833C48.31-28.667,61.667-14.415,61.667,3.167z'/>
       </g>
     </svg>
-    <svg id='frame2' width='64px' height='64px' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <svg id='frame2' viewBox='0 0 64 64' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
       <path fill='none' stroke='#C10D23' stroke-width='5.1268' stroke-miterlimit='10' d='M31.995,27.606c0,0,0.115-20.307,16.406-20.307
 	c9.913,0,15.738,17.463,3.419,30.903C36.781,54.607,31.995,57,31.995,57s-4.443-1.709-19.14-18.798
 	C0.248,23.543,5.677,7.167,17.298,7.299C32.11,7.467,31.995,27.606,31.995,27.606z'/>
@@ -258,7 +258,7 @@ WvsVxt11o2OM2682QApr15i9xzJJ9I269I1mttm072iPi5IBA9iZpv6N32/636+j/9k=' transform=
 		c-16.895,0-30.59-1.708-30.59-32.642c0-18.027,13.695-32.641,30.59-32.641C48.718-30.84,62.414-16.226,62.414,1.801z'/>
       </g>
     </svg>
-    <svg id='frame3' width='64px' height='64px' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <svg id='frame3' viewBox='0 0 64 64' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
       <path fill='none' stroke='#C10D23' stroke-width='5.3635' stroke-miterlimit='10' d='M31.985,26.249c0,0,0.121-21.245,17.164-21.245
 	c10.37,0,16.465,18.269,3.576,32.33C36.992,54.497,31.985,57,31.985,57s-4.648-1.788-20.024-19.666
 	C-1.228,21.998,4.452,4.867,16.61,5.004C32.105,5.18,31.985,26.249,31.985,26.249z'/>
@@ -378,7 +378,7 @@ JAhWHGi2ZuiZVP59H//Z' transform='matrix(1 0 0 1 2 3)'>
 		c-17.675,0-32.002-1.787-32.002-34.148c0-18.859,14.328-34.148,32.002-34.148C49.48-34.896,63.809-19.607,63.809-0.748z'/>
       </g>
     </svg>
-    <svg id='frame4' width='64px' height='64px' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <svg id='frame4' viewBox='0 0 64 64' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
       <path fill='none' stroke='#C10D23' stroke-width='5.2367' stroke-miterlimit='10' d='M31.99,26.976c0,0,0.118-20.742,16.758-20.742
 	c10.125,0,16.075,17.837,3.491,31.565C36.879,54.557,31.99,57,31.99,57s-4.539-1.746-19.55-19.201
 	C-0.438,22.826,5.108,6.1,16.979,6.234C32.108,6.405,31.99,26.976,31.99,26.976z'/>
@@ -498,7 +498,7 @@ I/bRffBxdPC4Cp+x9H//2Q==' transform='matrix(1 0 0 1 3 4)'>
 		c-17.257,0-31.246-1.745-31.246-33.34c0-18.414,13.989-33.341,31.246-33.341C49.072-32.723,63.062-17.796,63.062,0.618z'/>
       </g>
     </svg>
-    <svg id='frame5' width='64px' height='64px' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <svg id='frame5' viewBox='0 0 64 64' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
       <path fill='none' stroke='#C10D23' stroke-width='5' stroke-miterlimit='10' d='M32,28.333c0,0,0.112-19.805,16-19.805
 	c9.668,0,15.349,17.031,3.334,30.138C36.668,54.667,32,57,32,57s-4.333-1.667-18.667-18.333C1.038,24.371,6.333,8.4,17.667,8.529
 	C32.112,8.692,32,28.333,32,28.333z'/>
@@ -611,7 +611,7 @@ bZ7FstGccqJJknU8Xz/njv5Rw//Z' transform='matrix(1 0 0 1 4 6)'>
 		c0-17.581,13.356-31.833,29.833-31.833C48.31-28.667,61.667-14.415,61.667,3.167z'/>
       </g>
     </svg>
-    <svg id='frame6' width='64px' height='64px' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <svg id='frame6' viewBox='0 0 64 64' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
       <path fill='none' stroke='#C10D23' stroke-width='5.3044' stroke-miterlimit='10' d='M31.987,26.588c0,0,0.119-21.011,16.974-21.011
 	c10.257,0,16.283,18.068,3.537,31.973C36.939,54.525,31.987,57,31.987,57s-4.597-1.769-19.803-19.449
 	C-0.86,22.384,4.758,5.441,16.782,5.578C32.106,5.751,31.987,26.588,31.987,26.588z'/>
@@ -731,7 +731,7 @@ JVlMgjQ14r8kgQrDWi15vpMqn8+j/9k=' transform='matrix(1 0 0 1 2 3)'>
 		c-17.48,0-31.65-1.767-31.65-33.771c0-18.651,14.17-33.771,31.65-33.771C49.29-33.883,63.461-18.763,63.461-0.111z'/>
       </g>
     </svg>
-    <svg id='frame7' width='64px' height='64px' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <svg id='frame7' viewBox='0 0 64 64' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
       <path fill='none' stroke='#C10D23' stroke-width='5.0846' stroke-miterlimit='10' d='M31.997,27.849c0,0,0.114-20.14,16.27-20.14
 	c9.832,0,15.608,17.319,3.391,30.647C36.743,54.628,31.997,57,31.997,57s-4.407-1.695-18.982-18.644
 	C0.511,23.818,5.896,7.578,17.421,7.709C32.111,7.875,31.997,27.849,31.997,27.849z'/>
@@ -849,7 +849,7 @@ vC5zZaI5619iuNpz1owcZt0zZACmmmYvI5uSfCNuvS2t62wwu8JHxdiAQPQm9N/Ru+2/y36+D//Z' tr
 		c-16.755,0-30.338-1.694-30.338-32.372c0-17.878,13.583-32.372,30.338-32.372C48.582-30.116,62.166-15.623,62.166,2.256z'/>
       </g>
     </svg>
-    <svg id='frame8' width='64px' height='64px' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <svg id='frame8' viewBox='0 0 64 64' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
       <path fill='none' stroke='#C10D23' stroke-width='5.0846' stroke-miterlimit='10' d='M31.997,27.849c0,0,0.114-20.14,16.27-20.14
 	c9.832,0,15.608,17.319,3.391,30.647C36.743,54.628,31.997,57,31.997,57s-4.407-1.695-18.982-18.644
 	C0.511,23.818,5.896,7.578,17.421,7.709C32.111,7.875,31.997,27.849,31.997,27.849z'/>

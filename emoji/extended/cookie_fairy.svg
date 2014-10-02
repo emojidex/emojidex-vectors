@@ -3,7 +3,7 @@
 <svg id='phantom_svg' width='64px' height='64px' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1'>
   <defs>
     <!-- Images. -->
-    <svg id='frame0' width='64px' height='64px' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <svg id='frame0' viewBox='0 0 64 64' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
       <ellipse display='none' fill='#FFC44D' cx='39' cy='10' rx='2.875' ry='3.875'/>
       <ellipse transform='matrix(0.0906 -0.9959 0.9959 0.0906 19.9997 58.2156)' display='none' fill='#FFC44D' cx='41.875' cy='18.157' rx='2.437' ry='2.007'/>
       <g display='none' opacity='0.6'>
@@ -836,7 +836,7 @@ zfXbYgHrBXvi/nrvfLl5YBb4U3B6i6jtaN+y01pNIBB+JM6dtZ//2Q==' transform='matrix(1 0 
 		c0,0,2.447-0.292,1.292-2.417'/>
       </g>
     </svg>
-    <svg id='frame1' width='64px' height='64px' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <svg id='frame1' viewBox='0 0 64 64' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
       <ellipse display='none' fill='#FFC44D' cx='40.332' cy='14.294' rx='2.862' ry='3.501'/>
       <path display='none' fill='#FFC44D' d='M43.414,19.472c1.1,0.091,1.892,1.146,1.771,2.356c-0.121,1.212-1.11,2.119-2.21,2.029
 	c-1.099-0.091-1.891-1.145-1.771-2.356C41.326,20.29,42.314,19.382,43.414,19.472z'/>
@@ -1788,7 +1788,7 @@ gjxpdmdyfLp56i3wxuLkSyr3tTfstNat5wQfiTyf/9k=' transform='matrix(1 0 0 1 8 33)'>
 		c0.664-2.151,2.93-8.028,2.93-8.028L28.894,27.174z'/>
       </g>
     </svg>
-    <svg id='frame2' width='64px' height='64px' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <svg id='frame2' viewBox='0 0 64 64' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
       <ellipse display='none' fill='#FFC44D' cx='40.902' cy='16.652' rx='2.474' ry='2.396'/>
       <path display='none' fill='#FFC44D' d='M42.624,20.937c0.95,0.063,1.635,0.784,1.53,1.613c-0.104,0.83-0.96,1.451-1.91,1.389
 	c-0.949-0.062-1.634-0.784-1.53-1.612C40.819,21.497,41.674,20.875,42.624,20.937z'/>
@@ -2742,7 +2742,7 @@ pfzz8vTt76hPrs66Eso5tR/YjImsEHkT2f/Z' transform='matrix(1 0 0 1 10 35)'>
 		c0.664-2.151,2.93-8.028,2.93-8.028L28.894,26.431z'/>
       </g>
     </svg>
-    <svg id='frame3' width='64px' height='64px' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <svg id='frame3' viewBox='0 0 64 64' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
       <g display='none'>
         <g display='inline'>
           <g>
@@ -3597,7 +3597,7 @@ B3XXjS9GepPLp76/XgZ1ixlR+VH+1GVNsRwJ7P/Z' transform='matrix(1 0 0 1 14 40)'>
       <path fill='#FFCAA6' stroke='#44030E' stroke-width='1.5' stroke-miterlimit='10' d='M12.603,22.796c0,0,1.509-0.158,2.953-2.629'/>
       <path fill='#FFCAA6' stroke='#44030E' stroke-width='1.5' stroke-miterlimit='10' d='M17.827,17.928c0,0,1.696-0.535,2.997-2.884'/>
     </svg>
-    <svg id='frame4' width='64px' height='64px' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <svg id='frame4' viewBox='0 0 64 64' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
       <g display='none'>
         <g display='inline'>
           <g>
@@ -4455,7 +4455,7 @@ L67ciAfMEe6jtvW/xbN0Np6dKs/Rf2VUa0u3h//Z' transform='matrix(1 0 0 1 20 48)'>
 		c0.664-2.151,2.93-8.028,2.93-8.028L28.894,29.311z'/>
       </g>
     </svg>
-    <svg id='frame5' width='64px' height='64px' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <svg id='frame5' viewBox='0 0 64 64' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
       <path fill='#FFCAA6' stroke='#44030E' stroke-width='1.5' stroke-miterlimit='10' d='M20.463,25.666l2.418,4.25
 	c0,0-2.351,1.5-2.741,3.5s-0.026,5.5-0.026,5.5L17.5,49.25c0,0,2.963,2.979,4.38,0.344s3.567-11.012,3.567-11.012l1.339,0.752
 	L36.938,30.5c0,0-2.406-5.546-5.295-5.551S27.5,25.877,27.5,25.877l-4.37-3.627L20.463,25.666z'/>
@@ -5399,7 +5399,7 @@ z3QRPOl7M9ycNOdRbssyxgZUfKv2q6rtjLkT4f/Z' transform='matrix(1 0 0 1 26 53)'>
         </g>
       </g>
     </svg>
-    <svg id='frame6' width='64px' height='64px' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <svg id='frame6' viewBox='0 0 64 64' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
       <ellipse display='none' fill='#FFC44D' cx='39' cy='10' rx='2.875' ry='3.875'/>
       <ellipse transform='matrix(0.0906 -0.9959 0.9959 0.0906 19.9997 58.2156)' display='none' fill='#FFC44D' cx='41.875' cy='18.157' rx='2.437' ry='2.007'/>
       <g display='none'>
@@ -6243,7 +6243,7 @@ EfdL2883h07ahOnZ1yJZR8tR75HRJyIP5J8P/9k=' transform='matrix(1 0 0 1 34 59)'>
         </g>
       </g>
     </svg>
-    <svg id='frame7' width='64px' height='64px' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <svg id='frame7' viewBox='0 0 64 64' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
       <g display='none'>
         <g display='inline'>
           <g>
@@ -7144,7 +7144,7 @@ EfdL2883h07ahOnZ1yJZR8tR75HRJyIP5J8P/9k=' transform='matrix(1 0 0 1 34 59)'>
 	c3.511,0.237,2.85,5.767,2.85,5.767l-0.197,5.416c0,0-4.976,12.504-6.682,12.76c-1.617,0.244-2.79-2.52-2.126-4.672
 	c0.664-2.15,2.93-8.027,2.93-8.027L28.894,30.532z'/>
     </svg>
-    <svg id='frame8' width='64px' height='64px' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <svg id='frame8' viewBox='0 0 64 64' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
       <ellipse display='none' fill='#FFC44D' cx='39' cy='10' rx='2.875' ry='3.875'/>
       <ellipse transform='matrix(0.0906 -0.9959 0.9959 0.0906 19.9997 58.2156)' display='none' fill='#FFC44D' cx='41.875' cy='18.157' rx='2.437' ry='2.007'/>
       <g display='none' opacity='0.6'>
@@ -7940,7 +7940,7 @@ EfdL2883h07ahOnZ1yJZR8tR75HRJyIP5J8P/9k=' transform='matrix(1 0 0 1 34 59)'>
       <path fill='none' stroke='#44030E' stroke-miterlimit='10' d='M18.625,25.125c0,0,1.963,0.667,1.708-1.459
 	c0,0,2.447-0.292,1.292-2.417'/>
     </svg>
-    <svg id='frame9' width='64px' height='64px' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <svg id='frame9' viewBox='0 0 64 64' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
       <ellipse display='none' fill='#FFC44D' cx='40.332' cy='14.294' rx='2.862' ry='3.501'/>
       <path display='none' fill='#FFC44D' d='M43.414,19.472c1.1,0.091,1.892,1.146,1.771,2.356c-0.121,1.212-1.11,2.119-2.21,2.029
 	c-1.099-0.091-1.891-1.145-1.771-2.356C41.326,20.29,42.314,19.382,43.414,19.472z'/>
@@ -8851,7 +8851,7 @@ EfdL2883h07ahOnZ1yJZR8tR75HRJyIP5J8P/9k=' transform='matrix(1 0 0 1 34 59)'>
 	c3.511,0.237,2.85,5.767,2.85,5.767l-0.197,5.417c0,0-4.976,12.503-6.682,12.76c-1.617,0.244-2.79-2.521-2.126-4.672
 	c0.664-2.151,2.93-8.028,2.93-8.028L28.894,27.174z'/>
     </svg>
-    <svg id='frame10' width='64px' height='64px' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <svg id='frame10' viewBox='0 0 64 64' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
       <ellipse display='none' fill='#FFC44D' cx='40.902' cy='16.652' rx='2.474' ry='2.396'/>
       <path display='none' fill='#FFC44D' d='M42.624,20.937c0.95,0.063,1.635,0.784,1.53,1.613c-0.104,0.83-0.96,1.451-1.91,1.389
 	c-0.949-0.062-1.634-0.784-1.53-1.612C40.819,21.497,41.674,20.875,42.624,20.937z'/>
@@ -9766,7 +9766,7 @@ EfdL2883h07ahOnZ1yJZR8tR75HRJyIP5J8P/9k=' transform='matrix(1 0 0 1 34 59)'>
 	c3.511,0.237,2.85,5.767,2.85,5.767l-0.197,5.417c0,0-4.976,12.503-6.682,12.76c-1.617,0.244-2.79-2.521-2.126-4.672
 	c0.664-2.151,2.93-8.028,2.93-8.028L28.894,26.431z'/>
     </svg>
-    <svg id='frame11' width='64px' height='64px' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <svg id='frame11' viewBox='0 0 64 64' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
       <g display='none'>
         <g display='inline'>
           <g>
@@ -10584,7 +10584,7 @@ EfdL2883h07ahOnZ1yJZR8tR75HRJyIP5J8P/9k=' transform='matrix(1 0 0 1 34 59)'>
       <path fill='#FFCAA6' stroke='#44030E' stroke-width='1.5' stroke-miterlimit='10' d='M12.603,22.796c0,0,1.509-0.158,2.953-2.629'/>
       <path fill='#FFCAA6' stroke='#44030E' stroke-width='1.5' stroke-miterlimit='10' d='M17.827,17.928c0,0,1.696-0.535,2.997-2.884'/>
     </svg>
-    <svg id='frame12' width='64px' height='64px' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <svg id='frame12' viewBox='0 0 64 64' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
       <g display='none'>
         <g display='inline'>
           <g>
@@ -11405,7 +11405,7 @@ EfdL2883h07ahOnZ1yJZR8tR75HRJyIP5J8P/9k=' transform='matrix(1 0 0 1 34 59)'>
 		c0.664-2.151,2.93-8.028,2.93-8.028L28.894,29.311z'/>
       </g>
     </svg>
-    <svg id='frame13' width='64px' height='64px' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <svg id='frame13' viewBox='0 0 64 64' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
       <path fill='#FFCAA6' stroke='#44030E' stroke-width='1.5' stroke-miterlimit='10' d='M20.463,25.666l2.418,4.25
 	c0,0-2.351,1.5-2.741,3.5s-0.026,5.5-0.026,5.5L17.5,49.25c0,0,2.963,2.979,4.38,0.344s3.567-11.012,3.567-11.012l1.339,0.752
 	L36.938,30.5c0,0-2.406-5.546-5.295-5.551S27.5,25.877,27.5,25.877l-4.37-3.627L20.463,25.666z'/>
@@ -12312,7 +12312,7 @@ EfdL2883h07ahOnZ1yJZR8tR75HRJyIP5J8P/9k=' transform='matrix(1 0 0 1 34 59)'>
 	c3.511,0.237,2.85,5.767,2.85,5.767l-0.197,5.417c0,0-4.976,12.504-6.682,12.76c-1.617,0.244-2.79-2.52-2.126-4.672
 	c0.664-2.15,2.93-8.027,2.93-8.027L28.894,31.215z'/>
     </svg>
-    <svg id='frame14' width='64px' height='64px' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <svg id='frame14' viewBox='0 0 64 64' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
       <ellipse display='none' fill='#FFC44D' cx='39' cy='10' rx='2.875' ry='3.875'/>
       <ellipse transform='matrix(0.0906 -0.9959 0.9959 0.0906 19.9997 58.2156)' display='none' fill='#FFC44D' cx='41.875' cy='18.157' rx='2.437' ry='2.007'/>
       <g display='none'>
@@ -13119,7 +13119,7 @@ EfdL2883h07ahOnZ1yJZR8tR75HRJyIP5J8P/9k=' transform='matrix(1 0 0 1 34 59)'>
 		c0.664-2.152,2.93-8.029,2.93-8.029L28.894,31.075z'/>
       </g>
     </svg>
-    <svg id='frame15' width='64px' height='64px' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <svg id='frame15' viewBox='0 0 64 64' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
       <g display='none'>
         <g display='inline'>
           <g>

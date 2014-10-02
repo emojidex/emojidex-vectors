@@ -1,6 +1,8 @@
 #########################################
 # update_rasters
-# Update PNGs from original SVG sources
+#
+# Re-compile frame animated SVGs from 
+# original SVG frame sources
 #########################################
 
 require 'rubygems'

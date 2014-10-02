@@ -3,7 +3,7 @@
 <svg id='phantom_svg' width='64px' height='64px' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1'>
   <defs>
     <!-- Images. -->
-    <svg id='frame0' width='64px' height='64px' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <svg id='frame0' viewBox='0 0 64 64' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
       <path fill='none' stroke='#2B1816' stroke-width='2.9471' stroke-linecap='round' stroke-linejoin='bevel' stroke-miterlimit='10' d='
 	M43.129,5.82c-3.616,0.362-6.391,3.101-6.598,6.727c-0.294,5.643,4.603,8.686,9.636,8.012c3.215-0.412,7.1-1.633,10.275-0.427
 	c4.026,1.555,5.311,7.556,2.646,10.714c-0.948,1.1-2.556,1.631-3.965,1.861'/>
@@ -154,7 +154,7 @@ g1eK54T4LMR7G7JchWPIvq6KcNYX0gt3DFldtzA1qeePnXaSD81osqST+J9kbKK8Tt//2Q==' transf
       <path fill='#DDC8B3' d='M33.91,38.31c0,0,1.781,5.403,0.185,10.131l4.728,0.676l4.053-0.369c0,0-2.824-0.859-3.991-5.219
 	C38.884,43.528,36.796,43.713,33.91,38.31z'/>
     </svg>
-    <svg id='frame1' width='64px' height='64px' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <svg id='frame1' viewBox='0 0 64 64' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
       <path fill='none' stroke='#2B1816' stroke-width='2.9471' stroke-linecap='round' stroke-linejoin='bevel' stroke-miterlimit='10' d='
 	M43.129,5.82c-3.616,0.362-6.391,3.101-6.598,6.727c-0.294,5.643,4.603,8.686,9.636,8.012c3.215-0.412,7.1-1.633,10.275-0.427
 	c4.026,1.555,5.311,7.556,2.646,10.714c-0.948,1.1-2.556,1.631-3.965,1.861'/>
@@ -305,7 +305,7 @@ g1eK54T4LMR7G7JchWPIvq6KcNYX0gt3DFldtzA1qeePnXaSD81osqST+J9kbKK8Tt//2Q==' transf
       <path fill='#DDC8B3' d='M33.91,38.31c0,0,1.781,5.403,0.185,10.131l4.728,0.676l4.053-0.369c0,0-2.824-0.859-3.991-5.219
 	C38.884,43.528,36.796,43.713,33.91,38.31z'/>
     </svg>
-    <svg id='frame2' width='64px' height='64px' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <svg id='frame2' viewBox='0 0 64 64' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
       <path fill='none' stroke='#2B1816' stroke-width='2.9471' stroke-linecap='round' stroke-linejoin='bevel' stroke-miterlimit='10' d='
 	M39.497,5.491c-3.616,0.362-4.751,3.945-4.349,7.328c0.666,5.611,5.985,8.414,11.019,7.74c3.215-0.412,7.1-1.633,10.275-0.427
 	c4.026,1.555,5.311,7.556,2.646,10.714c-0.948,1.1-2.556,1.631-3.965,1.861'/>
@@ -466,7 +466,7 @@ ySDAatq32j+GzjRMxdHx9QDP3uUi0lDXyrA2svG5FwKnm2WZt86rSQflpFlSSfafJGyjHqeP/9k=' tr
       <path fill='#2B1816' d='M34.493,51.423c0,0,3.944-1.918,7.735-2.007c3.792-0.091,0.379,3.213,4.733,3.629l-3.034,0.504
 	c0,0-4.378,3.513-7.263,1.381C33.78,52.799,34.493,51.423,34.493,51.423z'/>
     </svg>
-    <svg id='frame3' width='64px' height='64px' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <svg id='frame3' viewBox='0 0 64 64' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
       <path fill='none' stroke='#2B1816' stroke-width='2.9471' stroke-linecap='round' stroke-linejoin='bevel' stroke-miterlimit='10' d='
 	M35.39,5.491c-1.852,1.289-2.699,4.476-1.69,7.73c1.771,5.717,7.286,8.323,12.32,7.65c3.215-0.412,7.452-2.333,10.628-1.127
 	c4.026,1.555,5.105,7.944,2.441,11.102c-0.948,1.1-2.556,1.631-3.965,1.861'/>
@@ -625,7 +625,7 @@ wSxF0lqyEe0tvuHAqTCzZUx3Ryysx0vDb18/MSQDGxVlWWfqTJGyjfnz/9k=' transform='matrix(
       <ellipse fill='#FFFFFF' cx='20.802' cy='30.513' rx='0.767' ry='0.255'/>
       <ellipse fill='#FFFFFF' cx='11.918' cy='30.902' rx='0.491' ry='0.276'/>
     </svg>
-    <svg id='frame4' width='64px' height='64px' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <svg id='frame4' viewBox='0 0 64 64' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
       <path fill='none' stroke='#2B1816' stroke-width='2.9471' stroke-linecap='round' stroke-linejoin='bevel' stroke-miterlimit='10' d='
 	M34.705,5.656c-1.852,1.289-2.32,4.369-1.312,7.623c1.771,5.717,7.592,8.266,12.626,7.592c3.215-0.412,7.559-2.732,10.734-1.527
 	c4.026,1.555,4.999,8.344,2.335,11.501c-0.948,1.1-2.556,1.631-3.965,1.861'/>
@@ -789,7 +789,7 @@ Aufrg/DJIVpcKxB3Hjvr4GM8NK5MteWN2bs+gwYk6PKF6N1FeusiTWNdT2jdV37E+f/Z' transform=
 	c0,0-4.378,3.563-7.263,1.4C33.78,52.758,34.493,51.362,34.493,51.362z'/>
       <ellipse fill='#FFFFFF' cx='20.802' cy='30.513' rx='0.767' ry='0.255'/>
     </svg>
-    <svg id='frame5' width='64px' height='64px' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <svg id='frame5' viewBox='0 0 64 64' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
       <path fill='none' stroke='#2B1816' stroke-width='2.9471' stroke-linecap='round' stroke-linejoin='bevel' stroke-miterlimit='10' d='
 	M28.304,6.94c3.624,0.402,5.297,3.56,6.12,6.684c1.208,4.59,5.556,7.972,9.984,7.328c3.207-0.466,7.211-3.138,10.387-1.933
 	c4.026,1.555,6.958,8.669,4.294,11.827c-0.948,1.1-2.556,1.631-3.965,1.861'/>
@@ -954,7 +954,7 @@ AHaDzOIPjMW9S4BdGz6VRmIr44nsr+QRAt+kbtQLTitdcfOvVc+pZiWOSWmRMiMgOlTt/9k=' transf
 		c-2.15-0.664-0.918-5.999-0.584-6.709c0.334-0.712,1.919-2.345,3.483-2.672c1.565-0.323,12.06,2.474,12.06,2.474'/>
       </g>
     </svg>
-    <svg id='frame6' width='64px' height='64px' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <svg id='frame6' viewBox='0 0 64 64' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
       <path fill='none' stroke='#2B1816' stroke-width='2.9471' stroke-linecap='round' stroke-linejoin='bevel' stroke-miterlimit='10' d='
 	M39.497,5.491c-3.616,0.362-4.751,3.945-4.349,7.328c0.666,5.611,5.985,8.414,11.019,7.74c3.215-0.412,7.1-1.633,10.275-0.427
 	c4.026,1.555,5.311,7.556,2.646,10.714c-0.948,1.1-2.556,1.631-3.965,1.861'/>

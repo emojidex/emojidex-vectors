@@ -3,7 +3,7 @@
 <svg id='phantom_svg' width='64px' height='64px' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1'>
   <defs>
     <!-- Images. -->
-    <svg id='frame0' width='64px' height='64px' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <svg id='frame0' viewBox='0 0 64 64' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
       <g>
         <defs>
           <filter id='Adobe_OpacityMaskFilter' filterUnits='userSpaceOnUse' x='5.076' y='57.433' width='53.848' height='3.625'>
@@ -305,7 +305,7 @@ SaORjhUDZAQcwRwRF3hVd59jfEWEMLQ3YXC3NrqmuUcZFGfFWjk/Wy09+Lz6Xl6KA5jm6tN3LTbT
         </g>
       </g>
     </svg>
-    <svg id='frame1' width='64px' height='64px' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <svg id='frame1' viewBox='0 0 64 64' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
       <g>
         <defs>
           <filter id='Adobe_OpacityMaskFilter' filterUnits='userSpaceOnUse' x='5.076' y='57.433' width='53.848' height='3.625'>
@@ -607,7 +607,7 @@ qdij+XG/GtFNG8YZsHu5YYLkZ02Gg3J//9k=' transform='matrix(1 0 0 1 24 12)'>
         </g>
       </g>
     </svg>
-    <svg id='frame2' width='64px' height='64px' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <svg id='frame2' viewBox='0 0 64 64' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
       <g>
         <defs>
           <filter id='Adobe_OpacityMaskFilter' filterUnits='userSpaceOnUse' x='5.076' y='57.433' width='53.848' height='3.625'>
@@ -908,7 +908,7 @@ LyCmpFAKj87F/FeIkWbnQrk5K0ZAjjWOM2JIOp6Wvb2f/9k=' transform='matrix(1 0 0 1 23 8
         </g>
       </g>
     </svg>
-    <svg id='frame3' width='64px' height='64px' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <svg id='frame3' viewBox='0 0 64 64' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
       <g>
         <defs>
           <filter id='Adobe_OpacityMaskFilter' filterUnits='userSpaceOnUse' x='5.076' y='57.433' width='53.848' height='3.625'>
@@ -1210,7 +1210,7 @@ D9G51tJ43AcSZ06FXdTaBHGu5esg/nhrwr8P/9k=' transform='matrix(1 0 0 1 23 6)'>
         </g>
       </g>
     </svg>
-    <svg id='frame4' width='64px' height='64px' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <svg id='frame4' viewBox='0 0 64 64' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
       <g>
         <defs>
           <filter id='Adobe_OpacityMaskFilter' filterUnits='userSpaceOnUse' x='5.076' y='57.433' width='53.848' height='3.625'>
@@ -1513,7 +1513,7 @@ PvKtczEjM4dZwlKR6rtGXx8BH6PXC+vl0f/Z' transform='matrix(1 0 0 1 22 3)'>
         </g>
       </g>
     </svg>
-    <svg id='frame5' width='64px' height='64px' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <svg id='frame5' viewBox='0 0 64 64' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
       <g>
         <defs>
           <filter id='Adobe_OpacityMaskFilter' filterUnits='userSpaceOnUse' x='5.076' y='57.433' width='53.848' height='3.625'>
@@ -1816,7 +1816,7 @@ q1DTomqqctMd5nFyxf2piCX3atb19L2tCNM/YE/np//Z' transform='matrix(1 0 0 1 20 -2)'>
         </g>
       </g>
     </svg>
-    <svg id='frame6' width='64px' height='64px' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <svg id='frame6' viewBox='0 0 64 64' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
       <g>
         <defs>
           <filter id='Adobe_OpacityMaskFilter' filterUnits='userSpaceOnUse' x='5.076' y='57.433' width='53.848' height='3.625'>
@@ -2119,7 +2119,7 @@ R1sQRgvyCsu/jHrpoKiU0sw8Vzw273bZRxj+Y18D5f/Z' transform='matrix(1 0 0 1 19 -8)'>
         </g>
       </g>
     </svg>
-    <svg id='frame7' width='64px' height='64px' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <svg id='frame7' viewBox='0 0 64 64' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
       <g>
         <defs>
           <filter id='Adobe_OpacityMaskFilter' filterUnits='userSpaceOnUse' x='5.076' y='57.433' width='53.848' height='3.625'>
@@ -2423,7 +2423,7 @@ mmicgNHjUWbp/T2K6FTSSQXGY/b7dsvM5bcv6/hx2//Z' transform='matrix(1 0 0 1 18 -13)'
         </g>
       </g>
     </svg>
-    <svg id='frame8' width='64px' height='64px' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <svg id='frame8' viewBox='0 0 64 64' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
       <g>
         <defs>
           <filter id='Adobe_OpacityMaskFilter' filterUnits='userSpaceOnUse' x='5.076' y='57.433' width='53.848' height='3.625'>
