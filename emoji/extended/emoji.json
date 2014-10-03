@@ -74,6 +74,16 @@
     "category": "faces"
   },
   {
+    "code_ja": "ちょうネクタイ(茶)",
+    "code": "bowtie(br)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "ちょうネクタイ(黒)",
+    "code": "bowtie(bk)",
+    "category": "faces"
+  },
+  {
     "code_ja": "蟹座(四角)",
     "code": "Cancer_plain",
     "category": "symbols"
@@ -121,6 +131,16 @@
   {
     "code_ja": "酔っ払い",
     "code": "drunk",
+    "category": "faces"
+  },
+  {
+    "code_ja": "酔っ払い(茶)",
+    "code": "drunk(br)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "酔っ払い(黒)",
+    "code": "drunk(bk)",
     "category": "faces"
   },
   {
@@ -274,13 +294,23 @@
     "category": "symbols"
   },
   {
-    "code_ja": "嘔吐2",
+    "code_ja": "強制嘔吐",
     "code": "puke_finger",
     "category": "people"
   },
   {
     "code_ja": "嘔吐",
     "code": "puke",
+    "category": "faces"
+  },
+  {
+    "code_ja": "嘔吐(茶)",
+    "code": "puke(br)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "嘔吐(黒)",
+    "code": "puke(bk)",
     "category": "faces"
   },
   {
@@ -974,6 +1004,11 @@
     "category": "faces"
   },
   {
+    "code_ja": "ウインク(黒)",
+    "code": "wink(br)",
+    "category": "faces"
+  },
+  {
     "code_ja": "にこにこ(黒)",
     "code": "blush(bk)",
     "category": "faces"
@@ -1164,12 +1199,117 @@
     "category": "faces"
   },
   {
+    "code_ja": "横目(茶)",
+    "code": "unamused(br)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "横目(黒)",
+    "code": "unamused(bk)",
+    "category": "faces"
+  },
+  {
     "code_ja": "ランニング",
     "code": "running",
     "category": "people"
   },
   {
-    "code_ja": "ビリヤード2",
+    "code_ja": "リラックス(茶)",
+    "code": "relaxed(br)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "リラックス(黒)",
+    "code": "relaxed(bk)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "冷や汗(茶)",
+    "code": "sweat_smile(br)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "冷や汗(黒)",
+    "code": "sweat_smile(bk)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "投げキッス(茶)",
+    "code": "kissing_heart(br)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "投げキッス(黒)",
+    "code": "kissing_heart(bk)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "満足",
+    "code": "satisfied",
+    "category": "faces"
+  },
+  {
+    "code_ja": "満足(茶)",
+    "code": "satisfied(br)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "満足(黒)",
+    "code": "satisfied(bk)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "スマイルフェイス(茶)",
+    "code": "smiling_face(br)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "スマイルフェイス(黒)",
+    "code": "smiling_face(bk)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "ほっとした顔(茶)",
+    "code": "relieved(br)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "ほっとした顔(黒)",
+    "code": "relieved(bk)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "うっしっし(茶)",
+    "code": "grin(br)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "うっしっし(黒)",
+    "code": "grin(bk)",
+    "category": "faces"
+  },
+  {
+    "code": "smirking_face(br)",
+    "code_ja": "ふっ(茶)",
+    "category": "faces"
+  },
+  {
+    "code": "smirking_face(bk)",
+    "code_ja": "ふっ(黒)",
+    "category": "faces"
+  },
+  {
+    "code": "face_with_stuck_out_tongue_and_tightly_closed_eyes(br)",
+    "code_ja": "べーっ(茶)",
+    "category": "faces"
+  },
+  {
+    "code": "face_with_stuck_out_tongue_and_tightly_closed_eyes(bk)",
+    "code_ja": "べーっ(黒)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "ビリヤード9",
     "code": "9ball",
     "category": "object"
   }
