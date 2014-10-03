@@ -28,3 +28,7 @@ extended.load_local_collection extended_path
 utf.each do |moji|
   `inkscape --vacuum-defs #{utf_path}/#{moji.code}.svg`
 end
+
+extended.each do |moji|
+  `inkscape --vacuum-defs #{extended_path}/#{moji.code}.svg`
+end

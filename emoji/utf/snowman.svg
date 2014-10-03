@@ -1,64 +1,142 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
-	 height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<g id="レイヤー_1">
-</g>
-<g id="ここから下は新しいやつ">
-	<g id="U_x2B_26C4">
-		<g>
-			<defs>
-				<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="24.416" y="59.167" width="29.689" height="4.333">
-					<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
-					<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
-				</filter>
-			</defs>
-			<mask maskUnits="userSpaceOnUse" x="24.416" y="59.167" width="29.689" height="4.333" id="SVGID_1_">
-				<g filter="url(#Adobe_OpacityMaskFilter)">
-					
-						<image overflow="visible" width="35" height="9" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
-EAMCAwYAAAGOAAABqgAAAff/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
-Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
-JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAkAIwMBIgACEQEDEQH/
-xAB7AAADAQEAAAAAAAAAAAAAAAAAAQYHBQEBAAAAAAAAAAAAAAAAAAAAABAAAAQHAQAAAAAAAAAA
-AAAAEBECBgAgAQMEBQcVEQABAgMIAwAAAAAAAAAAAAABAgMAETEgIVHREgQ0lEETFRIBAAAAAAAA
-AAAAAAAAAAAAEP/aAAwDAQACEQMRAAAAmqrOg0XkSIMQf//aAAgBAgABBQAf/9oACAEDAAEFAB//
-2gAIAQEAAQUAb9psrXTT82Lx+bRu8NiWkkib/9oACAECAgY/AH//2gAIAQMCBj8Af//aAAgBAQEG
-PwAfbdcSSdIQmYRfRWpImI5TfYVnHKb7Cs49ew3LgeAnNsqdSa3TIIiprh4xra//2Q==" transform="matrix(1 0 0 1 22 57)">
-					</image>
-				</g>
-			</mask>
-			<g mask="url(#SVGID_1_)">
-				<ellipse fill="#868686" cx="39.261" cy="61.333" rx="14.845" ry="2.167"/>
-			</g>
-		</g>
-		<polygon fill="#A3741F" stroke="#542607" stroke-width="0.5208" stroke-miterlimit="1" points="20.642,21.82 18.949,21.484 
-			17.986,26.34 16.787,27.047 7.887,22.143 7.063,23.638 16.782,28.994 22.863,39.314 25.176,37.952 19.39,28.133 		"/>
-		<path fill="#FFFFFF" stroke="#5CB7CC" stroke-width="0.9324" stroke-miterlimit="1" d="M44.904,29.755
-			c3.137-2.173,5.184-5.693,5.184-9.679c0-6.606-5.603-11.962-12.52-11.962c-6.914,0-12.521,5.356-12.521,11.962
-			c0,3.985,2.048,7.504,5.185,9.679c-6.216,2.677-10.551,8.636-10.551,15.574c0,9.438,8.008,17.087,17.887,17.087
-			s17.887-7.649,17.887-17.087C55.455,38.394,51.121,32.433,44.904,29.755z"/>
-		<g>
-			<ellipse fill="#5CB7CC" cx="31.362" cy="16.015" rx="1.886" ry="2.875"/>
-			<ellipse fill="#5CB7CC" cx="41.781" cy="16.014" rx="1.885" ry="2.876"/>
-		</g>
-		<path fill="#FFFFFF" stroke="#5CB7CC" stroke-width="0.9324" stroke-miterlimit="1" d="M32.081,22.438c0,0,3.428,4.218,7.816,0"/>
-		<path fill="#C10D23" d="M47.984,12.275l1.667-8.517c0.172-0.871-1.427-2.161-3.567-2.881c-2.142-0.72-4.194-0.659-4.584,0.137
-			l-3.823,7.791l0,0v0c-0.173,0.516,1.993,1.711,4.84,2.668C45.363,12.433,47.811,12.791,47.984,12.275L47.984,12.275L47.984,12.275
-			z"/>
-		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="67.5918" y1="87.8682" x2="36.4277" y2="45.1188">
-			<stop  offset="0" style="stop-color:#00C3FF"/>
-			<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
-		</linearGradient>
-		<path fill="url(#SVGID_2_)" d="M54.105,47.578c0,7.863-7.113,14.237-15.888,14.237c-8.772,0-15.885-6.374-15.885-14.237
-			c0-7.866,7.113-14.241,15.885-14.241C46.992,33.337,54.105,39.712,54.105,47.578z"/>
-		<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="56.8486" y1="40.7627" x2="39.2656" y2="21.0957">
-			<stop  offset="0" style="stop-color:#00C3FF"/>
-			<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
-		</linearGradient>
-		<path fill="url(#SVGID_3_)" d="M33.4,29.667H44.01c3.371-1.792,5.654-5.236,5.654-9.195c0-5.806-4.906-10.511-10.959-10.511
-			c-6.052,0-10.958,4.706-10.958,10.511C27.747,24.431,30.031,27.875,33.4,29.667z"/>
-	</g>
-</g>
-</svg>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="64px"
+   height="64px"
+   viewBox="0 0 64 64"
+   enable-background="new 0 0 64 64"
+   xml:space="preserve"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="snowman.svg"><metadata
+     id="metadata57"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs55" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview53" /><g
+     id="レイヤー_1" /><g
+     id="ここから下は新しいやつ"><g
+       id="U_x2B_26C4"><g
+         id="g7"><defs
+           id="defs9"><filter
+             id="Adobe_OpacityMaskFilter"
+             filterUnits="userSpaceOnUse"
+             x="24.416"
+             y="59.167"
+             width="29.689"
+             height="4.333"><feFlood
+               style="flood-color:white;flood-opacity:1"
+               result="back"
+               id="feFlood12" /><feBlend
+               in="SourceGraphic"
+               in2="back"
+               mode="normal"
+               id="feBlend14" /></filter></defs><mask
+           maskUnits="userSpaceOnUse"
+           x="24.416"
+           y="59.167"
+           width="29.689"
+           height="4.333"
+           id="SVGID_1_"><g
+             filter="url(#Adobe_OpacityMaskFilter)"
+             id="g17"><image
+               overflow="visible"
+               width="35"
+               height="9"
+               xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA EAMCAwYAAAGOAAABqgAAAff/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAAkAIwMBIgACEQEDEQH/ xAB7AAADAQEAAAAAAAAAAAAAAAAAAQYHBQEBAAAAAAAAAAAAAAAAAAAAABAAAAQHAQAAAAAAAAAA AAAAEBECBgAgAQMEBQcVEQABAgMIAwAAAAAAAAAAAAABAgMAETEgIVHREgQ0lEETFRIBAAAAAAAA AAAAAAAAAAAAEP/aAAwDAQACEQMRAAAAmqrOg0XkSIMQf//aAAgBAgABBQAf/9oACAEDAAEFAB// 2gAIAQEAAQUAb9psrXTT82Lx+bRu8NiWkkib/9oACAECAgY/AH//2gAIAQMCBj8Af//aAAgBAQEG PwAfbdcSSdIQmYRfRWpImI5TfYVnHKb7Cs49ew3LgeAnNsqdSa3TIIiprh4xra//2Q=="
+               transform="matrix(1 0 0 1 22 57)"
+               id="image19" /></g></mask><g
+           mask="url(#SVGID_1_)"
+           id="g21"><ellipse
+             fill="#868686"
+             cx="39.261"
+             cy="61.333"
+             rx="14.845"
+             ry="2.167"
+             id="ellipse23" /></g></g><polygon
+         fill="#A3741F"
+         stroke="#542607"
+         stroke-width="0.5208"
+         stroke-miterlimit="1"
+         points="20.642,21.82 18.949,21.484     17.986,26.34 16.787,27.047 7.887,22.143 7.063,23.638 16.782,28.994 22.863,39.314 25.176,37.952 19.39,28.133   "
+         id="polygon25" /><path
+         fill="#FFFFFF"
+         stroke="#5CB7CC"
+         stroke-width="0.9324"
+         stroke-miterlimit="1"
+         d="M44.904,29.755    c3.137-2.173,5.184-5.693,5.184-9.679c0-6.606-5.603-11.962-12.52-11.962c-6.914,0-12.521,5.356-12.521,11.962    c0,3.985,2.048,7.504,5.185,9.679c-6.216,2.677-10.551,8.636-10.551,15.574c0,9.438,8.008,17.087,17.887,17.087    s17.887-7.649,17.887-17.087C55.455,38.394,51.121,32.433,44.904,29.755z"
+         id="path27" /><g
+         id="g29"><ellipse
+           fill="#5CB7CC"
+           cx="31.362"
+           cy="16.015"
+           rx="1.886"
+           ry="2.875"
+           id="ellipse31" /><ellipse
+           fill="#5CB7CC"
+           cx="41.781"
+           cy="16.014"
+           rx="1.885"
+           ry="2.876"
+           id="ellipse33" /></g><path
+         fill="#FFFFFF"
+         stroke="#5CB7CC"
+         stroke-width="0.9324"
+         stroke-miterlimit="1"
+         d="M32.081,22.438c0,0,3.428,4.218,7.816,0"
+         id="path35" /><path
+         fill="#C10D23"
+         d="M47.984,12.275l1.667-8.517c0.172-0.871-1.427-2.161-3.567-2.881c-2.142-0.72-4.194-0.659-4.584,0.137    l-3.823,7.791l0,0v0c-0.173,0.516,1.993,1.711,4.84,2.668C45.363,12.433,47.811,12.791,47.984,12.275L47.984,12.275L47.984,12.275    z"
+         id="path37" /><linearGradient
+         id="SVGID_2_"
+         gradientUnits="userSpaceOnUse"
+         x1="67.5918"
+         y1="87.8682"
+         x2="36.4277"
+         y2="45.1188"><stop
+           offset="0"
+           style="stop-color:#00C3FF"
+           id="stop40" /><stop
+           offset="1"
+           style="stop-color:#FFFFFF;stop-opacity:0"
+           id="stop42" /></linearGradient><path
+         fill="url(#SVGID_2_)"
+         d="M54.105,47.578c0,7.863-7.113,14.237-15.888,14.237c-8.772,0-15.885-6.374-15.885-14.237    c0-7.866,7.113-14.241,15.885-14.241C46.992,33.337,54.105,39.712,54.105,47.578z"
+         id="path44" /><linearGradient
+         id="SVGID_3_"
+         gradientUnits="userSpaceOnUse"
+         x1="56.8486"
+         y1="40.7627"
+         x2="39.2656"
+         y2="21.0957"><stop
+           offset="0"
+           style="stop-color:#00C3FF"
+           id="stop47" /><stop
+           offset="1"
+           style="stop-color:#FFFFFF;stop-opacity:0"
+           id="stop49" /></linearGradient><path
+         fill="url(#SVGID_3_)"
+         d="M33.4,29.667H44.01c3.371-1.792,5.654-5.236,5.654-9.195c0-5.806-4.906-10.511-10.959-10.511    c-6.052,0-10.958,4.706-10.958,10.511C27.747,24.431,30.031,27.875,33.4,29.667z"
+         id="path51" /></g></g></svg>

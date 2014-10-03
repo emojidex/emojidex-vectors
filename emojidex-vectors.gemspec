@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'emojidex-vectors'
-  s.version     = '0.0.3'
+  s.version     = '0.0.4'
   s.license     = 'emojidex General License'
   s.summary     = 'Vectorized [SVG] emoji assets for emojidex.'
   s.description = 'Vectorized [SVG] assets for emojidex. These assets can be used as a gem and combined with emojidex-toolkit and emojidex-converter.'

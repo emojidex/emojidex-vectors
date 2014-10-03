@@ -1,49 +1,188 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-	 y="0px" width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<g>
-	<path fill="#0C0301" d="M33.917,21.778c0,0,2.51-13,21.427-13.75l0.894,0.417c0,0-18.737,0.167-19.987,13.333H33.917z"/>
-	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="36.8613" y1="57.9443" x2="36.8613" y2="25.2591">
-		<stop  offset="0" style="stop-color:#FF8900"/>
-		<stop  offset="1" style="stop-color:#FFDF7F"/>
-	</linearGradient>
-	
-		<rect x="28.515" y="20.612" fill="url(#SVGID_1_)" stroke="#0C0301" stroke-width="0.6358" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="16.694" height="3.417"/>
-	<circle fill="#0C0301" cx="12.447" cy="50.689" r="5.281"/>
-	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="32.0005" y1="57.9443" x2="32.0005" y2="25.2595">
-		<stop  offset="0" style="stop-color:#FF8900"/>
-		<stop  offset="1" style="stop-color:#FFDF7F"/>
-	</linearGradient>
-	
-		<path fill="url(#SVGID_2_)" stroke="#0C0301" stroke-width="0.6358" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M58.514,22.596H7.103l-4.311,14.73c0,0,0,8.908,0,11.424c0,0.934,0.97,1.939,0.97,1.939h2.461c0-3.422,2.775-6.197,6.197-6.197
-		s6.197,2.775,6.197,6.197h26.908c0-3.422,2.775-6.197,6.197-6.197c3.423,0,6.197,2.775,6.197,6.197l3.288-0.502V37.326
-		l-0.761-13.431L58.514,22.596z"/>
-	<circle fill="#0C0301" cx="51.769" cy="50.689" r="5.281"/>
-	<polygon fill="#288EA5" points="4.211,37.109 7.499,26.118 14.683,26.118 14.683,37.109 	"/>
-	<rect x="2.792" y="38.869" fill="#FCF503" width="58.416" height="3.576"/>
-	<rect x="2.792" y="41.852" fill="#F2CF00" width="2.838" height="2.588"/>
-	<rect x="59.447" y="38.869" fill="#EF0000" width="1.761" height="4.852"/>
-	<polygon fill="none" stroke="#190101" stroke-width="0.3039" stroke-miterlimit="10" points="39.167,45.766 37.925,49.029 
-		26.963,49.029 24.917,45.766 24.917,24.321 39.167,24.321 	"/>
-	
-		<path fill="none" stroke="#0C0301" stroke-width="0.6358" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M58.514,22.596H7.103l-4.311,14.73c0,0,0,8.766,0,11.424c0.2,1.223,0.97,1.939,0.97,1.939h2.461c0-3.422,2.775-6.197,6.197-6.197
-		s6.197,2.775,6.197,6.197h26.908c0-3.422,2.775-6.197,6.197-6.197c3.423,0,6.197,2.775,6.197,6.197l3.288-0.502V37.326
-		l-0.786-13.431L58.514,22.596z"/>
-	<path fill="#090B0C" d="M8.823,33.445c-0.431-0.933-3.089-0.359-3.089-0.359l-1.522,1.822l-1.219,1.734l1.219,0.467l0.801-1.053
-		c0.5,0.219,1.513,0.482,2.446,0.047C8.536,35.602,9.254,34.379,8.823,33.445z"/>
-	
-		<circle fill="#C1C1C1" stroke="#0C0301" stroke-width="0.6358" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="12.447" cy="50.689" r="3.125"/>
-	
-		<circle fill="#C1C1C1" stroke="#0C0301" stroke-width="0.6358" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="51.768" cy="50.689" r="3.125"/>
-	<rect x="18.75" y="26.862" fill="#288EA5" width="5.667" height="6.667"/>
-	<rect x="25.681" y="26.862" fill="#288EA5" width="5.667" height="6.667"/>
-	<rect x="32.612" y="26.862" fill="#288EA5" width="5.667" height="6.667"/>
-	<rect x="39.542" y="26.862" fill="#288EA5" width="5.667" height="6.667"/>
-	<rect x="46.474" y="26.862" fill="#288EA5" width="5.667" height="6.667"/>
-	<rect x="53.404" y="26.862" fill="#288EA5" width="5.667" height="6.667"/>
-</g>
-</svg>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="レイヤー_1"
+   x="0px"
+   y="0px"
+   width="64px"
+   height="64px"
+   viewBox="0 0 64 64"
+   enable-background="new 0 0 64 64"
+   xml:space="preserve"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="trolleybus.svg"><metadata
+     id="metadata59"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs57" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview55" /><g
+     id="g3"><path
+       fill="#0C0301"
+       d="M33.917,21.778c0,0,2.51-13,21.427-13.75l0.894,0.417c0,0-18.737,0.167-19.987,13.333H33.917z"
+       id="path5" /><linearGradient
+       id="SVGID_1_"
+       gradientUnits="userSpaceOnUse"
+       x1="36.8613"
+       y1="57.9443"
+       x2="36.8613"
+       y2="25.2591"><stop
+         offset="0"
+         style="stop-color:#FF8900"
+         id="stop8" /><stop
+         offset="1"
+         style="stop-color:#FFDF7F"
+         id="stop10" /></linearGradient><rect
+       x="28.515"
+       y="20.612"
+       fill="url(#SVGID_1_)"
+       stroke="#0C0301"
+       stroke-width="0.6358"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       width="16.694"
+       height="3.417"
+       id="rect12" /><circle
+       fill="#0C0301"
+       cx="12.447"
+       cy="50.689"
+       r="5.281"
+       id="circle14" /><linearGradient
+       id="SVGID_2_"
+       gradientUnits="userSpaceOnUse"
+       x1="32.0005"
+       y1="57.9443"
+       x2="32.0005"
+       y2="25.2595"><stop
+         offset="0"
+         style="stop-color:#FF8900"
+         id="stop17" /><stop
+         offset="1"
+         style="stop-color:#FFDF7F"
+         id="stop19" /></linearGradient><path
+       fill="url(#SVGID_2_)"
+       stroke="#0C0301"
+       stroke-width="0.6358"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       d="   M58.514,22.596H7.103l-4.311,14.73c0,0,0,8.908,0,11.424c0,0.934,0.97,1.939,0.97,1.939h2.461c0-3.422,2.775-6.197,6.197-6.197   s6.197,2.775,6.197,6.197h26.908c0-3.422,2.775-6.197,6.197-6.197c3.423,0,6.197,2.775,6.197,6.197l3.288-0.502V37.326   l-0.761-13.431L58.514,22.596z"
+       id="path21" /><circle
+       fill="#0C0301"
+       cx="51.769"
+       cy="50.689"
+       r="5.281"
+       id="circle23" /><polygon
+       fill="#288EA5"
+       points="4.211,37.109 7.499,26.118 14.683,26.118 14.683,37.109  "
+       id="polygon25" /><rect
+       x="2.792"
+       y="38.869"
+       fill="#FCF503"
+       width="58.416"
+       height="3.576"
+       id="rect27" /><rect
+       x="2.792"
+       y="41.852"
+       fill="#F2CF00"
+       width="2.838"
+       height="2.588"
+       id="rect29" /><rect
+       x="59.447"
+       y="38.869"
+       fill="#EF0000"
+       width="1.761"
+       height="4.852"
+       id="rect31" /><polygon
+       fill="none"
+       stroke="#190101"
+       stroke-width="0.3039"
+       stroke-miterlimit="10"
+       points="39.167,45.766 37.925,49.029    26.963,49.029 24.917,45.766 24.917,24.321 39.167,24.321  "
+       id="polygon33" /><path
+       fill="none"
+       stroke="#0C0301"
+       stroke-width="0.6358"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       d="   M58.514,22.596H7.103l-4.311,14.73c0,0,0,8.766,0,11.424c0.2,1.223,0.97,1.939,0.97,1.939h2.461c0-3.422,2.775-6.197,6.197-6.197   s6.197,2.775,6.197,6.197h26.908c0-3.422,2.775-6.197,6.197-6.197c3.423,0,6.197,2.775,6.197,6.197l3.288-0.502V37.326   l-0.786-13.431L58.514,22.596z"
+       id="path35" /><path
+       fill="#090B0C"
+       d="M8.823,33.445c-0.431-0.933-3.089-0.359-3.089-0.359l-1.522,1.822l-1.219,1.734l1.219,0.467l0.801-1.053   c0.5,0.219,1.513,0.482,2.446,0.047C8.536,35.602,9.254,34.379,8.823,33.445z"
+       id="path37" /><circle
+       fill="#C1C1C1"
+       stroke="#0C0301"
+       stroke-width="0.6358"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       cx="12.447"
+       cy="50.689"
+       r="3.125"
+       id="circle39" /><circle
+       fill="#C1C1C1"
+       stroke="#0C0301"
+       stroke-width="0.6358"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       cx="51.768"
+       cy="50.689"
+       r="3.125"
+       id="circle41" /><rect
+       x="18.75"
+       y="26.862"
+       fill="#288EA5"
+       width="5.667"
+       height="6.667"
+       id="rect43" /><rect
+       x="25.681"
+       y="26.862"
+       fill="#288EA5"
+       width="5.667"
+       height="6.667"
+       id="rect45" /><rect
+       x="32.612"
+       y="26.862"
+       fill="#288EA5"
+       width="5.667"
+       height="6.667"
+       id="rect47" /><rect
+       x="39.542"
+       y="26.862"
+       fill="#288EA5"
+       width="5.667"
+       height="6.667"
+       id="rect49" /><rect
+       x="46.474"
+       y="26.862"
+       fill="#288EA5"
+       width="5.667"
+       height="6.667"
+       id="rect51" /><rect
+       x="53.404"
+       y="26.862"
+       fill="#288EA5"
+       width="5.667"
+       height="6.667"
+       id="rect53" /></g></svg>

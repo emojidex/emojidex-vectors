@@ -1,19 +1,50 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-	 y="0px" width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<g>
-	<g>
-		<circle fill="#595757" cx="23.948" cy="16.595" r="3.923"/>
-		<path fill="#595757" d="M16.053,28.173c0,0-2.132,1.259,0,3.391h5.231l3.584-4.553l3.779,7.847l-9.979,16.471h4.359l7.848-13.078
-			c0,0,2.036-1.744,2.131-0.293c0,0,0,3.102,0,4.846c0,1.742,2.229,3.293,3.683,3.293c1.452,0,12.206,0.291,12.206,0.291L46.86,42.9
-			l-9.785-0.582v-8.1l-4.455-9.922h4.698l4.312,6.007c0,0,2.42,0.873,2.614-1.161l-5.715-7.945H27.871c0,0-3.39-0.221-5.226,2.777
-			c-0.064,0.105-2.621,4.004-2.621,4.004L16.053,28.173z"/>
-	</g>
-	<path fill="#E30012" d="M32,2.008C15.436,2.008,2.008,15.436,2.008,32S15.436,61.992,32,61.992S61.992,48.564,61.992,32
-		S48.564,2.008,32,2.008z M56.158,32.001c0,5.72-1.992,10.972-5.316,15.11L16.888,13.157C21.026,9.834,26.279,7.842,32,7.842
-		C45.342,7.842,56.158,18.657,56.158,32.001z M7.842,32.001c0-5.55,1.875-10.657,5.021-14.736l33.872,33.874
-		c-4.078,3.145-9.186,5.02-14.734,5.02C18.657,56.158,7.842,45.342,7.842,32.001z"/>
-</g>
-</svg>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="レイヤー_1"
+   x="0px"
+   y="0px"
+   width="64px"
+   height="64px"
+   viewBox="0 0 64 64"
+   enable-background="new 0 0 64 64"
+   xml:space="preserve"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="no_pedestrains.svg"><metadata
+     id="metadata17"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs15" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview13" /><g
+     id="g3"><g
+       id="g5"><circle
+         fill="#595757"
+         cx="23.948"
+         cy="16.595"
+         r="3.923"
+         id="circle7" /><path
+         fill="#595757"
+         d="M16.053,28.173c0,0-2.132,1.259,0,3.391h5.231l3.584-4.553l3.779,7.847l-9.979,16.471h4.359l7.848-13.078    c0,0,2.036-1.744,2.131-0.293c0,0,0,3.102,0,4.846c0,1.742,2.229,3.293,3.683,3.293c1.452,0,12.206,0.291,12.206,0.291L46.86,42.9    l-9.785-0.582v-8.1l-4.455-9.922h4.698l4.312,6.007c0,0,2.42,0.873,2.614-1.161l-5.715-7.945H27.871c0,0-3.39-0.221-5.226,2.777    c-0.064,0.105-2.621,4.004-2.621,4.004L16.053,28.173z"
+         id="path9" /></g><path
+       fill="#E30012"
+       d="M32,2.008C15.436,2.008,2.008,15.436,2.008,32S15.436,61.992,32,61.992S61.992,48.564,61.992,32   S48.564,2.008,32,2.008z M56.158,32.001c0,5.72-1.992,10.972-5.316,15.11L16.888,13.157C21.026,9.834,26.279,7.842,32,7.842   C45.342,7.842,56.158,18.657,56.158,32.001z M7.842,32.001c0-5.55,1.875-10.657,5.021-14.736l33.872,33.874   c-4.078,3.145-9.186,5.02-14.734,5.02C18.657,56.158,7.842,45.342,7.842,32.001z"
+       id="path11" /></g></svg>
