@@ -784,7 +784,7 @@
     "category": "faces"
   },
   {
-    "code_ja": "スマイル(茶)",
+    "code_ja": "スマイリー(茶)",
     "code": "smiley(br)",
     "category": "faces"
   },
@@ -989,7 +989,7 @@
     "category": "faces"
   },
   {
-    "code_ja": "スマイル(黒)",
+    "code_ja": "スマイリー(黒)",
     "code": "smiley(bk)",
     "category": "faces"
   },
@@ -1289,23 +1289,63 @@
     "category": "faces"
   },
   {
-    "code": "smirking_face(br)",
     "code_ja": "ふっ(茶)",
+    "code": "smirk(br)",
     "category": "faces"
   },
   {
-    "code": "smirking_face(bk)",
     "code_ja": "ふっ(黒)",
+    "code": "smirk(bk)",
     "category": "faces"
   },
   {
-    "code": "face_with_stuck_out_tongue_and_tightly_closed_eyes(br)",
     "code_ja": "べーっ(茶)",
+    "code": "stuck_out_tongue_closed_eyes(br)",
     "category": "faces"
   },
   {
-    "code": "face_with_stuck_out_tongue_and_tightly_closed_eyes(bk)",
     "code_ja": "べーっ(黒)",
+    "code": "stuck_out_tongue_closed_eyes(bk)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "あっかんべー(茶)",
+    "code": "stuck_out_tongue_winking_eye(br)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "あっかんべー(黒)",
+    "code": "stuck_out_tongue_winking_eye(bk)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "目がハート(茶)",
+    "code": "heart_eyes(br)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "目がハート(黒)",
+    "code": "heart_eyes(bk)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "嬉しい顔(茶)",
+    "code": "smile(br)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "嬉しい顔(黒)",
+    "code": "smile(bk)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "笑い(茶)",
+    "code": "laughing(br)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "笑い(黒)",
+    "code": "laughing(bk)",
     "category": "faces"
   },
   {
