@@ -1,52 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   id="レイヤー_1"
-   x="0px"
-   y="0px"
-   width="64px"
-   height="64px"
-   viewBox="0 0 64 64"
-   enable-background="new 0 0 64 64"
-   xml:space="preserve"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="wavy_dash.svg"><metadata
-     id="metadata13"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-     id="defs11" /><sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview9" /><g
-     id="g3"><path
-       fill="none"
-       stroke="#595757"
-       stroke-width="4"
-       stroke-linejoin="bevel"
-       stroke-miterlimit="10"
-       d="M0,28.092   c5.497,0,8.8,7.816,16.052,7.816s9.01-7.816,15.948-7.816"
-       id="path5" /><path
-       fill="none"
-       stroke="#595757"
-       stroke-width="4"
-       stroke-linejoin="bevel"
-       stroke-miterlimit="10"
-       d="M32,28.092   c5.497,0,8.8,7.816,16.052,7.816s9.01-7.816,15.947-7.816"
-       id="path7" /></g></svg>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="64px" height="64px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<g>
+	<path style="fill:#595758;" d="M54.7597656,30.4453125c-2.0976563,1.8525391-3.9101563,3.4511719-6.8007813,3.4511719
+		c-3.1484375,0-5.4453125-1.8652344-7.8769531-3.8417969c-2.375-1.9306641-4.8339844-3.9277344-8.0820313-3.9277344
+		c-4.1630859,0-6.7607422,2.2939453-9.0527344,4.3183594c-2.0976563,1.8525391-3.9091797,3.4511719-6.8017578,3.4511719
+		c-3.1484375,0-5.4443359-1.8652344-7.875-3.8417969C5.8935547,28.1240234,3.4375,26.1269531,0.1875,26.1269531v3.9765625
+		c1.8369141,0,3.5693359,1.4072266,5.5742188,3.0371094c2.7294922,2.21875,5.8232422,4.7324219,10.3837891,4.7324219
+		c4.3974609,0,7.0732422-2.3632813,9.4335938-4.4472656C27.5986328,31.6425781,29.3417969,30.1035156,32,30.1035156
+		c1.8359375,0,3.5703125,1.4072266,5.5742188,3.0371094c2.7304688,2.21875,5.8242188,4.7324219,10.3847656,4.7324219
+		c4.3964844,0,7.0722656-2.3632813,9.4335938-4.4472656c2.0175781-1.7832031,3.7617188-3.3222656,6.4199219-3.3222656v-3.9765625
+		C59.6484375,26.1269531,57.0507813,28.4208984,54.7597656,30.4453125z"/>
+</g>
+</svg>
