@@ -1,22 +1,60 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-	 y="0px" width="64px" height="64px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
-<g>
-	<g>
-		<circle style="fill:#58C4F0;" cx="32" cy="32" r="25.3027344"/>
-		<path style="fill:#1E93D2;" d="M32,58.8027344C17.2207031,58.8027344,5.1972656,46.7792969,5.1972656,32
-			S17.2207031,5.1972656,32,5.1972656S58.8027344,17.2207031,58.8027344,32S46.7792969,58.8027344,32,58.8027344z M32,8.1972656
-			C18.875,8.1972656,8.1972656,18.875,8.1972656,32S18.875,55.8027344,32,55.8027344S55.8027344,45.125,55.8027344,32
-			S45.125,8.1972656,32,8.1972656z"/>
-	</g>
-	<g>
-		<rect x="29.9345703" y="29.2529297" style="fill:#FFFFFF;" width="4.1308594" height="4.1308594"/>
-		<polygon style="fill:#FFFFFF;" points="38.1972656,43.0097656 42.328125,43.0097656 42.328125,20.9902344 38.1972656,20.9902344 
-			38.1972656,25.1220703 34.0654297,25.1220703 34.0654297,29.2529297 38.1972656,29.2529297 		"/>
-		<polygon style="fill:#FFFFFF;" points="25.8027344,43.0097656 25.8027344,29.2529297 29.9345703,29.2529297 
-			29.9345703,25.1220703 25.8027344,25.1220703 25.8027344,20.9902344 21.671875,20.9902344 21.671875,43.0097656 		"/>
-	</g>
-</g>
-</svg>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="レイヤー_1"
+   x="0px"
+   y="0px"
+   width="64px"
+   height="64px"
+   viewBox="0 0 64 64"
+   style="enable-background:new 0 0 64 64;"
+   xml:space="preserve"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="m.svg"><metadata
+     id="metadata23"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs21" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview19" /><g
+     id="g3"><g
+       id="g5"><circle
+         style="fill:#58C4F0;"
+         cx="32"
+         cy="32"
+         r="25.3027344"
+         id="circle7" /><path
+         style="fill:#1E93D2;"
+         d="M32,58.8027344C17.2207031,58.8027344,5.1972656,46.7792969,5.1972656,32    S17.2207031,5.1972656,32,5.1972656S58.8027344,17.2207031,58.8027344,32S46.7792969,58.8027344,32,58.8027344z M32,8.1972656    C18.875,8.1972656,8.1972656,18.875,8.1972656,32S18.875,55.8027344,32,55.8027344S55.8027344,45.125,55.8027344,32    S45.125,8.1972656,32,8.1972656z"
+         id="path9" /></g><g
+       id="g11"><rect
+         x="29.9345703"
+         y="29.2529297"
+         style="fill:#FFFFFF;"
+         width="4.1308594"
+         height="4.1308594"
+         id="rect13" /><polygon
+         style="fill:#FFFFFF;"
+         points="38.1972656,43.0097656 42.328125,43.0097656 42.328125,20.9902344 38.1972656,20.9902344     38.1972656,25.1220703 34.0654297,25.1220703 34.0654297,29.2529297 38.1972656,29.2529297   "
+         id="polygon15" /><polygon
+         style="fill:#FFFFFF;"
+         points="25.8027344,43.0097656 25.8027344,29.2529297 29.9345703,29.2529297     29.9345703,25.1220703 25.8027344,25.1220703 25.8027344,20.9902344 21.671875,20.9902344 21.671875,43.0097656   "
+         id="polygon17" /></g></g></svg>
