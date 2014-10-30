@@ -12,8 +12,10 @@ require 'rubygems'
 
 gem 'emojidex'
 
-require 'fileutils'
 require 'emojidex'
+
+require 'fileutils'
+require 'shellwords'
 
 emoji_root = File.expand_path('../../emoji/', __FILE__)
 utf_path = File.expand_path('utf', emoji_root)
@@ -26,9 +28,11 @@ extended = Emojidex::Collection.new
 extended.load_local_collection extended_path
 
 utf.each do |moji|
-  `inkscape --vacuum-defs #{utf_path}/#{moji.code}.svg`
+  puts "cleaning: #{moji.code}"
+  `inkscape --vacuum-defs #{Shellwords.escape("#{utf_path}/#{moji.code}.svg")}`
 end
 
 extended.each do |moji|
-  `inkscape --vacuum-defs #{extended_path}/#{moji.code}.svg`
+  puts "cleaning: #{moji.code}"
+  `inkscape --vacuum-defs #{Shellwords.escape("#{extended_path}/#{moji.code}.svg")}`
 end
