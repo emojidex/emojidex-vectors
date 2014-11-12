@@ -1,67 +1,23 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   id="レイヤー_1"
-   x="0px"
-   y="0px"
-   width="64px"
-   height="64px"
-   viewBox="0 0 64 64"
-   enable-background="new 0 0 64 64"
-   xml:space="preserve"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="beamed_ascending_musical_notes.svg"><metadata
-     id="metadata20"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-     id="defs18" /><sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview16" /><g
-     id="g3"><linearGradient
-       id="SVGID_1_"
-       gradientUnits="userSpaceOnUse"
-       x1="22.9966"
-       y1="20.1787"
-       x2="43.9142"
-       y2="44.0964"><stop
-         offset="0"
-         style="stop-color:#424242"
-         id="stop6" /><stop
-         offset="1"
-         style="stop-color:#000000"
-         id="stop8" /></linearGradient><path
-       fill="url(#SVGID_1_)"
-       d="M52.24,37.339V17.945v-5.333V7.778l-26.25,11.5v8.083v2.083v16.311   c-1.801-0.689-4.191-0.854-6.697-0.314c-4.778,1.028-8.146,4.203-7.525,7.091s4.998,4.395,9.775,3.367   c4.778-1.028,8.146-4.203,7.525-7.09c-0.019-0.089-0.052-0.172-0.079-0.259V28.13l20.25-8.871v15.206   c-1.835-0.687-4.289-0.849-6.803-0.308c-4.698,1.012-8.021,4.074-7.426,6.842s4.886,4.191,9.583,3.181   C49.291,43.168,52.836,40.105,52.24,37.339z"
-       id="path10" /><ellipse
-       transform="matrix(0.8827 -0.47 0.47 0.8827 -21.0169 13.3774)"
-       fill="#FFFFFF"
-       cx="16.283"
-       cy="48.78"
-       rx="1.957"
-       ry="1.415"
-       id="ellipse12" /><ellipse
-       transform="matrix(0.8827 -0.47 0.47 0.8827 -12.815 23.2299)"
-       fill="#FFFFFF"
-       cx="40.116"
-       cy="37.28"
-       rx="1.957"
-       ry="1.415"
-       id="ellipse14" /></g></svg>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="64px" height="64px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="22.996582" y1="20.1787109" x2="43.9141693" y2="44.0964203">
+		<stop  offset="0" style="stop-color:#424242"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_1_);" d="M52.2402344,37.3388672v-19.394043v-5.3334961V7.7783203l-26.25,11.5v8.0830078v2.0834961
+		v16.3110352c-1.8012695-0.6894531-4.190918-0.8535156-6.6967773-0.3144531
+		c-4.777832,1.0283203-8.1464844,4.203125-7.5249023,7.0908203s4.9980469,4.3945313,9.7753906,3.3671875
+		c4.777832-1.0283203,8.1464844-4.203125,7.5249023-7.0898438c-0.019043-0.0888672-0.0522461-0.171875-0.0786133-0.2587891
+		V28.1303711l20.25-8.8710938v15.2055664c-1.8349609-0.6865234-4.2890625-0.8486328-6.8027344-0.3076172
+		c-4.6982422,1.0117188-8.0214844,4.0742188-7.4257813,6.8417969s4.8857422,4.1914063,9.5830078,3.1806641
+		C49.2910156,43.1679688,52.8359375,40.1054688,52.2402344,37.3388672z"/>
+	
+		<ellipse transform="matrix(0.8826566 -0.4700184 0.4700184 0.8826566 -21.0168991 13.3774452)" style="fill:#FFFFFF;" cx="16.2832031" cy="48.7802734" rx="1.957204" ry="1.4152689"/>
+	
+		<ellipse transform="matrix(0.8826566 -0.4700184 0.4700184 0.8826566 -12.8150444 23.22995)" style="fill:#FFFFFF;" cx="40.1162109" cy="37.2802734" rx="1.957204" ry="1.4150394"/>
+</g>
+</svg>

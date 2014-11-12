@@ -2065,6 +2065,13 @@
     "unicode": "1f3de"
   },
   {
+    "moji": "🏟",
+    "code": "stadium",
+    "code_ja": "スタジアム",
+    "category": "places",
+    "unicode": "1f3df"
+  },
+  {
     "moji": "🏠",
     "full_name": "house_building",
     "code": "house",
@@ -2186,6 +2193,55 @@
     "code_ja": "ヨーロッパの城",
     "category": "places",
     "unicode": "1f3f0"
+  },
+  {
+    "moji": "🏱",
+    "code": "white_pennant",
+    "code_ja": "ペナント(白)",
+    "category": "objects",
+    "unicode": "1f3f1"
+  },
+  {
+    "moji": "🏲",
+    "code": "black_pennant",
+    "code_ja": "ペナント(黒)",
+    "category": "objects",
+    "unicode": "1f3f2"
+  },
+  {
+    "moji": "🏳",
+    "code": "waving_white_flag",
+    "code_ja": "旗(白)",
+    "category": "objects",
+    "unicode": "1f3f3"
+  },
+  {
+    "moji": "🏴",
+    "code": "waving_black_flag",
+    "code_ja": "旗(黒)",
+    "category": "objects",
+    "unicode": "1f3f4"
+  },
+  {
+    "moji": "🏵",
+    "code": "rosette",
+    "code_ja": "バラ飾り(白)",
+    "category": "objects",
+    "unicode": "1f3f5"
+  },
+  {
+    "moji": "🏶",
+    "code": "black_rosette",
+    "code_ja": "バラ飾り(黒)",
+    "category": "objects",
+    "unicode": "1f3f6"
+  },
+  {
+    "moji": "🏷",
+    "code": "label",
+    "code_ja": "ラベル",
+    "category": "objects",
+    "unicode": "1f3f7"
   },
   {
     "moji": "🐀",
@@ -2657,11 +2713,25 @@
     "unicode": "1f43e"
   },
   {
+    "moji": "🐿",
+    "code": "chipmunk",
+    "code_ja": "シマリス",
+    "category": "nature",
+    "unicode": "1f43f"
+  },
+  {
     "moji": "👀",
     "code": "eyes",
     "code_ja": "目",
     "category": "people",
     "unicode": "1f440"
+  },
+  {
+    "moji": "👁",
+    "code": "eye",
+    "code_ja": "目2",
+    "category": "people",
+    "unicode": "1f441"
   },
   {
     "moji": "👂",
@@ -3996,6 +4066,13 @@
     "unicode": "1f4f7"
   },
   {
+    "moji": "📸",
+    "code": "camera_with_flash",
+    "code_ja": "カメラ2",
+    "category": "objects",
+    "unicode": "1f4f8"
+  },
+  {
     "moji": "📹",
     "code": "video_camera",
     "code_ja": "ハンディカム",
@@ -4024,6 +4101,20 @@
     "code_ja": "ビデオテープ",
     "category": "objects",
     "unicode": "1f4fc"
+  },
+  {
+    "moji": "📽",
+    "code": "film_projector",
+    "code_ja": "プロジェクター",
+    "category": "objects",
+    "unicode": "1f4fd"
+  },
+  {
+    "moji": "📾",
+    "code": "portable_stereo",
+    "code_ja": "ポータブルステレオ",
+    "category": "objects",
+    "unicode": "1f4fe"
   },
   {
     "moji": "🔀",
@@ -4496,6 +4587,69 @@
     "unicode": "1f53d"
   },
   {
+    "moji": "🔾",
+    "code": "lower_right_shadowed_white_circle",
+    "code_ja": "影付き白丸",
+    "category": "abstract",
+    "unicode": "1f53e"
+  },
+  {
+    "moji": "🔿",
+    "code": "upper_right_shadowed_white_circle",
+    "code_ja": "影付き白丸2",
+    "category": "abstract",
+    "unicode": "1f53f"
+  },
+  {
+    "moji": "🕄",
+    "code": "notched_right_semicircle_with_three",
+    "code_ja": "低ランクのごちそう",
+    "category": "objects",
+    "unicode": "1f544"
+  },
+  {
+    "moji": "🕅",
+    "code": "symbol_for_marks_chapter",
+    "code_ja": "チャプターマーク",
+    "category": "symbols",
+    "unicode": "1f545"
+  },
+  {
+    "moji": "🕆",
+    "code": "white_latin_cross",
+    "code_ja": "十字架(白)",
+    "category": "objects",
+    "unicode": "1f546"
+  },
+  {
+    "moji": "🕇",
+    "code": "heavy_latin_cross",
+    "code_ja": "十字架(黒)",
+    "category": "objects",
+    "unicode": "1f547"
+  },
+  {
+    "moji": "🕈",
+    "code": "celtic_cross",
+    "code_ja": "ケルト十字架",
+    "category": "objects",
+    "unicode": "1f548"
+  },
+  {
+    "moji": "🕉",
+    "code": "om_symbol",
+    "code_ja": "オーム",
+    "category": "symbols",
+    "unicode": "1f549"
+  },
+  {
+    "moji": "🕊",
+    "code": "dove_of_peace",
+    "code_ja": "ハト",
+    "category": "nature",
+    "unicode": "1f54a"
+  },
+  {
     "moji": "🕐",
     "full_name": "clock_face_one_oclock",
     "code": "clock1",
@@ -4686,6 +4840,223 @@
     "code_ja": "12時半",
     "category": "objects",
     "unicode": "1f567"
+  },
+  {
+    "moji": "🕨",
+    "code": "right_speaker",
+    "code_ja": "スピーカー2",
+    "category": "objects",
+    "unicode": "1f568"
+  },
+  {
+    "moji": "🕩",
+    "code": "right_speaker_with_one_sound_wave",
+    "code_ja": "スピーカー3",
+    "category": "objects",
+    "unicode": "1f569"
+  },
+  {
+    "moji": "🕪",
+    "code": "right_speaker_with_three_sound_waves",
+    "code_ja": "スピーカー4",
+    "category": "objects",
+    "unicode": "1f56a"
+  },
+  {
+    "moji": "🕫",
+    "code": "bullhorn",
+    "code_ja": "拡声器2",
+    "category": "objects",
+    "unicode": "1f56b"
+  },
+  {
+    "moji": "🕬",
+    "code": "bullhorn_with_sound_waves",
+    "code_ja": "拡声器3",
+    "category": "objects",
+    "unicode": "1f56c"
+  },
+  {
+    "moji": "🕭",
+    "code": "ringing_bell",
+    "code_ja": "ベル2",
+    "category": "objects",
+    "unicode": "1f56d"
+  },
+  {
+    "moji": "🕯",
+    "code": "candle",
+    "code_ja": "ロウソク",
+    "category": "objects",
+    "unicode": "1f56f"
+  },
+  {
+    "moji": "🕰",
+    "code": "mantelpiece_clock",
+    "code_ja": "置き時計",
+    "category": "objects",
+    "unicode": "1f570"
+  },
+  {
+    "moji": "🕱",
+    "code": "black_skull_and_crossbones",
+    "code_ja": "ドクロマーク",
+    "category": "objects",
+    "unicode": "1f571"
+  },
+  {
+    "moji": "🕲",
+    "code": "no_piracy",
+    "code_ja": "海賊行為禁止",
+    "category": "symbols",
+    "unicode": "1f572"
+  },
+  {
+    "moji": "🕳",
+    "code": "hole",
+    "code_ja": "穴",
+    "category": "objects",
+    "unicode": "1f573"
+  },
+  {
+    "moji": "🕴",
+    "code": "man_in_business_suit_levitating",
+    "code_ja": "ビジネススーツ",
+    "category": "people",
+    "unicode": "1f574"
+  },
+  {
+    "moji": "🕵",
+    "code": "sleuth_or_spy",
+    "code_ja": "スパイ",
+    "category": "people",
+    "unicode": "1f575"
+  },
+  {
+    "moji": "🕶",
+    "code": "dark_sunglasses",
+    "code_ja": "サングラス",
+    "category": "objects",
+    "unicode": "1f576"
+  },
+  {
+    "moji": "🕷",
+    "code": "spider",
+    "code_ja": "クモ",
+    "category": "nature",
+    "unicode": "1f577"
+  },
+  {
+    "moji": "🕸",
+    "code": "spider_web",
+    "code_ja": "クモの巣",
+    "category": "nature",
+    "unicode": "1f578"
+  },
+  {
+    "moji": "🕹",
+    "code": "joystick",
+    "code_ja": "ジョイスティック",
+    "category": "objects",
+    "unicode": "1f579"
+  },
+  {
+    "moji": "🕻",
+    "code": "left_hand_telephone_receiver",
+    "code_ja": "受話器2",
+    "category": "objects",
+    "unicode": "1f57b"
+  },
+  {
+    "moji": "🕼",
+    "code": "telephone_receiver_with_page",
+    "code_ja": "受話器3",
+    "category": "objects",
+    "unicode": "1f57c"
+  },
+  {
+    "moji": "🕽",
+    "code": "right_hand_telephone_receiver",
+    "code_ja": "受話器4",
+    "category": "objects",
+    "unicode": "1f57d"
+  },
+  {
+    "moji": "🕾",
+    "code": "white_touchtone_telephone",
+    "code_ja": "電話(白)",
+    "category": "objects",
+    "unicode": "1f57e"
+  },
+  {
+    "moji": "🕿",
+    "code": "black_touchtone_telephone",
+    "code_ja": "黒電話2",
+    "category": "objects",
+    "unicode": "1f57f"
+  },
+  {
+    "moji": "🖀",
+    "code": "telephone_on_top_of_modem",
+    "code_ja": "モデムと電話",
+    "category": "objects",
+    "unicode": "1f580"
+  },
+  {
+    "moji": "🖁",
+    "code": "clamshell_mobile_phone",
+    "code_ja": "折りたたみ式携帯電話",
+    "category": "objects",
+    "unicode": "1f581"
+  },
+  {
+    "moji": "🖂",
+    "code": "back_of_envelope",
+    "code_ja": "封筒3",
+    "category": "objects",
+    "unicode": "1f582"
+  },
+  {
+    "moji": "🖃",
+    "code": "stamped_envelope",
+    "code_ja": "封筒4",
+    "category": "objects",
+    "unicode": "1f583"
+  },
+  {
+    "moji": "🖄",
+    "code": "envelope_with_lightning",
+    "code_ja": "封筒5",
+    "category": "objects",
+    "unicode": "1f584"
+  },
+  {
+    "moji": "🖅",
+    "code": "flying_envelope",
+    "code_ja": "封筒6",
+    "category": "objects",
+    "unicode": "1f585"
+  },
+  {
+    "moji": "🖆",
+    "code": "pen_over_stamped_envelope",
+    "code_ja": "封筒とペン",
+    "category": "objects",
+    "unicode": "1f586"
+  },
+  {
+    "moji": "🖇",
+    "code": "linked_paperclips",
+    "code_ja": "クリップ2",
+    "category": "objects",
+    "unicode": "1f587"
+  },
+  {
+    "moji": "🖈",
+    "code": "black_pushpin",
+    "code_ja": "プッシュピン(黒)",
+    "category": "objects",
+    "unicode": "1f588"
   },
   {
     "moji": "🖕",
@@ -6593,6 +6964,13 @@
     "code_ja": "×",
     "category": "abstract",
     "unicode": "2716"
+  },
+  {
+    "moji": "✡",
+    "code": "star_of_david",
+    "code_ja": "ダビデの星",
+    "category": "symbols",
+    "unicode": "2721"
   },
   {
     "moji": "✨",

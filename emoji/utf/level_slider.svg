@@ -1,69 +1,23 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   id="レイヤー_1"
-   x="0px"
-   y="0px"
-   width="64px"
-   height="64px"
-   viewBox="0 0 64 64"
-   enable-background="new 0 0 64 64"
-   xml:space="preserve"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="level_slider.svg"><metadata
-     id="metadata21"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-     id="defs19" /><sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview17" /><g
-     id="g3"><rect
-       x="18.342"
-       y="2.548"
-       fill="#ECECED"
-       stroke="#231815"
-       stroke-miterlimit="10"
-       width="27.316"
-       height="58.904"
-       id="rect5" /><rect
-       x="30.711"
-       y="8.753"
-       fill="#231815"
-       width="2.578"
-       height="46.494"
-       id="rect7" /><rect
-       x="26.117"
-       y="46.343"
-       fill="#ECECED"
-       stroke="#231815"
-       stroke-miterlimit="10"
-       width="11.766"
-       height="5.641"
-       id="rect9" /><polygon
-       fill="#F9F9F9"
-       points="42.127,7.248 21.873,7.248 19.873,3.542 44.127,3.542  "
-       id="polygon11" /><polygon
-       fill="#DDDDDD"
-       points="21.712,56.466 41.967,56.466 43.967,60.173 19.712,60.173  "
-       id="polygon13" /><polygon
-       fill="#DDDDDD"
-       points="27.547,51.003 36.813,51.003 36.813,47.619  "
-       id="polygon15" /></g></svg>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="64px" height="64px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<g>
+	<g>
+		<rect x="18.3417969" y="2.5478516" style="fill:#D9DADA;" width="27.3164063" height="58.9042969"/>
+		<path style="fill:#231815;" d="M46.1582031,61.9521484H17.8417969V2.0478516h28.3164063V61.9521484z M18.8417969,60.9521484
+			h26.3164063V3.0478516H18.8417969V60.9521484z"/>
+	</g>
+	<rect x="30.7109375" y="8.7529297" style="fill:#231815;" width="2.578125" height="46.4941406"/>
+	<g>
+		<rect x="26.1171875" y="46.3427734" style="fill:#ECECED;" width="11.765625" height="5.640625"/>
+		<path style="fill:#231815;" d="M38.3828125,52.4833984h-12.765625v-6.640625h12.765625V52.4833984z M26.6171875,51.4833984
+			h10.765625v-4.640625h-10.765625V51.4833984z"/>
+	</g>
+	<polygon style="fill:#FFFFFF;" points="42.1269531,7.2480469 21.8725586,7.2480469 19.8725586,3.5415039 44.1269531,3.5415039 	"/>
+	<polygon style="fill:#B2B2B3;" points="21.7124023,56.4658203 41.9667969,56.4658203 43.9667969,60.1728516 19.7124023,60.1728516 
+			"/>
+	<polygon style="fill:#B2B2B3;" points="27.546875,51.0029297 36.8134766,51.0029297 36.8134766,47.6191406 	"/>
+</g>
+</svg>
