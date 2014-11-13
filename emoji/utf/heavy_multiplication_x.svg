@@ -16,7 +16,7 @@
    width="64px"
    height="64px"
    viewBox="0 0 64 64"
-   enable-background="new 0 0 64 64"
+   style="enable-background:new 0 0 64 64;"
    xml:space="preserve"
    inkscape:version="0.48.5 r10040"
    sodipodi:docname="heavy_multiplication_x.svg"><metadata
@@ -36,6 +36,6 @@
      inkscape:window-height="480"
      id="namedview7" /><g
      id="g3"><path
-       fill="#1EA839"
-       d="M9.473,49.115L26.589,32L9.473,14.634L14.507,9.6l17.617,17.366L49.493,9.6l5.034,5.034L37.41,32   l17.117,17.115L49.239,54.4L32.124,37.285L14.759,54.4L9.473,49.115z"
+       style="fill:#1EA839;"
+       d="M9.4726563,49.1152344L26.5888672,32L9.4726563,14.6337891l5.0341797-5.0341797   l17.6171875,17.3662109L49.4931641,9.5996094l5.0341797,5.0341797L37.4101563,32l17.1171875,17.1152344l-5.2880859,5.2851563   L32.1240234,37.2851563L14.7587891,54.4003906L9.4726563,49.1152344z"
        id="path5" /></g></svg>

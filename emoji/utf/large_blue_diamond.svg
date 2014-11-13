@@ -16,7 +16,7 @@
    width="64px"
    height="64px"
    viewBox="0 0 64 64"
-   enable-background="new 0 0 64 64"
+   style="enable-background:new 0 0 64 64;"
    xml:space="preserve"
    inkscape:version="0.48.5 r10040"
    sodipodi:docname="large_blue_diamond.svg"><metadata
@@ -36,12 +36,12 @@
      inkscape:window-height="480"
      id="namedview11" /><g
      id="g3"><polygon
-       fill="#43A1FF"
-       points="52.231,32 32,62.196 11.769,32 32,1.804  "
+       style="fill:#43A1FF;"
+       points="52.2314453,32 32,62.1962891 11.7685547,32 32,1.8037109  "
        id="polygon5" /><polygon
-       fill="#A6E2FF"
-       points="11.769,32 32,32 32,1.804  "
+       style="fill:#A6E2FF;"
+       points="11.7685547,32 32,32 32,1.8037109  "
        id="polygon7" /><polygon
-       fill="#0862F7"
-       points="32,62.196 32,32 52.231,32  "
+       style="fill:#0862F7;"
+       points="32,62.1962891 32,32 52.2314453,32  "
        id="polygon9" /></g></svg>

@@ -16,7 +16,7 @@
    width="64px"
    height="64px"
    viewBox="0 0 64 64"
-   enable-background="new 0 0 64 64"
+   style="enable-background:new 0 0 64 64;"
    xml:space="preserve"
    inkscape:version="0.48.5 r10040"
    sodipodi:docname="small_orange_diamond.svg"><metadata
@@ -36,12 +36,12 @@
      inkscape:window-height="480"
      id="namedview11" /><g
      id="g3"><polygon
-       fill="#FF9D00"
-       points="45.822,32 32,52.629 18.178,32 32,11.371  "
+       style="fill:#FF9D00;"
+       points="45.8222656,31.9995117 32,52.6289063 18.1782227,31.9995117 32,11.3706055  "
        id="polygon5" /><polygon
-       fill="#FFCC83"
-       points="18.178,32 32,32 32,11.371  "
+       style="fill:#FFCC83;"
+       points="18.1782227,31.9995117 32,31.9995117 32,11.3706055  "
        id="polygon7" /><polygon
-       fill="#F78100"
-       points="32,52.629 32,32 45.822,32  "
+       style="fill:#F78100;"
+       points="32,52.6289063 32,31.9995117 45.8222656,31.9995117  "
        id="polygon9" /></g></svg>

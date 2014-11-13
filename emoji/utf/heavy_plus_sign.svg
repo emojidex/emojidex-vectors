@@ -16,7 +16,7 @@
    width="64px"
    height="64px"
    viewBox="0 0 64 64"
-   enable-background="new 0 0 64 64"
+   style="enable-background:new 0 0 64 64;"
    xml:space="preserve"
    inkscape:version="0.48.5 r10040"
    sodipodi:docname="heavy_plus_sign.svg"><metadata
@@ -36,6 +36,6 @@
      inkscape:window-height="480"
      id="namedview7" /><g
      id="g3"><path
-       fill="#E30012"
-       d="M9.096,35.523v-7.298h19.131V9.096h7.549v19.13h19.129v7.298H35.775v19.381h-7.549V35.523H9.096z"
+       style="fill:#E30012;"
+       d="M9.0957031,35.5234375v-7.2978516h19.1308594V9.0957031h7.5488281v19.1298828h19.1289063v7.2978516   H35.7753906v19.3808594h-7.5488281V35.5234375H9.0957031z"
        id="path5" /></g></svg>

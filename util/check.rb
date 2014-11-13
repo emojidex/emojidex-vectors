@@ -26,6 +26,10 @@ if utf_cc.asset_only.empty? && utf_cc.index_only.empty?
   puts "UTF Collection OK!"
 else
   puts "UTF Collection missing assets/indexes. Halting."
+  puts "Asset Only:\n"
+  utf_cc.asset_only.each { |a| puts "[#{a}]\n" }
+  puts "Index Only: \n"
+  utf_cc.index_only.each { |i| puts "[#{i}]\n" }
   exit 1
 end
 
