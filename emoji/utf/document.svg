@@ -1,58 +1,148 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-	 y="0px" width="64px" height="64px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
-<g>
-	<path style="fill:#FFFFFF;" d="M11.5,60V4h31.7578125c0.9208984,0,1.8232422,0.3735352,2.4746094,1.0249023l5.7421875,5.7421875
-		C52.1357422,11.4287109,52.5,12.3076172,52.5,13.2421875V60H11.5z"/>
-	<path style="fill:#868686;" d="M43.2574196,4.5c0.7956085,0,1.5586395,0.31604,2.1212502,0.8786087l5.7425804,5.7422295
-		C51.6838989,11.6834488,52,12.4465408,52,13.2422295V59.5H12v-55H43.2574196 M43.2574196,3.5H12h-1v1v55v1h1h40h1v-1V13.2422295
-		c0-1.0684891-0.416111-2.0730095-1.171669-2.8285179l-5.7425728-5.7422333C45.3302612,3.9160385,44.3258018,3.5,43.2574196,3.5
-		L43.2574196,3.5z"/>
-	<path style="fill:#FFFFFF;" d="M43.2574196,4.5c0.7956085,0,1.5586395,0.31604,2.1212502,0.8786087l5.7425804,5.7422295
-		C51.6838989,11.6834488,52,12.4465408,52,13.2422295V59.5H12v-55H43.2574196 M43.2574196,4H12h-0.5v0.5v55V60H12h40h0.5v-0.5
-		V13.2422295c0-0.9349289-0.36409-1.8138885-1.0252113-2.4749603l-5.7425804-5.742218
-		C45.0711517,4.3640289,44.1922607,4,43.2574196,4L43.2574196,4z"/>
-</g>
-<g>
-	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="15.0921507" y1="61.2852554" x2="46.9231682" y2="6.1523137">
-		<stop  offset="0.7699115" style="stop-color:#3E3A39;stop-opacity:0"/>
-		<stop  offset="1" style="stop-color:#3E3A39;stop-opacity:0.3"/>
-	</linearGradient>
-	<path style="fill:url(#SVGID_1_);" d="M52,59.5H12v-55h31.2574158c0.7956161,0,1.5586472,0.3160448,2.121254,0.878613
-		l5.7425842,5.7422242C51.6839027,11.6834517,52,12.4465427,52,13.2422247V59.5z"/>
-	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="8.25" y1="55.75" x2="52.0002098" y2="11.9997921">
-		<stop  offset="0.920354" style="stop-color:#C6C7C8;stop-opacity:0"/>
-		<stop  offset="1" style="stop-color:#C6C7C8"/>
-	</linearGradient>
-	<path style="fill:url(#SVGID_2_);" d="M52,59.5H12v-55h31.2574158c0.7956161,0,1.5586472,0.3160448,2.121254,0.878613
-		l5.7425842,5.7422242C51.6839027,11.6834517,52,12.4465427,52,13.2422247V59.5z"/>
-</g>
-<path style="fill:#FFFFFF;" d="M42,4.5h1.5c0.5522842,0,1,0.4477153,1,1V12H51c0.5522842,0,1,0.4477148,1,1v1.5v-2.71875
-	L44.71875,4.5H42z"/>
-<g>
-	<rect x="14.5" y="8.5" style="fill:#868686;" width="27.5" height="2"/>
-	<rect x="14.5" y="13.5" style="fill:#868686;" width="27.5" height="2"/>
-	<rect x="14.5" y="18.5" style="fill:#868686;" width="35" height="2"/>
-	<rect x="14.5" y="23.5" style="fill:#868686;" width="35" height="2"/>
-	<rect x="14.5" y="28.5" style="fill:#868686;" width="30" height="2"/>
-	<rect x="14.5" y="33.5" style="fill:#868686;" width="35" height="2"/>
-	<rect x="14.5" y="38.5" style="fill:#868686;" width="35" height="2"/>
-	<rect x="14.5" y="43.5" style="fill:#868686;" width="35" height="2"/>
-	<rect x="14.5" y="48.5" style="fill:#868686;" width="35" height="2"/>
-	<rect x="14.5" y="53.5" style="fill:#868686;" width="30" height="2"/>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-</svg>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="レイヤー_1"
+   x="0px"
+   y="0px"
+   width="64px"
+   height="64px"
+   viewBox="0 0 64 64"
+   style="enable-background:new 0 0 64 64;"
+   xml:space="preserve"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="document.svg"><metadata
+     id="metadata67"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs65" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview63" /><g
+     id="g3"><path
+       style="fill:#FFFFFF;"
+       d="M11.5,60V4h31.7578125c0.9208984,0,1.8232422,0.3735352,2.4746094,1.0249023l5.7421875,5.7421875   C52.1357422,11.4287109,52.5,12.3076172,52.5,13.2421875V60H11.5z"
+       id="path5" /><path
+       style="fill:#868686;"
+       d="M43.2574196,4.5c0.7956085,0,1.5586395,0.31604,2.1212502,0.8786087l5.7425804,5.7422295   C51.6838989,11.6834488,52,12.4465408,52,13.2422295V59.5H12v-55H43.2574196 M43.2574196,3.5H12h-1v1v55v1h1h40h1v-1V13.2422295   c0-1.0684891-0.416111-2.0730095-1.171669-2.8285179l-5.7425728-5.7422333C45.3302612,3.9160385,44.3258018,3.5,43.2574196,3.5   L43.2574196,3.5z"
+       id="path7" /><path
+       style="fill:#FFFFFF;"
+       d="M43.2574196,4.5c0.7956085,0,1.5586395,0.31604,2.1212502,0.8786087l5.7425804,5.7422295   C51.6838989,11.6834488,52,12.4465408,52,13.2422295V59.5H12v-55H43.2574196 M43.2574196,4H12h-0.5v0.5v55V60H12h40h0.5v-0.5   V13.2422295c0-0.9349289-0.36409-1.8138885-1.0252113-2.4749603l-5.7425804-5.742218   C45.0711517,4.3640289,44.1922607,4,43.2574196,4L43.2574196,4z"
+       id="path9" /></g><g
+     id="g11"><linearGradient
+       id="SVGID_1_"
+       gradientUnits="userSpaceOnUse"
+       x1="15.0921507"
+       y1="61.2852554"
+       x2="46.9231682"
+       y2="6.1523137"><stop
+         offset="0.7699115"
+         style="stop-color:#3E3A39;stop-opacity:0"
+         id="stop14" /><stop
+         offset="1"
+         style="stop-color:#3E3A39;stop-opacity:0.3"
+         id="stop16" /></linearGradient><path
+       style="fill:url(#SVGID_1_);"
+       d="M52,59.5H12v-55h31.2574158c0.7956161,0,1.5586472,0.3160448,2.121254,0.878613   l5.7425842,5.7422242C51.6839027,11.6834517,52,12.4465427,52,13.2422247V59.5z"
+       id="path18" /><linearGradient
+       id="SVGID_2_"
+       gradientUnits="userSpaceOnUse"
+       x1="8.25"
+       y1="55.75"
+       x2="52.0002098"
+       y2="11.9997921"><stop
+         offset="0.920354"
+         style="stop-color:#C6C7C8;stop-opacity:0"
+         id="stop21" /><stop
+         offset="1"
+         style="stop-color:#C6C7C8"
+         id="stop23" /></linearGradient><path
+       style="fill:url(#SVGID_2_);"
+       d="M52,59.5H12v-55h31.2574158c0.7956161,0,1.5586472,0.3160448,2.121254,0.878613   l5.7425842,5.7422242C51.6839027,11.6834517,52,12.4465427,52,13.2422247V59.5z"
+       id="path25" /></g><path
+     style="fill:#FFFFFF;"
+     d="M42,4.5h1.5c0.5522842,0,1,0.4477153,1,1V12H51c0.5522842,0,1,0.4477148,1,1v1.5v-2.71875  L44.71875,4.5H42z"
+     id="path27" /><g
+     id="g29"><rect
+       x="14.5"
+       y="8.5"
+       style="fill:#868686;"
+       width="27.5"
+       height="2"
+       id="rect31" /><rect
+       x="14.5"
+       y="13.5"
+       style="fill:#868686;"
+       width="27.5"
+       height="2"
+       id="rect33" /><rect
+       x="14.5"
+       y="18.5"
+       style="fill:#868686;"
+       width="35"
+       height="2"
+       id="rect35" /><rect
+       x="14.5"
+       y="23.5"
+       style="fill:#868686;"
+       width="35"
+       height="2"
+       id="rect37" /><rect
+       x="14.5"
+       y="28.5"
+       style="fill:#868686;"
+       width="30"
+       height="2"
+       id="rect39" /><rect
+       x="14.5"
+       y="33.5"
+       style="fill:#868686;"
+       width="35"
+       height="2"
+       id="rect41" /><rect
+       x="14.5"
+       y="38.5"
+       style="fill:#868686;"
+       width="35"
+       height="2"
+       id="rect43" /><rect
+       x="14.5"
+       y="43.5"
+       style="fill:#868686;"
+       width="35"
+       height="2"
+       id="rect45" /><rect
+       x="14.5"
+       y="48.5"
+       style="fill:#868686;"
+       width="35"
+       height="2"
+       id="rect47" /><rect
+       x="14.5"
+       y="53.5"
+       style="fill:#868686;"
+       width="30"
+       height="2"
+       id="rect49" /></g><g
+     id="g51" /><g
+     id="g53" /><g
+     id="g55" /><g
+     id="g57" /><g
+     id="g59" /><g
+     id="g61" /></svg>
