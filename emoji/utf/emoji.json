@@ -5059,11 +5059,796 @@
     "unicode": "1f588"
   },
   {
+    "moji": "🖉",
+    "code": "lower_left_pencil",
+    "code_ja": "エンピツ",
+    "category": "objects",
+    "unicode": "1f589"
+  },
+  {
+    "moji": "🖊",
+    "code": "lower_left_ballpoint_pen",
+    "code_ja": "ボールペン",
+    "category": "objects",
+    "unicode": "1f58a"
+  },
+  {
+    "moji": "🖋",
+    "code": "lower_left_fountain_pen",
+    "code_ja": "万年筆",
+    "category": "objects",
+    "unicode": "1f58b"
+  },
+  {
+    "moji": "🖌",
+    "code": "lower_left_paintbrush",
+    "code_ja": "絵筆",
+    "category": "objects",
+    "unicode": "1f58c"
+  },
+  {
+    "moji": "🖍",
+    "code": "lower_left_crayon",
+    "code_ja": "クレヨン",
+    "category": "objects",
+    "unicode": "1f58d"
+  },
+  {
+    "moji": "🖎",
+    "code": "left_writing_hand",
+    "code_ja": "書く",
+    "category": "gestures",
+    "unicode": "1f58e"
+  },
+  {
+    "moji": "🖏",
+    "code": "turned_ok_hand_sign",
+    "code_ja": "オッケー",
+    "category": "gestures",
+    "unicode": "1f58f"
+  },
+  {
+    "moji": "🖐",
+    "code": "raised_hand_with_fingers_splayed",
+    "code_ja": "パー2",
+    "category": "gestures",
+    "unicode": "1f590"
+  },
+  {
+    "moji": "🖑",
+    "code": "reversed_raised_hand_with_fingers_splayed",
+    "code_ja": "パー3",
+    "category": "gestures",
+    "unicode": "1f591"
+  },
+  {
+    "moji": "🖒",
+    "code": "reversed_thumbs_up_sign",
+    "code_ja": "グッド2",
+    "category": "gestures",
+    "unicode": "1f592"
+  },
+  {
+    "moji": "🖓",
+    "code": "reversed_thumbs_down_sign",
+    "code_ja": "ブーイング2",
+    "category": "gestures",
+    "unicode": "1f593"
+  },
+  {
+    "moji": "🖔",
+    "code": "reversed_victory_hand",
+    "code_ja": "チョキ2",
+    "category": "gestures",
+    "unicode": "1f594"
+  },
+  {
     "moji": "🖕",
+    "full_name": "reversed_hand_with_middle_finger_extended",
     "code": "middle_finger",
     "code_ja": "中指",
     "category": "gestures",
     "unicode": "1f595"
+  },
+  {
+    "moji": "🖖",
+    "code": "raised_hand_with_part_between_middle_and_ring_fingers",
+    "code_ja": "パー4",
+    "category": "gestures",
+    "unicode": "1f596"
+  },
+  {
+    "moji": "🖗",
+    "code": "white_down_pointing_left_hand_index",
+    "code_ja": "指差し(下)",
+    "category": "gestures",
+    "unicode": "1f597"
+  },
+  {
+    "moji": "🖘",
+    "code": "sideways_white_left_pointing_index",
+    "code_ja": "指差し(左)",
+    "category": "gestures",
+    "unicode": "1f598"
+  },
+  {
+    "moji": "🖙",
+    "code": "sideways_white_right_pointing_index",
+    "code_ja": "指差し(右)",
+    "category": "gestures",
+    "unicode": "1f599"
+  },
+  {
+    "moji": "🖚",
+    "code": "sideways_black_left_pointing_index",
+    "code_ja": "指差し(左)2",
+    "category": "gestures",
+    "unicode": "1f59a"
+  },
+  {
+    "moji": "🖛",
+    "code": "sideways_black_right_pointing_index",
+    "code_ja": "指差し(右)2",
+    "category": "gestures",
+    "unicode": "1f59b"
+  },
+  {
+    "moji": "🖜",
+    "code": "black_left_pointing_backhand_index",
+    "code_ja": "指差し(左)3",
+    "category": "gestures",
+    "unicode": "1f59c"
+  },
+  {
+    "moji": "🖝",
+    "code": "black_right_pointing_backhand_index",
+    "code_ja": "指差し(右)3",
+    "category": "gestures",
+    "unicode": "1f59d"
+  },
+  {
+    "moji": "🖞",
+    "code": "sideways_white_up_pointing_index",
+    "code_ja": "指差し(上)",
+    "category": "gestures",
+    "unicode": "1f59e"
+  },
+  {
+    "moji": "🖟",
+    "code": "sideways_white_down_pointing_index",
+    "code_ja": "指差し(下)2",
+    "category": "gestures",
+    "unicode": "1f59f"
+  },
+  {
+    "moji": "🖠",
+    "code": "sideways_black_up_pointing_index",
+    "code_ja": "指差し(上)2",
+    "category": "gestures",
+    "unicode": "1f5a0"
+  },
+  {
+    "moji": "🖡",
+    "code": "sideways_black_down_pointing_index",
+    "code_ja": "指差し(下)3",
+    "category": "gestures",
+    "unicode": "1f5a1"
+  },
+  {
+    "moji": "🖢",
+    "code": "black_up_pointing_backhand_index",
+    "code_ja": "指差し(上)3",
+    "category": "gestures",
+    "unicode": "1f5a2"
+  },
+  {
+    "moji": "🖣",
+    "code": "black_down_pointing_backhand_index",
+    "code_ja": "指差し(下)4",
+    "category": "gestures",
+    "unicode": "1f5a3"
+  },
+  {
+    "moji": "🖥",
+    "code": "desktop_computer",
+    "code_ja": "デスクトップパソコン",
+    "category": "objects",
+    "unicode": "1f5a5"
+  },
+  {
+    "moji": "🖦",
+    "code": "keyboard_and_mouse",
+    "code_ja": "キーボードとマウス",
+    "category": "objects",
+    "unicode": "1f5a6"
+  },
+  {
+    "moji": "🖧",
+    "code": "three_networked_computers",
+    "code_ja": "ネットワーク",
+    "category": "objects",
+    "unicode": "1f5a7"
+  },
+  {
+    "moji": "🖨",
+    "code": "printer",
+    "code_ja": "プリンター",
+    "category": "objects",
+    "unicode": "1f5a8"
+  },
+  {
+    "moji": "🖩",
+    "code": "pocket_calculator",
+    "code_ja": "電卓",
+    "category": "objects",
+    "unicode": "1f5a9"
+  },
+  {
+    "moji": "🖪",
+    "code": "black_hard_shell_floppy_disk",
+    "code_ja": "フロッピーディスク2",
+    "category": "objects",
+    "unicode": "1f5aa"
+  },
+  {
+    "moji": "🖫",
+    "code": "white_hard_shell_floppy_disk",
+    "code_ja": "フロッピーディスク3",
+    "category": "objects",
+    "unicode": "1f5ab"
+  },
+  {
+    "moji": "🖬",
+    "code": "soft_shell_floppy_disk",
+    "code_ja": "フロッピーディスク4",
+    "category": "objects",
+    "unicode": "1f5ac"
+  },
+  {
+    "moji": "🖭",
+    "code": "tape_cartridge",
+    "code_ja": "カセットテープ",
+    "category": "objects",
+    "unicode": "1f5ad"
+  },
+  {
+    "moji": "🖮",
+    "code": "wired_keyboard",
+    "code_ja": "キーボード2",
+    "category": "objects",
+    "unicode": "1f5ae"
+  },
+  {
+    "moji": "🖯",
+    "code": "one_button_mouse",
+    "code_ja": "マウス(1ボタン)",
+    "category": "objects",
+    "unicode": "1f5af"
+  },
+  {
+    "moji": "🖰",
+    "code": "two_button_mouse",
+    "code_ja": "マウス(2ボタン)",
+    "category": "objects",
+    "unicode": "1f5b0"
+  },
+  {
+    "moji": "🖱",
+    "code": "three_button_mouse",
+    "code_ja": "マウス(3ボタン)",
+    "category": "objects",
+    "unicode": "1f5b1"
+  },
+  {
+    "moji": "🖲",
+    "code": "trackball",
+    "code_ja": "トラックボール",
+    "category": "objects",
+    "unicode": "1f5b2"
+  },
+  {
+    "moji": "🖳",
+    "code": "old_personal_computer",
+    "code_ja": "パソコン(旧型)",
+    "category": "objects",
+    "unicode": "1f5b3"
+  },
+  {
+    "moji": "🖴",
+    "code": "hard_disk",
+    "code_ja": "ハードディスク",
+    "category": "objects",
+    "unicode": "1f5b4"
+  },
+  {
+    "moji": "🖵",
+    "code": "screen",
+    "code_ja": "スクリーン",
+    "category": "objects",
+    "unicode": "1f5b5"
+  },
+  {
+    "moji": "🖶",
+    "code": "printer_icon",
+    "code_ja": "プリンター2",
+    "category": "objects",
+    "unicode": "1f5b6"
+  },
+  {
+    "moji": "🖷",
+    "code": "fax_icon",
+    "code_ja": "FAX2",
+    "category": "objects",
+    "unicode": "1f5b7"
+  },
+  {
+    "moji": "🖸",
+    "code": "optical_disc_icon",
+    "code_ja": "CD2",
+    "category": "objects",
+    "unicode": "1f5b8"
+  },
+  {
+    "moji": "🖹",
+    "code": "document_with_text",
+    "code_ja": "書類",
+    "category": "objects",
+    "unicode": "1f5b9"
+  },
+  {
+    "moji": "🖺",
+    "code": "document_with_text_and_picture",
+    "code_ja": "書類2",
+    "category": "objects",
+    "unicode": "1f5ba"
+  },
+  {
+    "moji": "🖻",
+    "code": "document_with_picture",
+    "code_ja": "書類3",
+    "category": "objects",
+    "unicode": "1f5bb"
+  },
+  {
+    "moji": "🖼",
+    "code": "frame_with_picture",
+    "code_ja": "アート",
+    "category": "objects",
+    "unicode": "1f5bc"
+  },
+  {
+    "moji": "🖽",
+    "code": "frame_with_tiles",
+    "code_ja": "フレーム",
+    "category": "objects",
+    "unicode": "1f5bd"
+  },
+  {
+    "moji": "🖾",
+    "code": "frame_with_an_x",
+    "code_ja": "フレーム2",
+    "category": "objects",
+    "unicode": "1f5be"
+  },
+  {
+    "moji": "🖿",
+    "code": "black_folder",
+    "code_ja": "フォルダ",
+    "category": "objects",
+    "unicode": "1f5bf"
+  },
+  {
+    "moji": "🗀",
+    "code": "folder",
+    "code_ja": "フォルダ2",
+    "category": "objects",
+    "unicode": "1f5c0"
+  },
+  {
+    "moji": "🗀",
+    "code": "open_folder",
+    "code_ja": "フォルダ3",
+    "category": "objects",
+    "unicode": "1f5c1"
+  },
+  {
+    "moji": "🗂",
+    "code": "card_index_dividers",
+    "code_ja": "カードインデックス",
+    "category": "objects",
+    "unicode": "1f5c2"
+  },
+  {
+    "moji": "🗃",
+    "code": "card_file_box",
+    "code_ja": "カードファイルボックス",
+    "category": "objects",
+    "unicode": "1f5c3"
+  },
+  {
+    "moji": "🗄",
+    "code": "file_cabinet",
+    "code_ja": "キャビネット",
+    "category": "objects",
+    "unicode": "1f5c4"
+  },
+  {
+    "moji": "🗅",
+    "code": "empty_note",
+    "code_ja": "ノート3",
+    "category": "objects",
+    "unicode": "1f5c5"
+  },
+  {
+    "moji": "🗆",
+    "code": "empty_note_page",
+    "code_ja": "ページ",
+    "category": "objects",
+    "unicode": "1f5c6"
+  },
+  {
+    "moji": "🗇",
+    "code": "empty_note_pad",
+    "code_ja": "メモ帳",
+    "category": "objects",
+    "unicode": "1f5c7"
+  },
+  {
+    "moji": "🗈",
+    "code": "note",
+    "code_ja": "ノート4",
+    "category": "objects",
+    "unicode": "1f5c8"
+  },
+  {
+    "moji": "🗉",
+    "code": "note_page",
+    "code_ja": "ページ2",
+    "category": "objects",
+    "unicode": "1f5c9"
+  },
+  {
+    "moji": "🗊",
+    "code": "note_pad",
+    "code_ja": "メモ帳2",
+    "category": "objects",
+    "unicode": "1f5ca"
+  },
+  {
+    "moji": "🗋",
+    "code": "empty_document",
+    "code_ja": "書類4",
+    "category": "objects",
+    "unicode": "1f5cb"
+  },
+  {
+    "moji": "🗌",
+    "code": "empty_page",
+    "code_ja": "ページ3",
+    "category": "objects",
+    "unicode": "1f5cc"
+  },
+  {
+    "moji": "🗍",
+    "code": "empty_pages",
+    "code_ja": "ページ4",
+    "category": "objects",
+    "unicode": "1f5cd"
+  },
+  {
+    "moji": "🗎",
+    "code": "document",
+    "code_ja": "書類5",
+    "category": "objects",
+    "unicode": "1f5ce"
+  },
+  {
+    "moji": "🗏",
+    "code": "page",
+    "code_ja": "ページ5",
+    "category": "objects",
+    "unicode": "1f5cf"
+  },
+  {
+    "moji": "🗐",
+    "code": "pages",
+    "code_ja": "ページ6",
+    "category": "objects",
+    "unicode": "1f5d0"
+  },
+  {
+    "moji": "🗑",
+    "code": "wastebasket",
+    "code_ja": "ゴミ箱2",
+    "category": "objects",
+    "unicode": "1f5d1"
+  },
+  {
+    "moji": "🗒",
+    "code": "spiral_note_pad",
+    "code_ja": "リングメモ帳",
+    "category": "objects",
+    "unicode": "1f5d2"
+  },
+  {
+    "moji": "🗓",
+    "code": "spiral_calendar_pad",
+    "code_ja": "リングカレンダー",
+    "category": "objects",
+    "unicode": "1f5d3"
+  },
+  {
+    "moji": "🗔",
+    "code": "desktop_window",
+    "code_ja": "デスクトップウインドウ",
+    "category": "objects",
+    "unicode": "1f5d4"
+  },
+  {
+    "moji": "🗕",
+    "code": "minimize",
+    "code_ja": "最小化",
+    "category": "symbols",
+    "unicode": "1f5d5"
+  },
+  {
+    "moji": "🗖",
+    "code": "maximize",
+    "code_ja": "最大化",
+    "category": "symbols",
+    "unicode": "1f5d6"
+  },
+  {
+    "moji": "🗗",
+    "code": "overlap",
+    "code_ja": "オーバーラップ",
+    "category": "symbols",
+    "unicode": "1f5d7"
+  },
+  {
+    "moji": "🗘",
+    "code": "clockwise_right_and_left_semicircle_arrows",
+    "code_ja": "リフレッシュ",
+    "category": "symbols",
+    "unicode": "1f5d8"
+  },
+  {
+    "moji": "🗙",
+    "code": "cancellation_x",
+    "code_ja": "閉じる",
+    "category": "symbols",
+    "unicode": "1f5d9"
+  },
+  {
+    "moji": "🗚",
+    "code": "increase_font_size_symbol",
+    "code_ja": "拡大",
+    "category": "symbols",
+    "unicode": "1f5da"
+  },
+  {
+    "moji": "🗛",
+    "code": "decrease_font_size_symbol",
+    "code_ja": "縮小",
+    "category": "symbols",
+    "unicode": "1f5db"
+  },
+  {
+    "moji": "🗜",
+    "code": "compression",
+    "code_ja": "圧縮",
+    "category": "symbols",
+    "unicode": "1f5dc"
+  },
+  {
+    "moji": "🗝",
+    "code": "old_key",
+    "code_ja": "暗号化",
+    "category": "symbols",
+    "unicode": "1f5dd"
+  },
+  {
+    "moji": "🗞",
+    "code": "rolled_up_newspaper",
+    "code_ja": "ニュース",
+    "category": "symbols",
+    "unicode": "1f5de"
+  },
+  {
+    "moji": "🗟",
+    "code": "page_with_circled_text",
+    "code_ja": "ニュース2",
+    "category": "symbols",
+    "unicode": "1f5df"
+  },
+  {
+    "moji": "🗠",
+    "code": "stock_chart",
+    "code_ja": "株価2",
+    "category": "abstract",
+    "unicode": "1f5e0"
+  },
+  {
+    "moji": "🗡",
+    "code": "dagger_knife",
+    "code_ja": "ダガー",
+    "category": "tools",
+    "unicode": "1f5e1"
+  },
+  {
+    "moji": "🗢",
+    "code": "lips",
+    "code_ja": "クチビル",
+    "category": "people",
+    "unicode": "1f5e2"
+  },
+  {
+    "moji": "🗣",
+    "code": "speaking_head_in_silhouette",
+    "code_ja": "会話",
+    "category": "people",
+    "unicode": "1f5e3"
+  },
+  {
+    "moji": "🗤",
+    "code": "three_rays_above",
+    "code_ja": "会話2",
+    "category": "abstract",
+    "unicode": "1f5e4"
+  },
+  {
+    "moji": "🗥",
+    "code": "three_rays_below",
+    "code_ja": "会話3",
+    "category": "abstract",
+    "unicode": "1f5e5"
+  },
+  {
+    "moji": "🗦",
+    "code": "three_rays_left",
+    "code_ja": "会話4",
+    "category": "abstract",
+    "unicode": "1f5e6"
+  },
+  {
+    "moji": "🗧",
+    "code": "three_rays_right",
+    "code_ja": "会話5",
+    "category": "abstract",
+    "unicode": "1f5e7"
+  },
+  {
+    "moji": "🗨",
+    "code": "left_speech_bubble",
+    "code_ja": "フキダシ3",
+    "category": "abstract",
+    "unicode": "1f5e8"
+  },
+  {
+    "moji": "🗩",
+    "code": "right_speech_bubble",
+    "code_ja": "フキダシ4",
+    "category": "abstract",
+    "unicode": "1f5e9"
+  },
+  {
+    "moji": "🗪",
+    "code": "two_speech_bubbles",
+    "code_ja": "フキダシ5",
+    "category": "abstract",
+    "unicode": "1f5ea"
+  },
+  {
+    "moji": "🗫",
+    "code": "three_speech_bubbles",
+    "code_ja": "フキダシ6",
+    "category": "abstract",
+    "unicode": "1f5eb"
+  },
+  {
+    "moji": "🗬",
+    "code": "left_thought_bubble",
+    "code_ja": "フキダシ7",
+    "category": "abstract",
+    "unicode": "1f5ec"
+  },
+  {
+    "moji": "🗭",
+    "code": "right_thought_bubble",
+    "code_ja": "フキダシ8",
+    "category": "abstract",
+    "unicode": "1f5ed"
+  },
+  {
+    "moji": "🗯",
+    "code": "left_anger_bubble",
+    "code_ja": "フキダシ9",
+    "category": "abstract",
+    "unicode": "1f5ee"
+  },
+  {
+    "moji": "🗯",
+    "code": "right_anger_bubble",
+    "code_ja": "フキダシ10",
+    "category": "abstract",
+    "unicode": "1f5ef"
+  },
+  {
+    "moji": "🗰",
+    "code": "mood_bubble",
+    "code_ja": "フキダシ11",
+    "category": "abstract",
+    "unicode": "1f5f0"
+  },
+  {
+    "moji": "🗱",
+    "code": "lightning_mood_bubble",
+    "code_ja": "フキダシ12",
+    "category": "abstract",
+    "unicode": "1f5f1"
+  },
+  {
+    "moji": "🗲",
+    "code": "lightning_mood",
+    "code_ja": "フキダシ13",
+    "category": "abstract",
+    "unicode": "1f5f2"
+  },
+  {
+    "moji": "🗳",
+    "code": "ballot_box_with_ballot",
+    "code_ja": "投票箱",
+    "category": "symbols",
+    "unicode": "1f5f3"
+  },
+  {
+    "moji": "🗴",
+    "code": "ballot_script_x",
+    "code_ja": "×4",
+    "category": "abstract",
+    "unicode": "1f5f4"
+  },
+  {
+    "moji": "🗵",
+    "code": "ballot_box_with_script_x",
+    "code_ja": "×5",
+    "category": "abstract",
+    "unicode": "1f5f5"
+  },
+  {
+    "moji": "🗶",
+    "code": "ballot_bold_script_x",
+    "code_ja": "×6",
+    "category": "abstract",
+    "unicode": "1f5f6"
+  },
+  {
+    "moji": "🗷",
+    "code": "ballot_box_with_bold_script_x",
+    "code_ja": "×7",
+    "category": "abstract",
+    "unicode": "1f5f7"
+  },
+  {
+    "moji": "🗸",
+    "code": "light_check_mark",
+    "code_ja": "チェックマーク3",
+    "category": "abstract",
+    "unicode": "1f5f8"
+  },
+  {
+    "moji": "🗹",
+    "code": "ballot_box_with_bold_check",
+    "code_ja": "チェックマーク4",
+    "category": "abstract",
+    "unicode": "1f5f9"
+  },
+  {
+    "moji": "🗺",
+    "code": "world_map",
+    "code_ja": "世界地図",
+    "category": "symbols",
+    "unicode": "1f5fa"
   },
   {
     "moji": "🗻",
@@ -7011,14 +7796,14 @@
     "moji": "❌",
     "full_name": "cross_mark",
     "code": "x",
-    "code_ja": "×",
+    "code_ja": "×2",
     "category": "abstract",
     "unicode": "274c"
   },
   {
     "moji": "❎",
     "code": "negative_squared_cross_mark",
-    "code_ja": "×2",
+    "code_ja": "×3",
     "category": "abstract",
     "unicode": "274e"
   },

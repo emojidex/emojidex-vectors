@@ -1,424 +1,241 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   id="レイヤー_1"
-   x="0px"
-   y="0px"
-   width="64px"
-   height="64px"
-   viewBox="0 0 64 64"
-   enable-background="new 0 0 64 64"
-   xml:space="preserve"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="mountain_railway.svg"><metadata
-     id="metadata184"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-     id="defs182" /><sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview180" /><linearGradient
-     id="SVGID_1_"
-     gradientUnits="userSpaceOnUse"
-     x1="35.5469"
-     y1="62.3516"
-     x2="26.7969"
-     y2="-12.5233"><stop
-       offset="0"
-       style="stop-color:#1FCAFF"
-       id="stop4" /><stop
-       offset="1"
-       style="stop-color:#DFFFFA"
-       id="stop6" /></linearGradient><rect
-     fill="url(#SVGID_1_)"
-     width="64"
-     height="64"
-     id="rect8" /><linearGradient
-     id="SVGID_2_"
-     gradientUnits="userSpaceOnUse"
-     x1="71.748"
-     y1="50.0654"
-     x2="-14.9983"
-     y2="49.9404"><stop
-       offset="0"
-       style="stop-color:#6BBF00"
-       id="stop11" /><stop
-       offset="1"
-       style="stop-color:#6A9F00"
-       id="stop13" /></linearGradient><path
-     fill="url(#SVGID_2_)"
-     d="M-7,42.151c0,0,12.625-3.473,28.375-1.476c15.75,1.998,50.75,1.476,50.75,1.476l0.625,17.724H-7  V42.151z"
-     id="path15" /><linearGradient
-     id="SVGID_3_"
-     gradientUnits="userSpaceOnUse"
-     x1="75.7236"
-     y1="51.9775"
-     x2="-11.0238"
-     y2="51.8525"><stop
-       offset="0"
-       style="stop-color:#6BBF00"
-       id="stop18" /><stop
-       offset="1"
-       style="stop-color:#3C5F00"
-       id="stop20" /></linearGradient><path
-     fill="url(#SVGID_3_)"
-     d="M-3.024,43.776c0,0,21.114-1.359,28.375-1.476c15.874-0.254,50.75,1.476,50.75,1.476L76.726,61.5  h-79.75V43.776z"
-     id="path22" /><linearGradient
-     id="SVGID_4_"
-     gradientUnits="userSpaceOnUse"
-     x1="2.5493"
-     y1="35.75"
-     x2="2.5493"
-     y2="18.4887"><stop
-       offset="0"
-       style="stop-color:#9FF6FF;stop-opacity:0"
-       id="stop25" /><stop
-       offset="1"
-       style="stop-color:#FFFFFF"
-       id="stop27" /></linearGradient><path
-     fill="url(#SVGID_4_)"
-     d="M-17.25,23.375c0,0,22-10.75,23.875-10.75s15.724,9,15.724,9V38.25H-17.25V23.375z"
-     id="path29" /><linearGradient
-     id="SVGID_5_"
-     gradientUnits="userSpaceOnUse"
-     x1="32.5415"
-     y1="36"
-     x2="32.5415"
-     y2="15.5504"><stop
-       offset="0"
-       style="stop-color:#5FD4FF;stop-opacity:0"
-       id="stop32" /><stop
-       offset="1"
-       style="stop-color:#FFFFFF"
-       id="stop34" /></linearGradient><path
-     fill="url(#SVGID_5_)"
-     d="M68.106,20.384c0,0-22.104-12.75-28.367-12.75c-7.198,0-34.514,14-42.764,17.75v36.87h71.131V20.384z  "
-     id="path36" /><rect
-     y="57.238"
-     fill="#564A4A"
-     width="64"
-     height="6.762"
-     id="rect38" /><rect
-     y="52.473"
-     fill="#717071"
-     stroke="#000000"
-     stroke-width="0.8749"
-     stroke-miterlimit="10"
-     width="64"
-     height="2.953"
-     id="rect40" /><g
-     id="g42"><g
-       id="g44"><path
-         fill="#040214"
-         d="M27.153,48.778c0,2.037-1.657,3.695-3.698,3.695c-2.041,0-3.696-1.658-3.696-3.695    c0-2.043,1.655-3.699,3.696-3.699C25.496,45.079,27.153,46.735,27.153,48.778z"
-         id="path46" /><path
-         fill="#040214"
-         d="M41.863,48.778c0,2.037-1.653,3.695-3.695,3.695c-2.041,0-3.696-1.658-3.696-3.695    c0-2.043,1.655-3.699,3.696-3.699C40.21,45.079,41.863,46.735,41.863,48.778z"
-         id="path48" /><rect
-         x="22.349"
-         y="47.962"
-         fill="#040214"
-         width="16.791"
-         height="1.881"
-         id="rect50" /><rect
-         x="42.521"
-         y="45.8"
-         fill="#040214"
-         width="10.648"
-         height="4.635"
-         id="rect52" /><rect
-         x="57.054"
-         y="43.921"
-         fill="#040214"
-         width="7.77"
-         height="6.514"
-         id="rect54" /><rect
-         x="62.692"
-         y="42.417"
-         fill="#040214"
-         width="4.813"
-         height="5.703"
-         id="rect56" /><path
-         fill="#040214"
-         d="M53.395,48.778c0,2.037-1.655,3.695-3.696,3.695s-3.695-1.658-3.695-3.695    c0-2.043,1.654-3.699,3.695-3.699S53.395,46.735,53.395,48.778z"
-         id="path58" /><path
-         fill="#040214"
-         d="M68.106,48.778c0,2.037-1.655,3.695-3.696,3.695c-2.04,0-3.696-1.658-3.696-3.695    c0-2.043,1.656-3.699,3.696-3.699C66.451,45.079,68.106,46.735,68.106,48.778z"
-         id="path60" /></g><g
-       id="g62"><linearGradient
-         id="SVGID_6_"
-         gradientUnits="userSpaceOnUse"
-         x1="34.9102"
-         y1="10.0366"
-         x2="50.1951"
-         y2="57.896"><stop
-           offset="0"
-           style="stop-color:#FFFFFF"
-           id="stop65" /><stop
-           offset="1"
-           style="stop-color:#FFF6BF"
-           id="stop67" /></linearGradient><path
-         fill="url(#SVGID_6_)"
-         d="M69.834,44.956c0,1.1-0.9,2.002-2.004,2.002H17.212c-1.102,0-2.004-0.902-2.004-2.002V22.778    c0-1.103,0.902-2.004,2.004-2.004H67.83c1.104,0,2.004,0.901,2.004,2.004V44.956z"
-         id="path69" /><rect
-         x="15.208"
-         y="37.407"
-         fill="#FF7700"
-         width="54.626"
-         height="5.01"
-         id="rect71" /><rect
-         x="15.208"
-         y="34.943"
-         fill="#009644"
-         width="54.626"
-         height="2.464"
-         id="rect73" /><path
-         fill="none"
-         stroke="#020100"
-         stroke-width="1.1292"
-         stroke-miterlimit="10"
-         d="M69.834,44.956c0,1.1-0.9,2.002-2.004,2.002    H17.212c-1.102,0-2.004-0.902-2.004-2.002V22.778c0-1.103,0.902-2.004,2.004-2.004H67.83c1.104,0,2.004,0.901,2.004,2.004V44.956z    "
-         id="path75" /></g><g
-       id="g77"><g
-         id="g79"><rect
-           x="18.09"
-           y="25.034"
-           fill="#94FAFF"
-           width="5.365"
-           height="7.267"
-           id="rect81" /></g><defs
-         id="defs83"><filter
-           id="Adobe_OpacityMaskFilter"
-           filterUnits="userSpaceOnUse"
-           x="18.09"
-           y="25.034"
-           width="5.365"
-           height="7.267"><feColorMatrix
-             type="matrix"
-             values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0"
-             color-interpolation-filters="sRGB"
-             result="source"
-             id="feColorMatrix86" /></filter></defs><mask
-         maskUnits="userSpaceOnUse"
-         x="18.09"
-         y="25.034"
-         width="5.365"
-         height="7.267"
-         id="SVGID_7_"><g
-           filter="url(#Adobe_OpacityMaskFilter)"
-           id="g89"><image
-             overflow="visible"
-             width="40"
-             height="47"
-             xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEBLAEsAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA EAMCAwYAAAHAAAACGgAAAr7/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIADIAKgMBIgACEQEDEQH/ xACMAAEBAQADAAAAAAAAAAAAAAAHAAYDBAUBAQAAAAAAAAAAAAAAAAAAAAAQAAECAwcFAQAAAAAA AAAAAAQABhAUBTABEQM0FTUgAhITFiURAAEDAQQJAwUAAAAAAAAAAAEAAgNyEDMENBExQVGxktKT hCCRMhJCEyNEEgEAAAAAAAAAAAAAAAAAAAAw/9oADAMBAAIRAxEAAADD8ckhtMWeD5sD3AE2IdYj 2s5o84ETgHuAJoOK4xR8DGx03AbZTv1FUVR//9oACAECAAEFALT/2gAIAQMAAQUAtP/aAAgBAQAB BQAgjP8AfMEKYIUwQpghY3ojUNttgEgfKUhOxuhBgQI1DV4hPbh4EahqcQntf+PAjUN12ABhfb0f B0OgI8KGfSKtfn7PV1s9XWz1dbPV14d/X//aAAgBAgIGPwBP/9oACAEDAgY/AE//2gAIAQEBBj8A l/a/5u+471ev5ir1/MVev5ir1/MVr/k0qWt3FRzTRgkgbFct9lJNDGGkAkECzxFLW7ioaRZLSbPE UtbuKhpFktJs8RS1u4pkM0gBaACCVet90+GF4JIIABs8RSEYHEEF7tB/E/fSsjiOy/pWRxHZf0rI 4jsv6VkcR2X9K+Jyv06tu71//9k="
-             transform="matrix(0.24 0 0 0.24 16.0898 23.0337)"
-             id="image91" /></g></mask><g
-         mask="url(#SVGID_7_)"
-         id="g93"><rect
-           x="18.09"
-           y="25.034"
-           fill="#9E9E9E"
-           width="5.365"
-           height="7.267"
-           id="rect95" /></g></g><g
-       id="g97"><g
-         id="g99"><rect
-           x="62.14"
-           y="25.034"
-           fill="#94FAFF"
-           width="5.366"
-           height="7.267"
-           id="rect101" /></g><defs
-         id="defs103"><filter
-           id="Adobe_OpacityMaskFilter_1_"
-           filterUnits="userSpaceOnUse"
-           x="62.14"
-           y="25.034"
-           width="5.366"
-           height="7.267"><feColorMatrix
-             type="matrix"
-             values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0"
-             color-interpolation-filters="sRGB"
-             result="source"
-             id="feColorMatrix106" /></filter></defs><mask
-         maskUnits="userSpaceOnUse"
-         x="62.14"
-         y="25.034"
-         width="5.366"
-         height="7.267"
-         id="SVGID_8_"><g
-           filter="url(#Adobe_OpacityMaskFilter_1_)"
-           id="g109"><image
-             overflow="visible"
-             width="40"
-             height="47"
-             xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEBLAEsAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA EAMCAwYAAAHEAAACHgAAAtT/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIADIAKgMBIgACEQEDEQH/ xACQAAEBAQEBAQAAAAAAAAAAAAAHAAUGAwQBAQAAAAAAAAAAAAAAAAAAAAAQAAEDAQcFAQAAAAAA AAAAAAQABQYQMAECFDQVNSASAxMWJREAAQMBAgsGBwAAAAAAAAAAAQACAwQQMxEhMXKSstJzkzSF IFGRMlI1YXGBEkJiExIBAAAAAAAAAAAAAAAAAAAAMP/aAAwDAQACEQMRAAAA4v5/RBDqYsEO10eY AnWiVaN7A38AHmAfYAn7rkPAUcLi4+NgK1c3aiqKo//aAAgBAgABBQC0/9oACAEDAAEFALT/2gAI AQEAAQUAcCPPcfmCFmCFmCFmCF3Yk4a+LxwEoD5RoUojgIgNHDXw/h1MeHo4a+H8Opjf+RRw18al QIQX27OpLKQjg6HtDriO2d3Wzu62d3Wzu69Pm6//2gAIAQICBj8AT//aAAgBAwIGPwBP/9oACAEB AQY/AKkCR+D+sn5H1FXr9Iq9fpFXr9Iq9fpFZT7Vh+veqnfSaxUc00YcSAcYVy3wUk0MYBAJxCzp Kqd9JrFQ5oslzTZ0lVO+k1ioc0WS5ps6SqnfSaxTIZngFoAIJV63xT4YXgkggAGzpKqXNoqgtMry CInkEFx/VcjUcF+yuRqOC/ZXI1HBfsrkajgv2V5He1/ZkPn9Pz+Hb//Z"
-             transform="matrix(0.24 0 0 0.24 60.1396 23.0337)"
-             id="image111" /></g></mask><g
-         mask="url(#SVGID_8_)"
-         id="g113"><rect
-           x="62.14"
-           y="25.034"
-           fill="#9E9E9E"
-           width="5.366"
-           height="7.267"
-           id="rect115" /></g></g><g
-       id="g117"><g
-         id="g119"><g
-           id="g121"><rect
-             x="27.876"
-             y="25.034"
-             fill="#94FAFF"
-             width="5.365"
-             height="7.267"
-             id="rect123" /><rect
-             x="34.472"
-             y="25.034"
-             fill="#94FAFF"
-             width="5.367"
-             height="7.267"
-             id="rect125" /><rect
-             x="41.069"
-             y="25.034"
-             fill="#94FAFF"
-             width="5.364"
-             height="7.267"
-             id="rect127" /></g></g><defs
-         id="defs129"><filter
-           id="Adobe_OpacityMaskFilter_2_"
-           filterUnits="userSpaceOnUse"
-           x="27.876"
-           y="25.034"
-           width="18.558"
-           height="7.267"><feColorMatrix
-             type="matrix"
-             values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0"
-             color-interpolation-filters="sRGB"
-             result="source"
-             id="feColorMatrix132" /></filter></defs><mask
-         maskUnits="userSpaceOnUse"
-         x="27.876"
-         y="25.034"
-         width="18.558"
-         height="7.267"
-         id="SVGID_9_"><g
-           filter="url(#Adobe_OpacityMaskFilter_2_)"
-           id="g135"><image
-             overflow="visible"
-             width="94"
-             height="47"
-             xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEBLAEsAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA EAMCAwYAAAH7AAAC5wAABGr/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIADIAZAMBIgACEQEDEQH/ xACXAAEBAQADAQAAAAAAAAAAAAAABwYDBAUCAQEAAAAAAAAAAAAAAAAAAAAAEAABAgUDAgMJAAAA AAAAAAAFAAQBAxQVBgI0BzVHEEATMBESMjMlJjYXEQABAgIGCAUFAQAAAAAAAAABAAIRA3EScpIz BBAhUbHSE5M0MYPDFAVBkcEygjASAQAAAAAAAAAAAAAAAAAAAED/2gAMAwEAAhEDEQAAAPnC7jxD wlh4yRPRopKViy5hWp3BHlZlZQXyOn0u70SpfP18EhrEnrB2cpq8oeRQp7QjhiNuiJvAdPwdJiSo cU0HPv5yKjmsmPc2kvFJmXIN45RswAAAAAAf/9oACAECAAEFAPOf/9oACAEDAAEFAPOf/9oACAEB AAEFAOUJkzRPqHCqHCqHCqHCqHCqHCqHCqHCqHCqHCqHC9TX/MuUtxhw6S/e6cTEwg4xMX6RNpLk mxmKjdbaOKCFmIBmxZYSIbkdUMUEQg+xQZCQQlwlPe2HKW4476ipnyHP2Yfs1n/SONfB1tzHU+2H KW4476ipn0zcfyYfs1n8ftPGvg625jqfbDlLcYoUkjXmjNxHwuc2FxlkXsueYHZmNlN45uHWWZI0 ItMONNxeqGbh/c9zQZrkP5sJzzthyWyeOp9nLqzl1Zy6s5dWcurOXVnLqzl1Zy6s5dWcuqR1/N/a /wD/2gAIAQICBj8AZ//aAAgBAwIGPwBn/9oACAEBAQY/APjqji2LJsYEj6sWK+8VivvFYr7xWK+8 VivvFYr7xWK+8VivvFYr7xWK+8VivvFV6xr8r9o68favjrE3exOlzWhwEPFCMlsaE4slNBA2L2zR BlZohSUx8yU0kjYsFv2TpslgaQNRAT+c0OAP1WC37J7pcpoIGxTpbdQa4gLyfXXx1ibvYplA0OoK /tu9SrI0PoU61+NEyyVmbZXk+uvjrE3exTKBodQV/bd6lWRofQp1r8aJlkrM2yvJ9dfHWJu9idNm uqgw8UK01saU4MmtiRtXummLKwMaCmS5kwRA2rFb906VJeHEjUAn85wbWMda1zWxpTmS5jYkQ8VO mt1h7iQvJ9dfHnLSJk8NZNrGWxz4RLPGqCuxzHRfwrscx0X8K7HMdF/CuxzHRfwrscx0X8K7HMdF /CuxzHRfwrscx0X8K7HMdF/CuxzHRfwrscx0X8K9tyZnuOVDk1TzI8+P6wj4f7f/2Q=="
-             transform="matrix(0.24 0 0 0.24 25.876 23.0337)"
-             id="image137" /></g></mask><g
-         mask="url(#SVGID_9_)"
-         id="g139"><g
-           id="g141"><rect
-             x="27.876"
-             y="25.034"
-             fill="#9E9E9E"
-             width="5.365"
-             height="7.267"
-             id="rect143" /><rect
-             x="34.472"
-             y="25.034"
-             fill="#9E9E9E"
-             width="5.367"
-             height="7.267"
-             id="rect145" /><rect
-             x="41.069"
-             y="25.034"
-             fill="#9E9E9E"
-             width="5.364"
-             height="7.267"
-             id="rect147" /></g></g></g><linearGradient
-       id="SVGID_10_"
-       gradientUnits="userSpaceOnUse"
-       x1="52.6963"
-       y1="24.562"
-       x2="58.2086"
-       y2="55.1302"><stop
-         offset="0"
-         style="stop-color:#FFFFFF"
-         id="stop150" /><stop
-         offset="1"
-         style="stop-color:#FFF6BF"
-         id="stop152" /></linearGradient><rect
-       x="49.036"
-       y="25.034"
-       fill="url(#SVGID_10_)"
-       stroke="#000000"
-       stroke-width="1.0023"
-       stroke-miterlimit="10"
-       width="11.445"
-       height="21.924"
-       id="rect154" /><g
-       id="g156"><g
-         id="g158"><rect
-           x="50.725"
-           y="26.662"
-           fill="#94FAFF"
-           width="8.068"
-           height="7.268"
-           id="rect160" /></g><defs
-         id="defs162"><filter
-           id="Adobe_OpacityMaskFilter_3_"
-           filterUnits="userSpaceOnUse"
-           x="50.725"
-           y="26.662"
-           width="8.068"
-           height="7.268"><feColorMatrix
-             type="matrix"
-             values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0"
-             color-interpolation-filters="sRGB"
-             result="source"
-             id="feColorMatrix165" /></filter></defs><mask
-         maskUnits="userSpaceOnUse"
-         x="50.725"
-         y="26.662"
-         width="8.068"
-         height="7.268"
-         id="SVGID_11_"><g
-           filter="url(#Adobe_OpacityMaskFilter_3_)"
-           id="g168"><image
-             overflow="visible"
-             width="51"
-             height="47"
-             xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEBLAEsAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA EAMCAwYAAAHEAAACOgAAAwj/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIADIANgMBIgACEQEDEQH/ xACLAAEAAgIDAAAAAAAAAAAAAAAABgcEBQECAwEBAAAAAAAAAAAAAAAAAAAAABAAAQIGAAcBAAAA AAAAAAAAAQAHAwQFNQYXECBAEQIzFRQRAAAEAQkIAwAAAAAAAAAAAAABAgMEEBGRwTLSM5NEIaES chOzNHQgQVESAQAAAAAAAAAAAAAAAAAAAED/2gAMAwEAAhEDEQAAAMvQemnNo2XJrGyjJtETEwys XLLFArmxq6IICYd+kTL15pEXbXUXxzzBOoqAAAH/2gAIAQIAAQUA6D//2gAIAQMAAQUA6D//2gAI AQEAAQUAzPLqrQ6psnIVsnIVsnIVsnIVsnIVsnIU51+x+gmseYbbuNahFtuwyCgmj+ac6/NqAYvF ygBETnX5tPZxcv2Jzr83s1Dl4onJYj9csjOywDhzUOYipzr9BmI8A/WqQX16kvrVIqNMR45TiXrm /9oACAECAgY/AAf/2gAIAQMCBj8AB//aAAgBAQEGPwBqEgiaNpbCXT6iTUfEa3E/Si+kizD5ar4s w+Wq+LMPlqvizD5ar4sw+Wq+LMPlqviH9RHceCkko08JzbBteVuGMrcNjqtwSk1GriObbJD+ojuP B/mqL4Mc1RyQ/qI7jwf5qi+DHNUckP6iO48Heoc06qhOThUjETSJ+oVIZ6ZzzKqkh/UR3HhOys0G f4PIXSPJXSPIXSJ3lmsy/ZGMDxUYtrEd3DSDSDSDSDSDSD//2Q=="
-             transform="matrix(0.24 0 0 0.24 48.7246 24.6621)"
-             id="image170" /></g></mask><g
-         mask="url(#SVGID_11_)"
-         id="g172"><rect
-           x="50.725"
-           y="26.662"
-           fill="#9E9E9E"
-           width="8.068"
-           height="7.268"
-           id="rect174" /></g></g><rect
-       x="49.036"
-       y="48.431"
-       fill="#040214"
-       width="13.104"
-       height="1.76"
-       id="rect176" /></g><rect
-     y="54.779"
-     width="64"
-     height="4.063"
-     id="rect178" /></svg>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="64px" height="64px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="35.546875" y1="62.3515625" x2="26.7969398" y2="-12.5232725">
+	<stop  offset="0" style="stop-color:#1FCAFF"/>
+	<stop  offset="1" style="stop-color:#DFFFFA"/>
+</linearGradient>
+<rect style="fill:url(#SVGID_1_);" width="64" height="64"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="71.7480469" y1="50.0654297" x2="-14.9982948" y2="49.9403725">
+	<stop  offset="0" style="stop-color:#6BBF00"/>
+	<stop  offset="1" style="stop-color:#6A9F00"/>
+</linearGradient>
+<path style="fill:url(#SVGID_2_);" d="M-7,42.1513672c0,0,12.625-3.4726563,28.375-1.4755859
+	c15.75,1.9980469,50.75,1.4755859,50.75,1.4755859L72.75,59.875H-7V42.1513672z"/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="75.7236328" y1="51.9775391" x2="-11.0237694" y2="51.8524818">
+	<stop  offset="0" style="stop-color:#6BBF00"/>
+	<stop  offset="1" style="stop-color:#3C5F00"/>
+</linearGradient>
+<path style="fill:url(#SVGID_3_);" d="M-3.0244141,43.7763672c0,0,21.1142578-1.359375,28.375-1.4755859
+	c15.8740234-0.2539063,50.75,1.4755859,50.75,1.4755859L76.7255859,61.5h-79.75V43.7763672z"/>
+<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="32.5415039" y1="47.2207031" x2="32.5415039" y2="13.6957321">
+	<stop  offset="0" style="stop-color:#5FD4FF;stop-opacity:0"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<path style="fill:url(#SVGID_4_);" d="M68.1064453,20.3842773c0,0-22.1035156-12.75-28.3671875-12.75
+	c-7.1982422,0-34.5136719,14-42.7636719,17.75v36.8696289h71.1308594V20.3842773z"/>
+<g>
+	<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="-1.2104492" y1="32.394043" x2="-1.2104501" y2="13.3762703">
+		<stop  offset="0" style="stop-color:#9FF6FF;stop-opacity:0"/>
+		<stop  offset="1" style="stop-color:#FFFFFF"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_5_);" d="M14.8286133,16.90625C11.2407227,14.7314453,7.5322266,12.625,6.625,12.625
+		c-1.875,0-23.875,10.75-23.875,10.75V38.25h14.2255859V25.3842773C0.4833984,23.7900391,7.4394531,20.3422852,14.8286133,16.90625z
+		"/>
+</g>
+<rect y="57.2382813" style="fill:#564A4A;" width="64" height="6.7617188"/>
+<g>
+	<rect y="52.4726563" style="fill:#717071;" width="64" height="2.953125"/>
+	<path d="M64.4375,55.8632813h-64.875v-3.828125h64.875V55.8632813z M0.4375,54.9882813h63.125v-2.078125H0.4375V54.9882813z"/>
+</g>
+<g>
+	<g>
+		<path style="fill:#040214;" d="M27.152832,48.7783203c0,2.0371094-1.6572266,3.6953125-3.6982422,3.6953125
+			c-2.0405273,0-3.6958008-1.6582031-3.6958008-3.6953125c0-2.0429688,1.6552734-3.6992188,3.6958008-3.6992188
+			C25.4956055,45.0791016,27.152832,46.7353516,27.152832,48.7783203z"/>
+		<path style="fill:#040214;" d="M41.8632813,48.7783203c0,2.0371094-1.6533203,3.6953125-3.6953125,3.6953125
+			c-2.0410156,0-3.6962891-1.6582031-3.6962891-3.6953125c0-2.0429688,1.6552734-3.6992188,3.6962891-3.6992188
+			C40.2099609,45.0791016,41.8632813,46.7353516,41.8632813,48.7783203z"/>
+		<rect x="22.3486328" y="47.9619141" style="fill:#040214;" width="16.7910156" height="1.8808594"/>
+		<rect x="42.5214844" y="45.7998047" style="fill:#040214;" width="9.9140625" height="4.6347656"/>
+		<rect x="57.0537109" y="43.9208984" style="fill:#040214;" width="7.7695313" height="6.5136719"/>
+		<rect x="62.6923828" y="42.4169922" style="fill:#040214;" width="4.8134766" height="5.703125"/>
+		<path style="fill:#040214;" d="M53.3945313,48.7783203c0,2.0371094-1.6552734,3.6953125-3.6962891,3.6953125
+			s-3.6953125-1.6582031-3.6953125-3.6953125c0-2.0429688,1.6542969-3.6992188,3.6953125-3.6992188
+			S53.3945313,46.7353516,53.3945313,48.7783203z"/>
+		<path style="fill:#040214;" d="M68.1064453,48.7783203c0,2.0371094-1.6552734,3.6953125-3.6962891,3.6953125
+			c-2.0400391,0-3.6962891-1.6582031-3.6962891-3.6953125c0-2.0429688,1.65625-3.6992188,3.6962891-3.6992188
+			C66.4511719,45.0791016,68.1064453,46.7353516,68.1064453,48.7783203z"/>
+	</g>
+	<g>
+		<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="34.9101563" y1="10.0366211" x2="50.195076" y2="57.8959999">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#FFF6BF"/>
+		</linearGradient>
+		<path style="fill:url(#SVGID_6_);" d="M69.8339844,44.9560547c0,1.0996094-0.9003906,2.0019531-2.0039063,2.0019531H17.2119141
+			c-1.1020508,0-2.0043945-0.9023438-2.0043945-2.0019531V22.7783203c0-1.1030273,0.9023438-2.0043945,2.0043945-2.0043945
+			h50.6181641c1.1035156,0,2.0039063,0.9013672,2.0039063,2.0043945V44.9560547z"/>
+		<rect x="15.2075195" y="37.4072266" style="fill:#FF7700;" width="54.6264648" height="5.0097656"/>
+		<rect x="15.2075195" y="34.9433594" style="fill:#009644;" width="54.6264648" height="2.4638672"/>
+		<path style="fill:#020100;" d="M67.8300781,47.5224609H17.2119141c-1.4165039,0-2.5688477-1.1513672-2.5688477-2.5664063
+			V22.7783203c0-1.4165039,1.1523438-2.5688477,2.5688477-2.5688477h50.6181641
+			c1.4160156,0,2.5683594,1.1523438,2.5683594,2.5688477v22.1777344
+			C70.3984375,46.3710938,69.2460938,47.5224609,67.8300781,47.5224609z M17.2119141,21.3383789
+			c-0.7939453,0-1.4399414,0.6459961-1.4399414,1.4399414v22.1777344c0,0.7929688,0.6459961,1.4375,1.4399414,1.4375h50.6181641
+			c0.7939453,0,1.4394531-0.6445313,1.4394531-1.4375V22.7783203c0-0.7939453-0.6455078-1.4399414-1.4394531-1.4399414H17.2119141z"
+			/>
+	</g>
+	<g>
+		<g>
+			<rect x="18.0898438" y="25.0336914" style="fill:#94FAFF;" width="5.3647461" height="7.2670898"/>
+		</g>
+		<defs>
+			
+				<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="18.0898438" y="25.0336914" width="5.3647461" height="7.2670898">
+				
+					<feColorMatrix  type="matrix" values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0" color-interpolation-filters="sRGB" result="source"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="18.0898438" y="25.0336914" width="5.3647461" height="7.2670898" id="SVGID_7_">
+			<g style="filter:url(#Adobe_OpacityMaskFilter);">
+				
+					<image style="overflow:visible;" width="40" height="47" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEBLAEsAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAHAAAACGgAAAr7/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIADIAKgMBIgACEQEDEQH/
+xACMAAEBAQADAAAAAAAAAAAAAAAHAAYDBAUBAQAAAAAAAAAAAAAAAAAAAAAQAAECAwcFAQAAAAAA
+AAAAAAQABhAUBTABEQM0FTUgAhITFiURAAEDAQQJAwUAAAAAAAAAAAEAAgNyEDMENBExQVGxktKT
+hCCRMhJCEyNEEgEAAAAAAAAAAAAAAAAAAAAw/9oADAMBAAIRAxEAAADD8ckhtMWeD5sD3AE2IdYj
+2s5o84ETgHuAJoOK4xR8DGx03AbZTv1FUVR//9oACAECAAEFALT/2gAIAQMAAQUAtP/aAAgBAQAB
+BQAgjP8AfMEKYIUwQpghY3ojUNttgEgfKUhOxuhBgQI1DV4hPbh4EahqcQntf+PAjUN12ABhfb0f
+B0OgI8KGfSKtfn7PV1s9XWz1dbPV14d/X//aAAgBAgIGPwBP/9oACAEDAgY/AE//2gAIAQEBBj8A
+l/a/5u+471ev5ir1/MVev5ir1/MVr/k0qWt3FRzTRgkgbFct9lJNDGGkAkECzxFLW7ioaRZLSbPE
+UtbuKhpFktJs8RS1u4pkM0gBaACCVet90+GF4JIIABs8RSEYHEEF7tB/E/fSsjiOy/pWRxHZf0rI
+4jsv6VkcR2X9K+Jyv06tu71//9k=" transform="matrix(0.24 0 0 0.24 16.0898438 23.0336914)">
+				</image>
+			</g>
+		</mask>
+		<g style="mask:url(#SVGID_7_);">
+			<rect x="18.0898438" y="25.0336914" style="fill:#9E9E9E;" width="5.3647461" height="7.2670898"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<rect x="62.1396484" y="25.0336914" style="fill:#94FAFF;" width="5.3662109" height="7.2670898"/>
+		</g>
+		<defs>
+			
+				<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="62.1396484" y="25.0336914" width="5.3662109" height="7.2670898">
+				
+					<feColorMatrix  type="matrix" values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0" color-interpolation-filters="sRGB" result="source"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="62.1396484" y="25.0336914" width="5.3662109" height="7.2670898" id="SVGID_8_">
+			<g style="filter:url(#Adobe_OpacityMaskFilter_1_);">
+				
+					<image style="overflow:visible;" width="40" height="47" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEBLAEsAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAHEAAACHgAAAtT/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIADIAKgMBIgACEQEDEQH/
+xACQAAEBAQEBAQAAAAAAAAAAAAAHAAUGAwQBAQAAAAAAAAAAAAAAAAAAAAAQAAEDAQcFAQAAAAAA
+AAAAAAQABQYQMAECFDQVNSASAxMWJREAAQMBAgsGBwAAAAAAAAAAAQACAwQQMxEhMXKSstJzkzSF
+IFGRMlI1YXGBEkJiExIBAAAAAAAAAAAAAAAAAAAAMP/aAAwDAQACEQMRAAAA4v5/RBDqYsEO10eY
+AnWiVaN7A38AHmAfYAn7rkPAUcLi4+NgK1c3aiqKo//aAAgBAgABBQC0/9oACAEDAAEFALT/2gAI
+AQEAAQUAcCPPcfmCFmCFmCFmCF3Yk4a+LxwEoD5RoUojgIgNHDXw/h1MeHo4a+H8Opjf+RRw18al
+QIQX27OpLKQjg6HtDriO2d3Wzu62d3Wzu69Pm6//2gAIAQICBj8AT//aAAgBAwIGPwBP/9oACAEB
+AQY/AKkCR+D+sn5H1FXr9Iq9fpFXr9Iq9fpFZT7Vh+veqnfSaxUc00YcSAcYVy3wUk0MYBAJxCzp
+Kqd9JrFQ5oslzTZ0lVO+k1ioc0WS5ps6SqnfSaxTIZngFoAIJV63xT4YXgkggAGzpKqXNoqgtMry
+CInkEFx/VcjUcF+yuRqOC/ZXI1HBfsrkajgv2V5He1/ZkPn9Pz+Hb//Z" transform="matrix(0.24 0 0 0.24 60.1396484 23.0336914)">
+				</image>
+			</g>
+		</mask>
+		<g style="mask:url(#SVGID_8_);">
+			<rect x="62.1396484" y="25.0336914" style="fill:#9E9E9E;" width="5.3662109" height="7.2670898"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<rect x="27.8759766" y="25.0336914" style="fill:#94FAFF;" width="5.3652344" height="7.2670898"/>
+			<rect x="34.4716797" y="25.0336914" style="fill:#94FAFF;" width="5.3671875" height="7.2670898"/>
+			<rect x="41.0693359" y="25.0336914" style="fill:#94FAFF;" width="5.3642578" height="7.2670898"/>
+		</g>
+		<defs>
+			
+				<filter id="Adobe_OpacityMaskFilter_2_" filterUnits="userSpaceOnUse" x="27.8759766" y="25.0336914" width="18.5576172" height="7.2670898">
+				
+					<feColorMatrix  type="matrix" values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0" color-interpolation-filters="sRGB" result="source"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="27.8759766" y="25.0336914" width="18.5576172" height="7.2670898" id="SVGID_9_">
+			<g style="filter:url(#Adobe_OpacityMaskFilter_2_);">
+				
+					<image style="overflow:visible;" width="94" height="47" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEBLAEsAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAH7AAAC5wAABGr/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIADIAZAMBIgACEQEDEQH/
+xACXAAEBAQADAQAAAAAAAAAAAAAABwYDBAUCAQEAAAAAAAAAAAAAAAAAAAAAEAABAgUDAgMJAAAA
+AAAAAAAFAAQBAxQVBgI0BzVHEEATMBESMjMlJjYXEQABAgIGCAUFAQAAAAAAAAABAAIRA3EScpIz
+BBAhUbHSE5M0MYPDFAVBkcEygjASAQAAAAAAAAAAAAAAAAAAAED/2gAMAwEAAhEDEQAAAPnC7jxD
+wlh4yRPRopKViy5hWp3BHlZlZQXyOn0u70SpfP18EhrEnrB2cpq8oeRQp7QjhiNuiJvAdPwdJiSo
+cU0HPv5yKjmsmPc2kvFJmXIN45RswAAAAAAf/9oACAECAAEFAPOf/9oACAEDAAEFAPOf/9oACAEB
+AAEFAOUJkzRPqHCqHCqHCqHCqHCqHCqHCqHCqHCqHCqHC9TX/MuUtxhw6S/e6cTEwg4xMX6RNpLk
+mxmKjdbaOKCFmIBmxZYSIbkdUMUEQg+xQZCQQlwlPe2HKW4476ipnyHP2Yfs1n/SONfB1tzHU+2H
+KW4476ipn0zcfyYfs1n8ftPGvg625jqfbDlLcYoUkjXmjNxHwuc2FxlkXsueYHZmNlN45uHWWZI0
+ItMONNxeqGbh/c9zQZrkP5sJzzthyWyeOp9nLqzl1Zy6s5dWcurOXVnLqzl1Zy6s5dWcuqR1/N/a
+/wD/2gAIAQICBj8AZ//aAAgBAwIGPwBn/9oACAEBAQY/APjqji2LJsYEj6sWK+8VivvFYr7xWK+8
+VivvFYr7xWK+8VivvFYr7xWK+8VivvFV6xr8r9o68favjrE3exOlzWhwEPFCMlsaE4slNBA2L2zR
+BlZohSUx8yU0kjYsFv2TpslgaQNRAT+c0OAP1WC37J7pcpoIGxTpbdQa4gLyfXXx1ibvYplA0OoK
+/tu9SrI0PoU61+NEyyVmbZXk+uvjrE3exTKBodQV/bd6lWRofQp1r8aJlkrM2yvJ9dfHWJu9idNm
+uqgw8UK01saU4MmtiRtXummLKwMaCmS5kwRA2rFb906VJeHEjUAn85wbWMda1zWxpTmS5jYkQ8VO
+mt1h7iQvJ9dfHnLSJk8NZNrGWxz4RLPGqCuxzHRfwrscx0X8K7HMdF/CuxzHRfwrscx0X8K7HMdF
+/CuxzHRfwrscx0X8K7HMdF/CuxzHRfwrscx0X8K9tyZnuOVDk1TzI8+P6wj4f7f/2Q==" transform="matrix(0.24 0 0 0.24 25.8759766 23.0336914)">
+				</image>
+			</g>
+		</mask>
+		<g style="mask:url(#SVGID_9_);">
+			<rect x="27.8759766" y="25.0336914" style="fill:#9E9E9E;" width="5.3652344" height="7.2670898"/>
+			<rect x="34.4716797" y="25.0336914" style="fill:#9E9E9E;" width="5.3671875" height="7.2670898"/>
+			<rect x="41.0693359" y="25.0336914" style="fill:#9E9E9E;" width="5.3642578" height="7.2670898"/>
+		</g>
+	</g>
+	<g>
+		<linearGradient id="SVGID_10_" gradientUnits="userSpaceOnUse" x1="52.6962891" y1="24.5620117" x2="58.2085991" y2="55.1302032">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#FFF6BF"/>
+		</linearGradient>
+		<rect x="49.0361328" y="25.0336914" style="fill:url(#SVGID_10_);" width="11.4453125" height="21.9243164"/>
+		<path d="M60.4814453,47.4580078H49.0361328c-0.2763672,0-0.5-0.2236328-0.5-0.5V25.0336914c0-0.2763672,0.2236328-0.5,0.5-0.5
+			h11.4453125c0.2763672,0,0.5,0.2236328,0.5,0.5v21.9243164C60.9814453,47.234375,60.7578125,47.4580078,60.4814453,47.4580078z
+			 M49.5361328,46.4580078h10.4453125V25.5336914H49.5361328V46.4580078z"/>
+	</g>
+	<g>
+		<g>
+			<rect x="50.7246094" y="26.6621094" style="fill:#94FAFF;" width="8.0683594" height="7.2675781"/>
+		</g>
+		<defs>
+			
+				<filter id="Adobe_OpacityMaskFilter_3_" filterUnits="userSpaceOnUse" x="50.7246094" y="26.6621094" width="8.0683594" height="7.2675781">
+				
+					<feColorMatrix  type="matrix" values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0" color-interpolation-filters="sRGB" result="source"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="50.7246094" y="26.6621094" width="8.0683594" height="7.2675781" id="SVGID_11_">
+			<g style="filter:url(#Adobe_OpacityMaskFilter_3_);">
+				
+					<image style="overflow:visible;" width="51" height="47" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEBLAEsAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAHEAAACOgAAAwj/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIADIANgMBIgACEQEDEQH/
+xACLAAEAAgIDAAAAAAAAAAAAAAAABgcEBQECAwEBAAAAAAAAAAAAAAAAAAAAABAAAQIGAAcBAAAA
+AAAAAAAAAQAHAwQFNQYXECBAEQIzFRQRAAAEAQkIAwAAAAAAAAAAAAABAgMEEBGRwTLSM5NEIaES
+chOzNHQgQVESAQAAAAAAAAAAAAAAAAAAAED/2gAMAwEAAhEDEQAAAMvQemnNo2XJrGyjJtETEwys
+XLLFArmxq6IICYd+kTL15pEXbXUXxzzBOoqAAAH/2gAIAQIAAQUA6D//2gAIAQMAAQUA6D//2gAI
+AQEAAQUAzPLqrQ6psnIVsnIVsnIVsnIVsnIVsnIU51+x+gmseYbbuNahFtuwyCgmj+ac6/NqAYvF
+ygBETnX5tPZxcv2Jzr83s1Dl4onJYj9csjOywDhzUOYipzr9BmI8A/WqQX16kvrVIqNMR45TiXrm
+/9oACAECAgY/AAf/2gAIAQMCBj8AB//aAAgBAQEGPwBqEgiaNpbCXT6iTUfEa3E/Si+kizD5ar4s
+w+Wq+LMPlqvizD5ar4sw+Wq+LMPlqviH9RHceCkko08JzbBteVuGMrcNjqtwSk1GriObbJD+ojuP
+B/mqL4Mc1RyQ/qI7jwf5qi+DHNUckP6iO48Heoc06qhOThUjETSJ+oVIZ6ZzzKqkh/UR3HhOys0G
+f4PIXSPJXSPIXSJ3lmsy/ZGMDxUYtrEd3DSDSDSDSDSDSD//2Q==" transform="matrix(0.24 0 0 0.24 48.7246094 24.6621094)">
+				</image>
+			</g>
+		</mask>
+		<g style="mask:url(#SVGID_11_);">
+			<rect x="50.7246094" y="26.6621094" style="fill:#9E9E9E;" width="8.0683594" height="7.2675781"/>
+		</g>
+	</g>
+	<rect x="49.0361328" y="48.4306641" style="fill:#040214;" width="13.1035156" height="1.7597656"/>
+</g>
+<rect y="54.7792969" width="64" height="4.0634766"/>
+</svg>
