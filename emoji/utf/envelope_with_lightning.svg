@@ -1,119 +1,66 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   id="レイヤー_1"
-   x="0px"
-   y="0px"
-   width="64px"
-   height="64px"
-   viewBox="0 0 64 64"
-   style="enable-background:new 0 0 64 64;"
-   xml:space="preserve"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="envelope_with_lightning.svg"><metadata
-     id="metadata56"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-     id="defs54" /><sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview52" /><g
-     id="g3"><g
-       id="g5"><linearGradient
-         id="SVGID_1_"
-         gradientUnits="userSpaceOnUse"
-         x1="1.5419922"
-         y1="9.4243164"
-         x2="54.4597359"
-         y2="57.2584686"><stop
-           offset="0"
-           style="stop-color:#FFFFFF"
-           id="stop8" /><stop
-           offset="0.2860082"
-           style="stop-color:#FFF8E7"
-           id="stop10" /><stop
-           offset="0.8856361"
-           style="stop-color:#FFE7AB"
-           id="stop12" /><stop
-           offset="1"
-           style="stop-color:#FFE49F"
-           id="stop14" /></linearGradient><rect
-         x="5.2910156"
-         y="19.2060547"
-         style="fill:url(#SVGID_1_);"
-         width="53.4179688"
-         height="35.5"
-         id="rect16" /><path
-         style="fill:#260E00;"
-         d="M58.7089844,55.2363281H5.2910156c-0.2919922,0-0.5292969-0.2373047-0.5292969-0.5302734v-35.5    c0-0.2929688,0.2373047-0.5302734,0.5292969-0.5302734h53.4179688c0.2929688,0,0.5302734,0.2373047,0.5302734,0.5302734v35.5    C59.2392578,54.9990234,59.0019531,55.2363281,58.7089844,55.2363281z M5.8212891,54.1757813h52.3574219V19.7353516H5.8212891    V54.1757813z"
-         id="path18" /></g><g
-       id="g20"><linearGradient
-         id="SVGID_2_"
-         gradientUnits="userSpaceOnUse"
-         x1="15.4042969"
-         y1="37.3046875"
-         x2="45.6555023"
-         y2="61.8057404"><stop
-           offset="0"
-           style="stop-color:#FFFFFF"
-           id="stop23" /><stop
-           offset="0.2860082"
-           style="stop-color:#FFF8E7"
-           id="stop25" /><stop
-           offset="0.8856361"
-           style="stop-color:#FFE7AB"
-           id="stop27" /><stop
-           offset="1"
-           style="stop-color:#FFE49F"
-           id="stop29" /></linearGradient><polygon
-         style="fill:url(#SVGID_2_);"
-         points="5.1513672,54.7060547 32,25.0400391 58.8486328,54.7060547   "
-         id="polygon31" /><path
-         style="fill:#260E00;"
-         d="M58.8486328,55.2363281H5.1513672l-0.3925781-0.8857422l26.8486328-29.6660156h0.7861328    l26.8476563,29.6660156L58.8486328,55.2363281z M6.3457031,54.1757813h51.3085938L32,25.8300781L6.3457031,54.1757813z"
-         id="path33" /></g><g
-       id="g35"><linearGradient
-         id="SVGID_3_"
-         gradientUnits="userSpaceOnUse"
-         x1="22.9326172"
-         y1="11.6567383"
-         x2="54.5982513"
-         y2="41.9893761"><stop
-           offset="0"
-           style="stop-color:#FFFFFF"
-           id="stop38" /><stop
-           offset="0.2860082"
-           style="stop-color:#FFF8E7"
-           id="stop40" /><stop
-           offset="0.8856361"
-           style="stop-color:#FFE7AB"
-           id="stop42" /><stop
-           offset="1"
-           style="stop-color:#FFE49F"
-           id="stop44" /></linearGradient><path
-         style="fill:url(#SVGID_3_);"
-         d="M9.2910156,19.2060547c-2.2001953,0-2.6015625,1.2724609-0.8916016,2.828125    l20.6328125,18.7744141c1.7089844,1.5546875,4.5068359,1.5546875,6.2158203,0l20.6328125-18.7744141    c1.7099609-1.5556641,1.3085938-2.828125-0.8916016-2.828125H9.2910156z"
-         id="path46" /><path
-         style="fill:#260E00;"
-         d="M32.140625,42.5048828c-1.3095703,0-2.5400391-0.4638672-3.4648438-1.3046875L4.9345703,19.5976563    l0.3564453-0.921875h53.4179688l0.359375,0.9199219L35.6074219,41.1982422    C34.6806641,42.0410156,33.4501953,42.5048828,32.140625,42.5048828z M6.6611328,19.7353516l22.7275391,20.6816406    c1.4580078,1.3261719,4.0458984,1.3261719,5.5029297,0l22.4599609-20.6816406H6.6611328z"
-         id="path48" /></g><polygon
-       style="fill:#FFBC00;"
-       points="48.6816406,8.7636719 34.5449219,27.7412109 30.1582031,24.6074219 25.9443359,49.0605469    40.0800781,30.0810547 44.3847656,33.4121094  "
-       id="polygon50" /></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated by phantom_svg. -->
+<svg id="phantom_svg" width="64px" height="64px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+  <defs>
+    <!-- Images. -->
+    <svg id="frame0" viewBox="0 0 64 64" preserveAspectRatio="none" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+      <metadata id="frame0_metadata56">
+        <rdf:RDF>
+          <cc:Work rdf:about=''>
+            <dc:format>
+              image/svg+xml
+            </dc:format>
+            <dc:type rdf:resource='http://purl.org/dc/dcmitype/StillImage'/>
+          </cc:Work>
+        </rdf:RDF>
+      </metadata>
+      <defs id="frame0_defs54"/>
+      <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="640" inkscape:window-height="480" id="frame0_namedview52"/>
+      <g id="frame0_g3">
+        <g id='frame0_g5'>
+          <linearGradient id='frame0_SVGID_1_' gradientUnits='userSpaceOnUse' x1='1.5419922' y1='9.4243164' x2='54.4597359' y2='57.2584686'>
+            <stop offset='0' style='stop-color:#FFFFFF' id='frame0_stop8'/>
+            <stop offset='0.2860082' style='stop-color:#FFF8E7' id='frame0_stop10'/>
+            <stop offset='0.8856361' style='stop-color:#FFE7AB' id='frame0_stop12'/>
+            <stop offset='1' style='stop-color:#FFE49F' id='frame0_stop14'/>
+          </linearGradient>
+          <rect x='5.2910156' y='19.2060547' style='fill:url(#frame0_SVGID_1_);' width='53.4179688' height='35.5' id='frame0_rect16'/>
+          <path style='fill:#260E00;' d='M58.7089844,55.2363281H5.2910156c-0.2919922,0-0.5292969-0.2373047-0.5292969-0.5302734v-35.5    c0-0.2929688,0.2373047-0.5302734,0.5292969-0.5302734h53.4179688c0.2929688,0,0.5302734,0.2373047,0.5302734,0.5302734v35.5    C59.2392578,54.9990234,59.0019531,55.2363281,58.7089844,55.2363281z M5.8212891,54.1757813h52.3574219V19.7353516H5.8212891    V54.1757813z' id='frame0_path18'/>
+        </g>
+        <g id='frame0_g20'>
+          <linearGradient id='frame0_SVGID_2_' gradientUnits='userSpaceOnUse' x1='15.4042969' y1='37.3046875' x2='45.6555023' y2='61.8057404'>
+            <stop offset='0' style='stop-color:#FFFFFF' id='frame0_stop23'/>
+            <stop offset='0.2860082' style='stop-color:#FFF8E7' id='frame0_stop25'/>
+            <stop offset='0.8856361' style='stop-color:#FFE7AB' id='frame0_stop27'/>
+            <stop offset='1' style='stop-color:#FFE49F' id='frame0_stop29'/>
+          </linearGradient>
+          <polygon style='fill:url(#frame0_SVGID_2_);' points='5.1513672,54.7060547 32,25.0400391 58.8486328,54.7060547   ' id='frame0_polygon31'/>
+          <path style='fill:#260E00;' d='M58.8486328,55.2363281H5.1513672l-0.3925781-0.8857422l26.8486328-29.6660156h0.7861328    l26.8476563,29.6660156L58.8486328,55.2363281z M6.3457031,54.1757813h51.3085938L32,25.8300781L6.3457031,54.1757813z' id='frame0_path33'/>
+        </g>
+        <g id='frame0_g35'>
+          <linearGradient id='frame0_SVGID_3_' gradientUnits='userSpaceOnUse' x1='22.9326172' y1='11.6567383' x2='54.5982513' y2='41.9893761'>
+            <stop offset='0' style='stop-color:#FFFFFF' id='frame0_stop38'/>
+            <stop offset='0.2860082' style='stop-color:#FFF8E7' id='frame0_stop40'/>
+            <stop offset='0.8856361' style='stop-color:#FFE7AB' id='frame0_stop42'/>
+            <stop offset='1' style='stop-color:#FFE49F' id='frame0_stop44'/>
+          </linearGradient>
+          <path style='fill:url(#frame0_SVGID_3_);' d='M9.2910156,19.2060547c-2.2001953,0-2.6015625,1.2724609-0.8916016,2.828125    l20.6328125,18.7744141c1.7089844,1.5546875,4.5068359,1.5546875,6.2158203,0l20.6328125-18.7744141    c1.7099609-1.5556641,1.3085938-2.828125-0.8916016-2.828125H9.2910156z' id='frame0_path46'/>
+          <path style='fill:#260E00;' d='M32.140625,42.5048828c-1.3095703,0-2.5400391-0.4638672-3.4648438-1.3046875L4.9345703,19.5976563    l0.3564453-0.921875h53.4179688l0.359375,0.9199219L35.6074219,41.1982422    C34.6806641,42.0410156,33.4501953,42.5048828,32.140625,42.5048828z M6.6611328,19.7353516l22.7275391,20.6816406    c1.4580078,1.3261719,4.0458984,1.3261719,5.5029297,0l22.4599609-20.6816406H6.6611328z' id='frame0_path48'/>
+        </g>
+        <polygon style='fill:#FFBC00;' points='48.6816406,8.7636719 34.5449219,27.7412109 30.1582031,24.6074219 25.9443359,49.0605469    40.0800781,30.0810547 44.3847656,33.4121094  ' id='frame0_polygon50'/>
+      </g>
+    </svg>
+    <!-- Animation. -->
+    <symbol id="animation">
+      <use xlink:href="#frame0" visibility="hidden">
+        <set id="frame0_anim" attributeName="visibility" to="visible" begin="0s;frame0_anim.end" dur="0.1s"/>
+      </use>
+    </symbol>
+  </defs>
+  <!-- Main control. -->
+  <animate id="controller" begin="0s" dur="0.1s" repeatCount="indefinite"/>
+  <use xlink:href="#frame0">
+    <set attributeName="xlink:href" to="#animation" begin="controller.begin"/>
+    <set attributeName="xlink:href" to="#frame0" begin="controller.end"/>
+  </use>
+</svg>

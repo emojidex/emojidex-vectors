@@ -1,116 +1,65 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   id="レイヤー_1"
-   x="0px"
-   y="0px"
-   width="64px"
-   height="64px"
-   viewBox="0 0 64 64"
-   style="enable-background:new 0 0 64 64;"
-   xml:space="preserve"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="envelope.svg"><metadata
-     id="metadata54"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-     id="defs52" /><sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview50" /><g
-     id="g3"><g
-       id="g5"><linearGradient
-         id="SVGID_1_"
-         gradientUnits="userSpaceOnUse"
-         x1="1.5424805"
-         y1="4.4682617"
-         x2="54.4594116"
-         y2="52.3016777"><stop
-           offset="0"
-           style="stop-color:#FFFFFF"
-           id="stop8" /><stop
-           offset="0.2503247"
-           style="stop-color:#FEFAED"
-           id="stop10" /><stop
-           offset="0.7747476"
-           style="stop-color:#FBE8B8"
-           id="stop12" /><stop
-           offset="1"
-           style="stop-color:#FAE09E"
-           id="stop14" /></linearGradient><rect
-         x="5.2910156"
-         y="14.25"
-         style="fill:url(#SVGID_1_);"
-         width="53.4179688"
-         height="35.5"
-         id="rect16" /><path
-         style="fill:#251004;"
-         d="M58.7089844,50.2802734H5.2910156c-0.2924805,0-0.5297852-0.2373047-0.5297852-0.5302734v-35.5    c0-0.2924805,0.2373047-0.5297852,0.5297852-0.5297852h53.4179688c0.2929688,0,0.5302734,0.2373047,0.5302734,0.5297852v35.5    C59.2392578,50.0429688,59.0019531,50.2802734,58.7089844,50.2802734z M5.8208008,49.2197266h52.3579102V14.7797852H5.8208008    V49.2197266z"
-         id="path18" /></g><g
-       id="g20"><linearGradient
-         id="SVGID_2_"
-         gradientUnits="userSpaceOnUse"
-         x1="15.4042969"
-         y1="32.3486328"
-         x2="45.6555023"
-         y2="56.8496857"><stop
-           offset="0"
-           style="stop-color:#FFFFFF"
-           id="stop23" /><stop
-           offset="0.2503247"
-           style="stop-color:#FEFAED"
-           id="stop25" /><stop
-           offset="0.7747476"
-           style="stop-color:#FBE8B8"
-           id="stop27" /><stop
-           offset="1"
-           style="stop-color:#FAE09E"
-           id="stop29" /></linearGradient><polygon
-         style="fill:url(#SVGID_2_);"
-         points="5.1513672,49.75 32,20.0844727 58.8486328,49.75   "
-         id="polygon31" /><path
-         style="fill:#251004;"
-         d="M58.8486328,50.2802734H5.1513672l-0.3930664-0.8857422l26.8486328-29.6655273h0.7861328    l26.8481445,29.6655273L58.8486328,50.2802734z M6.3457031,49.2197266h51.3085938L32,20.8740234L6.3457031,49.2197266z"
-         id="path33" /></g><g
-       id="g35"><linearGradient
-         id="SVGID_3_"
-         gradientUnits="userSpaceOnUse"
-         x1="22.9321289"
-         y1="6.7001953"
-         x2="54.5986137"
-         y2="37.0336494"><stop
-           offset="0"
-           style="stop-color:#FFFFFF"
-           id="stop38" /><stop
-           offset="0.2503247"
-           style="stop-color:#FEFAED"
-           id="stop40" /><stop
-           offset="0.7747476"
-           style="stop-color:#FBE8B8"
-           id="stop42" /><stop
-           offset="1"
-           style="stop-color:#FAE09E"
-           id="stop44" /></linearGradient><path
-         style="fill:url(#SVGID_3_);"
-         d="M9.2910156,14.25c-2.2001953,0-2.6015625,1.2729492-0.8916016,2.8286133    l20.6328125,18.7739258c1.7089844,1.5546875,4.5068359,1.5546875,6.2158203,0l20.6328125-18.7739258    C57.5908203,15.5229492,57.1894531,14.25,54.9892578,14.25H9.2910156z"
-         id="path46" /><path
-         style="fill:#251004;"
-         d="M32.1401367,37.5488281c-1.3095703,0-2.5400391-0.4638672-3.4643555-1.3046875    L4.9345703,14.6420898l0.3564453-0.921875h53.4179688l0.359375,0.9194336L35.6074219,36.2421875    C34.6806641,37.0849609,33.4501953,37.5488281,32.1401367,37.5488281z M6.6606445,14.7797852l22.7280273,20.6811523    c1.4580078,1.3261719,4.0458984,1.3261719,5.5029297,0l22.4599609-20.6811523H6.6606445z"
-         id="path48" /></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated by phantom_svg. -->
+<svg id="phantom_svg" width="64px" height="64px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+  <defs>
+    <!-- Images. -->
+    <svg id="frame0" viewBox="0 0 64 64" preserveAspectRatio="none" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+      <metadata id="frame0_metadata54">
+        <rdf:RDF>
+          <cc:Work rdf:about=''>
+            <dc:format>
+              image/svg+xml
+            </dc:format>
+            <dc:type rdf:resource='http://purl.org/dc/dcmitype/StillImage'/>
+          </cc:Work>
+        </rdf:RDF>
+      </metadata>
+      <defs id="frame0_defs52"/>
+      <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="640" inkscape:window-height="480" id="frame0_namedview50"/>
+      <g id="frame0_g3">
+        <g id='frame0_g5'>
+          <linearGradient id='frame0_SVGID_1_' gradientUnits='userSpaceOnUse' x1='1.5424805' y1='4.4682617' x2='54.4594116' y2='52.3016777'>
+            <stop offset='0' style='stop-color:#FFFFFF' id='frame0_stop8'/>
+            <stop offset='0.2503247' style='stop-color:#FEFAED' id='frame0_stop10'/>
+            <stop offset='0.7747476' style='stop-color:#FBE8B8' id='frame0_stop12'/>
+            <stop offset='1' style='stop-color:#FAE09E' id='frame0_stop14'/>
+          </linearGradient>
+          <rect x='5.2910156' y='14.25' style='fill:url(#frame0_SVGID_1_);' width='53.4179688' height='35.5' id='frame0_rect16'/>
+          <path style='fill:#251004;' d='M58.7089844,50.2802734H5.2910156c-0.2924805,0-0.5297852-0.2373047-0.5297852-0.5302734v-35.5    c0-0.2924805,0.2373047-0.5297852,0.5297852-0.5297852h53.4179688c0.2929688,0,0.5302734,0.2373047,0.5302734,0.5297852v35.5    C59.2392578,50.0429688,59.0019531,50.2802734,58.7089844,50.2802734z M5.8208008,49.2197266h52.3579102V14.7797852H5.8208008    V49.2197266z' id='frame0_path18'/>
+        </g>
+        <g id='frame0_g20'>
+          <linearGradient id='frame0_SVGID_2_' gradientUnits='userSpaceOnUse' x1='15.4042969' y1='32.3486328' x2='45.6555023' y2='56.8496857'>
+            <stop offset='0' style='stop-color:#FFFFFF' id='frame0_stop23'/>
+            <stop offset='0.2503247' style='stop-color:#FEFAED' id='frame0_stop25'/>
+            <stop offset='0.7747476' style='stop-color:#FBE8B8' id='frame0_stop27'/>
+            <stop offset='1' style='stop-color:#FAE09E' id='frame0_stop29'/>
+          </linearGradient>
+          <polygon style='fill:url(#frame0_SVGID_2_);' points='5.1513672,49.75 32,20.0844727 58.8486328,49.75   ' id='frame0_polygon31'/>
+          <path style='fill:#251004;' d='M58.8486328,50.2802734H5.1513672l-0.3930664-0.8857422l26.8486328-29.6655273h0.7861328    l26.8481445,29.6655273L58.8486328,50.2802734z M6.3457031,49.2197266h51.3085938L32,20.8740234L6.3457031,49.2197266z' id='frame0_path33'/>
+        </g>
+        <g id='frame0_g35'>
+          <linearGradient id='frame0_SVGID_3_' gradientUnits='userSpaceOnUse' x1='22.9321289' y1='6.7001953' x2='54.5986137' y2='37.0336494'>
+            <stop offset='0' style='stop-color:#FFFFFF' id='frame0_stop38'/>
+            <stop offset='0.2503247' style='stop-color:#FEFAED' id='frame0_stop40'/>
+            <stop offset='0.7747476' style='stop-color:#FBE8B8' id='frame0_stop42'/>
+            <stop offset='1' style='stop-color:#FAE09E' id='frame0_stop44'/>
+          </linearGradient>
+          <path style='fill:url(#frame0_SVGID_3_);' d='M9.2910156,14.25c-2.2001953,0-2.6015625,1.2729492-0.8916016,2.8286133    l20.6328125,18.7739258c1.7089844,1.5546875,4.5068359,1.5546875,6.2158203,0l20.6328125-18.7739258    C57.5908203,15.5229492,57.1894531,14.25,54.9892578,14.25H9.2910156z' id='frame0_path46'/>
+          <path style='fill:#251004;' d='M32.1401367,37.5488281c-1.3095703,0-2.5400391-0.4638672-3.4643555-1.3046875    L4.9345703,14.6420898l0.3564453-0.921875h53.4179688l0.359375,0.9194336L35.6074219,36.2421875    C34.6806641,37.0849609,33.4501953,37.5488281,32.1401367,37.5488281z M6.6606445,14.7797852l22.7280273,20.6811523    c1.4580078,1.3261719,4.0458984,1.3261719,5.5029297,0l22.4599609-20.6811523H6.6606445z' id='frame0_path48'/>
+        </g>
+      </g>
+    </svg>
+    <!-- Animation. -->
+    <symbol id="animation">
+      <use xlink:href="#frame0" visibility="hidden">
+        <set id="frame0_anim" attributeName="visibility" to="visible" begin="0s;frame0_anim.end" dur="0.1s"/>
+      </use>
+    </symbol>
+  </defs>
+  <!-- Main control. -->
+  <animate id="controller" begin="0s" dur="0.1s" repeatCount="indefinite"/>
+  <use xlink:href="#frame0">
+    <set attributeName="xlink:href" to="#animation" begin="controller.begin"/>
+    <set attributeName="xlink:href" to="#frame0" begin="controller.end"/>
+  </use>
+</svg>
