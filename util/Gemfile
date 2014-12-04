@@ -2,3 +2,4 @@ source 'http://rubygems.org'
 
 gem 'emojidex'
 gem 'emojidex-converter'
+gem 'phantom_svg'
