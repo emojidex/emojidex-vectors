@@ -8232,6 +8232,76 @@
     "unicode": "2601"
   },
   {
+    "moji": "☂",
+    "code": "umbrella",
+    "code_ja": "雨2",
+    "category": "nature",
+    "unicode": "2602"
+  },
+  {
+    "moji": "☃",
+    "code": "snowman",
+    "code_ja": "雪",
+    "category": "nature",
+    "unicode": "2603"
+  },
+  {
+    "moji": "☄",
+    "code": "comet",
+    "code_ja": "隕石",
+    "category": "nature",
+    "unicode": "2604"
+  },
+  {
+    "moji": "★",
+    "code": "black_star",
+    "code_ja": "星(黒)",
+    "category": "nature",
+    "unicode": "2605"
+  },
+  {
+    "moji": "☆",
+    "code": "star",
+    "code_ja": "星(白)",
+    "category": "nature",
+    "unicode": "2606"
+  },
+  {
+    "moji": "☈",
+    "code": "thunderstorm",
+    "code_ja": "雷雨",
+    "category": "nature",
+    "unicode": "2608"
+  },
+  {
+    "moji": "☊",
+    "code": "ascending_node",
+    "code_ja": "昇交点",
+    "category": "symbols",
+    "unicode": "260a"
+  },
+  {
+    "moji": "☋",
+    "code": "descending_node",
+    "code_ja": "降交点",
+    "category": "symbols",
+    "unicode": "260b"
+  },
+  {
+    "moji": "☌",
+    "code": "conjunction",
+    "code_ja": "合",
+    "category": "symbols",
+    "unicode": "260c"
+  },
+  {
+    "moji": "☍",
+    "code": "opposition",
+    "code_ja": "衝",
+    "category": "symbols",
+    "unicode": "260d"
+  },
+  {
     "moji": "☎",
     "full_name": "black_telephone",
     "code": "telephone",
@@ -8263,12 +8333,229 @@
     "unicode": "2615"
   },
   {
+    "moji": "☖",
+    "code": "white_shogi_piece",
+    "code_ja": "将棋の駒(白)1",
+    "category": "objects",
+    "unicode": "2616"
+  },
+  {
+    "moji": "☗",
+    "code": "black_shogi_piece",
+    "code_ja": "将棋の駒(黒)1",
+    "category": "objects",
+    "unicode": "2617"
+  },
+  {
+    "moji": "☙",
+    "code": "reversed_rotated_floral_heart_bullet",
+    "code_ja": "花矢印左",
+    "category": "abstract",
+    "unicode": "2619"
+  },
+  {
+    "moji": "☚",
+    "code": "black_left_pointing_index",
+    "code_ja": "指さし(左・黒)",
+    "category": "gestures",
+    "unicode": "261a"
+  },
+  {
+    "moji": "☛",
+    "code": "black_right_pointing_index",
+    "code_ja": "指さし（右・黒）",
+    "category": "gestures",
+    "unicode": "261b"
+  },
+  {
     "moji": "☝",
     "full_name": "white_up_pointing_index",
     "code": "point_up",
-    "code_ja": "指さし",
+    "code_ja": "指さし(上)",
     "category": "gestures",
     "unicode": "261d"
+  },
+  {
+    "moji": "☠",
+    "code": "skull_and_crossbones",
+    "code_ja": "ジョリー・ロジャー",
+    "category": "symbols",
+    "unicode": "2620"
+  },
+  {
+    "moji": "☡",
+    "code": "caution_sign",
+    "code_ja": "警告マーク",
+    "category": "symbols",
+    "unicode": "2621"
+  },
+  {
+    "moji": "☢",
+    "code": "radioactive_sign",
+    "code_ja": "核マーク",
+    "category": "symbols",
+    "unicode": "2622"
+  },
+  {
+    "moji": "☣",
+    "code": "biohazard_sign",
+    "code_ja": "バイオハザード",
+    "category": "symbols",
+    "unicode": "2623"
+  },
+  {
+    "moji": "☤",
+    "code": "caduceus",
+    "code_ja": "カドゥケウス",
+    "category": "symbols",
+    "unicode": "2624"
+  },
+  {
+    "moji": "☥",
+    "code": "ankh",
+    "code_ja": "アンク",
+    "category": "symbols",
+    "unicode": "2625"
+  },
+  {
+    "moji": "☦",
+    "code": "russian_cross",
+    "code_ja": "ロシア十字",
+    "category": "symbols",
+    "unicode": "2626"
+  },
+  {
+    "moji": "☧",
+    "code": "chi_rho",
+    "code_ja": "キーロー",
+    "category": "symbols",
+    "unicode": "2627"
+  },
+  {
+    "moji": "☨",
+    "code": "cross_of_lorraine",
+    "code_ja": "ロレーヌ十字",
+    "category": "symbols",
+    "unicode": "2628"
+  },
+  {
+    "moji": "☩",
+    "code": "cross_of_jerusalem",
+    "code_ja": "エルサレム十字",
+    "category": "symbols",
+    "unicode": "2629"
+  },
+  {
+    "moji": "☪",
+    "code": "star_and_crescent",
+    "code_ja": "星と三日月",
+    "category": "symbols",
+    "unicode": "262a"
+  },
+  {
+    "moji": "☫",
+    "code": "farsi_symbol",
+    "code_ja": "イラン国章",
+    "category": "symbols",
+    "unicode": "262b"
+  },
+  {
+    "moji": "☬",
+    "code": "adi_shakti",
+    "code_ja": "アディ・シャクティ",
+    "category": "symbols",
+    "unicode": "262c"
+  },
+  {
+    "moji": "☭",
+    "code": "hammer_and_sickle",
+    "code_ja": "共産主義",
+    "category": "symbols",
+    "unicode": "262d"
+  },
+  {
+    "moji": "☮",
+    "code": "peace_symbol",
+    "code_ja": "ピースマーク",
+    "category": "symbols",
+    "unicode": "262e"
+  },
+  {
+    "moji": "☯",
+    "code": "yin_and_yang",
+    "code_ja": "陰陽",
+    "category": "symbols",
+    "unicode": "262f"
+  },
+  {
+    "moji": "☰",
+    "code": "trigram_for_heaven",
+    "code_ja": "八卦の乾",
+    "category": "symbols",
+    "unicode": "2630"
+  },
+  {
+    "moji": "☱",
+    "code": "trigram_for_lake",
+    "code_ja": "八卦の兌",
+    "category": "symbols",
+    "unicode": "2631"
+  },
+  {
+    "moji": "☲",
+    "code": "trigram_for_fire",
+    "code_ja": "八卦の離",
+    "category": "symbols",
+    "unicode": "2632"
+  },
+  {
+    "moji": "☳",
+    "code": "trigram_for_thunder",
+    "code_ja": "八卦の震",
+    "category": "symbols",
+    "unicode": "2633"
+  },
+  {
+    "moji": "☴",
+    "code": "trigram_for_wind",
+    "code_ja": "八卦の巽",
+    "category": "symbols",
+    "unicode": "2634"
+  },
+  {
+    "moji": "☵",
+    "code": "trigram_for_water",
+    "code_ja": "八卦の坎",
+    "category": "symbols",
+    "unicode": "2635"
+  },
+  {
+    "moji": "☶",
+    "code": "trigram_for_mountain",
+    "code_ja": "八卦の艮",
+    "category": "symbols",
+    "unicode": "2636"
+  },
+  {
+    "moji": "☷",
+    "code": "trigram_for_earth",
+    "code_ja": "八卦の坤",
+    "category": "symbols",
+    "unicode": "2637"
+  },
+  {
+    "moji": "☸",
+    "code": "wheel_of_dharma",
+    "code_ja": "法輪",
+    "category": "symbols",
+    "unicode": "2638"
+  },
+  {
+    "moji": "☹",
+    "code": "white_frowning_face",
+    "code_ja": "渋面",
+    "category": "faces",
+    "unicode": "2639"
   },
   {
     "moji": "☺",
@@ -8293,6 +8580,97 @@
     "code_ja": "リラックス(黒)",
     "category": "faces",
     "unicode": "263a1f3ff"
+  },
+  {
+    "moji": "☻",
+    "code": "black_smiling_face",
+    "code_ja": "スマイルフェイス(黒)",
+    "category": "faces",
+    "unicode": "263b"
+  },
+  {
+    "moji": "☼",
+    "code": "white_sun_with_rays",
+    "code_ja": "太陽(白)",
+    "category": "nature",
+    "unicode": "263c"
+  },
+  {
+    "moji": "☽",
+    "code": "first_quarter_moon",
+    "code_ja": "上弦の月(白)",
+    "category": "nature",
+    "unicode": "263d"
+  },
+  {
+    "moji": "☾",
+    "code": "last_quarter_moon",
+    "code_ja": "下限の月(白)",
+    "category": "nature",
+    "unicode": "263e"
+  },
+  {
+    "moji": "☿",
+    "code": "Mercury",
+    "code_ja": "水星",
+    "category": "symbols",
+    "unicode": "263f"
+  },
+  {
+    "moji": "♀",
+    "code": "Venus",
+    "code_ja": "金星",
+    "category": "symbols",
+    "unicode": "2640"
+  },
+  {
+    "moji": "♁",
+    "code": "Earth",
+    "code_ja": "地球",
+    "category": "symbols",
+    "unicode": "2641"
+  },
+  {
+    "moji": "♂",
+    "code": "Mars",
+    "code_ja": "火星",
+    "category": "symbols",
+    "unicode": "2642"
+  },
+  {
+    "moji": "♃",
+    "code": "Jupiter",
+    "code_ja": "木星",
+    "category": "symbols",
+    "unicode": "2643"
+  },
+  {
+    "moji": "♄",
+    "code": "Saturn",
+    "code_ja": "土星",
+    "category": "symbols",
+    "unicode": "2644"
+  },
+  {
+    "moji": "♅",
+    "code": "Uranus",
+    "code_ja": "天王星",
+    "category": "symbols",
+    "unicode": "2645"
+  },
+  {
+    "moji": "♆",
+    "code": "Neptune",
+    "code_ja": "海王星",
+    "category": "symbols",
+    "unicode": "2646"
+  },
+  {
+    "moji": "♇",
+    "code": "Pluto",
+    "code_ja": "冥王星",
+    "category": "symbols",
+    "unicode": "2647"
   },
   {
     "moji": "♈",
@@ -8379,6 +8757,90 @@
     "unicode": "2653"
   },
   {
+    "moji": "♔",
+    "code": "white_chess_king",
+    "code_ja": "キング(白)",
+    "category": "symbols",
+    "unicode": "2654"
+  },
+  {
+    "moji": "♕",
+    "code": "white_chess_queen",
+    "code_ja": "クイーン(白)",
+    "category": "symbols",
+    "unicode": "2655"
+  },
+  {
+    "moji": "♖",
+    "code": "white_chess_rook",
+    "code_ja": "ルーク(白)",
+    "category": "symbols",
+    "unicode": "2656"
+  },
+  {
+    "moji": "♗",
+    "code": "white_chess_bishop",
+    "code_ja": "ビショップ(白)",
+    "category": "symbols",
+    "unicode": "2657"
+  },
+  {
+    "moji": "♘",
+    "code": "white_chess_knight",
+    "code_ja": "ナイト(白)",
+    "category": "symbols",
+    "unicode": "2658"
+  },
+  {
+    "moji": "♙",
+    "code": "white_chess_pawn",
+    "code_ja": "ポーン(白)",
+    "category": "symbols",
+    "unicode": "2659"
+  },
+  {
+    "moji": "♚",
+    "code": "black_chess_king",
+    "code_ja": "キング(黒)",
+    "category": "symbols",
+    "unicode": "265a"
+  },
+  {
+    "moji": "♛",
+    "code": "black_chess_queen",
+    "code_ja": "クイーン(黒)",
+    "category": "symbols",
+    "unicode": "265b"
+  },
+  {
+    "moji": "♜",
+    "code": "black_chess_rook",
+    "code_ja": "ルーク(白)",
+    "category": "symbols",
+    "unicode": "265c"
+  },
+  {
+    "moji": "♝",
+    "code": "black_chess_bishop",
+    "code_ja": "ビショップ(黒)",
+    "category": "symbols",
+    "unicode": "265d"
+  },
+  {
+    "moji": "♞",
+    "code": "black_chess_knight",
+    "code_ja": "ナイト(黒)",
+    "category": "symbols",
+    "unicode": "265e"
+  },
+  {
+    "moji": "♟",
+    "code": "black_chess_pawn",
+    "code_ja": "ポーン(黒)",
+    "category": "symbols",
+    "unicode": "265f"
+  },
+  {
     "moji": "♠",
     "full_name": "black_spade_suit",
     "code": "spades",
@@ -8419,12 +8881,131 @@
     "unicode": "2668"
   },
   {
+    "moji": "♩",
+    "code": "quarter_note",
+    "code_ja": "四分音符",
+    "category": "symbols",
+    "unicode": "2669"
+  },
+  {
+    "moji": "♬",
+    "code": "beamed_sixteenth_notes",
+    "code_ja": "二連八分音符",
+    "category": "symbols",
+    "unicode": "266c"
+  },
+  {
+    "moji": "♭",
+    "code": "music_flat_sign",
+    "code_ja": "フラット",
+    "category": "symbols",
+    "unicode": "266d"
+  },
+  {
+    "moji": "♮",
+    "code": "music_natural_sign",
+    "code_ja": "ナチュラル",
+    "category": "symbols",
+    "unicode": "266e"
+  },
+  {
+    "moji": "♯",
+    "code": "music_sharp_sign",
+    "code_ja": "シャープ",
+    "category": "symbols",
+    "unicode": "266f"
+  },
+  {
+    "moji": "♰",
+    "code": "west_syriac_cross",
+    "code_ja": "西シリア十字",
+    "category": "symbols",
+    "unicode": "2670"
+  },
+  {
+    "moji": "♱",
+    "code": "east_syriac_cross",
+    "code_ja": "東シリア十字",
+    "category": "symbols",
+    "unicode": "2671"
+  },
+  {
+    "moji": "♳",
+    "code": "recycling_symbol_for_type_1_plastics",
+    "code_ja": "リサイクルマーク(ペットボトル)",
+    "category": "symbols",
+    "unicode": "2673"
+  },
+  {
+    "moji": "♴",
+    "code": "recycling_symbol_for_type_2_plastics",
+    "code_ja": "リサイクルマーク(高密度ポリエチレン)",
+    "category": "symbols",
+    "unicode": "2674"
+  },
+  {
+    "moji": "♵",
+    "code": "recycling_symbol_for_type_3_plastics",
+    "code_ja": "リサイクルマーク(ポリ塩化ビニール)",
+    "category": "symbols",
+    "unicode": "2675"
+  },
+  {
+    "moji": "♶",
+    "code": "recycling_symbol_for_type_4_plastics",
+    "code_ja": "リサイクルマーク(低密度ポリエチレン)",
+    "category": "symbols",
+    "unicode": "2676"
+  },
+  {
+    "moji": "♷",
+    "code": "recycling_symbol_for_type_5_plastics",
+    "code_ja": "リサイクルマーク(ポリプロピレン)",
+    "category": "symbols",
+    "unicode": "2677"
+  },
+  {
+    "moji": "♸",
+    "code": "recycling_symbol_for_type_6_plastics",
+    "code_ja": "リサイクルマーク(ポリスチレン)",
+    "category": "symbols",
+    "unicode": "2678"
+  },
+  {
+    "moji": "♹",
+    "code": "recycling_symbol_for_type_7_plastics",
+    "code_ja": "リサイクルマーク(その他プラスチック)",
+    "category": "symbols",
+    "unicode": "2679"
+  },
+  {
+    "moji": "♺",
+    "code": "recycling_symbol_for_generic_materials",
+    "code_ja": "リサイクルマーク1",
+    "category": "symbols",
+    "unicode": "267a"
+  },
+  {
     "moji": "♻",
     "full_name": "black_universal_recycling_symbol",
     "code": "recycle",
-    "code_ja": "リサイクルマーク",
+    "code_ja": "リサイクルマーク2",
     "category": "symbols",
     "unicode": "267b"
+  },
+  {
+    "moji": "♼",
+    "code": "recycled_paper_symbol",
+    "code_ja": "再生紙マーク",
+    "category": "symbols",
+    "unicode": "267c"
+  },
+  {
+    "moji": "♽",
+    "code": "partially_recycled_paper_symbol",
+    "code_ja": "圧縮再生紙マーク",
+    "category": "symbols",
+    "unicode": "267d"
   },
   {
     "moji": "♿",
@@ -8435,11 +9016,207 @@
     "unicode": "267f"
   },
   {
+    "moji": "⚀",
+    "code": "die_face_1",
+    "code_ja": "サイコロ(1)",
+    "category": "objects",
+    "unicode": "2680"
+  },
+  {
+    "moji": "⚁",
+    "code": "die_face_2",
+    "code_ja": "サイコロ(2)",
+    "category": "objects",
+    "unicode": "2681"
+  },
+  {
+    "moji": "⚂",
+    "code": "die_face_3",
+    "code_ja": "サイコロ(3)",
+    "category": "objects",
+    "unicode": "2682"
+  },
+  {
+    "moji": "⚃",
+    "code": "die_face_4",
+    "code_ja": "サイコロ(4)",
+    "category": "objects",
+    "unicode": "2683"
+  },
+  {
+    "moji": "⚄",
+    "code": "die_face_5",
+    "code_ja": "サイコロ(5)",
+    "category": "objects",
+    "unicode": "2684"
+  },
+  {
+    "moji": "⚅",
+    "code": "die_face_6",
+    "code_ja": "サイコロ(6)",
+    "category": "objects",
+    "unicode": "2685"
+  },
+  {
+    "moji": "⚆",
+    "code": "white_circle_with_dot_right",
+    "code_ja": "囲碁記号1",
+    "category": "symbols",
+    "unicode": "2686"
+  },
+  {
+    "moji": "⚇",
+    "code": "white_circle_with_two_dots",
+    "code_ja": "囲碁記号2",
+    "category": "symbols",
+    "unicode": "2687"
+  },
+  {
+    "moji": "⚈",
+    "code": "black_circle_with_white_dot_right",
+    "code_ja": "囲碁記号3",
+    "category": "symbols",
+    "unicode": "2688"
+  },
+  {
+    "moji": "⚉",
+    "code": "black_circle_with_two_white_dots",
+    "code_ja": "囲碁記号4",
+    "category": "symbols",
+    "unicode": "2689"
+  },
+  {
+    "moji": "⚊",
+    "code": "monogram_for_yang",
+    "code_ja": "陽爻",
+    "category": "symbols",
+    "unicode": "268a"
+  },
+  {
+    "moji": "⚋",
+    "code": "monogram_for_yin",
+    "code_ja": "陰爻",
+    "category": "symbols",
+    "unicode": "268b"
+  },
+  {
+    "moji": "⚌",
+    "code": "digram_for_greater_yang",
+    "code_ja": "太陽爻",
+    "category": "symbols",
+    "unicode": "268c"
+  },
+  {
+    "moji": "⚍",
+    "code": "digram_for_lesser_yin",
+    "code_ja": "少陰爻",
+    "category": "symbols",
+    "unicode": "268d"
+  },
+  {
+    "moji": "⚎",
+    "code": "digram_for_lesser_yang",
+    "code_ja": "少陽爻",
+    "category": "symbols",
+    "unicode": "268e"
+  },
+  {
+    "moji": "⚏",
+    "code": "digram_for_greater_yin",
+    "code_ja": "太陰爻",
+    "category": "symbols",
+    "unicode": "268f"
+  },
+  {
+    "moji": "⚒",
+    "code": "hammer_and_pick",
+    "code_ja": "寄航港",
+    "category": "symbols",
+    "unicode": "2692"
+  },
+  {
     "moji": "⚓",
     "code": "anchor",
     "code_ja": "いかり",
     "category": "transportation",
     "unicode": "2693"
+  },
+  {
+    "moji": "⚔",
+    "code": "crossed_swords",
+    "code_ja": "古戦場",
+    "category": "symbols",
+    "unicode": "2694"
+  },
+  {
+    "moji": "⚕",
+    "code": "staff_of_aesculapius",
+    "code_ja": "アスクレピオスの杖",
+    "category": "symbols",
+    "unicode": "2695"
+  },
+  {
+    "moji": "⚖",
+    "code": "weighing_scales",
+    "code_ja": "天秤",
+    "category": "symbols",
+    "unicode": "2696"
+  },
+  {
+    "moji": "⚗",
+    "code": "alembic",
+    "code_ja": "ランビキ",
+    "category": "symbols",
+    "unicode": "2697"
+  },
+  {
+    "moji": "⚘",
+    "code": "flower",
+    "code_ja": "花屋",
+    "category": "symbols",
+    "unicode": "2698"
+  },
+  {
+    "moji": "⚙",
+    "code": "gear",
+    "code_ja": "歯車",
+    "category": "symbols",
+    "unicode": "2699"
+  },
+  {
+    "moji": "⚛",
+    "code": "atom_symbol",
+    "code_ja": "原子力マーク",
+    "category": "symbols",
+    "unicode": "269b"
+  },
+  {
+    "moji": "⚜",
+    "code": "fleur_de_lis",
+    "code_ja": "フルール・ド・リス",
+    "category": "symbols",
+    "unicode": "269c"
+  },
+  {
+    "moji": "⚝",
+    "code": "outlined_white_star",
+    "code_ja": "五芒星(白)",
+    "category": "symbols",
+    "unicode": "269d"
+  },
+  {
+    "moji": "⚞",
+    "code": "three_lines_converging_right",
+    "code_ja": "主音声",
+    "category": "symbols",
+    "unicode": "269e"
+  },
+  {
+    "moji": "⚟",
+    "code": "three_lines_converging_left",
+    "code_ja": "副音声",
+    "category": "symbols",
+    "unicode": "269f"
   },
   {
     "moji": "⚠",
@@ -8458,6 +9235,62 @@
     "unicode": "26a1"
   },
   {
+    "moji": "⚢",
+    "code": "doubled_female_sign",
+    "code_ja": "同性愛(女性)",
+    "category": "symbols",
+    "unicode": "26a2"
+  },
+  {
+    "moji": "⚣",
+    "code": "doubled_male_sign",
+    "code_ja": "同性愛(男性)",
+    "category": "symbols",
+    "unicode": "26a3"
+  },
+  {
+    "moji": "⚤",
+    "code": "interlocked_male_and_female_sign",
+    "code_ja": "両性愛",
+    "category": "symbols",
+    "unicode": "26a4"
+  },
+  {
+    "moji": "⚥",
+    "code": "male_and_female_sign",
+    "code_ja": "雌雄同体",
+    "category": "symbols",
+    "unicode": "26a5"
+  },
+  {
+    "moji": "⚦",
+    "code": "male_with_stroke_sign",
+    "code_ja": "トランスジェンダー",
+    "category": "symbols",
+    "unicode": "26a6"
+  },
+  {
+    "moji": "⚧",
+    "code": "male_with_stroke_and_male_and_female_sign",
+    "code_ja": "パンジェンダー",
+    "category": "symbols",
+    "unicode": "26a7"
+  },
+  {
+    "moji": "⚨",
+    "code": "vertical_male_with_stroke_sign",
+    "code_ja": "錬金術(硫化第1鉄)",
+    "category": "symbols",
+    "unicode": "26a8"
+  },
+  {
+    "moji": "⚩",
+    "code": "horizontal_male_with_stroke_sign",
+    "code_ja": "錬金術(マグネシウム)",
+    "category": "symbols",
+    "unicode": "26a9"
+  },
+  {
     "moji": "⚪",
     "full_name": "medium_white_circle",
     "code": "white_circle",
@@ -8474,6 +9307,118 @@
     "unicode": "26ab"
   },
   {
+    "moji": "⚭",
+    "code": "marriage_symbol",
+    "code_ja": "結婚マーク",
+    "category": "symbols",
+    "unicode": "26ad"
+  },
+  {
+    "moji": "⚮",
+    "code": "divorce_symbol",
+    "code_ja": "離婚マーク",
+    "category": "symbols",
+    "unicode": "26ae"
+  },
+  {
+    "moji": "⚯",
+    "code": "unmarried_partnership_symbol",
+    "code_ja": "未婚マーク",
+    "category": "symbols",
+    "unicode": "26af"
+  },
+  {
+    "moji": "⚰",
+    "code": "coffin",
+    "code_ja": "棺",
+    "category": "objects",
+    "unicode": "26b0"
+  },
+  {
+    "moji": "⚱",
+    "code": "funeral_urn",
+    "code_ja": "骨壷",
+    "category": "symbols",
+    "unicode": "26b1"
+  },
+  {
+    "moji": "⚲",
+    "code": "neuter",
+    "code_ja": "中性マーク",
+    "category": "symbols",
+    "unicode": "26b2"
+  },
+  {
+    "moji": "⚳",
+    "code": "Ceres",
+    "code_ja": "セレス",
+    "category": "symbols",
+    "unicode": "26b3"
+  },
+  {
+    "moji": "⚴",
+    "code": "Pallas",
+    "code_ja": "パラス",
+    "category": "symbols",
+    "unicode": "26b4"
+  },
+  {
+    "moji": "⚵",
+    "code": "Juno",
+    "code_ja": "ジュノー",
+    "category": "symbols",
+    "unicode": "26b5"
+  },
+  {
+    "moji": "⚶",
+    "code": "Vesta",
+    "code_ja": "ヴェスタ",
+    "category": "symbols",
+    "unicode": "26b6"
+  },
+  {
+    "moji": "⚷",
+    "code": "Chiron",
+    "code_ja": "ケイロン",
+    "category": "symbols",
+    "unicode": "26b7"
+  },
+  {
+    "moji": "⚸",
+    "code": "black_moon_lilith",
+    "code_ja": "リリス",
+    "category": "symbols",
+    "unicode": "26b8"
+  },
+  {
+    "moji": "⚹",
+    "code": "sextile",
+    "code_ja": "六合",
+    "category": "symbols",
+    "unicode": "26b9"
+  },
+  {
+    "moji": "⚺",
+    "code": "semisextile",
+    "code_ja": "十二合",
+    "category": "symbols",
+    "unicode": "26ba"
+  },
+  {
+    "moji": "⚻",
+    "code": "quincunx",
+    "code_ja": "インコンジャクト",
+    "category": "symbols",
+    "unicode": "26bb"
+  },
+  {
+    "moji": "⚼",
+    "code": "sesquiquadrate",
+    "code_ja": "セスキコードレイト",
+    "category": "symbols",
+    "unicode": "26bc"
+  },
+  {
     "moji": "⚽",
     "full_name": "soccer_ball",
     "code": "soccer",
@@ -8487,6 +9432,34 @@
     "code_ja": "野球",
     "category": "objects",
     "unicode": "26be"
+  },
+  {
+    "moji": "⛀",
+    "code": "white_draughts_man",
+    "code_ja": "チェッカーの駒(白)",
+    "category": "objects",
+    "unicode": "26c0"
+  },
+  {
+    "moji": "⛁",
+    "code": "white_draughts_king",
+    "code_ja": "チェッカーのキング(白)",
+    "category": "objects",
+    "unicode": "26c1"
+  },
+  {
+    "moji": "⛂",
+    "code": "black_draughts_man",
+    "code_ja": "チェッカーの駒(黒)",
+    "category": "objects",
+    "unicode": "26c2"
+  },
+  {
+    "moji": "⛃",
+    "code": "black_draughts_king",
+    "code_ja": "チェッカーのキング(白)",
+    "category": "objects",
+    "unicode": "26c3"
   },
   {
     "moji": "⛄",
@@ -8505,11 +9478,88 @@
     "unicode": "26c5"
   },
   {
+    "moji": "⛇",
+    "code": "black_snowman",
+    "code_ja": "雪だるま(黒)",
+    "category": "symbols",
+    "unicode": "26c7"
+  },
+  {
+    "moji": "⛉",
+    "code": "turned_white_shogi_piece",
+    "code_ja": "将棋の駒(白)2",
+    "category": "objects",
+    "unicode": "26c9"
+  },
+  {
+    "moji": "⛊",
+    "code": "turned_black_shogi_piece",
+    "code_ja": "将棋の駒(黒)2",
+    "category": "objects",
+    "unicode": "26ca"
+  },
+  {
+    "moji": "⛋",
+    "code": "white_diamond_in_square",
+    "code_ja": "白四角",
+    "category": "abstract",
+    "unicode": "26cb"
+  },
+  {
+    "moji": "⛌",
+    "code": "crossing_lanes",
+    "code_ja": "事故",
+    "category": "symbols",
+    "unicode": "26cc"
+  },
+  {
+    "moji": "⛍",
+    "code": "disabled_car",
+    "code_ja": "事故車",
+    "category": "symbols",
+    "unicode": "26cd"
+  },
+  {
     "moji": "⛎",
     "code": "Ophiuchus",
     "code_ja": "蛇遣い座",
     "category": "symbols",
     "unicode": "26ce"
+  },
+  {
+    "moji": "⛏",
+    "code": "pick",
+    "code_ja": "工事",
+    "category": "symbols",
+    "unicode": "26cf"
+  },
+  {
+    "moji": "⛐",
+    "code": "car_sliding",
+    "code_ja": "凍結",
+    "category": "symbols",
+    "unicode": "26d0"
+  },
+  {
+    "moji": "⛑",
+    "code": "helmet_with_white_cross",
+    "code_ja": "作業中",
+    "category": "symbols",
+    "unicode": "26d1"
+  },
+  {
+    "moji": "⛒",
+    "code": "circled_crossing_lanes",
+    "code_ja": "通行止め",
+    "category": "symbols",
+    "unicode": "26d2"
+  },
+  {
+    "moji": "⛓",
+    "code": "chains",
+    "code_ja": "チェーン規制",
+    "category": "symbols",
+    "unicode": "26d3"
   },
   {
     "moji": "⛔",
@@ -8519,11 +9569,165 @@
     "unicode": "26d4"
   },
   {
+    "moji": "⛕",
+    "code": "alternate_one_way_left_way_traffic",
+    "code_ja": "片側交互通行",
+    "category": "symbols",
+    "unicode": "26d5"
+  },
+  {
+    "moji": "⛖",
+    "code": "black_two_way_left_way_traffic",
+    "code_ja": "対面通行1",
+    "category": "symbols",
+    "unicode": "26d6"
+  },
+  {
+    "moji": "⛗",
+    "code": "white_two_way_left_way_traffic",
+    "code_ja": "対面通行2",
+    "category": "symbols",
+    "unicode": "26d7"
+  },
+  {
+    "moji": "⛘",
+    "code": "black_left_lane_merge",
+    "code_ja": "車線規制1",
+    "category": "symbols",
+    "unicode": "26d8"
+  },
+  {
+    "moji": "⛙",
+    "code": "white_left_lane_merge",
+    "code_ja": "車線規制2",
+    "category": "symbols",
+    "unicode": "26d9"
+  },
+  {
+    "moji": "⛚",
+    "code": "drive_slow_sign",
+    "code_ja": "徐行1",
+    "category": "symbols",
+    "unicode": "26da"
+  },
+  {
+    "moji": "⛛",
+    "code": "heavy_white_down_pointing_triangle",
+    "code_ja": "徐行2",
+    "category": "symbols",
+    "unicode": "26db"
+  },
+  {
+    "moji": "⛜",
+    "code": "left_closed_entry",
+    "code_ja": "車線数減少",
+    "category": "symbols",
+    "unicode": "26dc"
+  },
+  {
+    "moji": "⛝",
+    "code": "squared_saltire",
+    "code_ja": "入り口閉鎖",
+    "category": "symbols",
+    "unicode": "26dd"
+  },
+  {
+    "moji": "⛞",
+    "code": "falling_diagonal_in_white_circle_in_black_square",
+    "code_ja": "大型通行止め1",
+    "category": "symbols",
+    "unicode": "26de"
+  },
+  {
+    "moji": "⛟",
+    "code": "black_truck",
+    "code_ja": "大型通行止め2",
+    "category": "symbols",
+    "unicode": "26df"
+  },
+  {
+    "moji": "⛠",
+    "code": "restricted_left_entry_1",
+    "code_ja": "入り口制限1",
+    "category": "symbols",
+    "unicode": "26e0"
+  },
+  {
+    "moji": "⛡",
+    "code": "restricted_left_entry_2",
+    "code_ja": "入り口制限2",
+    "category": "symbols",
+    "unicode": "26e1"
+  },
+  {
+    "moji": "⛣",
+    "code": "heavy_circle_with_stroke_and_two_dots_above",
+    "code_ja": "官公庁",
+    "category": "symbols",
+    "unicode": "26e3"
+  },
+  {
+    "moji": "⛤",
+    "code": "pentagram",
+    "code_ja": "五芒星",
+    "category": "symbols",
+    "unicode": "26e4"
+  },
+  {
+    "moji": "⛧",
+    "code": "inverted_pentagram",
+    "code_ja": "逆五芒星",
+    "category": "symbols",
+    "unicode": "26e7"
+  },
+  {
+    "moji": "⛩",
+    "code": "shinto_shrine",
+    "code_ja": "神社",
+    "category": "places",
+    "unicode": "26e9"
+  },
+  {
     "moji": "⛪",
     "code": "church",
     "code_ja": "教会",
     "category": "places",
     "unicode": "26ea"
+  },
+  {
+    "moji": "⛬",
+    "code": "historic_site",
+    "code_ja": "史跡",
+    "category": "places",
+    "unicode": "26ec"
+  },
+  {
+    "moji": "⛭",
+    "code": "gear_without_hub",
+    "code_ja": "工場2",
+    "category": "symbols",
+    "unicode": "26ed"
+  },
+  {
+    "moji": "⛮",
+    "code": "gear_with_handles",
+    "code_ja": "発電所",
+    "category": "symbols",
+    "unicode": "26ee"
+  },
+  {
+    "moji": "⛯",
+    "code": "map_symbol_for_lighthouse",
+    "code_ja": "灯台",
+    "category": "symbols",
+    "unicode": "26ef"
+  },
+  {
+    "moji": "⛱",
+    "code": "umbrella_on_ground",
+    "code_ja": "海水浴場",
+    "category": "places",
+    "unicode": "26f1"
   },
   {
     "moji": "⛲",
@@ -8548,11 +9752,39 @@
     "unicode": "26f5"
   },
   {
+    "moji": "⛶",
+    "code": "square_four_corners",
+    "code_ja": "交差点",
+    "category": "symbols",
+    "unicode": "26f6"
+  },
+  {
+    "moji": "⛸",
+    "code": "ice_skate",
+    "code_ja": "アイススケート",
+    "category": "people",
+    "unicode": "26f8"
+  },
+  {
+    "moji": "⛹",
+    "code": "person_with_ball",
+    "code_ja": "球技",
+    "category": "people",
+    "unicode": "26f9"
+  },
+  {
     "moji": "⛺",
     "code": "tent",
     "code_ja": "テント",
     "category": "objects",
     "unicode": "26fa"
+  },
+  {
+    "moji": "⛼",
+    "code": "headstone_graveyard_symbol",
+    "code_ja": "墓地",
+    "category": "symbols",
+    "unicode": "26fc"
   },
   {
     "moji": "⛽",
@@ -8561,6 +9793,13 @@
     "code_ja": "ガソリンスタンド",
     "category": "places",
     "unicode": "26fd"
+  },
+  {
+    "moji": "⛿",
+    "code": "white_flag_with_horizontal_middle_black_stripe",
+    "code_ja": "自衛隊",
+    "category": "symbols",
+    "unicode": "26ff"
   },
   {
     "moji": "✂",
