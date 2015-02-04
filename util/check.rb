@@ -18,6 +18,10 @@ emoji_root = File.expand_path('../../emoji/', __FILE__)
 utf_path = File.expand_path('utf', emoji_root)
 extended_path = File.expand_path('extended', emoji_root)
 
+category_names = []
+Emojidex::Categories.new.each { |category| category_names << category.code }
+
+
 # Check
 utf = Emojidex::Collection.new
 utf.load_local_collection utf_path
@@ -47,4 +51,14 @@ else
   puts "Index Only: \n"
   extended_cc.index_only.each { |i| puts "[#{i}]\n" }
   exit 2
+end
+
+
+# Category name check
+(all_emoji = utf) << extended
+all_emoji.each do |emoji|
+  unless category_names.include?(emoji.category.to_s)
+    puts "Contains the wrong category name."
+    puts emoji["code"]
+  end
 end
