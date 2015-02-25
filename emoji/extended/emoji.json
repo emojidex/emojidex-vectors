@@ -74,6 +74,11 @@
     "category": "faces"
   },
   {
+    "code_ja": "ちょうネクタイ(黄)",
+    "code": "bowtie(ye)",
+    "category": "faces"
+  },
+  {
     "code_ja": "ちょうネクタイ(茶)",
     "code": "bowtie(br)",
     "category": "faces"
@@ -131,6 +136,11 @@
   {
     "code_ja": "酔っ払い",
     "code": "drunk",
+    "category": "faces"
+  },
+  {
+    "code_ja": "酔っ払い(黄)",
+    "code": "drunk(ye)",
     "category": "faces"
   },
   {
@@ -301,6 +311,11 @@
   {
     "code_ja": "嘔吐",
     "code": "puke",
+    "category": "faces"
+  },
+  {
+    "code_ja": "嘔吐(黄)",
+    "code": "puke(ye)",
     "category": "faces"
   },
   {
@@ -789,6 +804,11 @@
     "category": "faces"
   },
   {
+    "code_ja": "満足(黄)",
+    "code": "satisfied(ye)",
+    "category": "faces"
+  },
+  {
     "code_ja": "満足(茶)",
     "code": "satisfied(br)",
     "category": "faces"
@@ -796,6 +816,16 @@
   {
     "code_ja": "満足(黒)",
     "code": "satisfied(bk)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "スマイルフェイス",
+    "code": "smiling_face",
+    "category": "faces"
+  },
+  {
+    "code_ja": "スマイルフェイス(黄)",
+    "code": "smiling_face(ye)",
     "category": "faces"
   },
   {
