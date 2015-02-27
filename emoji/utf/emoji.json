@@ -5187,21 +5187,24 @@
   },
   {
     "moji": "🖗",
-    "code": "white_down_pointing_left_hand_index",
+    "full_name": "white_down_pointing_left_hand_index",
+    "code": "down_pointing_left_hand_index",
     "code_ja": "指差し(下)",
     "category": "gestures",
     "unicode": "1f597"
   },
   {
     "moji": "🖘",
-    "code": "sideways_white_left_pointing_index",
+    "full_name": "sideways_white_left_pointing_index",
+    "code": "sideways_left_pointing_index",
     "code_ja": "指差し(左)",
     "category": "gestures",
     "unicode": "1f598"
   },
   {
     "moji": "🖙",
-    "code": "sideways_white_right_pointing_index",
+    "full_name": "sideways_white_right_pointing_index",
+    "code": "sideways_right_pointing_index",
     "code_ja": "指差し(右)",
     "category": "gestures",
     "unicode": "1f599"
@@ -5236,14 +5239,16 @@
   },
   {
     "moji": "🖞",
-    "code": "sideways_white_up_pointing_index",
+    "full_name": "sideways_white_up_pointing_index",
+    "code": "sideways_up_pointing_index",
     "code_ja": "指差し(上)",
     "category": "gestures",
     "unicode": "1f59e"
   },
   {
     "moji": "🖟",
-    "code": "sideways_white_down_pointing_index",
+    "full_name": "sideways_white_down_pointing_index",
+    "code": "sideways_down_pointing_index",
     "code_ja": "指差し(下)2",
     "category": "gestures",
     "unicode": "1f59f"
