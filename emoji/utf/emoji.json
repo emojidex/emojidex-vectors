@@ -5936,6 +5936,14 @@
     "unicode": "1f601"
   },
   {
+    "moji": "😁🏼",
+    "full_name": "grinning_face_with_smiling_eyes(p)",
+    "code": "grin(p)",
+    "code_ja": "うっしっし(桃)",
+    "category": "faces",
+    "unicode": "1f6011f3fc"
+  },
+  {
     "moji": "😁🏽",
     "full_name": "grinning_face_with_smiling_eyes(ye)",
     "code": "grin(ye)",
@@ -5967,6 +5975,14 @@
     "emoticon": ";D",
     "category": "faces",
     "unicode": "1f602"
+  },
+  {
+    "moji": "😂🏼",
+    "full_name": "face_with_tears_of_joy(p)",
+    "code": "joy(p)",
+    "code_ja": "泣き笑い(桃)",
+    "category": "faces",
+    "unicode": "1f6021f3fc"
   },
   {
     "moji": "😂🏽",
@@ -6002,6 +6018,14 @@
     "unicode": "1f603"
   },
   {
+    "moji": "😃🏼",
+    "full_name": "smiling_face_with_open_mouth(p)",
+    "code": "smiley(p)",
+    "code_ja": "スマイル(桃)",
+    "category": "faces",
+    "unicode": "1f6031f3fc"
+  },
+  {
     "moji": "😃🏽",
     "full_name": "smiling_face_with_open_mouth(ye)",
     "code": "smiley(ye)",
@@ -6034,6 +6058,14 @@
     "unicode": "1f604"
   },
   {
+    "moji": "😄🏼",
+    "full_name": "smiling_face_with_open_mouth_and_smiling_eyes(p)",
+    "code": "smile(p)",
+    "code_ja": "嬉しい顔(桃)",
+    "category": "faces",
+    "unicode": "1f6041f3fc"
+  },
+  {
     "moji": "😄🏽",
     "full_name": "smiling_face_with_open_mouth_and_smiling_eyes(ye)",
     "code": "smile(ye)",
@@ -6064,6 +6096,14 @@
     "code_ja": "冷や汗",
     "category": "faces",
     "unicode": "1f605"
+  },
+  {
+    "moji": "😅🏼",
+    "full_name": "smiling_face_with_open_mouth_and_cold_sweat(p)",
+    "code": "sweat_smile(p)",
+    "code_ja": "冷や汗(桃)",
+    "category": "faces",
+    "unicode": "1f6051f3fc"
   },
   {
     "moji": "😅🏽",
@@ -6099,6 +6139,14 @@
     "unicode": "1f606"
   },
   {
+    "moji": "😆🏼",
+    "full_name": "smiling_face_with_open_mouth_and_tightly_closed_eyes(p)",
+    "code": "laughing(p)",
+    "code_ja": "笑い(桃)",
+    "category": "faces",
+    "unicode": "1f6061f3fc"
+  },
+  {
     "moji": "😆🏽",
     "full_name": "smiling_face_with_open_mouth_and_tightly_closed_eyes(ye)",
     "code": "laughing(ye)",
@@ -6129,6 +6177,14 @@
     "code_ja": "天使の笑顔",
     "category": "faces",
     "unicode": "1f607"
+  },
+  {
+    "moji": "😇🏼",
+    "full_name": "smiling_face_with_halo(p)",
+    "code": "innocent(p)",
+    "code_ja": "天使の笑顔(桃)",
+    "category": "faces",
+    "unicode": "1f6071f3fc"
   },
   {
     "moji": "😇🏽",
@@ -6172,6 +6228,14 @@
     "unicode": "1f609"
   },
   {
+    "moji": "😉🏼",
+    "full_name": "winking_face(p)",
+    "code": "wink(p)",
+    "code_ja": "ウインク(桃)",
+    "category": "faces",
+    "unicode": "1f6091f3fc"
+  },
+  {
     "moji": "😉🏽",
     "full_name": "winking_face(ye)",
     "code": "wink(ye)",
@@ -6203,6 +6267,14 @@
     "emoticon": ":$",
     "category": "faces",
     "unicode": "1f60a"
+  },
+  {
+    "moji": "😊🏼",
+    "full_name": "smiling_face_with_smiling_eyes(p)",
+    "code": "blush(p)",
+    "code_ja": "にこにこ(桃)",
+    "category": "faces",
+    "unicode": "1f60a1f3fc"
   },
   {
     "moji": "😊🏽",
@@ -6237,6 +6309,14 @@
     "unicode": "1f60b"
   },
   {
+    "moji": "😋🏼",
+    "full_name": "face_savouring_delicious_food(p)",
+    "code": "yum(p)",
+    "code_ja": "うまい(桃)",
+    "category": "faces",
+    "unicode": "1f60b1f3fc"
+  },
+  {
     "moji": "😋🏽",
     "full_name": "face_savouring_delicious_food(ye)",
     "code": "yum(ye)",
@@ -6267,6 +6347,14 @@
     "code_ja": "ほっとした顔",
     "category": "faces",
     "unicode": "1f60c"
+  },
+  {
+    "moji": "😌🏼",
+    "full_name": "relieved_face(p)",
+    "code": "relieved(p)",
+    "code_ja": "ほっとした顔(桃)",
+    "category": "faces",
+    "unicode": "1f60c1f3fc"
   },
   {
     "moji": "😌🏽",
@@ -6301,6 +6389,14 @@
     "unicode": "1f60d"
   },
   {
+    "moji": "😍🏼",
+    "full_name": "smiling_face_with_heart_shaped_eyes(p)",
+    "code": "heart_eyes(p)",
+    "code_ja": "目がハート(桃)",
+    "category": "faces",
+    "unicode": "1f60d1f3fc"
+  },
+  {
     "moji": "😍🏽",
     "full_name": "smiling_face_with_heart_shaped_eyes(ye)",
     "code": "heart_eyes(ye)",
@@ -6331,6 +6427,14 @@
     "code_ja": "キリッ",
     "category": "faces",
     "unicode": "1f60e"
+  },
+  {
+    "moji": "😎🏼",
+    "full_name": "smiling_face_with_sunglasses(p)",
+    "code": "sunglasses(p)",
+    "code_ja": "キリッ(桃)",
+    "category": "faces",
+    "unicode": "1f60e1f3fc"
   },
   {
     "moji": "😎🏽",
@@ -6365,6 +6469,14 @@
     "unicode": "1f60f"
   },
   {
+    "moji": "😏🏼",
+    "full_name": "smirking_face(p)",
+    "code": "smirk(p)",
+    "code_ja": "ふっ(桃)",
+    "category": "faces",
+    "unicode": "1f60f1f3fc"
+  },
+  {
     "moji": "😏🏽",
     "full_name": "smirking_face(ye)",
     "code": "smirk(ye)",
@@ -6396,6 +6508,13 @@
     "unicode": "1f610"
   },
   {
+    "moji": "😐🏼",
+    "code": "neutral_face(p)",
+    "code_ja": "普通の顔(桃)",
+    "category": "faces",
+    "unicode": "1f6101f3fc"
+  },
+  {
     "moji": "😐🏽",
     "code": "neutral_face(ye)",
     "code_ja": "普通の顔(黄)",
@@ -6423,6 +6542,14 @@
     "code_ja": "ぼけーっとした顔",
     "category": "faces",
     "unicode": "1f611"
+  },
+  {
+    "moji": "😑🏼",
+    "full_name": "expressionless_face(p)",
+    "code": "expressionless(p)",
+    "code_ja": "ぼけーっとした顔(桃)",
+    "category": "faces",
+    "unicode": "1f6111f3fc"
   },
   {
     "moji": "😑🏽",
@@ -6455,6 +6582,14 @@
     "code_ja": "横目",
     "category": "faces",
     "unicode": "1f612"
+  },
+  {
+    "moji": "😒🏼",
+    "full_name": "unamused_face(p)",
+    "code": "unamused(p)",
+    "code_ja": "横目(桃)",
+    "category": "faces",
+    "unicode": "1f6121f3fc"
   },
   {
     "moji": "😒🏽",
@@ -6490,6 +6625,14 @@
     "unicode": "1f613"
   },
   {
+    "moji": "😓🏼",
+    "full_name": "face_with_cold_sweat(p)",
+    "code": "sweat(p)",
+    "code_ja": "困り顔(桃)",
+    "category": "faces",
+    "unicode": "1f6131f3fc"
+  },
+  {
     "moji": "😓🏽",
     "full_name": "face_with_cold_sweat(ye)",
     "code": "sweat(ye)",
@@ -6520,6 +6663,14 @@
     "code_ja": "しょんぼり",
     "category": "faces",
     "unicode": "1f614"
+  },
+  {
+    "moji": "😔🏼",
+    "full_name": "pensive_face(p)",
+    "code": "pensive(p)",
+    "code_ja": "しょんぼり(桃)",
+    "category": "faces",
+    "unicode": "1f6141f3fc"
   },
   {
     "moji": "😔🏽",
@@ -6555,6 +6706,14 @@
     "unicode": "1f615"
   },
   {
+    "moji": "😕🏼",
+    "full_name": "confused_face(p)",
+    "code": "confused(p)",
+    "code_ja": "困る(桃)",
+    "category": "faces",
+    "unicode": "1f6151f3fc"
+  },
+  {
     "moji": "😕🏽",
     "full_name": "confused_face(ye)",
     "code": "confused(ye)",
@@ -6585,6 +6744,14 @@
     "code_ja": "混乱",
     "category": "faces",
     "unicode": "1f616"
+  },
+  {
+    "moji": "😖🏼",
+    "full_name": "confounded_face(p)",
+    "code": "confounded(p)",
+    "code_ja": "混乱(桃)",
+    "category": "faces",
+    "unicode": "1f6161f3fc"
   },
   {
     "moji": "😖🏽",
@@ -6620,6 +6787,14 @@
     "unicode": "1f617"
   },
   {
+    "moji": "😗🏼",
+    "full_name": "kissing_face(p)",
+    "code": "kissing(p)",
+    "code_ja": "チュー(桃)",
+    "category": "faces",
+    "unicode": "1f6171f3fc"
+  },
+  {
     "moji": "😗🏽",
     "full_name": "kissing_face(ye)",
     "code": "kissing(ye)",
@@ -6650,6 +6825,14 @@
     "code_ja": "投げキッス",
     "category": "faces",
     "unicode": "1f618"
+  },
+  {
+    "moji": "😘🏼",
+    "full_name": "face_throwing_a_kiss(p)",
+    "code": "kissing_heart(p)",
+    "code_ja": "投げキッス(桃)",
+    "category": "faces",
+    "unicode": "1f6181f3fc"
   },
   {
     "moji": "😘🏽",
@@ -6684,6 +6867,14 @@
     "unicode": "1f619"
   },
   {
+    "moji": "😙🏼",
+    "full_name": "kissing_face_with_smiling_eyes(p)",
+    "code": "kissing_smiling_eyes(p)",
+    "code_ja": "チューしよ(桃)",
+    "category": "faces",
+    "unicode": "1f6191f3fc"
+  },
+  {
     "moji": "😙🏽",
     "full_name": "kissing_face_with_smiling_eyes(ye)",
     "code": "kissing_smiling_eyes(ye)",
@@ -6714,6 +6905,14 @@
     "code_ja": "チュッ",
     "category": "faces",
     "unicode": "1f61a"
+  },
+  {
+    "moji": "😚🏼",
+    "full_name": "kissing_face_with_closed_eyes(p)",
+    "code": "kissing_closed_eyes(p)",
+    "code_ja": "チュッ(桃)",
+    "category": "faces",
+    "unicode": "1f61a1f3fc"
   },
   {
     "moji": "😚🏽",
@@ -6749,6 +6948,14 @@
     "unicode": "1f61b"
   },
   {
+    "moji": "😛🏼",
+    "full_name": "face_with_stuck_out_tongue(p)",
+    "code": "stuck_out_tongue(p)",
+    "code_ja": "べー(桃)",
+    "category": "faces",
+    "unicode": "1f61b1f3fc"
+  },
+  {
     "moji": "😛🏽",
     "full_name": "face_with_stuck_out_tongue(ye)",
     "code": "stuck_out_tongue(ye)",
@@ -6780,6 +6987,14 @@
     "emoticon": ";P",
     "category": "faces",
     "unicode": "1f61c"
+  },
+  {
+    "moji": "😜🏼",
+    "full_name": "face_with_stuck_out_tongue_and_winking_eye(p)",
+    "code": "stuck_out_tongue_winking_eye(p)",
+    "code_ja": "あっかんべー(桃)",
+    "category": "faces",
+    "unicode": "1f61c1f3fc"
   },
   {
     "moji": "😜🏽",
@@ -6815,6 +7030,14 @@
     "unicode": "1f61d"
   },
   {
+    "moji": "😝🏼",
+    "full_name": "face_with_stuck_out_tongue_and_tightly_closed_eyes(p)",
+    "code": "stuck_out_tongue_closed_eyes(p)",
+    "code_ja": "べーっ(桃)",
+    "category": "faces",
+    "unicode": "1f61d1f3fc"
+  },
+  {
     "moji": "😝🏽",
     "full_name": "face_with_stuck_out_tongue_and_tightly_closed_eyes(ye)",
     "code": "stuck_out_tongue_closed_eyes(ye)",
@@ -6845,6 +7068,14 @@
     "code_ja": "がっかり",
     "category": "faces",
     "unicode": "1f61e"
+  },
+  {
+    "moji": "😞🏼",
+    "full_name": "disappointed_face(p)",
+    "code": "disappointed(p)",
+    "code_ja": "がっかり(桃)",
+    "category": "faces",
+    "unicode": "1f61e1f3fc"
   },
   {
     "moji": "😞🏽",
@@ -6879,6 +7110,14 @@
     "unicode": "1f61f"
   },
   {
+    "moji": "😟🏼",
+    "full_name": "worried_face(p)",
+    "code": "worried(p)",
+    "code_ja": "心配(桃)",
+    "category": "faces",
+    "unicode": "1f61f1f3fc"
+  },
+  {
     "moji": "😟🏽",
     "full_name": "worried_face(ye)",
     "code": "worried(ye)",
@@ -6909,6 +7148,14 @@
     "code_ja": "怒った顔",
     "category": "faces",
     "unicode": "1f620"
+  },
+  {
+    "moji": "😠🏼",
+    "full_name": "angry_face(p)",
+    "code": "angry(p)",
+    "code_ja": "怒った顔(桃)",
+    "category": "faces",
+    "unicode": "1f6201f3fc"
   },
   {
     "moji": "😠🏽",
@@ -6952,6 +7199,14 @@
     "unicode": "1f622"
   },
   {
+    "moji": "😢🏼",
+    "full_name": "crying_face(p)",
+    "code": "cry(p)",
+    "code_ja": "涙(桃)",
+    "category": "faces",
+    "unicode": "1f6221f3fc"
+  },
+  {
     "moji": "😢🏽",
     "full_name": "crying_face(ye)",
     "code": "cry(ye)",
@@ -6982,6 +7237,14 @@
     "code_ja": "がまん顔",
     "category": "faces",
     "unicode": "1f623"
+  },
+  {
+    "moji": "😣🏼",
+    "full_name": "persevering_face(p)",
+    "code": "persevere(p)",
+    "code_ja": "がまん顔(桃)",
+    "category": "faces",
+    "unicode": "1f6231f3fc"
   },
   {
     "moji": "😣🏽",
@@ -7016,6 +7279,14 @@
     "unicode": "1f624"
   },
   {
+    "moji": "😤🏼",
+    "full_name": "face_with_look_of_triumph(p)",
+    "code": "triumph(p)",
+    "code_ja": "勝ち誇り(桃)",
+    "category": "faces",
+    "unicode": "1f6241f3fc"
+  },
+  {
     "moji": "😤🏽",
     "full_name": "face_with_look_of_triumph(ye)",
     "code": "triumph(ye)",
@@ -7046,6 +7317,14 @@
     "code_ja": "やれやれ",
     "category": "faces",
     "unicode": "1f625"
+  },
+  {
+    "moji": "😥🏼",
+    "full_name": "disappointed_but_relieved_face(p)",
+    "code": "disappointed_relieved(p)",
+    "code_ja": "やれやれ(桃)",
+    "category": "faces",
+    "unicode": "1f6251f3fc"
   },
   {
     "moji": "😥🏽",
@@ -7081,6 +7360,14 @@
     "unicode": "1f626"
   },
   {
+    "moji": "😦🏼",
+    "full_name": "frowning_face_with_open_mouth(p)",
+    "code": "frowning(p)",
+    "code_ja": "しかめっ面(桃)",
+    "category": "faces",
+    "unicode": "1f6261f3fc"
+  },
+  {
     "moji": "😦🏽",
     "full_name": "frowning_face_with_open_mouth(ye)",
     "code": "frowning(ye)",
@@ -7111,6 +7398,14 @@
     "code_ja": "悲しい顔",
     "category": "faces",
     "unicode": "1f627"
+  },
+  {
+    "moji": "😧🏼",
+    "full_name": "anguished_face(p)",
+    "code": "anguished(p)",
+    "code_ja": "悲しい顔(桃)",
+    "category": "faces",
+    "unicode": "1f6271f3fc"
   },
   {
     "moji": "😧🏽",
@@ -7145,6 +7440,14 @@
     "unicode": "1f628"
   },
   {
+    "moji": "😨🏼",
+    "full_name": "fearful_face(p)",
+    "code": "fearful(p)",
+    "code_ja": "青ざめ(桃)",
+    "category": "faces",
+    "unicode": "1f6281f3fc"
+  },
+  {
     "moji": "😨🏽",
     "full_name": "fearful_face(ye)",
     "code": "fearful(ye)",
@@ -7164,7 +7467,7 @@
     "moji": "😨🏿",
     "full_name": "fearful_face(bk)",
     "code": "fearful(bk)",
-    "code_ja": "青ざめ(黒",
+    "code_ja": "青ざめ(黒)",
     "category": "faces",
     "unicode": "1f6281f3ff"
   },
@@ -7176,6 +7479,14 @@
     "emoticon": "X(",
     "category": "faces",
     "unicode": "1f629"
+  },
+  {
+    "moji": "😩🏼",
+    "full_name": "weary_face(p)",
+    "code": "weary(p)",
+    "code_ja": "うんざり(桃)",
+    "category": "faces",
+    "unicode": "1f6291f3fc"
   },
   {
     "moji": "😩🏽",
@@ -7210,6 +7521,14 @@
     "unicode": "1f62a"
   },
   {
+    "moji": "😪🏼",
+    "full_name": "sleepy_face(p)",
+    "code": "sleepy(p)",
+    "code_ja": "睡眠中(桃)",
+    "category": "faces",
+    "unicode": "1f62a1f3fc"
+  },
+  {
     "moji": "😪🏽",
     "full_name": "sleepy_face(ye)",
     "code": "sleepy(ye)",
@@ -7241,6 +7560,13 @@
     "unicode": "1f62b"
   },
   {
+    "moji": "😫🏼",
+    "code": "tired_face(p)",
+    "code_ja": "疲れた(桃)",
+    "category": "faces",
+    "unicode": "1f62b1f3fc"
+  },
+  {
     "moji": "😫🏽",
     "code": "tired_face(ye)",
     "code_ja": "疲れた(黄)",
@@ -7268,6 +7594,14 @@
     "code_ja": "いーっ",
     "category": "faces",
     "unicode": "1f62c"
+  },
+  {
+    "moji": "😬🏼",
+    "full_name": "grimacing_face(p)",
+    "code": "grimacing(p)",
+    "code_ja": "いーっ(桃)",
+    "category": "faces",
+    "unicode": "1f62c1f3fc"
   },
   {
     "moji": "😬🏽",
@@ -7300,6 +7634,14 @@
     "code_ja": "大泣き",
     "category": "faces",
     "unicode": "1f62d"
+  },
+  {
+    "moji": "😭🏼",
+    "full_name": "loudly_crying_face(p)",
+    "code": "sob(p)",
+    "code_ja": "大泣き(桃)",
+    "category": "faces",
+    "unicode": "1f62d1f3fc"
   },
   {
     "moji": "😭🏽",
@@ -7335,6 +7677,14 @@
     "unicode": "1f62e"
   },
   {
+    "moji": "😮🏼",
+    "full_name": "face_with_open_mouth(p)",
+    "code": "open_mouth(p)",
+    "code_ja": "ぽかんと(桃)",
+    "category": "faces",
+    "unicode": "1f62e1f3fc"
+  },
+  {
     "moji": "😮🏽",
     "full_name": "face_with_open_mouth(ye)",
     "code": "open_mouth(ye)",
@@ -7366,6 +7716,14 @@
     "emoticon": ":x",
     "category": "faces",
     "unicode": "1f62f"
+  },
+  {
+    "moji": "😯🏼",
+    "full_name": "hushed_face(p)",
+    "code": "hushed(p)",
+    "code_ja": "しーん(桃)",
+    "category": "faces",
+    "unicode": "1f62f1f3fc"
   },
   {
     "moji": "😯🏽",
@@ -7400,6 +7758,14 @@
     "unicode": "1f630"
   },
   {
+    "moji": "😰🏼",
+    "full_name": "face_with_open_mouth_and_cold_sweat(p)",
+    "code": "cold_sweat(p)",
+    "code_ja": "冷や汗2(桃)",
+    "category": "faces",
+    "unicode": "1f6301f3fc"
+  },
+  {
     "moji": "😰🏽",
     "full_name": "face_with_open_mouth_and_cold_sweat(ye)",
     "code": "cold_sweat(ye)",
@@ -7430,6 +7796,14 @@
     "code_ja": "ショッキング",
     "category": "faces",
     "unicode": "1f631"
+  },
+  {
+    "moji": "😱🏼",
+    "full_name": "face_screaming_in_fear(p)",
+    "code": "scream(p)",
+    "code_ja": "ショッキング(桃)",
+    "category": "faces",
+    "unicode": "1f6311f3fc"
   },
   {
     "moji": "😱🏽",
@@ -7464,6 +7838,14 @@
     "unicode": "1f632"
   },
   {
+    "moji": "😲🏼",
+    "full_name": "astonished_face(p)",
+    "code": "astonished(p)",
+    "code_ja": "びっくり(桃)",
+    "category": "faces",
+    "unicode": "1f6321f3fc"
+  },
+  {
     "moji": "😲🏽",
     "full_name": "astonished_face(ye)",
     "code": "astonished(ye)",
@@ -7494,6 +7876,14 @@
     "code_ja": "ぽっ",
     "category": "faces",
     "unicode": "1f633"
+  },
+  {
+    "moji": "😳🏼",
+    "full_name": "flushed_face(p)",
+    "code": "flushed(p)",
+    "code_ja": "ぽっ(桃)",
+    "category": "faces",
+    "unicode": "1f6331f3fc"
   },
   {
     "moji": "😳🏽",
@@ -7528,6 +7918,14 @@
     "unicode": "1f634"
   },
   {
+    "moji": "😴🏼",
+    "full_name": "sleeping_face(p)",
+    "code": "sleeping(p)",
+    "code_ja": "眠い(桃)",
+    "category": "faces",
+    "unicode": "1f6341f3fc"
+  },
+  {
     "moji": "😴🏽",
     "full_name": "sleeping_face(ye)",
     "code": "sleeping(ye)",
@@ -7560,6 +7958,13 @@
     "unicode": "1f635"
   },
   {
+    "moji": "😵🏼",
+    "code": "dizzy_face(p)",
+    "code_ja": "ふらふら(桃)",
+    "category": "faces",
+    "unicode": "1f6351f3fc"
+  },
+  {
     "moji": "😵🏽",
     "code": "dizzy_face(ye)",
     "code_ja": "ふらふら(黄)",
@@ -7587,6 +7992,14 @@
     "code_ja": "無表情",
     "category": "faces",
     "unicode": "1f636"
+  },
+  {
+    "moji": "😶🏼",
+    "full_name": "face_without_mouth(p)",
+    "code": "no_mouth(p)",
+    "code_ja": "無表情(桃)",
+    "category": "faces",
+    "unicode": "1f6361f3fc"
   },
   {
     "moji": "😶🏽",
@@ -7619,6 +8032,14 @@
     "code_ja": "風邪ひき",
     "category": "faces",
     "unicode": "1f637"
+  },
+  {
+    "moji": "😷🏼",
+    "full_name": "face_with_medical_mask(p)",
+    "code": "mask(p)",
+    "code_ja": "風邪ひき(桃)",
+    "category": "faces",
+    "unicode": "1f6371f3fc"
   },
   {
     "moji": "😷🏽",
@@ -9117,7 +9538,7 @@
   {
     "moji": "☛",
     "code": "black_right_pointing_index",
-    "code_ja": "指さし（右・黒）",
+    "code_ja": "指さし(右・黒)",
     "category": "gestures",
     "unicode": "261b"
   },
@@ -9318,6 +9739,14 @@
     "code_ja": "リラックス",
     "category": "faces",
     "unicode": "263a"
+  },
+  {
+    "moji": "☺🏼",
+    "full_name": "white_smiling_face(p)",
+    "code": "relaxed(p)",
+    "code_ja": "リラックス(桃)",
+    "category": "faces",
+    "unicode": "263a1f3fc"
   },
   {
     "moji": "☺🏽",
