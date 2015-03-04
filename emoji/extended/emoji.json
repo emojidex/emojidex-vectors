@@ -6,22 +6,22 @@
   },
   {
     "code_ja": "水瓶座(四角)",
-    "code": "Aquarius_plain",
+    "code": "Aquarius(square)",
     "category": "symbols"
   },
   {
     "code_ja": "水瓶座(シンボル)",
-    "code": "Aquarius_sign",
+    "code": "Aquarius(sign)",
     "category": "symbols"
   },
   {
     "code_ja": "牡羊座(四角)",
-    "code": "Aries_plain",
+    "code": "Aries(square)",
     "category": "symbols"
   },
   {
     "code_ja": "牡羊座(シンボル)",
-    "code": "Aries_sign",
+    "code": "Aries(sign)",
     "category": "symbols"
   },
   {
@@ -85,22 +85,22 @@
   },
   {
     "code_ja": "蟹座(四角)",
-    "code": "Cancer_plain",
+    "code": "Cancer(square)",
     "category": "symbols"
   },
   {
     "code_ja": "蟹座(シンボル)",
-    "code": "Cancer_sign",
+    "code": "Cancer(sign)",
     "category": "symbols"
   },
   {
     "code_ja": "山羊座(四角)",
-    "code": "Capricorn_plain",
+    "code": "Capricorn(square)",
     "category": "symbols"
   },
   {
     "code_ja": "山羊座(シンボル)",
-    "code": "Capricorn_sign",
+    "code": "Capricorn(sign)",
     "category": "symbols"
   },
   {
@@ -155,12 +155,12 @@
   },
   {
     "code_ja": "双子座(四角)",
-    "code": "Gemini_plain",
+    "code": "Gemini(square)",
     "category": "symbols"
   },
   {
     "code_ja": "双子座(シンボル)",
-    "code": "Gemini_sign",
+    "code": "Gemini(sign)",
     "category": "symbols"
   },
   {
@@ -180,22 +180,22 @@
   },
   {
     "code_ja": "獅子座(四角)",
-    "code": "Leo_plain",
+    "code": "Leo(square)",
     "category": "symbols"
   },
   {
     "code_ja": "獅子座(シンボル)",
-    "code": "Leo_sign",
+    "code": "Leo(sign)",
     "category": "symbols"
   },
   {
     "code_ja": "天秤座(四角)",
-    "code": "Libra_plain",
+    "code": "Libra(square)",
     "category": "symbols"
   },
   {
     "code_ja": "天秤座(シンボル)",
-    "code": "Libra_sign",
+    "code": "Libra(sign)",
     "category": "symbols"
   },
   {
@@ -220,7 +220,7 @@
   },
   {
     "code_ja": "蛇遣い座(四角)",
-    "code": "Ophiuchus_plain",
+    "code": "Ophiuchus(square)",
     "category": "symbols"
   },
   {
@@ -245,12 +245,12 @@
   },
   {
     "code_ja": "魚座(四角)",
-    "code": "Pisces_plain",
+    "code": "Pisces(square)",
     "category": "symbols"
   },
   {
     "code_ja": "魚座(シンボル)",
-    "code": "Pisces_sign",
+    "code": "Pisces(sign)",
     "category": "symbols"
   },
   {
@@ -294,28 +294,28 @@
     "category": "nature"
   },
   {
-    "code_ja": "虹(不透明)",
-    "code": "rainbow_solid",
+    "code_ja": "空と虹",
+    "code": "rainbow(sky)",
     "category": "nature"
   },
   {
     "code_ja": "射手座(四角)",
-    "code": "Sagittarius_plain",
+    "code": "Sagittarius(square)",
     "category": "symbols"
   },
   {
     "code_ja": "射手座(シンボル)",
-    "code": "Sagittarius_sign",
+    "code": "Sagittarius(sign)",
     "category": "symbols"
   },
   {
     "code_ja": "蠍座(四角)",
-    "code": "Scorpio_plain",
+    "code": "Scorpio(square)",
     "category": "symbols"
   },
   {
     "code_ja": "蠍座(シンボル)",
-    "code": "Scorpio_sign",
+    "code": "Scorpio(sign)",
     "category": "symbols"
   },
   {
@@ -355,292 +355,292 @@
   },
   {
     "code_ja": "スマイリー(怒った顔)",
-    "code": "smiley_angry_face",
+    "code": "angry_face(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(悲しい顔)",
-    "code": "smiley_anguished",
+    "code": "anguished(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(びっくり)",
-    "code": "smiley_astonished_face",
+    "code": "astonished_face(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(にこにこ)",
-    "code": "smiley_blush",
+    "code": "blush(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(ちょうネクタイ)",
-    "code": "smiley_bowtie",
+    "code": "bowtie(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(困惑)",
-    "code": "smiley_confounded_face",
+    "code": "confounded_face(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(困る)",
-    "code": "smiley_confused",
+    "code": "confused(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(涙)",
-    "code": "smiley_crying_face",
+    "code": "crying_face(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(やれやれ)",
-    "code": "smiley_disappointed_but_relieved_face",
+    "code": "disappointed_but_relieved_face(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(がっかり)",
-    "code": "smiley_disappointed_face",
+    "code": "disappointed_face(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(ふらふら)",
-    "code": "smiley_dizzy_face",
+    "code": "dizzy_face(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(酔っぱらい)",
-    "code": "smiley_drunk",
+    "code": "drunk(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(ぼけーっとした顔)",
-    "code": "smiley_expressionless",
+    "code": "expressionless(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(うまい)",
-    "code": "smiley_face_savouring_delicious_food",
+    "code": "face_savouring_delicious_food(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(勝ち誇り)",
-    "code": "smiley_face_with_look_of_triumph",
+    "code": "face_with_look_of_triumph(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(風邪ひき)",
-    "code": "smiley_face_with_medical_mask",
+    "code": "face_with_medical_mask(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(冷や汗2)",
-    "code": "smiley_face_with_open_mouth_and_cold_sweat",
+    "code": "face_with_open_mouth_and_cold_sweat(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(あっかんべー)",
-    "code": "smiley_face_with_stuck_out_tongue_and_winking_eye",
+    "code": "face_with_stuck_out_tongue_and_winking_eye(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(泣き笑い)",
-    "code": "smiley_face_with_tears_of_joy",
+    "code": "face_with_tears_of_joy(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(青ざめ)",
-    "code": "smiley_fearful_face",
+    "code": "fearful_face(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(ぽっ)",
-    "code": "smiley_flushed",
+    "code": "flushed(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(しかめっ面)",
-    "code": "smiley_frowning",
+    "code": "frowning(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(いーっ)",
-    "code": "smiley_grimacing",
+    "code": "grimacing(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(うっしっし)",
-    "code": "smiley_grin",
+    "code": "grin(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(にんまり)",
-    "code": "smiley_grinning",
+    "code": "grinning(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(目がハート)",
-    "code": "smiley_heart_eyes",
+    "code": "heart_eyes(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(しーん)",
-    "code": "smiley_hushed",
+    "code": "hushed(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(チュッ)",
-    "code": "smiley_kissing_closed_eyes",
+    "code": "kissing_closed_eyes(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(投げキッス)",
-    "code": "smiley_kissing_heart",
+    "code": "kissing_heart(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(チューしよ)",
-    "code": "smiley_kissing_smiling_eyes",
+    "code": "kissing_smiling_eyes(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(チュー)",
-    "code": "smiley_kissing",
+    "code": "kissing(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(笑い)",
-    "code": "smiley_laughing",
+    "code": "laughing(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(大泣き)",
-    "code": "smiley_loudly_crying_face",
+    "code": "loudly_crying_face(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(ぽかんと)",
-    "code": "smiley_open_mouth",
+    "code": "open_mouth(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(しょんぼり)",
-    "code": "smiley_pensive_face",
+    "code": "pensive_face(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(がまん顔)",
-    "code": "smiley_persevering_face",
+    "code": "persevering_face(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(ふくれっ面)",
-    "code": "smiley_pouting_face",
+    "code": "pouting_face(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(嘔吐)",
-    "code": "smiley_puke",
+    "code": "puke(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(リラックス)",
-    "code": "smiley_relaxed",
+    "code": "relaxed(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(ほっとした顔)",
-    "code": "smiley_relieved",
+    "code": "relieved(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(満足)",
-    "code": "smiley_satisfied",
+    "code": "satisfied(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(睡眠中)",
-    "code": "smiley_sleeping",
+    "code": "sleeping(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(眠い)",
-    "code": "smiley_sleepy_face",
+    "code": "sleepy_face(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(嬉しい顔)",
-    "code": "smiley_smile",
+    "code": "smile(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(スマイル)",
-    "code": "smiley_smiley",
+    "code": "smiley(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(ふっ)",
-    "code": "smiley_smirk",
+    "code": "smirk(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(べーっ)",
-    "code": "smiley_stuck_out_tongue_closed_eyes",
+    "code": "stuck_out_tongue_closed_eyes(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(べー)",
-    "code": "smiley_stuck_out_tongue",
+    "code": "stuck_out_tongue(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(冷や汗)",
-    "code": "smiley_sweat_smile",
+    "code": "sweat_smile(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(困り顔)",
-    "code": "smiley_sweat",
+    "code": "sweat(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(疲れた顔)",
-    "code": "smiley_tired_face",
+    "code": "tired_face(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(横目)",
-    "code": "smiley_unamused",
+    "code": "unamused(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(うんざり)",
-    "code": "smiley_weary_face",
+    "code": "weary_face(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(スマイルフェイス)",
-    "code": "smiley_smiling_face",
+    "code": "smiling_face(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(ウインク)",
-    "code": "smiley_wink",
+    "code": "wink(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(心配)",
-    "code": "smiley_worried",
+    "code": "worried(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(ショッキング)",
-    "code": "smiley_face_screaming_in_fear",
+    "code": "face_screaming_in_fear(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(リラックス2)",
-    "code": "smiley_white_smiling_face",
+    "code": "white_smiling_face(smiley)",
     "category": "faces"
   },
   {
@@ -650,12 +650,12 @@
   },
   {
     "code_ja": "牡牛座(四角)",
-    "code": "Taurus_plain",
+    "code": "Taurus(square)",
     "category": "symbols"
   },
   {
     "code_ja": "牡牛座(シンボル)",
-    "code": "Taurus_sign",
+    "code": "Taurus(sign)",
     "category": "symbols"
   },
   {
@@ -715,12 +715,12 @@
   },
   {
     "code_ja": "乙女座(四角)",
-    "code": "Virgo_plain",
+    "code": "Virgo(square)",
     "category": "symbols"
   },
   {
     "code_ja": "乙女座(シンボル)",
-    "code": "Virgo_sign",
+    "code": "Virgo(sign)",
     "category": "symbols"
   },
   {
