@@ -19,7 +19,7 @@ utf_path = File.expand_path('utf', emoji_root)
 extended_path = File.expand_path('extended', emoji_root)
 
 category_names = []
-Emojidex::Categories.new.each { |category| category_names << category.code }
+Emojidex::Categories.new.each { |category| category_names << category.code.to_s }
 
 
 # Check
