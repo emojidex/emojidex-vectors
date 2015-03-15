@@ -3,20 +3,20 @@
 <svg width="64px" height="64px" viewBox="0 0 64 64" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
   <g>
     <g>
-      <linearGradient id='SVGID_1_' gradientUnits='userSpaceOnUse' x1='18.012104' y1='-4.9007359' x2='45.1785355' y2='66.7657013'>
+      <linearGradient id='SVGID_1_' gradientUnits='userSpaceOnUse' x1='18.0126953' y1='-4.8999023' x2='45.1785965' y2='66.7651443'>
         <stop offset='0' style='stop-color:#BF7400'/>
         <stop offset='0.257392' style='stop-color:#AB6000'/>
-        <stop offset='0.783592' style='stop-color:#762B00'/>
+        <stop offset='0.7835916' style='stop-color:#762B00'/>
         <stop offset='1' style='stop-color:#5F1400'/>
       </linearGradient>
-      <circle style='fill:url(#SVGID_1_);' cx='31.9999809' cy='32' r='28.9443207'/>
+      <circle style='fill:url(#SVGID_1_);' cx='32' cy='32' r='28.9443359'/>
     </g>
     <defs>
-      <filter id='Adobe_OpacityMaskFilter' filterUnits='userSpaceOnUse' x='3.05566' y='3.0566399' width='57.8886414' height='57.8867607'>
+      <filter id='Adobe_OpacityMaskFilter' filterUnits='userSpaceOnUse' x='3.0556641' y='3.0566406' width='57.8886719' height='57.8867188'>
         <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
       </filter>
     </defs>
-    <mask maskUnits='userSpaceOnUse' x='3.05566' y='3.0566399' width='57.8886414' height='57.8867607' id='SVGID_2_'>
+    <mask maskUnits='userSpaceOnUse' x='3.0556641' y='3.0566406' width='57.8886719' height='57.8867188' id='SVGID_2_'>
       <g style='filter:url(#Adobe_OpacityMaskFilter);'>
         <image style='overflow:visible;' width='258' height='258' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEBLAEsAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAPMAAAHugAACqX/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
@@ -65,12 +65,12 @@ WJFi7tkiSfzw3c8sSAu7ZIn/AHw3c8sSAu7ZIn/fDdzyxIi7tkib/nhu55YiXwxd2yY38vhu55Yn
 Ju55Y8FJXoirRV7dkqjlbRXcm7nljxVfFsjUXbOo4Rd/Lu55Y8i25P8AojUXZ2sdRxTqxyk7W+Xd
 zyx5FJUaFCbsaFUv7J1JJSHOX+c27nljyqUXY0KE3YLyFUp1al46jUXaz9pv/Ofdzyx5qCUnbH5F
 5C8i8o+jUvHUfkOMHaOUna30N3PLHoWwdgluOwXkLyLy8vLy8vLy8fkPyGou1j/Z2L46W7nlj0rY
-SaKu08nYLzPsfY+x9j7jslaNRtPKT/rqbueWPVoy1SZ92fdlZsq2+vu55Y/8D//Z' transform='matrix(0.24 0 0 0.24 1.05566 1.05664)'>
+SaKu08nYLzPsfY+x9j7jslaNRtPKT/rqbueWPVoy1SZ92fdlZsq2+vu55Y/8D//Z' transform='matrix(0.24 0 0 0.24 1.0556641 1.0566406)'>
         </image>
       </g>
     </mask>
     <g style='opacity:0.27;mask:url(#SVGID_2_);'>
-      <circle style='fill:#EA7878;' cx='31.9999809' cy='32' r='28.9443207'/>
+      <circle style='fill:#EA7878;' cx='32' cy='32' r='28.9443359'/>
     </g>
   </g>
   <path style="fill:#87432B;" d="M32.0009766,61.3291016C15.828125,61.3291016,2.6708984,48.171875,2.6708984,32
@@ -82,20 +82,8 @@ SaKu08nYLzPsfY+x9j7jslaNRtPKT/rqbueWPVoy1SZ92fdlZsq2+vu55Y/8D//Z' transform='mat
 	S15.3505859,1.8066406,32,1.8066406S62.1943359,15.3515625,62.1943359,32S48.6494141,62.1933594,32,62.1933594z M32,4.3066406
 	C16.7294922,4.3066406,4.3056641,16.7299805,4.3056641,32c0,15.2705078,12.4238281,27.6933594,27.6943359,27.6933594
 	S59.6943359,47.2705078,59.6943359,32C59.6943359,16.7299805,47.2705078,4.3066406,32,4.3066406z"/>
-  <ellipse style="fill:#330200;" cx="17.5347004" cy="23.5205002" rx="3.5078001" ry="4.5282998"/>
-  <ellipse style="fill:#330200;" cx="41.6040001" cy="23.5205002" rx="3.5083001" ry="4.5282998"/>
+  <ellipse style="fill:#330200;" cx="19.9648438" cy="23.5205078" rx="3.5078125" ry="4.5283203"/>
+  <ellipse style="fill:#330200;" cx="44.034668" cy="23.5205078" rx="3.5083008" ry="4.5283203"/>
   <polygon style="fill:#330200;" points="45.0742188,49.4267578 44.046875,48.6035156 18.2861328,48.6035156 18.2861328,45.6035156 
 	45.1015625,45.6035156 46.9511719,47.0869141 "/>
-  <g>
-  </g>
-  <g>
-  </g>
-  <g>
-  </g>
-  <g>
-  </g>
-  <g>
-  </g>
-  <g>
-  </g>
 </svg>
