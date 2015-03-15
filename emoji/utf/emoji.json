@@ -848,6 +848,41 @@
     "unicode": "1f32c"
   },
   {
+    "moji": "🌬🏻",
+    "code": "wind_blowing_face(wh)",
+    "code_ja": "風になびく髪(白)",
+    "category": "people",
+    "unicode": "1f32c1f3fb"
+  },
+  {
+    "moji": "🌬🏼",
+    "code": "wind_blowing_face(p)",
+    "code_ja": "風になびく髪(桃)",
+    "category": "people",
+    "unicode": "1f32c1f3fc"
+  },
+  {
+    "moji": "🌬🏽",
+    "code": "wind_blowing_face(ye)",
+    "code_ja": "風になびく髪(黄)",
+    "category": "people",
+    "unicode": "1f32c1f3fd"
+  },
+  {
+    "moji": "🌬🏾",
+    "code": "wind_blowing_face(br)",
+    "code_ja": "風になびく髪(茶)",
+    "category": "people",
+    "unicode": "1f32c1f3fe"
+  },
+  {
+    "moji": "🌬🏿",
+    "code": "wind_blowing_face(bk)",
+    "code_ja": "風になびく髪(黒)",
+    "category": "people",
+    "unicode": "1f32c1f3ff"
+  },
+  {
     "moji": "🌰",
     "code": "chestnut",
     "code_ja": "栗",
@@ -2083,6 +2118,41 @@
     "unicode": "1f3c7"
   },
   {
+    "moji": "🏇🏻",
+    "code": "horse_racing(wh)",
+    "code_ja": "競馬(白)",
+    "category": "people",
+    "unicode": "1f3c71f3fb"
+  },
+  {
+    "moji": "🏇🏼",
+    "code": "horse_racing(p)",
+    "code_ja": "競馬(桃)",
+    "category": "people",
+    "unicode": "1f3c71f3fc"
+  },
+  {
+    "moji": "🏇🏽",
+    "code": "horse_racing(ye)",
+    "code_ja": "競馬(黄)",
+    "category": "people",
+    "unicode": "1f3c71f3fd"
+  },
+  {
+    "moji": "🏇🏾",
+    "code": "horse_racing(br)",
+    "code_ja": "競馬(茶)",
+    "category": "people",
+    "unicode": "1f3c71f3fe"
+  },
+  {
+    "moji": "🏇🏿",
+    "code": "horse_racing(bk)",
+    "code_ja": "競馬(黒)",
+    "category": "people",
+    "unicode": "1f3c71f3ff"
+  },
+  {
     "moji": "🏈",
     "full_name": "american_football",
     "code": "football",
@@ -3016,33 +3086,193 @@
     "moji": "👆",
     "full_name": "white_up_pointing_backhand_index",
     "code": "point_up_2",
-    "code_ja": "指さし(上)",
+    "code_ja": "指差し2(上)",
     "category": "gestures",
     "unicode": "1f446"
+  },
+  {
+    "moji": "👆🏻",
+    "full_name": "white_up_pointing_backhand_index(wh)",
+    "code": "point_up_2(wh)",
+    "code_ja": "指差し2(上・白)",
+    "category": "gestures",
+    "unicode": "1f4461f3fb"
+  },
+  {
+    "moji": "👆🏼",
+    "full_name": "white_up_pointing_backhand_index(p)",
+    "code": "point_up_2(p)",
+    "code_ja": "指差し2(上・桃)",
+    "category": "gestures",
+    "unicode": "1f4461f3fc"
+  },
+  {
+    "moji": "👆🏽",
+    "full_name": "white_up_pointing_backhand_index(ye)",
+    "code": "point_up_2(ye)",
+    "code_ja": "指差し2(上・黄)",
+    "category": "gestures",
+    "unicode": "1f4461f3fd"
+  },
+  {
+    "moji": "👆🏾",
+    "full_name": "white_up_pointing_backhand_index(br)",
+    "code": "point_up_2(br)",
+    "code_ja": "指差し2(上・茶)",
+    "category": "gestures",
+    "unicode": "1f4461f3fe"
+  },
+  {
+    "moji": "👆🏿",
+    "full_name": "white_up_pointing_backhand_index(bk)",
+    "code": "point_up_2(bk)",
+    "code_ja": "指差し2(上・黒)",
+    "category": "gestures",
+    "unicode": "1f4461f3ff"
   },
   {
     "moji": "👇",
     "full_name": "white_down_pointing_backhand_index",
     "code": "point_down",
-    "code_ja": "指さし(下)",
+    "code_ja": "指差し(下)",
     "category": "gestures",
     "unicode": "1f447"
+  },
+  {
+    "moji": "👇🏻",
+    "full_name": "white_down_pointing_backhand_index(wh)",
+    "code": "point_down(wh)",
+    "code_ja": "指差し(下・白)",
+    "category": "gestures",
+    "unicode": "1f4471f3fb"
+  },
+  {
+    "moji": "👇🏼",
+    "full_name": "white_down_pointing_backhand_index(p)",
+    "code": "point_down(p)",
+    "code_ja": "指差し(下・桃)",
+    "category": "gestures",
+    "unicode": "1f4471f3fc"
+  },
+  {
+    "moji": "👇🏽",
+    "full_name": "white_down_pointing_backhand_index(ye)",
+    "code": "point_down(ye)",
+    "code_ja": "指差し(下・黄)",
+    "category": "gestures",
+    "unicode": "1f4471f3fd"
+  },
+  {
+    "moji": "👇🏾",
+    "full_name": "white_down_pointing_backhand_index(br)",
+    "code": "point_down(br)",
+    "code_ja": "指差し(下・茶)",
+    "category": "gestures",
+    "unicode": "1f4471f3fe"
+  },
+  {
+    "moji": "👇🏿",
+    "full_name": "white_down_pointing_backhand_index(bk)",
+    "code": "point_down(bk)",
+    "code_ja": "指差し(下・黒)",
+    "category": "gestures",
+    "unicode": "1f4471f3ff"
   },
   {
     "moji": "👈",
     "full_name": "white_left_pointing_backhand_index",
     "code": "point_left",
-    "code_ja": "指さし(左)",
+    "code_ja": "指差し(左)",
     "category": "gestures",
     "unicode": "1f448"
+  },
+  {
+    "moji": "👈🏻",
+    "full_name": "white_left_pointing_backhand_index(wh)",
+    "code": "point_left(wh)",
+    "code_ja": "指差し(左・白)",
+    "category": "gestures",
+    "unicode": "1f4481f3fb"
+  },
+  {
+    "moji": "👈🏼",
+    "full_name": "white_left_pointing_backhand_index(p)",
+    "code": "point_left(p)",
+    "code_ja": "指差し(左・桃)",
+    "category": "gestures",
+    "unicode": "1f4481f3fc"
+  },
+  {
+    "moji": "👈🏽",
+    "full_name": "white_left_pointing_backhand_index(ye)",
+    "code": "point_left(ye)",
+    "code_ja": "指差し(左・黄)",
+    "category": "gestures",
+    "unicode": "1f4481f3fd"
+  },
+  {
+    "moji": "👈🏾",
+    "full_name": "white_left_pointing_backhand_index(br)",
+    "code": "point_left(br)",
+    "code_ja": "指差し(左・茶)",
+    "category": "gestures",
+    "unicode": "1f4481f3fe"
+  },
+  {
+    "moji": "👈🏿",
+    "full_name": "white_left_pointing_backhand_index(bk)",
+    "code": "point_left(bk)",
+    "code_ja": "指差し(左・黒)",
+    "category": "gestures",
+    "unicode": "1f4481f3ff"
   },
   {
     "moji": "👉",
     "full_name": "white_right_pointing_backhand_index",
     "code": "point_right",
-    "code_ja": "指さし(右)",
+    "code_ja": "指差し(右)",
     "category": "gestures",
     "unicode": "1f449"
+  },
+  {
+    "moji": "👉🏻",
+    "full_name": "white_right_pointing_backhand_index(wh)",
+    "code": "point_right(wh)",
+    "code_ja": "指差し(右・白)",
+    "category": "gestures",
+    "unicode": "1f4491f3fb"
+  },
+  {
+    "moji": "👉🏼",
+    "full_name": "white_right_pointing_backhand_index(p)",
+    "code": "point_right(p)",
+    "code_ja": "指差し(右・桃)",
+    "category": "gestures",
+    "unicode": "1f4491f3fc"
+  },
+  {
+    "moji": "👉🏽",
+    "full_name": "white_right_pointing_backhand_index(ye)",
+    "code": "point_right(ye)",
+    "code_ja": "指差し(右・黄)",
+    "category": "gestures",
+    "unicode": "1f4491f3fd"
+  },
+  {
+    "moji": "👉🏾",
+    "full_name": "white_right_pointing_backhand_index(br)",
+    "code": "point_right(br)",
+    "code_ja": "指差し(右・茶)",
+    "category": "gestures",
+    "unicode": "1f4491f3fe"
+  },
+  {
+    "moji": "👉🏿",
+    "full_name": "white_right_pointing_backhand_index(bk)",
+    "code": "point_right(bk)",
+    "code_ja": "指差し(右・黒)",
+    "category": "gestures",
+    "unicode": "1f4491f3ff"
   },
   {
     "moji": "👊",
@@ -3053,12 +3283,92 @@
     "unicode": "1f44a"
   },
   {
+    "moji": "👊🏻",
+    "full_name": "fisted_hand_sign(wh)",
+    "code": "punch(wh)",
+    "code_ja": "パンチ(白)",
+    "category": "gestures",
+    "unicode": "1f44a1f3fb"
+  },
+  {
+    "moji": "👊🏼",
+    "full_name": "fisted_hand_sign(p)",
+    "code": "punch(p)",
+    "code_ja": "パンチ(桃)",
+    "category": "gestures",
+    "unicode": "1f44a1f3fc"
+  },
+  {
+    "moji": "👊🏽",
+    "full_name": "fisted_hand_sign(ye)",
+    "code": "punch(ye)",
+    "code_ja": "パンチ(黄)",
+    "category": "gestures",
+    "unicode": "1f44a1f3fd"
+  },
+  {
+    "moji": "👊🏾",
+    "full_name": "fisted_hand_sign(br)",
+    "code": "punch(br)",
+    "code_ja": "パンチ(茶)",
+    "category": "gestures",
+    "unicode": "1f44a1f3fe"
+  },
+  {
+    "moji": "👊🏿",
+    "full_name": "fisted_hand_sign(bk)",
+    "code": "punch(bk)",
+    "code_ja": "パンチ(黒)",
+    "category": "gestures",
+    "unicode": "1f44a1f3ff"
+  },
+  {
     "moji": "👋",
     "full_name": "waving_hand_sign",
     "code": "wave",
     "code_ja": "バイバイ",
     "category": "gestures",
     "unicode": "1f44b"
+  },
+  {
+    "moji": "👋🏻",
+    "full_name": "waving_hand_sign(wh)",
+    "code": "wave(wh)",
+    "code_ja": "バイバイ(白)",
+    "category": "gestures",
+    "unicode": "1f44b1f3fb"
+  },
+  {
+    "moji": "👋🏼",
+    "full_name": "waving_hand_sign(p)",
+    "code": "wave(p)",
+    "code_ja": "バイバイ(桃)",
+    "category": "gestures",
+    "unicode": "1f44b1f3fc"
+  },
+  {
+    "moji": "👋🏽",
+    "full_name": "waving_hand_sign(ye)",
+    "code": "wave(ye)",
+    "code_ja": "バイバイ(黄)",
+    "category": "gestures",
+    "unicode": "1f44b1f3fd"
+  },
+  {
+    "moji": "👋🏾",
+    "full_name": "waving_hand_sign(br)",
+    "code": "wave(br)",
+    "code_ja": "バイバイ(茶)",
+    "category": "gestures",
+    "unicode": "1f44b1f3fe"
+  },
+  {
+    "moji": "👋🏿",
+    "full_name": "waving_hand_sign(bk)",
+    "code": "wave(bk)",
+    "code_ja": "バイバイ(黒)",
+    "category": "gestures",
+    "unicode": "1f44b1f3ff"
   },
   {
     "moji": "👌",
@@ -3069,12 +3379,92 @@
     "unicode": "1f44c"
   },
   {
+    "moji": "👌🏻",
+    "full_name": "ok_hand_sign(wh)",
+    "code": "ok_hand(wh)",
+    "code_ja": "オーケー(白)",
+    "category": "gestures",
+    "unicode": "1f44c1f3fb"
+  },
+  {
+    "moji": "👌🏼",
+    "full_name": "ok_hand_sign(p)",
+    "code": "ok_hand(p)",
+    "code_ja": "オーケー(桃)",
+    "category": "gestures",
+    "unicode": "1f44c1f3fc"
+  },
+  {
+    "moji": "👌🏽",
+    "full_name": "ok_hand_sign(ye)",
+    "code": "ok_hand(ye)",
+    "code_ja": "オーケー(黄)",
+    "category": "gestures",
+    "unicode": "1f44c1f3fd"
+  },
+  {
+    "moji": "👌🏾",
+    "full_name": "ok_hand_sign(br)",
+    "code": "ok_hand(br)",
+    "code_ja": "オーケー(茶)",
+    "category": "gestures",
+    "unicode": "1f44c1f3fe"
+  },
+  {
+    "moji": "👌🏿",
+    "full_name": "ok_hand_sign(bk)",
+    "code": "ok_hand(bk)",
+    "code_ja": "オーケー(黒)",
+    "category": "gestures",
+    "unicode": "1f44c1f3ff"
+  },
+  {
     "moji": "👍",
     "full_name": "thumbs_up_sign",
     "code": "thumbsup",
     "code_ja": "グッド",
     "category": "gestures",
     "unicode": "1f44d"
+  },
+  {
+    "moji": "👍🏻",
+    "full_name": "thumbs_up_sign(wh)",
+    "code": "thumbsup(wh)",
+    "code_ja": "グッド(白)",
+    "category": "gestures",
+    "unicode": "1f44d1f3fb"
+  },
+  {
+    "moji": "👍🏼",
+    "full_name": "thumbs_up_sign(p)",
+    "code": "thumbsup(p)",
+    "code_ja": "グッド(桃)",
+    "category": "gestures",
+    "unicode": "1f44d1f3fc"
+  },
+  {
+    "moji": "👍🏽",
+    "full_name": "thumbs_up_sign(ye)",
+    "code": "thumbsup(ye)",
+    "code_ja": "グッド(黄)",
+    "category": "gestures",
+    "unicode": "1f44d1f3fd"
+  },
+  {
+    "moji": "👍🏾",
+    "full_name": "thumbs_up_sign(br)",
+    "code": "thumbsup(br)",
+    "code_ja": "グッド(茶)",
+    "category": "gestures",
+    "unicode": "1f44d1f3fe"
+  },
+  {
+    "moji": "👍🏿",
+    "full_name": "thumbs_up_sign(bk)",
+    "code": "thumbsup(bk)",
+    "code_ja": "グッド(黒)",
+    "category": "gestures",
+    "unicode": "1f44d1f3ff"
   },
   {
     "moji": "👎",
@@ -3085,6 +3475,46 @@
     "unicode": "1f44e"
   },
   {
+    "moji": "👎🏻",
+    "full_name": "thumbs_down_sign(wh)",
+    "code": "thumbsdown(wh)",
+    "code_ja": "ブーイング(白)",
+    "category": "gestures",
+    "unicode": "1f44e1f3fb"
+  },
+  {
+    "moji": "👎🏼",
+    "full_name": "thumbs_down_sign(p)",
+    "code": "thumbsdown(p)",
+    "code_ja": "ブーイング(桃)",
+    "category": "gestures",
+    "unicode": "1f44e1f3fc"
+  },
+  {
+    "moji": "👎🏽",
+    "full_name": "thumbs_down_sign(ye)",
+    "code": "thumbsdown(ye)",
+    "code_ja": "ブーイング(黄)",
+    "category": "gestures",
+    "unicode": "1f44e1f3fd"
+  },
+  {
+    "moji": "👎🏾",
+    "full_name": "thumbs_down_sign(br)",
+    "code": "thumbsdown(br)",
+    "code_ja": "ブーイング(茶)",
+    "category": "gestures",
+    "unicode": "1f44e1f3fe"
+  },
+  {
+    "moji": "👎🏿",
+    "full_name": "thumbs_down_sign(bk)",
+    "code": "thumbsdown(bk)",
+    "code_ja": "ブーイング(黒)",
+    "category": "gestures",
+    "unicode": "1f44e1f3ff"
+  },
+  {
     "moji": "👏",
     "full_name": "clapping_hands_sign",
     "code": "clap",
@@ -3093,12 +3523,92 @@
     "unicode": "1f44f"
   },
   {
+    "moji": "👏🏻",
+    "full_name": "clapping_hands_sign(wh)",
+    "code": "clap(wh)",
+    "code_ja": "拍手(白)",
+    "category": "gestures",
+    "unicode": "1f44f1f3fb"
+  },
+  {
+    "moji": "👏🏼",
+    "full_name": "clapping_hands_sign(p)",
+    "code": "clap(p)",
+    "code_ja": "拍手(桃)",
+    "category": "gestures",
+    "unicode": "1f44f1f3fc"
+  },
+  {
+    "moji": "👏🏽",
+    "full_name": "clapping_hands_sign(ye)",
+    "code": "clap(ye)",
+    "code_ja": "拍手(黄)",
+    "category": "gestures",
+    "unicode": "1f44f1f3fd"
+  },
+  {
+    "moji": "👏🏾",
+    "full_name": "clapping_hands_sign(br)",
+    "code": "clap(br)",
+    "code_ja": "拍手(茶)",
+    "category": "gestures",
+    "unicode": "1f44f1f3fe"
+  },
+  {
+    "moji": "👏🏿",
+    "full_name": "clapping_hands_sign(bk)",
+    "code": "clap(bk)",
+    "code_ja": "拍手(黒)",
+    "category": "gestures",
+    "unicode": "1f44f1f3ff"
+  },
+  {
     "moji": "👐",
     "full_name": "open_hands_sign",
     "code": "open_hands",
     "code_ja": "おっはー",
     "category": "gestures",
     "unicode": "1f450"
+  },
+  {
+    "moji": "👐🏻",
+    "full_name": "open_hands_sign(wh)",
+    "code": "open_hands(wh)",
+    "code_ja": "おっはー(白)",
+    "category": "gestures",
+    "unicode": "1f4501f3fb"
+  },
+  {
+    "moji": "👐🏼",
+    "full_name": "open_hands_sign(p)",
+    "code": "open_hands(p)",
+    "code_ja": "おっはー(桃)",
+    "category": "gestures",
+    "unicode": "1f4501f3fc"
+  },
+  {
+    "moji": "👐🏽",
+    "full_name": "open_hands_sign(ye)",
+    "code": "open_hands(ye)",
+    "code_ja": "おっはー(黄)",
+    "category": "gestures",
+    "unicode": "1f4501f3fd"
+  },
+  {
+    "moji": "👐🏾",
+    "full_name": "open_hands_sign(br)",
+    "code": "open_hands(br)",
+    "code_ja": "おっはー(茶)",
+    "category": "gestures",
+    "unicode": "1f4501f3fe"
+  },
+  {
+    "moji": "👐🏿",
+    "full_name": "open_hands_sign(bk)",
+    "code": "open_hands(bk)",
+    "code_ja": "おっはー(黒)",
+    "category": "gestures",
+    "unicode": "1f4501f3ff"
   },
   {
     "moji": "👑",
@@ -3470,6 +3980,46 @@
     "unicode": "1f46b"
   },
   {
+    "moji": "👫🏻",
+    "full_name": "couple_holding_hands(wh)",
+    "code": "couple(wh)",
+    "code_ja": "手をつないだカップル(白)",
+    "category": "people",
+    "unicode": "1f46b1f3fb"
+  },
+  {
+    "moji": "👫🏼",
+    "full_name": "couple_holding_hands(p)",
+    "code": "couple(p)",
+    "code_ja": "手をつないだカップル(桃)",
+    "category": "people",
+    "unicode": "1f46b1f3fc"
+  },
+  {
+    "moji": "👫🏽",
+    "full_name": "couple_holding_hands(ye)",
+    "code": "couple(ye)",
+    "code_ja": "手をつないだカップル(黄)",
+    "category": "people",
+    "unicode": "1f46b1f3fd"
+  },
+  {
+    "moji": "👫🏾",
+    "full_name": "couple_holding_hands(br)",
+    "code": "couple(br)",
+    "code_ja": "手をつないだカップル(茶)",
+    "category": "people",
+    "unicode": "1f46b1f3fe"
+  },
+  {
+    "moji": "👫🏿",
+    "full_name": "couple_holding_hands(bk)",
+    "code": "couple(bk)",
+    "code_ja": "手をつないだカップル(黒)",
+    "category": "people",
+    "unicode": "1f46b1f3ff"
+  },
+  {
     "moji": "👬",
     "code": "two_men_holding_hands",
     "code_ja": "手をつないだ二人の男性",
@@ -3477,11 +4027,81 @@
     "unicode": "1f46c"
   },
   {
+    "moji": "👬🏻",
+    "code": "two_men_holding_hands(wh)",
+    "code_ja": "手をつないだ二人の男性(白)",
+    "category": "people",
+    "unicode": "1f46c1f3fb"
+  },
+  {
+    "moji": "👬🏼",
+    "code": "two_men_holding_hands(p)",
+    "code_ja": "手をつないだ二人の男性(桃)",
+    "category": "people",
+    "unicode": "1f46c1f3fc"
+  },
+  {
+    "moji": "👬🏽",
+    "code": "two_men_holding_hands(ye)",
+    "code_ja": "手をつないだ二人の男性(黄)",
+    "category": "people",
+    "unicode": "1f46c1f3fd"
+  },
+  {
+    "moji": "👬🏾",
+    "code": "two_men_holding_hands(br)",
+    "code_ja": "手をつないだ二人の男性(茶)",
+    "category": "people",
+    "unicode": "1f46c1f3fe"
+  },
+  {
+    "moji": "👬🏿",
+    "code": "two_men_holding_hands(bk)",
+    "code_ja": "手をつないだ二人の男性(黒)",
+    "category": "people",
+    "unicode": "1f46c1f3ff"
+  },
+  {
     "moji": "👭",
     "code": "two_women_holding_hands",
     "code_ja": "手をつないだ二人の女性",
     "category": "people",
     "unicode": "1f46d"
+  },
+  {
+    "moji": "👭🏻",
+    "code": "two_women_holding_hands(wh)",
+    "code_ja": "手をつないだ二人の女性(白)",
+    "category": "people",
+    "unicode": "1f46d1f3fb"
+  },
+  {
+    "moji": "👭🏼",
+    "code": "two_women_holding_hands(p)",
+    "code_ja": "手をつないだ二人の女性(桃)",
+    "category": "people",
+    "unicode": "1f46d1f3fc"
+  },
+  {
+    "moji": "👭🏽",
+    "code": "two_women_holding_hands(ye)",
+    "code_ja": "手をつないだ二人の女性(黄)",
+    "category": "people",
+    "unicode": "1f46d1f3fd"
+  },
+  {
+    "moji": "👭🏾",
+    "code": "two_women_holding_hands(br)",
+    "code_ja": "手をつないだ二人の女性(茶)",
+    "category": "people",
+    "unicode": "1f46d1f3fe"
+  },
+  {
+    "moji": "👭🏿",
+    "code": "two_women_holding_hands(bk)",
+    "code_ja": "手をつないだ二人の女性(黒)",
+    "category": "people",
+    "unicode": "1f46d1f3ff"
   },
   {
     "moji": "👮",
@@ -3538,6 +4158,46 @@
     "code_ja": "バニーガール",
     "category": "people",
     "unicode": "1f46f"
+  },
+  {
+    "moji": "👯🏻",
+    "full_name": "woman_with_bunny_ears(wh)",
+    "code": "bunny_girl(wh)",
+    "code_ja": "バニーガール(白)",
+    "category": "people",
+    "unicode": "1f46f1f3fb"
+  },
+  {
+    "moji": "👯🏼",
+    "full_name": "woman_with_bunny_ears(p)",
+    "code": "bunny_girl(p)",
+    "code_ja": "バニーガール(桃)",
+    "category": "people",
+    "unicode": "1f46f1f3fc"
+  },
+  {
+    "moji": "👯🏽",
+    "full_name": "woman_with_bunny_ears(ye)",
+    "code": "bunny_girl(ye)",
+    "code_ja": "バニーガール(黄)",
+    "category": "people",
+    "unicode": "1f46f1f3fd"
+  },
+  {
+    "moji": "👯🏾",
+    "full_name": "woman_with_bunny_ears(br)",
+    "code": "bunny_girl(br)",
+    "code_ja": "バニーガール(茶)",
+    "category": "people",
+    "unicode": "1f46f1f3fe"
+  },
+  {
+    "moji": "👯🏿",
+    "full_name": "woman_with_bunny_ears(bk)",
+    "code": "bunny_girl(bk)",
+    "code_ja": "バニーガール(黒)",
+    "category": "people",
+    "unicode": "1f46f1f3ff"
   },
   {
     "moji": "👰",
@@ -3905,6 +4565,41 @@
     "unicode": "1f47f"
   },
   {
+    "moji": "👿🏻",
+    "code": "imp(wh)",
+    "code_ja": "悪魔(白)",
+    "category": "people",
+    "unicode": "1f47f1f3fb"
+  },
+  {
+    "moji": "👿🏼",
+    "code": "imp(p)",
+    "code_ja": "悪魔(桃)",
+    "category": "people",
+    "unicode": "1f47f1f3fc"
+  },
+  {
+    "moji": "👿🏽",
+    "code": "imp(ye)",
+    "code_ja": "悪魔(黄)",
+    "category": "people",
+    "unicode": "1f47f1f3fd"
+  },
+  {
+    "moji": "👿🏾",
+    "code": "imp(br)",
+    "code_ja": "悪魔(茶)",
+    "category": "people",
+    "unicode": "1f47f1f3fe"
+  },
+  {
+    "moji": "👿🏿",
+    "code": "imp(bk)",
+    "code_ja": "悪魔(黒)",
+    "category": "people",
+    "unicode": "1f47f1f3ff"
+  },
+  {
     "moji": "💀",
     "code": "skull",
     "code_ja": "ドクロ",
@@ -4243,6 +4938,46 @@
     "unicode": "1f48f"
   },
   {
+    "moji": "💏🏻",
+    "full_name": "kiss(wh)",
+    "code": "couplekiss(wh)",
+    "code_ja": "カップルのキス(白)",
+    "category": "people",
+    "unicode": "1f48f1f3fb"
+  },
+  {
+    "moji": "💏🏼",
+    "full_name": "kiss(p)",
+    "code": "couplekiss(p)",
+    "code_ja": "カップルのキス(桃)",
+    "category": "people",
+    "unicode": "1f48f1f3fc"
+  },
+  {
+    "moji": "💏🏽",
+    "full_name": "kiss(ye)",
+    "code": "couplekiss(ye)",
+    "code_ja": "カップルのキス(黄)",
+    "category": "people",
+    "unicode": "1f48f1f3fd"
+  },
+  {
+    "moji": "💏🏾",
+    "full_name": "kiss(br)",
+    "code": "couplekiss(br)",
+    "code_ja": "カップルのキス(茶)",
+    "category": "people",
+    "unicode": "1f48f1f3fe"
+  },
+  {
+    "moji": "💏🏿",
+    "full_name": "kiss(bk)",
+    "code": "couplekiss(bk)",
+    "code_ja": "カップルのキス(黒)",
+    "category": "people",
+    "unicode": "1f48f1f3ff"
+  },
+  {
     "moji": "💐",
     "code": "bouquet",
     "code_ja": "ブーケ",
@@ -4255,6 +4990,41 @@
     "code_ja": "カップルとハート",
     "category": "people",
     "unicode": "1f491"
+  },
+  {
+    "moji": "💑🏻",
+    "code": "couple_with_heart(wh)",
+    "code_ja": "カップルとハート(白)",
+    "category": "people",
+    "unicode": "1f4911f3fb"
+  },
+  {
+    "moji": "💑🏼",
+    "code": "couple_with_heart(p)",
+    "code_ja": "カップルとハート(桃)",
+    "category": "people",
+    "unicode": "1f4911f3fc"
+  },
+  {
+    "moji": "💑🏽",
+    "code": "couple_with_heart(ye)",
+    "code_ja": "カップルとハート(黄)",
+    "category": "people",
+    "unicode": "1f4911f3fd"
+  },
+  {
+    "moji": "💑🏾",
+    "code": "couple_with_heart(br)",
+    "code_ja": "カップルとハート(茶)",
+    "category": "people",
+    "unicode": "1f4911f3fe"
+  },
+  {
+    "moji": "💑🏿",
+    "code": "couple_with_heart(bk)",
+    "code_ja": "カップルとハート(黒)",
+    "category": "people",
+    "unicode": "1f4911f3ff"
   },
   {
     "moji": "💒",
@@ -4435,6 +5205,46 @@
     "code_ja": "力こぶ",
     "category": "abstract",
     "unicode": "1f4aa"
+  },
+  {
+    "moji": "💪🏻",
+    "full_name": "flexed_biceps(wh)",
+    "code": "muscle(wh)",
+    "code_ja": "力こぶ(白)",
+    "category": "abstract",
+    "unicode": "1f4aa1f3fb"
+  },
+  {
+    "moji": "💪🏼",
+    "full_name": "flexed_biceps(p)",
+    "code": "muscle(p)",
+    "code_ja": "力こぶ(桃)",
+    "category": "abstract",
+    "unicode": "1f4aa1f3fc"
+  },
+  {
+    "moji": "💪🏽",
+    "full_name": "flexed_biceps(ye)",
+    "code": "muscle(ye)",
+    "code_ja": "力こぶ(黄)",
+    "category": "abstract",
+    "unicode": "1f4aa1f3fd"
+  },
+  {
+    "moji": "💪🏾",
+    "full_name": "flexed_biceps(br)",
+    "code": "muscle(br)",
+    "code_ja": "力こぶ(茶)",
+    "category": "abstract",
+    "unicode": "1f4aa1f3fe"
+  },
+  {
+    "moji": "💪🏿",
+    "full_name": "flexed_biceps(bk)",
+    "code": "muscle(bk)",
+    "code_ja": "力こぶ(黒)",
+    "category": "abstract",
+    "unicode": "1f4aa1f3ff"
   },
   {
     "moji": "💫",
@@ -6064,11 +6874,81 @@
     "unicode": "1f58e"
   },
   {
+    "moji": "🖎🏻",
+    "code": "left_writing_hand(wh)",
+    "code_ja": "書く(白)",
+    "category": "gestures",
+    "unicode": "1f58e1f3fb"
+  },
+  {
+    "moji": "🖎🏼",
+    "code": "left_writing_hand(p)",
+    "code_ja": "書く(桃)",
+    "category": "gestures",
+    "unicode": "1f58e1f3fc"
+  },
+  {
+    "moji": "🖎🏽",
+    "code": "left_writing_hand(ye)",
+    "code_ja": "書く(黄)",
+    "category": "gestures",
+    "unicode": "1f58e1f3fd"
+  },
+  {
+    "moji": "🖎🏾",
+    "code": "left_writing_hand(br)",
+    "code_ja": "書く(茶)",
+    "category": "gestures",
+    "unicode": "1f58e1f3fe"
+  },
+  {
+    "moji": "🖎🏿",
+    "code": "left_writing_hand(bk)",
+    "code_ja": "書く(黒)",
+    "category": "gestures",
+    "unicode": "1f58e1f3ff"
+  },
+  {
     "moji": "🖏",
     "code": "turned_ok_hand_sign",
     "code_ja": "オッケー",
     "category": "gestures",
     "unicode": "1f58f"
+  },
+  {
+    "moji": "🖏🏻",
+    "code": "turned_ok_hand_sign(wh)",
+    "code_ja": "オッケー(白)",
+    "category": "gestures",
+    "unicode": "1f58f1f3fb"
+  },
+  {
+    "moji": "🖏🏼",
+    "code": "turned_ok_hand_sign(p)",
+    "code_ja": "オッケー(桃)",
+    "category": "gestures",
+    "unicode": "1f58f1f3fc"
+  },
+  {
+    "moji": "🖏🏽",
+    "code": "turned_ok_hand_sign(ye)",
+    "code_ja": "オッケー(黄)",
+    "category": "gestures",
+    "unicode": "1f58f1f3fd"
+  },
+  {
+    "moji": "🖏🏾",
+    "code": "turned_ok_hand_sign(br)",
+    "code_ja": "オッケー(茶)",
+    "category": "gestures",
+    "unicode": "1f58f1f3fe"
+  },
+  {
+    "moji": "🖏🏿",
+    "code": "turned_ok_hand_sign(bk)",
+    "code_ja": "オッケー(黒)",
+    "category": "gestures",
+    "unicode": "1f58f1f3ff"
   },
   {
     "moji": "🖐",
@@ -6078,11 +6958,81 @@
     "unicode": "1f590"
   },
   {
+    "moji": "🖐🏻",
+    "code": "raised_hand_with_fingers_splayed(wh)",
+    "code_ja": "パー2(白)",
+    "category": "gestures",
+    "unicode": "1f5901f3fb"
+  },
+  {
+    "moji": "🖐🏼",
+    "code": "raised_hand_with_fingers_splayed(p)",
+    "code_ja": "パー2(桃)",
+    "category": "gestures",
+    "unicode": "1f5901f3fc"
+  },
+  {
+    "moji": "🖐🏽",
+    "code": "raised_hand_with_fingers_splayed(ye)",
+    "code_ja": "パー2(黄)",
+    "category": "gestures",
+    "unicode": "1f5901f3fd"
+  },
+  {
+    "moji": "🖐🏾",
+    "code": "raised_hand_with_fingers_splayed(br)",
+    "code_ja": "パー2(茶)",
+    "category": "gestures",
+    "unicode": "1f5901f3fe"
+  },
+  {
+    "moji": "🖐🏿",
+    "code": "raised_hand_with_fingers_splayed(bk)",
+    "code_ja": "パー2(黒)",
+    "category": "gestures",
+    "unicode": "1f5901f3ff"
+  },
+  {
     "moji": "🖑",
     "code": "reversed_raised_hand_with_fingers_splayed",
     "code_ja": "パー3",
     "category": "gestures",
     "unicode": "1f591"
+  },
+  {
+    "moji": "🖑🏻",
+    "code": "reversed_raised_hand_with_fingers_splayed(wh)",
+    "code_ja": "パー3(白)",
+    "category": "gestures",
+    "unicode": "1f5911f3fb"
+  },
+  {
+    "moji": "🖑🏼",
+    "code": "reversed_raised_hand_with_fingers_splayed(p)",
+    "code_ja": "パー3(桃)",
+    "category": "gestures",
+    "unicode": "1f5911f3fc"
+  },
+  {
+    "moji": "🖑🏽",
+    "code": "reversed_raised_hand_with_fingers_splayed(ye)",
+    "code_ja": "パー3(黄)",
+    "category": "gestures",
+    "unicode": "1f5911f3fd"
+  },
+  {
+    "moji": "🖑🏾",
+    "code": "reversed_raised_hand_with_fingers_splayed(br)",
+    "code_ja": "パー3(茶)",
+    "category": "gestures",
+    "unicode": "1f5911f3fe"
+  },
+  {
+    "moji": "🖑🏿",
+    "code": "reversed_raised_hand_with_fingers_splayed(bk)",
+    "code_ja": "パー3(黒)",
+    "category": "gestures",
+    "unicode": "1f5911f3ff"
   },
   {
     "moji": "🖒",
@@ -6092,6 +7042,41 @@
     "unicode": "1f592"
   },
   {
+    "moji": "🖒🏻",
+    "code": "reversed_thumbs_up_sign(wh)",
+    "code_ja": "グッド2(白)",
+    "category": "gestures",
+    "unicode": "1f5921f3fb"
+  },
+  {
+    "moji": "🖒🏼",
+    "code": "reversed_thumbs_up_sign(p)",
+    "code_ja": "グッド2(桃)",
+    "category": "gestures",
+    "unicode": "1f5921f3fc"
+  },
+  {
+    "moji": "🖒🏽",
+    "code": "reversed_thumbs_up_sign(ye)",
+    "code_ja": "グッド2(黄)",
+    "category": "gestures",
+    "unicode": "1f5921f3fd"
+  },
+  {
+    "moji": "🖒🏾",
+    "code": "reversed_thumbs_up_sign(br)",
+    "code_ja": "グッド2(茶)",
+    "category": "gestures",
+    "unicode": "1f5921f3fe"
+  },
+  {
+    "moji": "🖒🏿",
+    "code": "reversed_thumbs_up_sign(bk)",
+    "code_ja": "グッド2(黒)",
+    "category": "gestures",
+    "unicode": "1f5921f3ff"
+  },
+  {
     "moji": "🖓",
     "code": "reversed_thumbs_down_sign",
     "code_ja": "ブーイング2",
@@ -6099,11 +7084,81 @@
     "unicode": "1f593"
   },
   {
+    "moji": "🖓🏻",
+    "code": "reversed_thumbs_down_sign(wh)",
+    "code_ja": "ブーイング2(白)",
+    "category": "gestures",
+    "unicode": "1f5931f3fb"
+  },
+  {
+    "moji": "🖓🏼",
+    "code": "reversed_thumbs_down_sign(p)",
+    "code_ja": "ブーイング2(桃)",
+    "category": "gestures",
+    "unicode": "1f5931f3fc"
+  },
+  {
+    "moji": "🖓🏽",
+    "code": "reversed_thumbs_down_sign(ye)",
+    "code_ja": "ブーイング2(黄)",
+    "category": "gestures",
+    "unicode": "1f5931f3fd"
+  },
+  {
+    "moji": "🖓🏾",
+    "code": "reversed_thumbs_down_sign(br)",
+    "code_ja": "ブーイング2(茶)",
+    "category": "gestures",
+    "unicode": "1f5931f3fe"
+  },
+  {
+    "moji": "🖓🏿",
+    "code": "reversed_thumbs_down_sign(bk)",
+    "code_ja": "ブーイング2(黒)",
+    "category": "gestures",
+    "unicode": "1f5931f3ff"
+  },
+  {
     "moji": "🖔",
     "code": "reversed_victory_hand",
     "code_ja": "チョキ2",
     "category": "gestures",
     "unicode": "1f594"
+  },
+  {
+    "moji": "🖔🏻",
+    "code": "reversed_victory_hand(wh)",
+    "code_ja": "チョキ2(白)",
+    "category": "gestures",
+    "unicode": "1f5941f3fb"
+  },
+  {
+    "moji": "🖔🏼",
+    "code": "reversed_victory_hand(p)",
+    "code_ja": "チョキ2(桃)",
+    "category": "gestures",
+    "unicode": "1f5941f3fc"
+  },
+  {
+    "moji": "🖔🏽",
+    "code": "reversed_victory_hand(ye)",
+    "code_ja": "チョキ2(黄)",
+    "category": "gestures",
+    "unicode": "1f5941f3fd"
+  },
+  {
+    "moji": "🖔🏾",
+    "code": "reversed_victory_hand(br)",
+    "code_ja": "チョキ2(茶)",
+    "category": "gestures",
+    "unicode": "1f5941f3fe"
+  },
+  {
+    "moji": "🖔🏿",
+    "code": "reversed_victory_hand(bk)",
+    "code_ja": "チョキ2(黒)",
+    "category": "gestures",
+    "unicode": "1f5941f3ff"
   },
   {
     "moji": "🖕",
@@ -6114,6 +7169,46 @@
     "unicode": "1f595"
   },
   {
+    "moji": "🖕🏻",
+    "full_name": "reversed_hand_with_middle_finger_extended(wh)",
+    "code": "middle_finger(wh)",
+    "code_ja": "中指(白)",
+    "category": "gestures",
+    "unicode": "1f5951f3fb"
+  },
+  {
+    "moji": "🖕🏼",
+    "full_name": "reversed_hand_with_middle_finger_extended(p)",
+    "code": "middle_finger(p)",
+    "code_ja": "中指(桃)",
+    "category": "gestures",
+    "unicode": "1f5951f3fc"
+  },
+  {
+    "moji": "🖕🏽",
+    "full_name": "reversed_hand_with_middle_finger_extended(ye)",
+    "code": "middle_finger(ye)",
+    "code_ja": "中指(黄)",
+    "category": "gestures",
+    "unicode": "1f5951f3fd"
+  },
+  {
+    "moji": "🖕🏾",
+    "full_name": "reversed_hand_with_middle_finger_extended(br)",
+    "code": "middle_finger(br)",
+    "code_ja": "中指(茶)",
+    "category": "gestures",
+    "unicode": "1f5951f3fe"
+  },
+  {
+    "moji": "🖕🏿",
+    "full_name": "reversed_hand_with_middle_finger_extended(bk)",
+    "code": "middle_finger(bk)",
+    "code_ja": "中指(黒)",
+    "category": "gestures",
+    "unicode": "1f5951f3ff"
+  },
+  {
     "moji": "🖖",
     "code": "raised_hand_with_part_between_middle_and_ring_fingers",
     "code_ja": "パー4",
@@ -6121,54 +7216,209 @@
     "unicode": "1f596"
   },
   {
+    "moji": "🖖🏻",
+    "code": "raised_hand_with_part_between_middle_and_ring_fingers(wh)",
+    "code_ja": "パー4(白)",
+    "category": "gestures",
+    "unicode": "1f5961f3fb"
+  },
+  {
+    "moji": "🖖🏼",
+    "code": "raised_hand_with_part_between_middle_and_ring_fingers(p)",
+    "code_ja": "パー4(桃)",
+    "category": "gestures",
+    "unicode": "1f5961f3fc"
+  },
+  {
+    "moji": "🖖🏽",
+    "code": "raised_hand_with_part_between_middle_and_ring_fingers(ye)",
+    "code_ja": "パー4(黄)",
+    "category": "gestures",
+    "unicode": "1f5961f3fd"
+  },
+  {
+    "moji": "🖖🏾",
+    "code": "raised_hand_with_part_between_middle_and_ring_fingers(br)",
+    "code_ja": "パー4(茶)",
+    "category": "gestures",
+    "unicode": "1f5961f3fe"
+  },
+  {
+    "moji": "🖖🏿",
+    "code": "raised_hand_with_part_between_middle_and_ring_fingers(bk)",
+    "code_ja": "パー4(黒)",
+    "category": "gestures",
+    "unicode": "1f5961f3ff"
+  },
+  {
     "moji": "🖗",
     "full_name": "white_down_pointing_left_hand_index",
     "code": "down_pointing_left_hand_index",
-    "code_ja": "指差し(下)",
+    "code_ja": "指差し2(下)",
     "category": "gestures",
     "unicode": "1f597"
+  },
+  {
+    "moji": "🖗🏻",
+    "full_name": "white_down_pointing_left_hand_index(wh)",
+    "code": "down_pointing_left_hand_index(wh)",
+    "code_ja": "指差し2(下・白)",
+    "category": "gestures",
+    "unicode": "1f5971f3fb"
+  },
+  {
+    "moji": "🖗🏼",
+    "full_name": "white_down_pointing_left_hand_index(p)",
+    "code": "down_pointing_left_hand_index(p)",
+    "code_ja": "指差し2(下・桃)",
+    "category": "gestures",
+    "unicode": "1f5971f3fc"
+  },
+  {
+    "moji": "🖗🏽",
+    "full_name": "white_down_pointing_left_hand_index(ye)",
+    "code": "down_pointing_left_hand_index(ye)",
+    "code_ja": "指差し2(下・黄)",
+    "category": "gestures",
+    "unicode": "1f5971f3fd"
+  },
+  {
+    "moji": "🖗🏾",
+    "full_name": "white_down_pointing_left_hand_index(br)",
+    "code": "down_pointing_left_hand_index(br)",
+    "code_ja": "指差し2(下・茶)",
+    "category": "gestures",
+    "unicode": "1f5971f3fe"
+  },
+  {
+    "moji": "🖗🏿",
+    "full_name": "white_down_pointing_left_hand_index(bk)",
+    "code": "down_pointing_left_hand_index(bk)",
+    "code_ja": "指差し2(下・黒)",
+    "category": "gestures",
+    "unicode": "1f5971f3ff"
   },
   {
     "moji": "🖘",
     "full_name": "sideways_white_left_pointing_index",
     "code": "sideways_left_pointing_index",
-    "code_ja": "指差し(左)",
+    "code_ja": "指差し2(左)",
     "category": "gestures",
     "unicode": "1f598"
+  },
+  {
+    "moji": "🖘🏻",
+    "full_name": "sideways_white_left_pointing_index(wh)",
+    "code": "sideways_left_pointing_index(wh)",
+    "code_ja": "指差し2(左・白)",
+    "category": "gestures",
+    "unicode": "1f5981f3fb"
+  },
+  {
+    "moji": "🖘🏼",
+    "full_name": "sideways_white_left_pointing_index(p)",
+    "code": "sideways_left_pointing_index(p)",
+    "code_ja": "指差し2(左・桃)",
+    "category": "gestures",
+    "unicode": "1f5981f3fc"
+  },
+  {
+    "moji": "🖘🏽",
+    "full_name": "sideways_white_left_pointing_index(ye)",
+    "code": "sideways_left_pointing_index(ye)",
+    "code_ja": "指差し2(左・黄)",
+    "category": "gestures",
+    "unicode": "1f5981f3fd"
+  },
+  {
+    "moji": "🖘🏾",
+    "full_name": "sideways_white_left_pointing_index(br)",
+    "code": "sideways_left_pointing_index(br)",
+    "code_ja": "指差し2(左・茶)",
+    "category": "gestures",
+    "unicode": "1f5981f3fe"
+  },
+  {
+    "moji": "🖘🏿",
+    "full_name": "sideways_white_left_pointing_index(bk)",
+    "code": "sideways_left_pointing_index(bk)",
+    "code_ja": "指差し2(左・黒)",
+    "category": "gestures",
+    "unicode": "1f5981f3ff"
   },
   {
     "moji": "🖙",
     "full_name": "sideways_white_right_pointing_index",
     "code": "sideways_right_pointing_index",
-    "code_ja": "指差し(右)",
+    "code_ja": "指差し2(右)",
     "category": "gestures",
     "unicode": "1f599"
   },
   {
+    "moji": "🖙🏻",
+    "full_name": "sideways_white_right_pointing_index(wh)",
+    "code": "sideways_right_pointing_index(wh)",
+    "code_ja": "指差し2(右・白)",
+    "category": "gestures",
+    "unicode": "1f5991f3fb"
+  },
+  {
+    "moji": "🖙🏼",
+    "full_name": "sideways_white_right_pointing_index(p)",
+    "code": "sideways_right_pointing_index(p)",
+    "code_ja": "指差し2(右・桃)",
+    "category": "gestures",
+    "unicode": "1f5991f3fc"
+  },
+  {
+    "moji": "🖙🏽",
+    "full_name": "sideways_white_right_pointing_index(ye)",
+    "code": "sideways_right_pointing_index(ye)",
+    "code_ja": "指差し2(右・黄)",
+    "category": "gestures",
+    "unicode": "1f5991f3fd"
+  },
+  {
+    "moji": "🖙🏾",
+    "full_name": "sideways_white_right_pointing_index(br)",
+    "code": "sideways_right_pointing_index(br)",
+    "code_ja": "指差し2(右・茶)",
+    "category": "gestures",
+    "unicode": "1f5991f3fe"
+  },
+  {
+    "moji": "🖙🏿",
+    "full_name": "sideways_white_right_pointing_index(bk)",
+    "code": "sideways_right_pointing_index(bk)",
+    "code_ja": "指差し2(右・黒)",
+    "category": "gestures",
+    "unicode": "1f5991f3ff"
+  },
+  {
     "moji": "🖚",
     "code": "sideways_black_left_pointing_index",
-    "code_ja": "指差し(左)2",
+    "code_ja": "指差し3(左)",
     "category": "gestures",
     "unicode": "1f59a"
   },
   {
     "moji": "🖛",
     "code": "sideways_black_right_pointing_index",
-    "code_ja": "指差し(右)2",
+    "code_ja": "指差し3(右)",
     "category": "gestures",
     "unicode": "1f59b"
   },
   {
     "moji": "🖜",
     "code": "black_left_pointing_backhand_index",
-    "code_ja": "指差し(左)3",
+    "code_ja": "指差し4(左)",
     "category": "gestures",
     "unicode": "1f59c"
   },
   {
     "moji": "🖝",
     "code": "black_right_pointing_backhand_index",
-    "code_ja": "指差し(右)3",
+    "code_ja": "指差し4(右)",
     "category": "gestures",
     "unicode": "1f59d"
   },
@@ -6176,43 +7426,123 @@
     "moji": "🖞",
     "full_name": "sideways_white_up_pointing_index",
     "code": "sideways_up_pointing_index",
-    "code_ja": "指差し(上)",
+    "code_ja": "指差し3(上)",
     "category": "gestures",
     "unicode": "1f59e"
+  },
+  {
+    "moji": "🖞🏻",
+    "full_name": "sideways_white_up_pointing_index(wh)",
+    "code": "sideways_up_pointing_index(wh)",
+    "code_ja": "指差し3(上・白)",
+    "category": "gestures",
+    "unicode": "1f59e1f3fb"
+  },
+  {
+    "moji": "🖞🏼",
+    "full_name": "sideways_white_up_pointing_index(p)",
+    "code": "sideways_up_pointing_index(p)",
+    "code_ja": "指差し3(上・桃)",
+    "category": "gestures",
+    "unicode": "1f59e1f3fc"
+  },
+  {
+    "moji": "🖞🏽",
+    "full_name": "sideways_white_up_pointing_index(ye)",
+    "code": "sideways_up_pointing_index(ye)",
+    "code_ja": "指差し3(上・黄)",
+    "category": "gestures",
+    "unicode": "1f59e1f3fd"
+  },
+  {
+    "moji": "🖞🏾",
+    "full_name": "sideways_white_up_pointing_index(br)",
+    "code": "sideways_up_pointing_index(br)",
+    "code_ja": "指差し3(上・茶)",
+    "category": "gestures",
+    "unicode": "1f59e1f3fe"
+  },
+  {
+    "moji": "🖞🏿",
+    "full_name": "sideways_white_up_pointing_index(bk)",
+    "code": "sideways_up_pointing_index(bk)",
+    "code_ja": "指差し3(上・黒)",
+    "category": "gestures",
+    "unicode": "1f59e1f3ff"
   },
   {
     "moji": "🖟",
     "full_name": "sideways_white_down_pointing_index",
     "code": "sideways_down_pointing_index",
-    "code_ja": "指差し(下)2",
+    "code_ja": "指差し3(下)",
     "category": "gestures",
     "unicode": "1f59f"
   },
   {
+    "moji": "🖟🏻",
+    "full_name": "sideways_white_down_pointing_index(wh)",
+    "code": "sideways_down_pointing_index(wh)",
+    "code_ja": "指差し3(下・白)",
+    "category": "gestures",
+    "unicode": "1f59f1f3fb"
+  },
+  {
+    "moji": "🖟🏼",
+    "full_name": "sideways_white_down_pointing_index(p)",
+    "code": "sideways_down_pointing_index(p)",
+    "code_ja": "指差し3(下・桃)",
+    "category": "gestures",
+    "unicode": "1f59f1f3fc"
+  },
+  {
+    "moji": "🖟🏽",
+    "full_name": "sideways_white_down_pointing_index(ye)",
+    "code": "sideways_down_pointing_index(ye)",
+    "code_ja": "指差し3(下・黄)",
+    "category": "gestures",
+    "unicode": "1f59f1f3fd"
+  },
+  {
+    "moji": "🖟🏾",
+    "full_name": "sideways_white_down_pointing_index(br)",
+    "code": "sideways_down_pointing_index(br)",
+    "code_ja": "指差し3(下・茶)",
+    "category": "gestures",
+    "unicode": "1f59f1f3fe"
+  },
+  {
+    "moji": "🖟🏿",
+    "full_name": "sideways_white_down_pointing_index(bk)",
+    "code": "sideways_down_pointing_index(bk)",
+    "code_ja": "指差し3(下・黒)",
+    "category": "gestures",
+    "unicode": "1f59f1f3ff"
+  },
+  {
     "moji": "🖠",
     "code": "sideways_black_up_pointing_index",
-    "code_ja": "指差し(上)2",
+    "code_ja": "指差し4(上)",
     "category": "gestures",
     "unicode": "1f5a0"
   },
   {
     "moji": "🖡",
     "code": "sideways_black_down_pointing_index",
-    "code_ja": "指差し(下)3",
+    "code_ja": "指差し4(下)",
     "category": "gestures",
     "unicode": "1f5a1"
   },
   {
     "moji": "🖢",
     "code": "black_up_pointing_backhand_index",
-    "code_ja": "指差し(上)3",
+    "code_ja": "指差し5(上)",
     "category": "gestures",
     "unicode": "1f5a2"
   },
   {
     "moji": "🖣",
     "code": "black_down_pointing_backhand_index",
-    "code_ja": "指差し(下)4",
+    "code_ja": "指差し5(下)",
     "category": "gestures",
     "unicode": "1f5a3"
   },
@@ -10555,6 +11885,41 @@
     "unicode": "1f6a3"
   },
   {
+    "moji": "🚣🏻",
+    "code": "rowboat(wh)",
+    "code_ja": "ボート(白)",
+    "category": "transportation",
+    "unicode": "1f6a31f3fb"
+  },
+  {
+    "moji": "🚣🏼",
+    "code": "rowboat(p)",
+    "code_ja": "ボート(桃)",
+    "category": "transportation",
+    "unicode": "1f6a31f3fc"
+  },
+  {
+    "moji": "🚣🏽",
+    "code": "rowboat(ye)",
+    "code_ja": "ボート(黄)",
+    "category": "transportation",
+    "unicode": "1f6a31f3fd"
+  },
+  {
+    "moji": "🚣🏾",
+    "code": "rowboat(br)",
+    "code_ja": "ボート(茶)",
+    "category": "transportation",
+    "unicode": "1f6a31f3fe"
+  },
+  {
+    "moji": "🚣🏿",
+    "code": "rowboat(bk)",
+    "code_ja": "ボート(黒)",
+    "category": "transportation",
+    "unicode": "1f6a31f3ff"
+  },
+  {
     "moji": "🚤",
     "code": "speedboat",
     "code_ja": "モーターボート",
@@ -10684,11 +12049,81 @@
     "unicode": "1f6b4"
   },
   {
+    "moji": "🚴🏻",
+    "code": "bicyclist(wh)",
+    "code_ja": "自転車乗り(白)",
+    "category": "people",
+    "unicode": "1f6b41f3fb"
+  },
+  {
+    "moji": "🚴🏼",
+    "code": "bicyclist(p)",
+    "code_ja": "自転車乗り(桃)",
+    "category": "people",
+    "unicode": "1f6b41f3fc"
+  },
+  {
+    "moji": "🚴🏽",
+    "code": "bicyclist(ye)",
+    "code_ja": "自転車乗り(黄)",
+    "category": "people",
+    "unicode": "1f6b41f3fd"
+  },
+  {
+    "moji": "🚴🏾",
+    "code": "bicyclist(br)",
+    "code_ja": "自転車乗り(茶)",
+    "category": "people",
+    "unicode": "1f6b41f3fe"
+  },
+  {
+    "moji": "🚴🏿",
+    "code": "bicyclist(bk)",
+    "code_ja": "自転車乗り(黒)",
+    "category": "people",
+    "unicode": "1f6b41f3ff"
+  },
+  {
     "moji": "🚵",
     "code": "mountain_bicyclist",
     "code_ja": "ロードレーサー",
     "category": "people",
     "unicode": "1f6b5"
+  },
+  {
+    "moji": "🚵🏻",
+    "code": "mountain_bicyclist(wh)",
+    "code_ja": "ロードレーサー(白)",
+    "category": "people",
+    "unicode": "1f6b51f3fb"
+  },
+  {
+    "moji": "🚵🏼",
+    "code": "mountain_bicyclist(p)",
+    "code_ja": "ロードレーサー(桃)",
+    "category": "people",
+    "unicode": "1f6b51f3fc"
+  },
+  {
+    "moji": "🚵🏽",
+    "code": "mountain_bicyclist(ye)",
+    "code_ja": "ロードレーサー(黄)",
+    "category": "people",
+    "unicode": "1f6b51f3fd"
+  },
+  {
+    "moji": "🚵🏾",
+    "code": "mountain_bicyclist(br)",
+    "code_ja": "ロードレーサー(茶)",
+    "category": "people",
+    "unicode": "1f6b51f3fe"
+  },
+  {
+    "moji": "🚵🏿",
+    "code": "mountain_bicyclist(bk)",
+    "code_ja": "ロードレーサー(黒)",
+    "category": "people",
+    "unicode": "1f6b51f3ff"
   },
   {
     "moji": "🚶",
@@ -11269,14 +12704,14 @@
   {
     "moji": "☚",
     "code": "black_left_pointing_index",
-    "code_ja": "指さし(左・黒)",
+    "code_ja": "指差し(左・黒)",
     "category": "gestures",
     "unicode": "261a"
   },
   {
     "moji": "☛",
     "code": "black_right_pointing_index",
-    "code_ja": "指さし(右・黒)",
+    "code_ja": "指差し(右・黒)",
     "category": "gestures",
     "unicode": "261b"
   },
@@ -11284,9 +12719,49 @@
     "moji": "☝",
     "full_name": "white_up_pointing_index",
     "code": "point_up",
-    "code_ja": "指さし(上)",
+    "code_ja": "指差し(上)",
     "category": "gestures",
     "unicode": "261d"
+  },
+  {
+    "moji": "☝🏻",
+    "full_name": "white_up_pointing_index(wh)",
+    "code": "point_up(wh)",
+    "code_ja": "指差し(上・白)",
+    "category": "gestures",
+    "unicode": "261d1f3fb"
+  },
+  {
+    "moji": "☝🏼",
+    "full_name": "white_up_pointing_index(p)",
+    "code": "point_up(p)",
+    "code_ja": "指差し(上・桃)",
+    "category": "gestures",
+    "unicode": "261d1f3fc"
+  },
+  {
+    "moji": "☝🏽",
+    "full_name": "white_up_pointing_index(ye)",
+    "code": "point_up(ye)",
+    "code_ja": "指差し(上・黄)",
+    "category": "gestures",
+    "unicode": "261d1f3fd"
+  },
+  {
+    "moji": "☝🏾",
+    "full_name": "white_up_pointing_index(br)",
+    "code": "point_up(br)",
+    "code_ja": "指差し(上・茶)",
+    "category": "gestures",
+    "unicode": "261d1f3fe"
+  },
+  {
+    "moji": "☝🏿",
+    "full_name": "white_up_pointing_index(bk)",
+    "code": "point_up(bk)",
+    "code_ja": "指差し(上・黒)",
+    "category": "gestures",
+    "unicode": "261d1f3ff"
   },
   {
     "moji": "☠",
@@ -12777,11 +14252,86 @@
     "unicode": "270a"
   },
   {
+    "moji": "✊🏻",
+    "full_name": "raised_fist(wh)",
+    "code": "fist(wh)",
+    "code_ja": "グー(白)",
+    "category": "gestures",
+    "unicode": "270a1f3fb"
+  },
+  {
+    "moji": "✊🏼",
+    "full_name": "raised_fist(p)",
+    "code": "fist(p)",
+    "code_ja": "グー(桃)",
+    "category": "gestures",
+    "unicode": "270a1f3fc"
+  },
+  {
+    "moji": "✊🏽",
+    "full_name": "raised_fist(ye)",
+    "code": "fist(ye)",
+    "code_ja": "グー(黄)",
+    "category": "gestures",
+    "unicode": "270a1f3fd"
+  },
+  {
+    "moji": "✊🏾",
+    "full_name": "raised_fist(br)",
+    "code": "fist(br)",
+    "code_ja": "グー(茶)",
+    "category": "gestures",
+    "unicode": "270a1f3fe"
+  },
+  {
+    "moji": "✊🏿",
+    "full_name": "raised_fist(bk)",
+    "code": "fist(bk)",
+    "code_ja": "グー(黒)",
+    "category": "gestures",
+    "unicode": "270a1f3ff"
+  },
+  {
     "moji": "✋",
     "code": "raised_hand",
     "code_ja": "パー",
     "category": "gestures",
     "unicode": "270b"
+  },
+  {
+    "moji": "✋🏻",
+    "code": "raised_hand(wh)",
+    "code_ja": "パー(白)",
+    "category": "gestures",
+    "unicode": "270b1f3fb"
+  },
+  {
+    "moji": "✋🏼",
+    "code": "raised_hand(p)",
+    "code_ja": "パー(桃)",
+    "category": "gestures",
+    "unicode": "270b1f3fc"
+  },
+  {
+    "moji": "✋🏽",
+    "code": "raised_hand(ye)",
+    "code_ja": "パー(黄)",
+    "category": "gestures",
+    "unicode": "270b1f3fd"
+  },
+  {
+    "moji": "✋🏾",
+    "code": "raised_hand(br)",
+    "code_ja": "パー(茶)",
+    "category": "gestures",
+    "unicode": "270b1f3fe"
+  },
+  {
+    "moji": "✋🏿",
+    "code": "raised_hand(bk)",
+    "code_ja": "パー(黒)",
+    "category": "gestures",
+    "unicode": "270b1f3ff"
   },
   {
     "moji": "✌",
@@ -12790,6 +14340,46 @@
     "code_ja": "チョキ",
     "category": "gestures",
     "unicode": "270c"
+  },
+  {
+    "moji": "✌🏻",
+    "full_name": "victory_hand(wh)",
+    "code": "v(wh)",
+    "code_ja": "チョキ(白)",
+    "category": "gestures",
+    "unicode": "270c1f3fb"
+  },
+  {
+    "moji": "✌🏼",
+    "full_name": "victory_hand(p)",
+    "code": "v(p)",
+    "code_ja": "チョキ(桃)",
+    "category": "gestures",
+    "unicode": "270c1f3fc"
+  },
+  {
+    "moji": "✌🏽",
+    "full_name": "victory_hand(ye)",
+    "code": "v(ye)",
+    "code_ja": "チョキ(黄)",
+    "category": "gestures",
+    "unicode": "270c1f3fd"
+  },
+  {
+    "moji": "✌🏾",
+    "full_name": "victory_hand(br)",
+    "code": "v(br)",
+    "code_ja": "チョキ(茶)",
+    "category": "gestures",
+    "unicode": "270c1f3fe"
+  },
+  {
+    "moji": "✌🏿",
+    "full_name": "victory_hand(bk)",
+    "code": "v(bk)",
+    "code_ja": "チョキ(黒)",
+    "category": "gestures",
+    "unicode": "270c1f3ff"
   },
   {
     "moji": "✏",
