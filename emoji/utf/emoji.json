@@ -883,6 +883,13 @@
     "unicode": "1f32c1f3ff"
   },
   {
+    "moji": "🌯",
+    "code": "burrito",
+    "code_ja": "ブリトー",
+    "category": "food",
+    "unicode": "1f32f"
+  },
+  {
     "moji": "🌰",
     "code": "chestnut",
     "code_ja": "栗",
@@ -1448,6 +1455,13 @@
     "code_ja": "ナイフとフォークとお皿",
     "category": "food",
     "unicode": "1f37d"
+  },
+  {
+    "moji": "🍿",
+    "code": "popcorn",
+    "code_ja": "ポップコーン",
+    "category": "food",
+    "unicode": "1f37f"
   },
   {
     "moji": "🎀",
@@ -2238,6 +2252,41 @@
     "unicode": "1f3ce"
   },
   {
+    "moji": "🏏",
+    "code": "cricket_bat_and_ball",
+    "code_ja": "クリケット",
+    "category": "objects",
+    "unicode": "1f3cf"
+  },
+  {
+    "moji": "🏐",
+    "code": "volleyball",
+    "code_ja": "バレーボール",
+    "category": "objects",
+    "unicode": "1f3d0"
+  },
+  {
+    "moji": "🏑",
+    "code": "field_hockey_stick_and_ball",
+    "code_ja": "ホッケー",
+    "category": "objects",
+    "unicode": "1f3d1"
+  },
+  {
+    "moji": "🏒",
+    "code": "ice_hockey_stick_and_puck",
+    "code_ja": "アイスホッケー",
+    "category": "objects",
+    "unicode": "1f3d2"
+  },
+  {
+    "moji": "🏓",
+    "code": "table_tennis_paddle_and_ball",
+    "code_ja": "卓球",
+    "category": "objects",
+    "unicode": "1f3d3"
+  },
+  {
     "moji": "🏔",
     "code": "snow_capped_mountain",
     "code_ja": "雪山",
@@ -2492,6 +2541,13 @@
     "code_ja": "ラベル",
     "category": "objects",
     "unicode": "1f3f7"
+  },
+  {
+    "moji": "🏻",
+    "code": "badminton_racquet",
+    "code_ja": "バドミントン",
+    "category": "objects",
+    "unicode": "1f3fb"
   },
   {
     "moji": "🐀",
@@ -8588,12 +8644,36 @@
     "unicode": "1f6081f3fb"
   },
   {
+    "moji": "😈🏼",
+    "full_name": "smiling_face_with_horns(p)",
+    "code": "smiling_imp(p)",
+    "code_ja": "怒り(悪魔・桃)",
+    "category": "faces",
+    "unicode": "1f6081f3fc"
+  },
+  {
     "moji": "😈🏽",
     "full_name": "smiling_face_with_horns(ye)",
     "code": "smiling_imp(ye)",
     "code_ja": "怒り(悪魔・黄)",
     "category": "faces",
     "unicode": "1f6081f3fd"
+  },
+  {
+    "moji": "😈🏾",
+    "full_name": "smiling_face_with_horns(br)",
+    "code": "smiling_imp(br)",
+    "code_ja": "怒り(悪魔・茶)",
+    "category": "faces",
+    "unicode": "1f6081f3fe"
+  },
+  {
+    "moji": "😈🏿",
+    "full_name": "smiling_face_with_horns(bk)",
+    "code": "smiling_imp(bk)",
+    "code_ja": "怒り(悪魔・黒)",
+    "category": "faces",
+    "unicode": "1f6081f3ff"
   },
   {
     "moji": "😉",
@@ -9766,12 +9846,36 @@
     "unicode": "1f6211f3fb"
   },
   {
+    "moji": "😡🏼",
+    "full_name": "pouting_face(p)",
+    "code": "rage(p)",
+    "code_ja": "ふくれっ面(桃)",
+    "category": "faces",
+    "unicode": "1f6211f3fc"
+  },
+  {
     "moji": "😡🏽",
     "full_name": "pouting_face(ye)",
     "code": "rage(ye)",
     "code_ja": "ふくれっ面(黄)",
     "category": "faces",
     "unicode": "1f6211f3fd"
+  },
+  {
+    "moji": "😡🏾",
+    "full_name": "pouting_face(br)",
+    "code": "rage(br)",
+    "code_ja": "ふくれっ面(茶)",
+    "category": "faces",
+    "unicode": "1f6211f3fe"
+  },
+  {
+    "moji": "😡🏿",
+    "full_name": "pouting_face(bk)",
+    "code": "rage(bk)",
+    "code_ja": "ふくれっ面(黒)",
+    "category": "faces",
+    "unicode": "1f6211f3ff"
   },
   {
     "moji": "😢",
@@ -12240,6 +12344,20 @@
     "code_ja": "一時預かり手荷物",
     "category": "symbols",
     "unicode": "1f6c5"
+  },
+  {
+    "moji": "🦃",
+    "code": "turkey",
+    "code_ja": "七面鳥",
+    "category": "food",
+    "unicode": "1f983"
+  },
+  {
+    "moji": "🧀",
+    "code": "cheese_wedge",
+    "code_ja": "チーズ",
+    "category": "food",
+    "unicode": "1f9c0"
   },
   {
     "moji": "#️⃣",
