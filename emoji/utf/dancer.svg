@@ -117,12 +117,12 @@
 				c0.706543,0,1.3823242-0.0634766,2.0087891-0.1894531C23.3476563,59.7841797,23.784668,59.7470703,24.2783203,59.7470703z'/>
           </g>
           <defs>
-            <filter id='frame0_frame0_Adobe_OpacityMaskFilter' filterUnits='userSpaceOnUse' x='9.4716797' y='11.159668' width='45.0556641' height='51.4692383'>
+            <filter id='frame0_Adobe_OpacityMaskFilter' filterUnits='userSpaceOnUse' x='9.4716797' y='11.159668' width='45.0556641' height='51.4692383'>
               <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
             </filter>
           </defs>
-          <mask maskUnits='userSpaceOnUse' x='9.4716797' y='11.159668' width='45.0556641' height='51.4692383' id='frame0_frame0_SVGID_1_'>
-            <g style='filter:url(#frame0_frame0_Adobe_OpacityMaskFilter);'>
+          <mask maskUnits='userSpaceOnUse' x='9.4716797' y='11.159668' width='45.0556641' height='51.4692383' id='frame0_SVGID_1_'>
+            <g style='filter:url(#frame0_Adobe_OpacityMaskFilter);'>
               <image style='overflow:visible;' width='205' height='232' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEBLAEsAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAOlAAAHVgAACpr/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -174,7 +174,7 @@ nxuL3l7lLVv4ds1cCY0rsmTD9ztmrgTGlXlyme5odRB/9tP/2Q==' transform='matrix(0.24 0 0
               </image>
             </g>
           </mask>
-          <g style='mask:url(#frame0_frame0_SVGID_1_);'>
+          <g style='mask:url(#frame0_SVGID_1_);'>
             <path style='fill:#C40000;' d='M21.3793945,12.8842773l3.2006836-1.3818359c0,0,1.9638672,2.109375,1.5991211,3.3452148
 				c-0.3632813,1.2363281-3.78125,5.3808594-2.5454102,8.1445313c1.2368164,2.7626953,4.4370117,2.1811523,2.5454102,9.7446289
 				c0,0,4.581543,13.090332,6.3999023,13.8168945c1.8173828,0.7265625,0.2172852,3.0546875,1.9619141,3.7089844
@@ -295,12 +295,12 @@ nxuL3l7lLVv4ds1cCY0rsmTD9ztmrgTGlXlyme5odRB/9tP/2Q==' transform='matrix(0.24 0 0
 				c0.2739258,0,0.5766602-0.0263672,0.8867188-0.0532227C13.7587891,20.4370117,14.1152344,20.4067383,14.4545898,20.4067383z'/>
           </g>
           <defs>
-            <filter id='frame0_frame0_Adobe_OpacityMaskFilter_1_' filterUnits='userSpaceOnUse' x='10.9072266' y='13.0566406' width='9.4833984' height='8.7832031'>
+            <filter id='frame0_Adobe_OpacityMaskFilter_1_' filterUnits='userSpaceOnUse' x='10.9072266' y='13.0566406' width='9.4833984' height='8.7832031'>
               <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
             </filter>
           </defs>
-          <mask maskUnits='userSpaceOnUse' x='10.9072266' y='13.0566406' width='9.4833984' height='8.7832031' id='frame0_frame0_SVGID_2_'>
-            <g style='filter:url(#frame0_frame0_Adobe_OpacityMaskFilter_1_);'>
+          <mask maskUnits='userSpaceOnUse' x='10.9072266' y='13.0566406' width='9.4833984' height='8.7832031' id='frame0_SVGID_2_'>
+            <g style='filter:url(#frame0_Adobe_OpacityMaskFilter_1_);'>
               <image style='overflow:visible;' width='57' height='54' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEBLAEsAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAHOAAACUQAAAxr/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -318,7 +318,7 @@ PG/eMqMhbux3NGEMIFjfvGVGQt3Y7mjojjfvGVGQt3Y7mjH36L94yoyFEq305vk0lwnDI0lA1GmH
               </image>
             </g>
           </mask>
-          <g style='mask:url(#frame0_frame0_SVGID_2_);'>
+          <g style='mask:url(#frame0_SVGID_2_);'>
             <path style='fill:#C40000;' d='M12.4350586,18.9926758c0,0-1.7441406,0.7270508-0.9453125,1.5991211
 				c0.800293,0.8735352,3.7822266-0.581543,4.581543,0.8735352c0,0,1.1645508,0.1450195,0.4365234-2.5458984
 				c0,0-1.0195313-1.5268555,0.5820313-1.5996094c0,0,1.5268555,0.5092773,2.3989258-0.3632813
@@ -449,12 +449,12 @@ PG/eMqMhbux3NGEMIFjfvGVGQt3Y7mjojjfvGVGQt3Y7mjH36L94yoyFEq305vk0lwnDI0lA1GmH
 			c-2.279-1.323-4.356-1.323-3.763-4.53L29.575,11.888z'/>
         </g>
         <defs>
-          <filter id='frame1_frame1_Adobe_OpacityMaskFilter' filterUnits='userSpaceOnUse' x='27.053' y='11.474' width='11.059' height='15.246'>
+          <filter id='frame1_Adobe_OpacityMaskFilter' filterUnits='userSpaceOnUse' x='27.053' y='11.474' width='11.059' height='15.246'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='27.053' y='11.474' width='11.059' height='15.246' id='frame1_frame1_SVGID_1_'>
-          <g filter='url(#frame1_frame1_Adobe_OpacityMaskFilter)'>
+        <mask maskUnits='userSpaceOnUse' x='27.053' y='11.474' width='11.059' height='15.246' id='frame1_SVGID_1_'>
+          <g filter='url(#frame1_Adobe_OpacityMaskFilter)'>
             <image overflow='visible' width='16' height='20' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGDAAABowAAAfP/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -467,7 +467,7 @@ TQpiBcvL84tAhL0YkS0gLt3E9O7/2gAIAQICBj8AP//aAAgBAwIGPwA//9oACAEBAQY/AD1myWMg
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame1_frame1_SVGID_1_)'>
+        <g opacity='0.15' mask='url(#frame1_SVGID_1_)'>
           <path fill='#C40000' d='M29.575,11.888c0,0,1.217,3.432,0,5.372c-1.217,1.941-2.113,2.966-2.113,2.966s2.002,6.734,5.634,6.013
 			c3.633-0.721,4.633-3.848,4.8-8.618c-2.279-1.323-4.356-1.323-3.763-4.53L29.575,11.888z'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8552' stroke-linejoin='bevel' stroke-miterlimit='11' d='M29.575,11.888
@@ -484,12 +484,12 @@ TQpiBcvL84tAhL0YkS0gLt3E9O7/2gAIAQICBj8AP//aAAgBAwIGPwA//9oACAEBAQY/AD1myWMg
 			C28.222,4.723,33.827,2.969,36.472,5.466z'/>
         </g>
         <defs>
-          <filter id='frame1_frame1_Adobe_OpacityMaskFilter_1_' filterUnits='userSpaceOnUse' x='27.019' y='3.697' width='10.502' height='11.641'>
+          <filter id='frame1_Adobe_OpacityMaskFilter_1_' filterUnits='userSpaceOnUse' x='27.019' y='3.697' width='10.502' height='11.641'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='27.019' y='3.697' width='10.502' height='11.641' id='frame1_frame1_SVGID_2_'>
-          <g filter='url(#frame1_frame1_Adobe_OpacityMaskFilter_1_)'>
+        <mask maskUnits='userSpaceOnUse' x='27.019' y='3.697' width='10.502' height='11.641' id='frame1_SVGID_2_'>
+          <g filter='url(#frame1_Adobe_OpacityMaskFilter_1_)'>
             <image overflow='visible' width='15' height='17' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGGAAABogAAAfL/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -502,7 +502,7 @@ Im7nWH87y6vblZEpRRrc1i96djztWEqQRe5rD+kGkQ4kscnEhr2vNum3/9k=' transform='matrix(
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame1_frame1_SVGID_2_)'>
+        <g opacity='0.15' mask='url(#frame1_SVGID_2_)'>
           <path fill='#C40000' d='M36.472,5.466c1.078,1.018,0.44,2.175,0.377,3.779c-0.063,1.604-1.216,5.771-4.029,5.663
 			c-2.815-0.108-5.376-3.696-5.376-3.696l0.779-6.489C28.222,4.723,33.827,2.969,36.472,5.466z'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8552' stroke-linejoin='bevel' stroke-miterlimit='11' d='M36.472,5.466
@@ -521,12 +521,12 @@ Im7nWH87y6vblZEpRRrc1i96djztWEqQRe5rD+kGkQ4kscnEhr2vNum3/9k=' transform='matrix(
 			c0,0-3.638,0.451-4.342-0.522C20.837,18.142,14.973,13.508,14.973,13.508z'/>
         </g>
         <defs>
-          <filter id='frame1_frame1_Adobe_OpacityMaskFilter_2_' filterUnits='userSpaceOnUse' x='8.197' y='6.782' width='22.503' height='18.697'>
+          <filter id='frame1_Adobe_OpacityMaskFilter_2_' filterUnits='userSpaceOnUse' x='8.197' y='6.782' width='22.503' height='18.697'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='8.197' y='6.782' width='22.503' height='18.697' id='frame1_frame1_SVGID_3_'>
-          <g filter='url(#frame1_frame1_Adobe_OpacityMaskFilter_2_)'>
+        <mask maskUnits='userSpaceOnUse' x='8.197' y='6.782' width='22.503' height='18.697' id='frame1_SVGID_3_'>
+          <g filter='url(#frame1_Adobe_OpacityMaskFilter_2_)'>
             <image overflow='visible' width='27' height='24' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGPAAABuAAAAhb/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -540,7 +540,7 @@ AwIGPwAf/9oACAEBAQY/AHliktIhxWmjcWZCQR24748UbzXUdKP6XonfvG54xr0ol4nUDMlSOJ+r
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame1_frame1_SVGID_3_)'>
+        <g opacity='0.15' mask='url(#frame1_SVGID_3_)'>
           <path fill='#C40000' d='M14.973,13.508c1.138-1.074-1.433-4.533-1.433-4.533S9.377,6.023,8.759,7.754
 			c-0.484,1.356,0.498,3.927,0.498,3.927s1.814,3.457,3.275,3.148c0,0,5.251,6.982,6.572,7.787c1.323,0.805,8.309,2.446,8.309,2.446
 			l2.874-1.675l-0.87-3.327l-3.533-0.425c0,0-3.638,0.451-4.342-0.522C20.837,18.142,14.973,13.508,14.973,13.508z'/>
@@ -560,12 +560,12 @@ AwIGPwAf/9oACAEBAQY/AHliktIhxWmjcWZCQR24748UbzXUdKP6XonfvG54xr0ol4nUDMlSOJ+r
 			c-0.223-2.005,1.408-3.955,1.408-3.955l1.112-5.145l-4.598,0.441C38.581,21.589,34.874,19.826,38.581,17.019z'/>
         </g>
         <defs>
-          <filter id='frame1_frame1_Adobe_OpacityMaskFilter_3_' filterUnits='userSpaceOnUse' x='36.506' y='16.605' width='10.743' height='15.078'>
+          <filter id='frame1_Adobe_OpacityMaskFilter_3_' filterUnits='userSpaceOnUse' x='36.506' y='16.605' width='10.743' height='15.078'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='36.506' y='16.605' width='10.743' height='15.078' id='frame1_frame1_SVGID_4_'>
-          <g filter='url(#frame1_frame1_Adobe_OpacityMaskFilter_3_)'>
+        <mask maskUnits='userSpaceOnUse' x='36.506' y='16.605' width='10.743' height='15.078' id='frame1_SVGID_4_'>
+          <g filter='url(#frame1_Adobe_OpacityMaskFilter_3_)'>
             <image overflow='visible' width='16' height='20' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGDAAABoAAAAeL/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -578,7 +578,7 @@ lnDo59SIqDixqJoXa6IA7wZLzXhXWHc++dz/2Q==' transform='matrix(1 0 0 1 34 14)'>
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame1_frame1_SVGID_4_)'>
+        <g opacity='0.15' mask='url(#frame1_SVGID_4_)'>
           <path fill='#C40000' d='M38.581,17.019c0,0,5.116,1.336,7.563,2.072c2.447,0.734-2.52,9.233-2.52,9.233l0.333,2.325
 			c0,0-3.076,1.604-3.299-0.4c-0.223-2.005,1.408-3.955,1.408-3.955l1.112-5.145l-4.598,0.441
 			C38.581,21.589,34.874,19.826,38.581,17.019z'/>
@@ -596,12 +596,12 @@ lnDo59SIqDixqJoXa6IA7wZLzXhXWHc++dz/2Q==' transform='matrix(1 0 0 1 34 14)'>
 			C30.75,56.2,34.1,46.332,34.1,46.332L37.418,44.621z'/>
         </g>
         <defs>
-          <filter id='frame1_frame1_Adobe_OpacityMaskFilter_4_' filterUnits='userSpaceOnUse' x='30.77' y='44.241' width='7.062' height='17.655'>
+          <filter id='frame1_Adobe_OpacityMaskFilter_4_' filterUnits='userSpaceOnUse' x='30.77' y='44.241' width='7.062' height='17.655'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='30.77' y='44.241' width='7.062' height='17.655' id='frame1_frame1_SVGID_5_'>
-          <g filter='url(#frame1_frame1_Adobe_OpacityMaskFilter_4_)'>
+        <mask maskUnits='userSpaceOnUse' x='30.77' y='44.241' width='7.062' height='17.655' id='frame1_SVGID_5_'>
+          <g filter='url(#frame1_Adobe_OpacityMaskFilter_4_)'>
             <image overflow='visible' width='12' height='22' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGFAAABnQAAAdj/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -614,7 +614,7 @@ DFkq7hX2PMxUIh9iYGX/2gAIAQICBj8AP//aAAgBAwIGPwA//9oACAEBAQY/AONoAMmOOuGWPqO1
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame1_frame1_SVGID_5_)'>
+        <g opacity='0.15' mask='url(#frame1_SVGID_5_)'>
           <path fill='#C40000' d='M37.418,44.621c0,0-3.232,12.026-3.467,12.6c-0.234,0.574-0.234,0.574-0.234,0.574l1.738,3.676
 			c0,0-3.709-0.383-4.208-2.826C30.75,56.2,34.1,46.332,34.1,46.332L37.418,44.621z'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8552' stroke-linejoin='bevel' stroke-miterlimit='11' d='M37.418,44.621
@@ -631,12 +631,12 @@ DFkq7hX2PMxUIh9iYGX/2gAIAQICBj8AP//aAAgBAwIGPwA//9oACAEBAQY/AONoAMmOOuGWPqO1
 			c-1.409,0.425-3.418,0.212-4.526-1.771s0-9.914,0-9.914l-4.147-4.108L47.465,38.684z'/>
         </g>
         <defs>
-          <filter id='frame1_frame1_Adobe_OpacityMaskFilter_5_' filterUnits='userSpaceOnUse' x='43.834' y='38.393' width='9.691' height='20.244'>
+          <filter id='frame1_Adobe_OpacityMaskFilter_5_' filterUnits='userSpaceOnUse' x='43.834' y='38.393' width='9.691' height='20.244'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='43.834' y='38.393' width='9.691' height='20.244' id='frame1_frame1_SVGID_6_'>
-          <g filter='url(#frame1_frame1_Adobe_OpacityMaskFilter_5_)'>
+        <mask maskUnits='userSpaceOnUse' x='43.834' y='38.393' width='9.691' height='20.244' id='frame1_SVGID_6_'>
+          <g filter='url(#frame1_Adobe_OpacityMaskFilter_5_)'>
             <image overflow='visible' width='15' height='25' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGHAAABqAAAAfb/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -649,7 +649,7 @@ cBqQo6kwuC+lxnVFPLyMgYs/F6CzSbYiMdwdRctd64t3fQzhMtWqUurncUkcf//Z' transform='mat
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame1_frame1_SVGID_6_)'>
+        <g opacity='0.15' mask='url(#frame1_SVGID_6_)'>
           <path fill='#C40000' d='M47.465,38.684c0,0,4.031,3.853,4.076,6.055c0.047,2.203-0.996,11.332-0.996,11.332
 			s3.665,1.558,2.257,1.982c-1.409,0.425-3.418,0.212-4.526-1.771s0-9.914,0-9.914l-4.147-4.108L47.465,38.684z'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8038' stroke-linejoin='bevel' stroke-miterlimit='11' d='M47.465,38.684
@@ -668,12 +668,12 @@ cBqQo6kwuC+lxnVFPLyMgYs/F6CzSbYiMdwdRctd64t3fQzhMtWqUurncUkcf//Z' transform='mat
 			c0.104-3.241,0.673-8.786,3.118-10.149L40.17,31.45z'/>
         </g>
         <defs>
-          <filter id='frame1_frame1_Adobe_OpacityMaskFilter_6_' filterUnits='userSpaceOnUse' x='28.137' y='31.033' width='24.185' height='24.289'>
+          <filter id='frame1_Adobe_OpacityMaskFilter_6_' filterUnits='userSpaceOnUse' x='28.137' y='31.033' width='24.185' height='24.289'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='28.137' y='31.033' width='24.185' height='24.289' id='frame1_frame1_SVGID_7_'>
-          <g filter='url(#frame1_frame1_Adobe_OpacityMaskFilter_6_)'>
+        <mask maskUnits='userSpaceOnUse' x='28.137' y='31.033' width='24.185' height='24.289' id='frame1_SVGID_7_'>
+          <g filter='url(#frame1_Adobe_OpacityMaskFilter_6_)'>
             <image overflow='visible' width='29' height='29' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGYAAABzAAAAjL/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -687,7 +687,7 @@ E3e4MP/aAAgBAgIGPwAf/9oACAEDAgY/AB//2gAIAQEBBj8AMcOQaQrtaJkkc55027VbMLoyfq9O
             </image>
           </g>
         </mask>
-        <g mask='url(#frame1_frame1_SVGID_7_)'>
+        <g mask='url(#frame1_SVGID_7_)'>
           <path fill='#C40000' d='M40.17,31.45c0,0,2.015,0.703,5.272,3.386c3.263,2.686,4.887,4.979,6.626,6.256
 			c0,0-2.234,1.328-4.382,2.565c-2.147,1.236-3.101,3.07-4.129,4.048c-1.028,0.979-5.661,7.213-5.661,7.213
 			s-9.587-3.284-9.327-11.394c0.104-3.241,0.673-8.786,3.118-10.149L40.17,31.45z'/>
@@ -710,12 +710,12 @@ E3e4MP/aAAgBAgIGPwAf/9oACAEDAgY/AB//2gAIAQEBBj8AMcOQaQrtaJkkc55027VbMLoyfq9O
 			c0,0-0.072-4.77,0.002-5.972C25.015,19.091,27.314,17.82,29.344,17.621z'/>
         </g>
         <defs>
-          <filter id='frame1_frame1_Adobe_OpacityMaskFilter_7_' filterUnits='userSpaceOnUse' x='24.554' y='15.709' width='17.756' height='21.87'>
+          <filter id='frame1_Adobe_OpacityMaskFilter_7_' filterUnits='userSpaceOnUse' x='24.554' y='15.709' width='17.756' height='21.87'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='24.554' y='15.709' width='17.756' height='21.87' id='frame1_frame1_SVGID_8_'>
-          <g filter='url(#frame1_frame1_Adobe_OpacityMaskFilter_7_)'>
+        <mask maskUnits='userSpaceOnUse' x='24.554' y='15.709' width='17.756' height='21.87' id='frame1_SVGID_8_'>
+          <g filter='url(#frame1_Adobe_OpacityMaskFilter_7_)'>
             <image overflow='visible' width='23' height='27' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGXAAABxAAAAi7/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -729,7 +729,7 @@ afIE0MmJFJcX3CsSM9InhAHrINEhDqAigAX4Vi5SW2xzxM7cFcHRvs7vz56f/9k=' transform='mat
             </image>
           </g>
         </mask>
-        <g mask='url(#frame1_frame1_SVGID_8_)'>
+        <g mask='url(#frame1_SVGID_8_)'>
           <path fill='#C40000' d='M29.344,17.621l1.825,3.407c0,0,4.151,0.642,5.338-2.245l-0.297-2.646c0,0,1.407,0,2.371,0
 			c0.965,0,3.297,0.882,3.297,0.882s-0.701,0.802-1.072,1.764c-0.37,0.962,1.179,2.646,1.072,3.127l-2.185,0.24
 			c0,0,2.189,2.799,0,5.451l2.185,4.25c0,0-2.23,5.176-5.148,5.291c-2.919,0.116-6.377-0.962-6.896-2.245l1.632-6.253l-2.521-2.807
@@ -763,12 +763,12 @@ afIE0MmJFJcX3CsSM9InhAHrINEhDqAigAX4Vi5SW2xzxM7cFcHRvs7vz56f/9k=' transform='mat
 			c-2.226-1.413-4.301-1.495-3.58-4.676L29.864,11.819z'/>
         </g>
         <defs>
-          <filter id='frame2_frame2_Adobe_OpacityMaskFilter' filterUnits='userSpaceOnUse' x='27.007' y='11.411' width='11.173' height='15.351'>
+          <filter id='frame2_Adobe_OpacityMaskFilter' filterUnits='userSpaceOnUse' x='27.007' y='11.411' width='11.173' height='15.351'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='27.007' y='11.411' width='11.173' height='15.351' id='frame2_frame2_SVGID_1_'>
-          <g filter='url(#frame2_frame2_Adobe_OpacityMaskFilter)'>
+        <mask maskUnits='userSpaceOnUse' x='27.007' y='11.411' width='11.173' height='15.351' id='frame2_SVGID_1_'>
+          <g filter='url(#frame2_Adobe_OpacityMaskFilter)'>
             <image overflow='visible' width='16' height='20' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGBAAABoQAAAfH/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -781,7 +781,7 @@ JxpcSDgUBIRR6qd6Y8m5OlqhjhIMgJORGiJR6D9xPLNKy7Tt271X7X//2Q==' transform='matrix(
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame2_frame2_SVGID_1_)'>
+        <g opacity='0.15' mask='url(#frame2_SVGID_1_)'>
           <path fill='#C40000' d='M29.864,11.819c0,0,1.08,3.477-0.213,5.367c-1.293,1.891-2.229,2.88-2.229,2.88s1.733,6.809,5.391,6.232
 			c3.659-0.576,4.782-3.661,5.139-8.421c-2.226-1.413-4.301-1.495-3.58-4.676L29.864,11.819z'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8552' stroke-linejoin='bevel' stroke-miterlimit='11' d='M29.864,11.819
@@ -798,12 +798,12 @@ JxpcSDgUBIRR6qd6Y8m5OlqhjhIMgJORGiJR6D9xPLNKy7Tt271X7X//2Q==' transform='matrix(
 			C28.796,4.606,34.467,3.076,37.01,5.677z'/>
         </g>
         <defs>
-          <filter id='frame2_frame2_Adobe_OpacityMaskFilter_1_' filterUnits='userSpaceOnUse' x='27.338' y='3.731' width='10.664' height='11.671'>
+          <filter id='frame2_Adobe_OpacityMaskFilter_1_' filterUnits='userSpaceOnUse' x='27.338' y='3.731' width='10.664' height='11.671'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='27.338' y='3.731' width='10.664' height='11.671' id='frame2_frame2_SVGID_2_'>
-          <g filter='url(#frame2_frame2_Adobe_OpacityMaskFilter_1_)'>
+        <mask maskUnits='userSpaceOnUse' x='27.338' y='3.731' width='10.664' height='11.671' id='frame2_SVGID_2_'>
+          <g filter='url(#frame2_Adobe_OpacityMaskFilter_1_)'>
             <image overflow='visible' width='16' height='17' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGCAAABngAAAeD/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -816,7 +816,7 @@ wsDDF494rdT9JVtcbASftabJkJWDYjPP/9k=' transform='matrix(1 0 0 1 25 1)'>
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame2_frame2_SVGID_2_)'>
+        <g opacity='0.15' mask='url(#frame2_SVGID_2_)'>
           <path fill='#C40000' d='M37.01,5.677c1.037,1.06,0.354,2.191,0.227,3.792c-0.126,1.601-1.443,5.718-4.25,5.498
 			c-2.808-0.22-5.225-3.907-5.225-3.907l1.036-6.453C28.796,4.606,34.467,3.076,37.01,5.677z'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8552' stroke-linejoin='bevel' stroke-miterlimit='11' d='M37.01,5.677
@@ -831,12 +831,12 @@ wsDDF494rdT9JVtcbASftabJkJWDYjPP/9k=' transform='matrix(1 0 0 1 25 1)'>
 			l-4.598,0.441c0,0-3.707-1.763,0-4.57c0,0,5.116,1.336,7.563,2.072'/>
         </g>
         <defs>
-          <filter id='frame2_frame2_Adobe_OpacityMaskFilter_2_' filterUnits='userSpaceOnUse' x='36.506' y='16.605' width='9.761' height='5.409'>
+          <filter id='frame2_Adobe_OpacityMaskFilter_2_' filterUnits='userSpaceOnUse' x='36.506' y='16.605' width='9.761' height='5.409'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='36.506' y='16.605' width='9.761' height='5.409' id='frame2_frame2_SVGID_3_'>
-          <g filter='url(#frame2_frame2_Adobe_OpacityMaskFilter_2_)'>
+        <mask maskUnits='userSpaceOnUse' x='36.506' y='16.605' width='9.761' height='5.409' id='frame2_SVGID_3_'>
+          <g filter='url(#frame2_Adobe_OpacityMaskFilter_2_)'>
             <image overflow='visible' width='15' height='11' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAF7AAABjgAAAcD/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -848,7 +848,7 @@ AAwDAQACEQMRAAAAx6Jg/9oACAECAAEFAD//2gAIAQMAAQUAP//aAAgBAQABBQDOz124WK1wb5//
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame2_frame2_SVGID_3_)'>
+        <g opacity='0.15' mask='url(#frame2_SVGID_3_)'>
           <path fill='#C40000' d='M43.179,21.148l-4.598,0.441c0,0-3.707-1.763,0-4.57c0,0,5.116,1.336,7.563,2.072'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8552' stroke-linejoin='bevel' stroke-miterlimit='11' d='M43.179,21.148
 			l-4.598,0.441c0,0-3.707-1.763,0-4.57c0,0,5.116,1.336,7.563,2.072'/>
@@ -863,12 +863,12 @@ AAwDAQACEQMRAAAAx6Jg/9oACAECAAEFAD//2gAIAQMAAQUAP//aAAgBAQABBQDOz124WK1wb5//
 			C30.75,56.2,34.1,46.332,34.1,46.332L37.418,44.621z'/>
         </g>
         <defs>
-          <filter id='frame2_frame2_Adobe_OpacityMaskFilter_3_' filterUnits='userSpaceOnUse' x='30.77' y='44.241' width='7.062' height='17.655'>
+          <filter id='frame2_Adobe_OpacityMaskFilter_3_' filterUnits='userSpaceOnUse' x='30.77' y='44.241' width='7.062' height='17.655'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='30.77' y='44.241' width='7.062' height='17.655' id='frame2_frame2_SVGID_4_'>
-          <g filter='url(#frame2_frame2_Adobe_OpacityMaskFilter_3_)'>
+        <mask maskUnits='userSpaceOnUse' x='30.77' y='44.241' width='7.062' height='17.655' id='frame2_SVGID_4_'>
+          <g filter='url(#frame2_Adobe_OpacityMaskFilter_3_)'>
             <image overflow='visible' width='12' height='22' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGFAAABnQAAAdj/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -881,7 +881,7 @@ DFkq7hX2PMxUIh9iYGX/2gAIAQICBj8AP//aAAgBAwIGPwA//9oACAEBAQY/AONoAMmOOuGWPqO1
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame2_frame2_SVGID_4_)'>
+        <g opacity='0.15' mask='url(#frame2_SVGID_4_)'>
           <path fill='#C40000' d='M37.418,44.621c0,0-3.232,12.026-3.467,12.6c-0.234,0.574-0.234,0.574-0.234,0.574l1.738,3.676
 			c0,0-3.709-0.383-4.208-2.826C30.75,56.2,34.1,46.332,34.1,46.332L37.418,44.621z'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8552' stroke-linejoin='bevel' stroke-miterlimit='11' d='M37.418,44.621
@@ -898,12 +898,12 @@ DFkq7hX2PMxUIh9iYGX/2gAIAQICBj8AP//aAAgBAwIGPwA//9oACAEBAQY/AONoAMmOOuGWPqO1
 			s-1.282-9.078-1.282-9.078l-2.865-4.944L47.465,38.684z'/>
         </g>
         <defs>
-          <filter id='frame2_frame2_Adobe_OpacityMaskFilter_4_' filterUnits='userSpaceOnUse' x='43.78' y='38.409' width='8.872' height='20.367'>
+          <filter id='frame2_Adobe_OpacityMaskFilter_4_' filterUnits='userSpaceOnUse' x='43.78' y='38.409' width='8.872' height='20.367'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='43.78' y='38.409' width='8.872' height='20.367' id='frame2_frame2_SVGID_5_'>
-          <g filter='url(#frame2_frame2_Adobe_OpacityMaskFilter_4_)'>
+        <mask maskUnits='userSpaceOnUse' x='43.78' y='38.409' width='8.872' height='20.367' id='frame2_SVGID_5_'>
+          <g filter='url(#frame2_Adobe_OpacityMaskFilter_4_)'>
             <image overflow='visible' width='14' height='25' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGMAAABqwAAAfH/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -916,7 +916,7 @@ Bj8AuGMmEBq2usnzqo4uygI9t3pkOadsMx2+Vbu+pdD9NYMCaid2Gn//2Q==' transform='matrix(
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame2_frame2_SVGID_5_)'>
+        <g opacity='0.15' mask='url(#frame2_SVGID_5_)'>
           <path fill='#C40000' d='M47.465,38.684c0,0,2.749,4.688,2.794,6.891c0.047,2.203,0.286,10.496,0.286,10.496s2.708,1.724,1.3,2.148
 			c-1.409,0.425-2.461,0.046-3.569-1.937s-1.282-9.078-1.282-9.078l-2.865-4.944L47.465,38.684z'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8038' stroke-linejoin='bevel' stroke-miterlimit='11' d='M47.465,38.684
@@ -933,12 +933,12 @@ Bj8AuGMmEBq2usnzqo4uygI9t3pkOadsMx2+Vbu+pdD9NYMCaid2Gn//2Q==' transform='matrix(
 			c0,0,2.87,5.917,5.766,6.825s8.824,2.101,8.824,2.101L27.787,20.333z'/>
         </g>
         <defs>
-          <filter id='frame2_frame2_Adobe_OpacityMaskFilter_5_' filterUnits='userSpaceOnUse' x='9.747' y='10.448' width='19.362' height='15.034'>
+          <filter id='frame2_Adobe_OpacityMaskFilter_5_' filterUnits='userSpaceOnUse' x='9.747' y='10.448' width='19.362' height='15.034'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='9.747' y='10.448' width='19.362' height='15.034' id='frame2_frame2_SVGID_6_'>
-          <g filter='url(#frame2_frame2_Adobe_OpacityMaskFilter_5_)'>
+        <mask maskUnits='userSpaceOnUse' x='9.747' y='10.448' width='19.362' height='15.034' id='frame2_SVGID_6_'>
+          <g filter='url(#frame2_Adobe_OpacityMaskFilter_5_)'>
             <image overflow='visible' width='25' height='20' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGPAAABsQAAAgD/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -952,7 +952,7 @@ AAAAAAAAAAAAIP/aAAwDAQACEQMRAAAAp+phaSqOvyACWIP/2gAIAQIAAQUA0//aAAgBAwABBQDT
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame2_frame2_SVGID_6_)'>
+        <g opacity='0.15' mask='url(#frame2_SVGID_6_)'>
           <path fill='#C40000' d='M27.787,20.333C27.049,20.088,20,18.448,20,18.448l-3.688-3.538c0,0-0.098-2.452-1.196-3.022
 			s-3.438-1.523-4.542-0.676s0.083,4.17,3.525,4.925c0,0,2.87,5.917,5.766,6.825s8.824,2.101,8.824,2.101L27.787,20.333z'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8552' stroke-linejoin='bevel' stroke-miterlimit='11' d='M27.787,20.333
@@ -971,12 +971,12 @@ AAAAAAAAAAAAIP/aAAwDAQACEQMRAAAAp+phaSqOvyACWIP/2gAIAQIAAQUA0//aAAgBAwABBQDT
 			c0.104-3.241,1.78-7.475,4.225-8.838L40.17,31.45z'/>
         </g>
         <defs>
-          <filter id='frame2_frame2_Adobe_OpacityMaskFilter_6_' filterUnits='userSpaceOnUse' x='27.027' y='31.033' width='24.186' height='22.797'>
+          <filter id='frame2_Adobe_OpacityMaskFilter_6_' filterUnits='userSpaceOnUse' x='27.027' y='31.033' width='24.186' height='22.797'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='27.027' y='31.033' width='24.186' height='22.797' id='frame2_frame2_SVGID_7_'>
-          <g filter='url(#frame2_frame2_Adobe_OpacityMaskFilter_6_)'>
+        <mask maskUnits='userSpaceOnUse' x='27.027' y='31.033' width='24.186' height='22.797' id='frame2_SVGID_7_'>
+          <g filter='url(#frame2_Adobe_OpacityMaskFilter_6_)'>
             <image overflow='visible' width='29' height='27' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGbAAABzgAAAjT/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -990,7 +990,7 @@ dRvo+VBzLip20fFK5pchtSp9XJU+K06GZyRvu1e8UYfyeqVwsnnTpp3l73FbnG2pz251/9k=' transf
             </image>
           </g>
         </mask>
-        <g mask='url(#frame2_frame2_SVGID_7_)'>
+        <g mask='url(#frame2_SVGID_7_)'>
           <path fill='#C40000' d='M40.17,31.45c0,0,2.015,0.703,5.272,3.386c3.263,2.686,3.671,4.707,5.41,5.983
 			c0,0-1.019,1.601-3.166,2.838c-2.147,1.236-3.403,1.103-4.432,2.08c-1.028,0.979-9.37,7.705-9.37,7.705s-6.683-3.12-6.422-11.229
 			c0.104-3.241,1.78-7.475,4.225-8.838L40.17,31.45z'/>
@@ -1013,12 +1013,12 @@ dRvo+VBzLip20fFK5pchtSp9XJU+K06GZyRvu1e8UYfyeqVwsnnTpp3l73FbnG2pz251/9k=' transf
 			c0,0-2.317-5.837-2.195-7.035C24.541,19.076,27.369,17.657,29.405,17.538z'/>
         </g>
         <defs>
-          <filter id='frame2_frame2_Adobe_OpacityMaskFilter_7_' filterUnits='userSpaceOnUse' x='24.109' y='15.901' width='18.604' height='21.865'>
+          <filter id='frame2_Adobe_OpacityMaskFilter_7_' filterUnits='userSpaceOnUse' x='24.109' y='15.901' width='18.604' height='21.865'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='24.109' y='15.901' width='18.604' height='21.865' id='frame2_frame2_SVGID_8_'>
-          <g filter='url(#frame2_frame2_Adobe_OpacityMaskFilter_7_)'>
+        <mask maskUnits='userSpaceOnUse' x='24.109' y='15.901' width='18.604' height='21.865' id='frame2_SVGID_8_'>
+          <g filter='url(#frame2_Adobe_OpacityMaskFilter_7_)'>
             <image overflow='visible' width='23' height='27' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGXAAABxwAAAjX/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -1032,7 +1032,7 @@ ORrvKBkWra+cTqAjGTWm3kWRIj3rAq0E9eyFT7AaVlv1RYy0lRav22ZumlwTwbm/nt38P//Z' transf
             </image>
           </g>
         </mask>
-        <g mask='url(#frame2_frame2_SVGID_8_)'>
+        <g mask='url(#frame2_SVGID_8_)'>
           <path fill='#C40000' d='M29.405,17.538l1.688,3.477c0,0,4.123,0.806,5.423-2.031l-0.191-2.656c0,0,0.441,0.018,1.405,0.056
 			c0.964,0.039,4.68,0.635,4.68,0.635s-1.189,1.19-1.599,2.136c-0.408,0.947,1.073,2.691,0.947,3.167l-2.192,0.153
 			c0,0,2.076,2.884-0.217,5.447l2.188,3.528c0,0-2.608,5.889-5.528,5.888c-2.921,0.001-5.894-1.69-6.361-2.993l1.439-5.707
@@ -1055,12 +1055,12 @@ ORrvKBkWra+cTqAjGTWm3kWRIj3rAq0E9eyFT7AaVlv1RYy0lRav22ZumlwTwbm/nt38P//Z' transf
 			c2.447,0.734-3.391,7.591-3.391,7.591l0.333,2.325c0,0-3.076,1.604-3.299-0.4c-0.223-2.005,1.408-3.955,1.408-3.955l1.983-3.503'/>
         </g>
         <defs>
-          <filter id='frame2_frame2_Adobe_OpacityMaskFilter_8_' filterUnits='userSpaceOnUse' x='39.339' y='18.681' width='7.832' height='11.361'>
+          <filter id='frame2_Adobe_OpacityMaskFilter_8_' filterUnits='userSpaceOnUse' x='39.339' y='18.681' width='7.832' height='11.361'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='39.339' y='18.681' width='7.832' height='11.361' id='frame2_frame2_SVGID_9_'>
-          <g filter='url(#frame2_frame2_Adobe_OpacityMaskFilter_8_)'>
+        <mask maskUnits='userSpaceOnUse' x='39.339' y='18.681' width='7.832' height='11.361' id='frame2_SVGID_9_'>
+          <g filter='url(#frame2_Adobe_OpacityMaskFilter_8_)'>
             <image overflow='visible' width='13' height='17' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAF8AAABkAAAAcT/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -1072,7 +1072,7 @@ M//aAAgBAgIGPwA//9oACAEDAgY/AD//2gAIAQEBBj8A82oArjwK8Z9ZRlT8bDHO/c2umj//2Q==' tr
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame2_frame2_SVGID_9_)'>
+        <g opacity='0.15' mask='url(#frame2_SVGID_9_)'>
           <path fill='#C40000' d='M46.144,19.091c2.447,0.734-3.391,7.591-3.391,7.591l0.333,2.325c0,0-3.076,1.604-3.299-0.4
 			c-0.223-2.005,1.408-3.955,1.408-3.955l1.983-3.503'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8552' stroke-linejoin='bevel' stroke-miterlimit='11' d='M46.144,19.091
@@ -1098,12 +1098,12 @@ M//aAAgBAgIGPwA//9oACAEDAgY/AD//2gAIAQEBBj8A82oArjwK8Z9ZRlT8bDHO/c2umj//2Q==' tr
 			c-2.124-1.561-4.189-1.784-3.254-4.909L31.149,12.147z'/>
         </g>
         <defs>
-          <filter id='frame3_frame3_Adobe_OpacityMaskFilter' filterUnits='userSpaceOnUse' x='27.732' y='11.748' width='11.327' height='15.485'>
+          <filter id='frame3_Adobe_OpacityMaskFilter' filterUnits='userSpaceOnUse' x='27.732' y='11.748' width='11.327' height='15.485'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='27.732' y='11.748' width='11.327' height='15.485' id='frame3_frame3_SVGID_1_'>
-          <g filter='url(#frame3_frame3_Adobe_OpacityMaskFilter)'>
+        <mask maskUnits='userSpaceOnUse' x='27.732' y='11.748' width='11.327' height='15.485' id='frame3_SVGID_1_'>
+          <g filter='url(#frame3_Adobe_OpacityMaskFilter)'>
             <image overflow='visible' width='17' height='21' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGRAAABtAAAAgf/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -1117,7 +1117,7 @@ qNPTZGy//9k=' transform='matrix(1 0 0 1 25 9)'>
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame3_frame3_SVGID_1_)'>
+        <g opacity='0.15' mask='url(#frame3_SVGID_1_)'>
           <path fill='#C40000' d='M31.149,12.147c0,0,0.841,3.542-0.577,5.341c-1.418,1.799-2.419,2.722-2.419,2.722
 			s1.267,6.911,4.955,6.584c3.69-0.327,5.021-3.327,5.699-8.052c-2.124-1.561-4.189-1.784-3.254-4.909L31.149,12.147z'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8552' stroke-linejoin='bevel' stroke-miterlimit='11' d='M31.149,12.147
@@ -1134,12 +1134,12 @@ qNPTZGy//9k=' transform='matrix(1 0 0 1 25 9)'>
 			C30.574,4.879,36.336,3.737,38.696,6.504z'/>
         </g>
         <defs>
-          <filter id='frame3_frame3_Adobe_OpacityMaskFilter_1_' filterUnits='userSpaceOnUse' x='28.686' y='4.218' width='10.913' height='11.739'>
+          <filter id='frame3_Adobe_OpacityMaskFilter_1_' filterUnits='userSpaceOnUse' x='28.686' y='4.218' width='10.913' height='11.739'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='28.686' y='4.218' width='10.913' height='11.739' id='frame3_frame3_SVGID_2_'>
-          <g filter='url(#frame3_frame3_Adobe_OpacityMaskFilter_1_)'>
+        <mask maskUnits='userSpaceOnUse' x='28.686' y='4.218' width='10.913' height='11.739' id='frame3_SVGID_2_'>
+          <g filter='url(#frame3_Adobe_OpacityMaskFilter_1_)'>
             <image overflow='visible' width='16' height='16' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAF7AAABlwAAAdf/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -1152,7 +1152,7 @@ uPVNjyTYOV+QSqt3CPrP/9k=' transform='matrix(1 0 0 1 26 2)'>
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame3_frame3_SVGID_2_)'>
+        <g opacity='0.15' mask='url(#frame3_SVGID_2_)'>
           <path fill='#C40000' d='M38.696,6.504c0.962,1.128,0.204,2.21-0.031,3.798c-0.234,1.588-1.829,5.607-4.614,5.197
 			c-2.787-0.41-4.948-4.253-4.948-4.253l1.472-6.368C30.574,4.879,36.336,3.737,38.696,6.504z'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8552' stroke-linejoin='bevel' stroke-miterlimit='11' d='M38.696,6.504
@@ -1169,12 +1169,12 @@ uPVNjyTYOV+QSqt3CPrP/9k=' transform='matrix(1 0 0 1 26 2)'>
 			c-0.067-2.493,4.94-11.633,4.94-11.633L39.766,45.114z'/>
         </g>
         <defs>
-          <filter id='frame3_frame3_Adobe_OpacityMaskFilter_2_' filterUnits='userSpaceOnUse' x='30.833' y='44.706' width='9.32' height='17.074'>
+          <filter id='frame3_Adobe_OpacityMaskFilter_2_' filterUnits='userSpaceOnUse' x='30.833' y='44.706' width='9.32' height='17.074'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='30.833' y='44.706' width='9.32' height='17.074' id='frame3_frame3_SVGID_3_'>
-          <g filter='url(#frame3_frame3_Adobe_OpacityMaskFilter_2_)'>
+        <mask maskUnits='userSpaceOnUse' x='30.833' y='44.706' width='9.32' height='17.074' id='frame3_SVGID_3_'>
+          <g filter='url(#frame3_Adobe_OpacityMaskFilter_2_)'>
             <image overflow='visible' width='15' height='22' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGDAAABngAAAeD/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -1187,7 +1187,7 @@ sexYxV7mXPkIAxrfOrNnxmru2Jske/jp/9k=' transform='matrix(1 0 0 1 28 42)'>
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame3_frame3_SVGID_3_)'>
+        <g opacity='0.15' mask='url(#frame3_SVGID_3_)'>
           <path fill='#C40000' d='M39.766,45.114c0,0-5.265,11.285-5.594,11.809c-0.332,0.525-0.332,0.525-0.332,0.525l1.076,3.921
 			c0,0-3.587-1.019-3.655-3.512c-0.067-2.493,4.94-11.633,4.94-11.633L39.766,45.114z'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8552' stroke-linejoin='bevel' stroke-miterlimit='11' d='M39.766,45.114
@@ -1204,12 +1204,12 @@ sexYxV7mXPkIAxrfOrNnxmru2Jske/jp/9k=' transform='matrix(1 0 0 1 28 42)'>
 			c-1.409,0.425-2.124-0.588-3.232-2.57s-2.915-9.078-2.915-9.078l-1.232-4.944L47.465,38.684z'/>
         </g>
         <defs>
-          <filter id='frame3_frame3_Adobe_OpacityMaskFilter_3_' filterUnits='userSpaceOnUse' x='43.738' y='38.409' width='8.618' height='20.941'>
+          <filter id='frame3_Adobe_OpacityMaskFilter_3_' filterUnits='userSpaceOnUse' x='43.738' y='38.409' width='8.618' height='20.941'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='43.738' y='38.409' width='8.618' height='20.941' id='frame3_frame3_SVGID_4_'>
-          <g filter='url(#frame3_frame3_Adobe_OpacityMaskFilter_3_)'>
+        <mask maskUnits='userSpaceOnUse' x='43.738' y='38.409' width='8.618' height='20.941' id='frame3_SVGID_4_'>
+          <g filter='url(#frame3_Adobe_OpacityMaskFilter_3_)'>
             <image overflow='visible' width='14' height='26' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGKAAABpQAAAef/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -1222,7 +1222,7 @@ NjzJ75yUDlqgdY2VrlguqRY7ytNe0B1RtE5ap7n/AP/Z' transform='matrix(1 0 0 1 41 36)'>
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame3_frame3_SVGID_4_)'>
+        <g opacity='0.15' mask='url(#frame3_SVGID_4_)'>
           <path fill='#C40000' d='M47.465,38.684c0,0,1.116,4.688,1.161,6.891c0.047,2.203,1.919,10.496,1.919,10.496
 			s2.371,2.357,0.963,2.782c-1.409,0.425-2.124-0.588-3.232-2.57s-2.915-9.078-2.915-9.078l-1.232-4.944L47.465,38.684z'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8038' stroke-linejoin='bevel' stroke-miterlimit='11' d='M47.465,38.684
@@ -1242,12 +1242,12 @@ NjzJ75yUDlqgdY2VrlguqRY7ytNe0B1RtE5ap7n/AP/Z' transform='matrix(1 0 0 1 41 36)'>
 			l-4.598,0.441v-3.556c0,0,5.116,0.323,7.563,1.058'/>
         </g>
         <defs>
-          <filter id='frame3_frame3_Adobe_OpacityMaskFilter_4_' filterUnits='userSpaceOnUse' x='38.153' y='17.606' width='8.113' height='4.409'>
+          <filter id='frame3_Adobe_OpacityMaskFilter_4_' filterUnits='userSpaceOnUse' x='38.153' y='17.606' width='8.113' height='4.409'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='38.153' y='17.606' width='8.113' height='4.409' id='frame3_frame3_SVGID_5_'>
-          <g filter='url(#frame3_frame3_Adobe_OpacityMaskFilter_4_)'>
+        <mask maskUnits='userSpaceOnUse' x='38.153' y='17.606' width='8.113' height='4.409' id='frame3_SVGID_5_'>
+          <g filter='url(#frame3_Adobe_OpacityMaskFilter_4_)'>
             <image overflow='visible' width='13' height='10' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAF7AAABjAAAAbj/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -1259,7 +1259,7 @@ CAECAgY/AH//2gAIAQMCBj8Af//aAAgBAQEGPwBXXqjPWTAxQa3D/wD/2Q==' transform='matrix(
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame3_frame3_SVGID_5_)'>
+        <g opacity='0.15' mask='url(#frame3_SVGID_5_)'>
           <path fill='#C40000' d='M43.179,21.148l-4.598,0.441v-3.556c0,0,5.116,0.323,7.563,1.058'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8552' stroke-linejoin='bevel' stroke-miterlimit='11' d='M43.179,21.148
 			l-4.598,0.441v-3.556c0,0,5.116,0.323,7.563,1.058'/>
@@ -1276,12 +1276,12 @@ CAECAgY/AH//2gAIAQMCBj8Af//aAAgBAQEGPwBXXqjPWTAxQa3D/wD/2Q==' transform='matrix(
 			c-0.192-3.237,2.242-9.883,4.688-11.246L40.17,31.45z'/>
         </g>
         <defs>
-          <filter id='frame3_frame3_Adobe_OpacityMaskFilter_5_' filterUnits='userSpaceOnUse' x='26.562' y='31.033' width='24.605' height='22.786'>
+          <filter id='frame3_Adobe_OpacityMaskFilter_5_' filterUnits='userSpaceOnUse' x='26.562' y='31.033' width='24.605' height='22.786'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='26.562' y='31.033' width='24.605' height='22.786' id='frame3_frame3_SVGID_6_'>
-          <g filter='url(#frame3_frame3_Adobe_OpacityMaskFilter_5_)'>
+        <mask maskUnits='userSpaceOnUse' x='26.562' y='31.033' width='24.605' height='22.786' id='frame3_SVGID_6_'>
+          <g filter='url(#frame3_Adobe_OpacityMaskFilter_5_)'>
             <image overflow='visible' width='30' height='27' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGaAAABzQAAAjL/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -1295,7 +1295,7 @@ p+uFWu8KQUGwwey4c05GcBPy/PPb2iqKhQHuU9INKx7nyJ0HrBfc1S9fHx6YGctOD//Z' transform=
             </image>
           </g>
         </mask>
-        <g mask='url(#frame3_frame3_SVGID_6_)'>
+        <g mask='url(#frame3_SVGID_6_)'>
           <path fill='#C40000' d='M40.17,31.45c0,0,1.113,0.539,4.371,3.222c3.263,2.686,4.572,5.363,6.312,6.64
 			c0,0-1.019,1.108-3.166,2.346c-2.147,1.236-5.217,2.875-6.148,3.392c-1.241,0.688-11.89,6.394-11.89,6.394
 			s-2.36-3.965-2.648-8.821c-0.192-3.237,2.242-9.883,4.688-11.246L40.17,31.45z'/>
@@ -1312,12 +1312,12 @@ p+uFWu8KQUGwwey4c05GcBPy/PPb2iqKhQHuU9INKx7nyJ0HrBfc1S9fHx6YGctOD//Z' transform=
 			c0,0-8.844-1.052-9.59,0s4.795,4.508,4.795,4.508l5.667-0.534L27.711,19.079z'/>
         </g>
         <defs>
-          <filter id='frame3_frame3_Adobe_OpacityMaskFilter_6_' filterUnits='userSpaceOnUse' x='17.624' y='18.184' width='11.376' height='5.829'>
+          <filter id='frame3_Adobe_OpacityMaskFilter_6_' filterUnits='userSpaceOnUse' x='17.624' y='18.184' width='11.376' height='5.829'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='17.624' y='18.184' width='11.376' height='5.829' id='frame3_frame3_SVGID_7_'>
-          <g filter='url(#frame3_frame3_Adobe_OpacityMaskFilter_6_)'>
+        <mask maskUnits='userSpaceOnUse' x='17.624' y='18.184' width='11.376' height='5.829' id='frame3_SVGID_7_'>
+          <g filter='url(#frame3_Adobe_OpacityMaskFilter_6_)'>
             <image overflow='visible' width='17' height='11' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAF7AAABjgAAAb//2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -1329,7 +1329,7 @@ AwEAAhEDEQAAAMdLpQB//9oACAECAAEFAB//2gAIAQMAAQUAH//aAAgBAQABBQCUqe5tqZP5U4//
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame3_frame3_SVGID_7_)'>
+        <g opacity='0.15' mask='url(#frame3_SVGID_7_)'>
           <path fill='#C40000' d='M27.711,19.079c0,0-8.844-1.052-9.59,0s4.795,4.508,4.795,4.508l5.667-0.534L27.711,19.079z'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8552' stroke-linejoin='bevel' stroke-miterlimit='11' d='M27.711,19.079
 			c0,0-8.844-1.052-9.59,0s4.795,4.508,4.795,4.508l5.667-0.534L27.711,19.079z'/>
@@ -1348,12 +1348,12 @@ AwEAAhEDEQAAAMdLpQB//9oACAECAAEFAB//2gAIAQMAAQUAH//aAAgBAQABBQCUqe5tqZP5U4//
 			c0,0-1.439-6.975-1.236-8.162C25.822,18.033,28.264,17.803,30.303,17.822z'/>
         </g>
         <defs>
-          <filter id='frame3_frame3_Adobe_OpacityMaskFilter_7_' filterUnits='userSpaceOnUse' x='25.375' y='16.66' width='17.745' height='21.798'>
+          <filter id='frame3_Adobe_OpacityMaskFilter_7_' filterUnits='userSpaceOnUse' x='25.375' y='16.66' width='17.745' height='21.798'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='25.375' y='16.66' width='17.745' height='21.798' id='frame3_frame3_SVGID_8_'>
-          <g filter='url(#frame3_frame3_Adobe_OpacityMaskFilter_7_)'>
+        <mask maskUnits='userSpaceOnUse' x='25.375' y='16.66' width='17.745' height='21.798' id='frame3_SVGID_8_'>
+          <g filter='url(#frame3_Adobe_OpacityMaskFilter_7_)'>
             <image overflow='visible' width='23' height='27' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGRAAABwAAAAi//2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -1367,7 +1367,7 @@ VbYllmYpFYyF3NtQPGZaslzChwSfRmsuoJVYxpd6sC2t5HJ7hWBng2PTDD54f//Z' transform='mat
             </image>
           </g>
         </mask>
-        <g mask='url(#frame3_frame3_SVGID_8_)'>
+        <g mask='url(#frame3_SVGID_8_)'>
           <path fill='#C40000' d='M30.303,17.822l1.448,3.584c0,0,4.058,1.084,5.548-1.659l-0.011-2.663c0,0,1.399,0.151,2.357,0.255
 			c0.959,0.104,3.183,1.231,3.183,1.231s-0.783,0.723-1.255,1.639c-0.472,0.917,0.887,2.757,0.729,3.224l-2.197,0.004
 			c0,0,1.875,3.018-0.586,5.419l2.323,3.702c0,0-3.383,5.665-6.296,5.465c-2.914-0.198-5.655-0.819-6.033-2.151l1.713-6.863
@@ -1391,12 +1391,12 @@ VbYllmYpFYyF3NtQPGZaslzChwSfRmsuoJVYxpd6sC2t5HJ7hWBng2PTDD54f//Z' transform='mat
 			C22.648,24.165,16.408,22.284,18.014,18.886z'/>
         </g>
         <defs>
-          <filter id='frame3_frame3_Adobe_OpacityMaskFilter_8_' filterUnits='userSpaceOnUse' x='17.322' y='18.109' width='11.99' height='8.611'>
+          <filter id='frame3_Adobe_OpacityMaskFilter_8_' filterUnits='userSpaceOnUse' x='17.322' y='18.109' width='11.99' height='8.611'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='17.322' y='18.109' width='11.99' height='8.611' id='frame3_frame3_SVGID_9_'>
-          <g filter='url(#frame3_frame3_Adobe_OpacityMaskFilter_8_)'>
+        <mask maskUnits='userSpaceOnUse' x='17.322' y='18.109' width='11.99' height='8.611' id='frame3_SVGID_9_'>
+          <g filter='url(#frame3_Adobe_OpacityMaskFilter_8_)'>
             <image overflow='visible' width='17' height='13' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGEAAABnAAAAdj/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -1409,7 +1409,7 @@ a+xEm4d1GKebQ3609dOe0v/Z' transform='matrix(1 0 0 1 15 16)'>
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame3_frame3_SVGID_9_)'>
+        <g opacity='0.15' mask='url(#frame3_SVGID_9_)'>
           <path fill='#C40000' d='M18.014,18.886c0,0,2.027-0.902,3.923,0.193s2.676,3.346,2.676,3.346s2.741-0.719,3.675,1.084
 			s0.836,2.816-0.771,2.783s-5.543-0.406-4.87-2.127C22.648,24.165,16.408,22.284,18.014,18.886z'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8552' stroke-linejoin='bevel' stroke-miterlimit='11' d='M18.014,18.886
@@ -1425,12 +1425,12 @@ a+xEm4d1GKebQ3609dOe0v/Z' transform='matrix(1 0 0 1 15 16)'>
 			c2.447,0.735-3.488,7.202-3.488,7.202l-1.439,2.225c0,0-3.076,1.604-3.299-0.4c-0.223-2.005,2.525-3.282,2.525-3.282l2.736-3.688'/>
         </g>
         <defs>
-          <filter id='frame3_frame3_Adobe_OpacityMaskFilter_9_' filterUnits='userSpaceOnUse' x='37.477' y='18.681' width='9.687' height='10.872'>
+          <filter id='frame3_Adobe_OpacityMaskFilter_9_' filterUnits='userSpaceOnUse' x='37.477' y='18.681' width='9.687' height='10.872'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='37.477' y='18.681' width='9.687' height='10.872' id='frame3_frame3_SVGID_10_'>
-          <g filter='url(#frame3_frame3_Adobe_OpacityMaskFilter_9_)'>
+        <mask maskUnits='userSpaceOnUse' x='37.477' y='18.681' width='9.687' height='10.872' id='frame3_SVGID_10_'>
+          <g filter='url(#frame3_Adobe_OpacityMaskFilter_9_)'>
             <image overflow='visible' width='15' height='16' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAF7AAABkwAAAc7/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -1443,7 +1443,7 @@ hJ3u9vM//9k=' transform='matrix(1 0 0 1 35 16)'>
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame3_frame3_SVGID_10_)'>
+        <g opacity='0.15' mask='url(#frame3_SVGID_10_)'>
           <path fill='#C40000' d='M46.144,19.091c2.447,0.735-3.488,7.202-3.488,7.202l-1.439,2.225c0,0-3.076,1.604-3.299-0.4
 			c-0.223-2.005,2.525-3.282,2.525-3.282l2.736-3.688'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8552' stroke-linejoin='bevel' stroke-miterlimit='11' d='M46.144,19.091
@@ -1464,12 +1464,12 @@ hJ3u9vM//9k=' transform='matrix(1 0 0 1 35 16)'>
 			c-1.936-1.79-3.963-2.243-2.684-5.242L34.328,11.21z'/>
         </g>
         <defs>
-          <filter id='frame4_frame4_Adobe_OpacityMaskFilter' filterUnits='userSpaceOnUse' x='30.018' y='10.831' width='11.468' height='15.583'>
+          <filter id='frame4_Adobe_OpacityMaskFilter' filterUnits='userSpaceOnUse' x='30.018' y='10.831' width='11.468' height='15.583'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='30.018' y='10.831' width='11.468' height='15.583' id='frame4_frame4_SVGID_1_'>
-          <g filter='url(#frame4_frame4_Adobe_OpacityMaskFilter)'>
+        <mask maskUnits='userSpaceOnUse' x='30.018' y='10.831' width='11.468' height='15.583' id='frame4_SVGID_1_'>
+          <g filter='url(#frame4_Adobe_OpacityMaskFilter)'>
             <image overflow='visible' width='16' height='21' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGIAAABqAAAAfX/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -1482,7 +1482,7 @@ ZprYJc/kIwTtNe9wAehV264DcgwJd2mrItBp1HEiYCf8zMjjo8p29qz8Vc1//9k=' transform='mat
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame4_frame4_SVGID_1_)'>
+        <g opacity='0.15' mask='url(#frame4_SVGID_1_)'>
           <path fill='#C40000' d='M34.328,11.21c0,0,0.438,3.615-1.174,5.242c-1.612,1.628-2.709,2.433-2.709,2.433s0.483,7.009,4.185,7.099
 			c3.701,0.09,5.361-2.743,6.566-7.362c-1.936-1.79-3.963-2.243-2.684-5.242L34.328,11.21z'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8552' stroke-linejoin='bevel' stroke-miterlimit='11' d='M34.328,11.21
@@ -1499,12 +1499,12 @@ ZprYJc/kIwTtNe9wAehV264DcgwJd2mrItBp1HEiYCf8zMjjo8p29qz8Vc1//9k=' transform='mat
 			C34.572,3.923,40.425,3.436,42.46,6.45z'/>
         </g>
         <defs>
-          <filter id='frame4_frame4_Adobe_OpacityMaskFilter_1_' filterUnits='userSpaceOnUse' x='31.992' y='3.467' width='11.241' height='11.917'>
+          <filter id='frame4_Adobe_OpacityMaskFilter_1_' filterUnits='userSpaceOnUse' x='31.992' y='3.467' width='11.241' height='11.917'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='31.992' y='3.467' width='11.241' height='11.917' id='frame4_frame4_SVGID_2_'>
-          <g filter='url(#frame4_frame4_Adobe_OpacityMaskFilter_1_)'>
+        <mask maskUnits='userSpaceOnUse' x='31.992' y='3.467' width='11.241' height='11.917' id='frame4_SVGID_2_'>
+          <g filter='url(#frame4_Adobe_OpacityMaskFilter_1_)'>
             <image overflow='visible' width='17' height='17' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGCAAABnQAAAeL/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -1517,7 +1517,7 @@ S9RMQd8noxdfamz6I3B0lNAK0rkziTx2/wD/2Q==' transform='matrix(1 0 0 1 29 1)'>
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame4_frame4_SVGID_2_)'>
+        <g opacity='0.15' mask='url(#frame4_SVGID_2_)'>
           <path fill='#C40000' d='M42.46,6.45c0.83,1.229-0.046,2.219-0.458,3.771c-0.411,1.552-2.446,5.366-5.168,4.646
 			c-2.724-0.72-4.439-4.782-4.439-4.782l2.177-6.162C34.572,3.923,40.425,3.436,42.46,6.45z'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8552' stroke-linejoin='bevel' stroke-miterlimit='11' d='M42.46,6.45
@@ -1534,12 +1534,12 @@ S9RMQd8noxdfamz6I3B0lNAK0rkziTx2/wD/2Q==' transform='matrix(1 0 0 1 29 1)'>
 			c0.179-2.488,6.064-11.089,6.064-11.089L41.578,45.498z'/>
         </g>
         <defs>
-          <filter id='frame4_frame4_Adobe_OpacityMaskFilter_2_' filterUnits='userSpaceOnUse' x='31.424' y='45.079' width='10.522' height='16.513'>
+          <filter id='frame4_Adobe_OpacityMaskFilter_2_' filterUnits='userSpaceOnUse' x='31.424' y='45.079' width='10.522' height='16.513'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='31.424' y='45.079' width='10.522' height='16.513' id='frame4_frame4_SVGID_3_'>
-          <g filter='url(#frame4_frame4_Adobe_OpacityMaskFilter_2_)'>
+        <mask maskUnits='userSpaceOnUse' x='31.424' y='45.079' width='10.522' height='16.513' id='frame4_SVGID_3_'>
+          <g filter='url(#frame4_Adobe_OpacityMaskFilter_2_)'>
             <image overflow='visible' width='15' height='21' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGEAAABnwAAAeH/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -1552,7 +1552,7 @@ zBXbS4xWXeGC/agr3E9d1085mmj5+Wk8P//Z' transform='matrix(1 0 0 1 29 43)'>
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame4_frame4_SVGID_3_)'>
+        <g opacity='0.15' mask='url(#frame4_SVGID_3_)'>
           <path fill='#C40000' d='M41.578,45.498c0,0-6.353,10.71-6.731,11.198c-0.382,0.49-0.382,0.49-0.382,0.49l0.684,4.008
 			c0,0-3.469-1.367-3.291-3.854c0.179-2.488,6.064-11.089,6.064-11.089L41.578,45.498z'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8552' stroke-linejoin='bevel' stroke-miterlimit='11' d='M41.578,45.498
@@ -1569,12 +1569,12 @@ zBXbS4xWXeGC/agr3E9d1085mmj5+Wk8P//Z' transform='matrix(1 0 0 1 29 43)'>
 			s-5.471-7.466-5.471-7.466l-1.668-4.339L44.474,40.901z'/>
         </g>
         <defs>
-          <filter id='frame4_frame4_Adobe_OpacityMaskFilter_3_' filterUnits='userSpaceOnUse' x='40.762' y='40.627' width='11.653' height='18.724'>
+          <filter id='frame4_Adobe_OpacityMaskFilter_3_' filterUnits='userSpaceOnUse' x='40.762' y='40.627' width='11.653' height='18.724'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='40.762' y='40.627' width='11.653' height='18.724' id='frame4_frame4_SVGID_4_'>
-          <g filter='url(#frame4_frame4_Adobe_OpacityMaskFilter_3_)'>
+        <mask maskUnits='userSpaceOnUse' x='40.762' y='40.627' width='11.653' height='18.724' id='frame4_SVGID_4_'>
+          <g filter='url(#frame4_Adobe_OpacityMaskFilter_3_)'>
             <image overflow='visible' width='17' height='24' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGGAAABoQAAAd7/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -1587,7 +1587,7 @@ k+UoxbjnTYm8cl2Q91WGQZMh9XO1P//Z' transform='matrix(1 0 0 1 38 38)'>
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame4_frame4_SVGID_4_)'>
+        <g opacity='0.15' mask='url(#frame4_SVGID_4_)'>
           <path fill='#C40000' d='M44.474,40.901c0,0,1.625,4.766,1.67,6.968c1.656,2.22,4.791,7.95,4.791,7.95s1.981,2.608,0.573,3.033
 			c-1.409,0.425-2.124-0.588-3.232-2.57s-5.471-7.466-5.471-7.466l-1.668-4.339L44.474,40.901z'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8038' stroke-linejoin='bevel' stroke-miterlimit='11' d='M44.474,40.901
@@ -1613,12 +1613,12 @@ k+UoxbjnTYm8cl2Q91WGQZMh9XO1P//Z' transform='matrix(1 0 0 1 38 38)'>
 			s-1.027-4.235,1.394-9.208c1.42-2.915,0.669-7.316,3.114-8.68L40.17,31.45z'/>
         </g>
         <defs>
-          <filter id='frame4_frame4_Adobe_OpacityMaskFilter_4_' filterUnits='userSpaceOnUse' x='26.535' y='30.996' width='25.57' height='22.12'>
+          <filter id='frame4_Adobe_OpacityMaskFilter_4_' filterUnits='userSpaceOnUse' x='26.535' y='30.996' width='25.57' height='22.12'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='26.535' y='30.996' width='25.57' height='22.12' id='frame4_frame4_SVGID_5_'>
-          <g filter='url(#frame4_frame4_Adobe_OpacityMaskFilter_4_)'>
+        <mask maskUnits='userSpaceOnUse' x='26.535' y='30.996' width='25.57' height='22.12' id='frame4_SVGID_5_'>
+          <g filter='url(#frame4_Adobe_OpacityMaskFilter_4_)'>
             <image overflow='visible' width='31' height='28' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGWAAAB0AAAAkL/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -1633,7 +1633,7 @@ od/uJjdfnj//2Q==' transform='matrix(1 0 0 1 24 28)'>
             </image>
           </g>
         </mask>
-        <g mask='url(#frame4_frame4_SVGID_5_)'>
+        <g mask='url(#frame4_SVGID_5_)'>
           <path fill='#C40000' d='M40.17,31.45c0,0,1.974-0.437,5.231,2.246c3.263,2.686,4.672,5.698,6.411,6.975
 			c0,0-1.668,1.569-3.815,2.807c-2.147,1.236-2.841,3.25-3.869,4.228c-1.028,0.979-1.667,2.782-8.275,4.426
 			c-6.609,1.643-8.673-0.868-8.673-0.868s-1.027-4.235,1.394-9.208c1.42-2.915,0.669-7.316,3.114-8.68L40.17,31.45z'/>
@@ -1650,12 +1650,12 @@ od/uJjdfnj//2Q==' transform='matrix(1 0 0 1 24 28)'>
 			c0,0-8.771,4.671-8.853,7.623s2.711,1.967,2.711,1.967l6.142-3.846V17.705z'/>
         </g>
         <defs>
-          <filter id='frame4_frame4_Adobe_OpacityMaskFilter_5_' filterUnits='userSpaceOnUse' x='20.177' y='17.328' width='9.709' height='10.552'>
+          <filter id='frame4_Adobe_OpacityMaskFilter_5_' filterUnits='userSpaceOnUse' x='20.177' y='17.328' width='9.709' height='10.552'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='20.177' y='17.328' width='9.709' height='10.552' id='frame4_frame4_SVGID_6_'>
-          <g filter='url(#frame4_frame4_Adobe_OpacityMaskFilter_5_)'>
+        <mask maskUnits='userSpaceOnUse' x='20.177' y='17.328' width='9.709' height='10.552' id='frame4_SVGID_6_'>
+          <g filter='url(#frame4_Adobe_OpacityMaskFilter_5_)'>
             <image overflow='visible' width='14' height='15' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAF+AAABlwAAAeP/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -1668,7 +1668,7 @@ VImFivPITqyKW88QaSZll/YCSilDy7gLa/Sv/9k=' transform='matrix(1 0 0 1 18 15)'>
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame4_frame4_SVGID_6_)'>
+        <g opacity='0.15' mask='url(#frame4_SVGID_6_)'>
           <path fill='#C40000' d='M29.459,17.705c0,0-8.771,4.671-8.853,7.623s2.711,1.967,2.711,1.967l6.142-3.846V17.705z'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8552' stroke-linejoin='bevel' stroke-miterlimit='11' d='M29.459,17.705
 			c0,0-8.771,4.671-8.853,7.623s2.711,1.967,2.711,1.967l6.142-3.846V17.705z'/>
@@ -1687,12 +1687,12 @@ VImFivPITqyKW88QaSZll/YCSilDy7gLa/Sv/9k=' transform='matrix(1 0 0 1 18 15)'>
 			C28.305,17.244,30.826,16.506,32.85,16.754z'/>
         </g>
         <defs>
-          <filter id='frame4_frame4_Adobe_OpacityMaskFilter_6_' filterUnits='userSpaceOnUse' x='27.788' y='16.276' width='17.678' height='21.607'>
+          <filter id='frame4_Adobe_OpacityMaskFilter_6_' filterUnits='userSpaceOnUse' x='27.788' y='16.276' width='17.678' height='21.607'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='27.788' y='16.276' width='17.678' height='21.607' id='frame4_frame4_SVGID_7_'>
-          <g filter='url(#frame4_frame4_Adobe_OpacityMaskFilter_6_)'>
+        <mask maskUnits='userSpaceOnUse' x='27.788' y='16.276' width='17.678' height='21.607' id='frame4_SVGID_7_'>
+          <g filter='url(#frame4_Adobe_OpacityMaskFilter_6_)'>
             <image overflow='visible' width='23' height='26' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGRAAABvwAAAiX/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -1706,7 +1706,7 @@ wqB8JxLplE9hI6BXE5Vdf9FMyeRwhXBO2IGfpCwPILNvYzwf/9k=' transform='matrix(1 0 0 1 
             </image>
           </g>
         </mask>
-        <g mask='url(#frame4_frame4_SVGID_7_)'>
+        <g mask='url(#frame4_SVGID_7_)'>
           <path fill='#C40000' d='M32.85,16.754l1.037,3.724c0,0,3.911,1.532,5.699-1.026l0.287-2.647c0,0,1.374,0.308,2.314,0.518
 			c0.942,0.211,3.025,1.582,3.025,1.582s-0.86,0.629-1.433,1.486c-0.571,0.859,0.573,2.839,0.364,3.287l-2.185-0.243
 			c0,0,1.525,3.209-1.189,5.32l2.034,4.032c0,0-4.14,5.154-7.013,4.631c-2.872-0.524-5.63-1.57-5.855-2.937l2.576-6.506l-1.848-3.29
@@ -1728,12 +1728,12 @@ wqB8JxLplE9hI6BXE5Vdf9FMyeRwhXBO2IGfpCwPILNvYzwf/9k=' transform='matrix(1 0 0 1 
 			c0.669-0.913-1.477-3.142-3.584-3.534c0,0-2.868-1.81-3.849-3.089C24.974,26.711,19.438,24.018,20.442,26.112z'/>
         </g>
         <defs>
-          <filter id='frame4_frame4_Adobe_OpacityMaskFilter_7_' filterUnits='userSpaceOnUse' x='19.961' y='24.955' width='12.931' height='9.354'>
+          <filter id='frame4_Adobe_OpacityMaskFilter_7_' filterUnits='userSpaceOnUse' x='19.961' y='24.955' width='12.931' height='9.354'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='19.961' y='24.955' width='12.931' height='9.354' id='frame4_frame4_SVGID_8_'>
-          <g filter='url(#frame4_frame4_Adobe_OpacityMaskFilter_7_)'>
+        <mask maskUnits='userSpaceOnUse' x='19.961' y='24.955' width='12.931' height='9.354' id='frame4_SVGID_8_'>
+          <g filter='url(#frame4_Adobe_OpacityMaskFilter_7_)'>
             <image overflow='visible' width='18' height='15' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGBAAABmAAAAdT/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -1746,7 +1746,7 @@ Ip/nLmAIJHg47It//9k=' transform='matrix(1 0 0 1 17 22)'>
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame4_frame4_SVGID_8_)'>
+        <g opacity='0.15' mask='url(#frame4_SVGID_8_)'>
           <path fill='#C40000' d='M20.442,26.112c1.003,2.095,4.863,4.64,6.664,5.083c0,0-1.149,1.666,0.995,2.247
 			c2.144,0.583,3.635,0.805,4.306-0.108c0.669-0.913-1.477-3.142-3.584-3.534c0,0-2.868-1.81-3.849-3.089
 			C24.974,26.711,19.438,24.018,20.442,26.112z'/>
@@ -1763,12 +1763,12 @@ Ip/nLmAIJHg47It//9k=' transform='matrix(1 0 0 1 17 22)'>
 			c4.791,3.204-5.373,5.5-5.373,5.5l-2.377,2.862c0,0-2.897,1.196-3.12-0.808c-0.223-2.005,2.373-3.272,2.373-3.272l5.532-2.224'/>
         </g>
         <defs>
-          <filter id='frame4_frame4_Adobe_OpacityMaskFilter_8_' filterUnits='userSpaceOnUse' x='34.832' y='18.735' width='13.022' height='9.499'>
+          <filter id='frame4_Adobe_OpacityMaskFilter_8_' filterUnits='userSpaceOnUse' x='34.832' y='18.735' width='13.022' height='9.499'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='34.832' y='18.735' width='13.022' height='9.499' id='frame4_frame4_SVGID_9_'>
-          <g filter='url(#frame4_frame4_Adobe_OpacityMaskFilter_8_)'>
+        <mask maskUnits='userSpaceOnUse' x='34.832' y='18.735' width='13.022' height='9.499' id='frame4_SVGID_9_'>
+          <g filter='url(#frame4_Adobe_OpacityMaskFilter_8_)'>
             <image overflow='visible' width='18' height='15' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGAAAABmAAAAdX/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -1781,7 +1781,7 @@ y1WAJ06gnNdfvdX7L//Z' transform='matrix(1 0 0 1 32 16)'>
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame4_frame4_SVGID_9_)'>
+        <g opacity='0.15' mask='url(#frame4_SVGID_9_)'>
           <path fill='#C40000' d='M46.144,19.091c4.791,3.204-5.373,5.5-5.373,5.5l-2.377,2.862c0,0-2.897,1.196-3.12-0.808
 			c-0.223-2.005,2.373-3.272,2.373-3.272l5.532-2.224'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8552' stroke-linejoin='bevel' stroke-miterlimit='11' d='M46.144,19.091
@@ -1805,12 +1805,12 @@ y1WAJ06gnNdfvdX7L//Z' transform='matrix(1 0 0 1 32 16)'>
 			c-2.124-1.561-4.189-1.784-3.254-4.909L31.149,12.147z'/>
         </g>
         <defs>
-          <filter id='frame5_frame5_Adobe_OpacityMaskFilter' filterUnits='userSpaceOnUse' x='27.732' y='11.748' width='11.327' height='15.485'>
+          <filter id='frame5_Adobe_OpacityMaskFilter' filterUnits='userSpaceOnUse' x='27.732' y='11.748' width='11.327' height='15.485'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='27.732' y='11.748' width='11.327' height='15.485' id='frame5_frame5_SVGID_1_'>
-          <g filter='url(#frame5_frame5_Adobe_OpacityMaskFilter)'>
+        <mask maskUnits='userSpaceOnUse' x='27.732' y='11.748' width='11.327' height='15.485' id='frame5_SVGID_1_'>
+          <g filter='url(#frame5_Adobe_OpacityMaskFilter)'>
             <image overflow='visible' width='17' height='21' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGRAAABtAAAAgf/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -1824,7 +1824,7 @@ qNPTZGy//9k=' transform='matrix(1 0 0 1 25 9)'>
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame5_frame5_SVGID_1_)'>
+        <g opacity='0.15' mask='url(#frame5_SVGID_1_)'>
           <path fill='#C40000' d='M31.149,12.147c0,0,0.841,3.542-0.577,5.341c-1.418,1.799-2.419,2.722-2.419,2.722
 			s1.267,6.911,4.955,6.584c3.69-0.327,5.021-3.327,5.699-8.052c-2.124-1.561-4.189-1.784-3.254-4.909L31.149,12.147z'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8552' stroke-linejoin='bevel' stroke-miterlimit='11' d='M31.149,12.147
@@ -1841,12 +1841,12 @@ qNPTZGy//9k=' transform='matrix(1 0 0 1 25 9)'>
 			C30.574,4.879,36.336,3.737,38.696,6.504z'/>
         </g>
         <defs>
-          <filter id='frame5_frame5_Adobe_OpacityMaskFilter_1_' filterUnits='userSpaceOnUse' x='28.686' y='4.218' width='10.913' height='11.739'>
+          <filter id='frame5_Adobe_OpacityMaskFilter_1_' filterUnits='userSpaceOnUse' x='28.686' y='4.218' width='10.913' height='11.739'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='28.686' y='4.218' width='10.913' height='11.739' id='frame5_frame5_SVGID_2_'>
-          <g filter='url(#frame5_frame5_Adobe_OpacityMaskFilter_1_)'>
+        <mask maskUnits='userSpaceOnUse' x='28.686' y='4.218' width='10.913' height='11.739' id='frame5_SVGID_2_'>
+          <g filter='url(#frame5_Adobe_OpacityMaskFilter_1_)'>
             <image overflow='visible' width='16' height='16' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAF7AAABlwAAAdf/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -1859,7 +1859,7 @@ uPVNjyTYOV+QSqt3CPrP/9k=' transform='matrix(1 0 0 1 26 2)'>
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame5_frame5_SVGID_2_)'>
+        <g opacity='0.15' mask='url(#frame5_SVGID_2_)'>
           <path fill='#C40000' d='M38.696,6.504c0.962,1.128,0.204,2.21-0.031,3.798c-0.234,1.588-1.829,5.607-4.614,5.197
 			c-2.787-0.41-4.948-4.253-4.948-4.253l1.472-6.368C30.574,4.879,36.336,3.737,38.696,6.504z'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8552' stroke-linejoin='bevel' stroke-miterlimit='11' d='M38.696,6.504
@@ -1876,12 +1876,12 @@ uPVNjyTYOV+QSqt3CPrP/9k=' transform='matrix(1 0 0 1 26 2)'>
 			c-0.067-2.493,4.94-11.633,4.94-11.633L39.766,45.114z'/>
         </g>
         <defs>
-          <filter id='frame5_frame5_Adobe_OpacityMaskFilter_2_' filterUnits='userSpaceOnUse' x='30.833' y='44.706' width='9.32' height='17.074'>
+          <filter id='frame5_Adobe_OpacityMaskFilter_2_' filterUnits='userSpaceOnUse' x='30.833' y='44.706' width='9.32' height='17.074'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='30.833' y='44.706' width='9.32' height='17.074' id='frame5_frame5_SVGID_3_'>
-          <g filter='url(#frame5_frame5_Adobe_OpacityMaskFilter_2_)'>
+        <mask maskUnits='userSpaceOnUse' x='30.833' y='44.706' width='9.32' height='17.074' id='frame5_SVGID_3_'>
+          <g filter='url(#frame5_Adobe_OpacityMaskFilter_2_)'>
             <image overflow='visible' width='15' height='22' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGDAAABngAAAeD/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -1894,7 +1894,7 @@ sexYxV7mXPkIAxrfOrNnxmru2Jske/jp/9k=' transform='matrix(1 0 0 1 28 42)'>
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame5_frame5_SVGID_3_)'>
+        <g opacity='0.15' mask='url(#frame5_SVGID_3_)'>
           <path fill='#C40000' d='M39.766,45.114c0,0-5.265,11.285-5.594,11.809c-0.332,0.525-0.332,0.525-0.332,0.525l1.076,3.921
 			c0,0-3.587-1.019-3.655-3.512c-0.067-2.493,4.94-11.633,4.94-11.633L39.766,45.114z'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8552' stroke-linejoin='bevel' stroke-miterlimit='11' d='M39.766,45.114
@@ -1911,12 +1911,12 @@ sexYxV7mXPkIAxrfOrNnxmru2Jske/jp/9k=' transform='matrix(1 0 0 1 28 42)'>
 			c-1.409,0.425-2.124-0.588-3.232-2.57s-2.915-9.078-2.915-9.078l-1.232-4.944L47.465,38.684z'/>
         </g>
         <defs>
-          <filter id='frame5_frame5_Adobe_OpacityMaskFilter_3_' filterUnits='userSpaceOnUse' x='43.738' y='38.409' width='8.618' height='20.941'>
+          <filter id='frame5_Adobe_OpacityMaskFilter_3_' filterUnits='userSpaceOnUse' x='43.738' y='38.409' width='8.618' height='20.941'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='43.738' y='38.409' width='8.618' height='20.941' id='frame5_frame5_SVGID_4_'>
-          <g filter='url(#frame5_frame5_Adobe_OpacityMaskFilter_3_)'>
+        <mask maskUnits='userSpaceOnUse' x='43.738' y='38.409' width='8.618' height='20.941' id='frame5_SVGID_4_'>
+          <g filter='url(#frame5_Adobe_OpacityMaskFilter_3_)'>
             <image overflow='visible' width='14' height='26' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGKAAABpQAAAef/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -1929,7 +1929,7 @@ NjzJ75yUDlqgdY2VrlguqRY7ytNe0B1RtE5ap7n/AP/Z' transform='matrix(1 0 0 1 41 36)'>
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame5_frame5_SVGID_4_)'>
+        <g opacity='0.15' mask='url(#frame5_SVGID_4_)'>
           <path fill='#C40000' d='M47.465,38.684c0,0,1.116,4.688,1.161,6.891c0.047,2.203,1.919,10.496,1.919,10.496
 			s2.371,2.357,0.963,2.782c-1.409,0.425-2.124-0.588-3.232-2.57s-2.915-9.078-2.915-9.078l-1.232-4.944L47.465,38.684z'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8038' stroke-linejoin='bevel' stroke-miterlimit='11' d='M47.465,38.684
@@ -1949,12 +1949,12 @@ NjzJ75yUDlqgdY2VrlguqRY7ytNe0B1RtE5ap7n/AP/Z' transform='matrix(1 0 0 1 41 36)'>
 			l-4.598,0.441v-3.556c0,0,5.116,0.323,7.563,1.058'/>
         </g>
         <defs>
-          <filter id='frame5_frame5_Adobe_OpacityMaskFilter_4_' filterUnits='userSpaceOnUse' x='38.153' y='17.606' width='8.113' height='4.409'>
+          <filter id='frame5_Adobe_OpacityMaskFilter_4_' filterUnits='userSpaceOnUse' x='38.153' y='17.606' width='8.113' height='4.409'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='38.153' y='17.606' width='8.113' height='4.409' id='frame5_frame5_SVGID_5_'>
-          <g filter='url(#frame5_frame5_Adobe_OpacityMaskFilter_4_)'>
+        <mask maskUnits='userSpaceOnUse' x='38.153' y='17.606' width='8.113' height='4.409' id='frame5_SVGID_5_'>
+          <g filter='url(#frame5_Adobe_OpacityMaskFilter_4_)'>
             <image overflow='visible' width='13' height='10' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAF7AAABjAAAAbj/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -1966,7 +1966,7 @@ CAECAgY/AH//2gAIAQMCBj8Af//aAAgBAQEGPwBXXqjPWTAxQa3D/wD/2Q==' transform='matrix(
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame5_frame5_SVGID_5_)'>
+        <g opacity='0.15' mask='url(#frame5_SVGID_5_)'>
           <path fill='#C40000' d='M43.179,21.148l-4.598,0.441v-3.556c0,0,5.116,0.323,7.563,1.058'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8552' stroke-linejoin='bevel' stroke-miterlimit='11' d='M43.179,21.148
 			l-4.598,0.441v-3.556c0,0,5.116,0.323,7.563,1.058'/>
@@ -1983,12 +1983,12 @@ CAECAgY/AH//2gAIAQMCBj8Af//aAAgBAQEGPwBXXqjPWTAxQa3D/wD/2Q==' transform='matrix(
 			c-0.192-3.237,2.242-9.883,4.688-11.246L40.17,31.45z'/>
         </g>
         <defs>
-          <filter id='frame5_frame5_Adobe_OpacityMaskFilter_5_' filterUnits='userSpaceOnUse' x='26.562' y='31.033' width='24.605' height='22.786'>
+          <filter id='frame5_Adobe_OpacityMaskFilter_5_' filterUnits='userSpaceOnUse' x='26.562' y='31.033' width='24.605' height='22.786'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='26.562' y='31.033' width='24.605' height='22.786' id='frame5_frame5_SVGID_6_'>
-          <g filter='url(#frame5_frame5_Adobe_OpacityMaskFilter_5_)'>
+        <mask maskUnits='userSpaceOnUse' x='26.562' y='31.033' width='24.605' height='22.786' id='frame5_SVGID_6_'>
+          <g filter='url(#frame5_Adobe_OpacityMaskFilter_5_)'>
             <image overflow='visible' width='30' height='27' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGaAAABzQAAAjL/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -2002,7 +2002,7 @@ p+uFWu8KQUGwwey4c05GcBPy/PPb2iqKhQHuU9INKx7nyJ0HrBfc1S9fHx6YGctOD//Z' transform=
             </image>
           </g>
         </mask>
-        <g mask='url(#frame5_frame5_SVGID_6_)'>
+        <g mask='url(#frame5_SVGID_6_)'>
           <path fill='#C40000' d='M40.17,31.45c0,0,1.113,0.539,4.371,3.222c3.263,2.686,4.572,5.363,6.312,6.64
 			c0,0-1.019,1.108-3.166,2.346c-2.147,1.236-5.217,2.875-6.148,3.392c-1.241,0.688-11.89,6.394-11.89,6.394
 			s-2.36-3.965-2.648-8.821c-0.192-3.237,2.242-9.883,4.688-11.246L40.17,31.45z'/>
@@ -2019,12 +2019,12 @@ p+uFWu8KQUGwwey4c05GcBPy/PPb2iqKhQHuU9INKx7nyJ0HrBfc1S9fHx6YGctOD//Z' transform=
 			c0,0-8.844-1.052-9.59,0s4.795,4.508,4.795,4.508l5.667-0.534L27.711,19.079z'/>
         </g>
         <defs>
-          <filter id='frame5_frame5_Adobe_OpacityMaskFilter_6_' filterUnits='userSpaceOnUse' x='17.624' y='18.184' width='11.376' height='5.829'>
+          <filter id='frame5_Adobe_OpacityMaskFilter_6_' filterUnits='userSpaceOnUse' x='17.624' y='18.184' width='11.376' height='5.829'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='17.624' y='18.184' width='11.376' height='5.829' id='frame5_frame5_SVGID_7_'>
-          <g filter='url(#frame5_frame5_Adobe_OpacityMaskFilter_6_)'>
+        <mask maskUnits='userSpaceOnUse' x='17.624' y='18.184' width='11.376' height='5.829' id='frame5_SVGID_7_'>
+          <g filter='url(#frame5_Adobe_OpacityMaskFilter_6_)'>
             <image overflow='visible' width='17' height='11' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAF7AAABjgAAAb//2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -2036,7 +2036,7 @@ AwEAAhEDEQAAAMdLpQB//9oACAECAAEFAB//2gAIAQMAAQUAH//aAAgBAQABBQCUqe5tqZP5U4//
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame5_frame5_SVGID_7_)'>
+        <g opacity='0.15' mask='url(#frame5_SVGID_7_)'>
           <path fill='#C40000' d='M27.711,19.079c0,0-8.844-1.052-9.59,0s4.795,4.508,4.795,4.508l5.667-0.534L27.711,19.079z'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8552' stroke-linejoin='bevel' stroke-miterlimit='11' d='M27.711,19.079
 			c0,0-8.844-1.052-9.59,0s4.795,4.508,4.795,4.508l5.667-0.534L27.711,19.079z'/>
@@ -2055,12 +2055,12 @@ AwEAAhEDEQAAAMdLpQB//9oACAECAAEFAB//2gAIAQMAAQUAH//aAAgBAQABBQCUqe5tqZP5U4//
 			c0,0-1.439-6.975-1.236-8.162C25.822,18.033,28.264,17.803,30.303,17.822z'/>
         </g>
         <defs>
-          <filter id='frame5_frame5_Adobe_OpacityMaskFilter_7_' filterUnits='userSpaceOnUse' x='25.375' y='16.66' width='17.745' height='21.798'>
+          <filter id='frame5_Adobe_OpacityMaskFilter_7_' filterUnits='userSpaceOnUse' x='25.375' y='16.66' width='17.745' height='21.798'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='25.375' y='16.66' width='17.745' height='21.798' id='frame5_frame5_SVGID_8_'>
-          <g filter='url(#frame5_frame5_Adobe_OpacityMaskFilter_7_)'>
+        <mask maskUnits='userSpaceOnUse' x='25.375' y='16.66' width='17.745' height='21.798' id='frame5_SVGID_8_'>
+          <g filter='url(#frame5_Adobe_OpacityMaskFilter_7_)'>
             <image overflow='visible' width='23' height='27' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGRAAABwAAAAi//2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -2074,7 +2074,7 @@ VbYllmYpFYyF3NtQPGZaslzChwSfRmsuoJVYxpd6sC2t5HJ7hWBng2PTDD54f//Z' transform='mat
             </image>
           </g>
         </mask>
-        <g mask='url(#frame5_frame5_SVGID_8_)'>
+        <g mask='url(#frame5_SVGID_8_)'>
           <path fill='#C40000' d='M30.303,17.822l1.448,3.584c0,0,4.058,1.084,5.548-1.659l-0.011-2.663c0,0,1.399,0.151,2.357,0.255
 			c0.959,0.104,3.183,1.231,3.183,1.231s-0.783,0.723-1.255,1.639c-0.472,0.917,0.887,2.757,0.729,3.224l-2.197,0.004
 			c0,0,1.875,3.018-0.586,5.419l2.323,3.702c0,0-3.383,5.665-6.296,5.465c-2.914-0.198-5.655-0.819-6.033-2.151l1.713-6.863
@@ -2098,12 +2098,12 @@ VbYllmYpFYyF3NtQPGZaslzChwSfRmsuoJVYxpd6sC2t5HJ7hWBng2PTDD54f//Z' transform='mat
 			C22.648,24.165,16.408,22.284,18.014,18.886z'/>
         </g>
         <defs>
-          <filter id='frame5_frame5_Adobe_OpacityMaskFilter_8_' filterUnits='userSpaceOnUse' x='17.322' y='18.109' width='11.99' height='8.611'>
+          <filter id='frame5_Adobe_OpacityMaskFilter_8_' filterUnits='userSpaceOnUse' x='17.322' y='18.109' width='11.99' height='8.611'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='17.322' y='18.109' width='11.99' height='8.611' id='frame5_frame5_SVGID_9_'>
-          <g filter='url(#frame5_frame5_Adobe_OpacityMaskFilter_8_)'>
+        <mask maskUnits='userSpaceOnUse' x='17.322' y='18.109' width='11.99' height='8.611' id='frame5_SVGID_9_'>
+          <g filter='url(#frame5_Adobe_OpacityMaskFilter_8_)'>
             <image overflow='visible' width='17' height='13' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGEAAABnAAAAdj/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -2116,7 +2116,7 @@ a+xEm4d1GKebQ3609dOe0v/Z' transform='matrix(1 0 0 1 15 16)'>
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame5_frame5_SVGID_9_)'>
+        <g opacity='0.15' mask='url(#frame5_SVGID_9_)'>
           <path fill='#C40000' d='M18.014,18.886c0,0,2.027-0.902,3.923,0.193s2.676,3.346,2.676,3.346s2.741-0.719,3.675,1.084
 			s0.836,2.816-0.771,2.783s-5.543-0.406-4.87-2.127C22.648,24.165,16.408,22.284,18.014,18.886z'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8552' stroke-linejoin='bevel' stroke-miterlimit='11' d='M18.014,18.886
@@ -2132,12 +2132,12 @@ a+xEm4d1GKebQ3609dOe0v/Z' transform='matrix(1 0 0 1 15 16)'>
 			c2.447,0.735-3.488,7.202-3.488,7.202l-1.439,2.225c0,0-3.076,1.604-3.299-0.4c-0.223-2.005,2.525-3.282,2.525-3.282l2.736-3.688'/>
         </g>
         <defs>
-          <filter id='frame5_frame5_Adobe_OpacityMaskFilter_9_' filterUnits='userSpaceOnUse' x='37.477' y='18.681' width='9.687' height='10.872'>
+          <filter id='frame5_Adobe_OpacityMaskFilter_9_' filterUnits='userSpaceOnUse' x='37.477' y='18.681' width='9.687' height='10.872'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='37.477' y='18.681' width='9.687' height='10.872' id='frame5_frame5_SVGID_10_'>
-          <g filter='url(#frame5_frame5_Adobe_OpacityMaskFilter_9_)'>
+        <mask maskUnits='userSpaceOnUse' x='37.477' y='18.681' width='9.687' height='10.872' id='frame5_SVGID_10_'>
+          <g filter='url(#frame5_Adobe_OpacityMaskFilter_9_)'>
             <image overflow='visible' width='15' height='16' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAF7AAABkwAAAc7/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -2150,7 +2150,7 @@ hJ3u9vM//9k=' transform='matrix(1 0 0 1 35 16)'>
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame5_frame5_SVGID_10_)'>
+        <g opacity='0.15' mask='url(#frame5_SVGID_10_)'>
           <path fill='#C40000' d='M46.144,19.091c2.447,0.735-3.488,7.202-3.488,7.202l-1.439,2.225c0,0-3.076,1.604-3.299-0.4
 			c-0.223-2.005,2.525-3.282,2.525-3.282l2.736-3.688'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8552' stroke-linejoin='bevel' stroke-miterlimit='11' d='M46.144,19.091
@@ -2171,12 +2171,12 @@ hJ3u9vM//9k=' transform='matrix(1 0 0 1 35 16)'>
 			c-2.226-1.413-4.301-1.495-3.58-4.676L29.864,11.819z'/>
         </g>
         <defs>
-          <filter id='frame6_frame6_Adobe_OpacityMaskFilter' filterUnits='userSpaceOnUse' x='27.007' y='11.411' width='11.173' height='15.351'>
+          <filter id='frame6_Adobe_OpacityMaskFilter' filterUnits='userSpaceOnUse' x='27.007' y='11.411' width='11.173' height='15.351'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='27.007' y='11.411' width='11.173' height='15.351' id='frame6_frame6_SVGID_1_'>
-          <g filter='url(#frame6_frame6_Adobe_OpacityMaskFilter)'>
+        <mask maskUnits='userSpaceOnUse' x='27.007' y='11.411' width='11.173' height='15.351' id='frame6_SVGID_1_'>
+          <g filter='url(#frame6_Adobe_OpacityMaskFilter)'>
             <image overflow='visible' width='16' height='20' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGBAAABoQAAAfH/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -2189,7 +2189,7 @@ JxpcSDgUBIRR6qd6Y8m5OlqhjhIMgJORGiJR6D9xPLNKy7Tt271X7X//2Q==' transform='matrix(
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame6_frame6_SVGID_1_)'>
+        <g opacity='0.15' mask='url(#frame6_SVGID_1_)'>
           <path fill='#C40000' d='M29.864,11.819c0,0,1.08,3.477-0.213,5.367c-1.293,1.891-2.229,2.88-2.229,2.88s1.733,6.809,5.391,6.232
 			c3.659-0.576,4.782-3.661,5.139-8.421c-2.226-1.413-4.301-1.495-3.58-4.676L29.864,11.819z'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8552' stroke-linejoin='bevel' stroke-miterlimit='11' d='M29.864,11.819
@@ -2206,12 +2206,12 @@ JxpcSDgUBIRR6qd6Y8m5OlqhjhIMgJORGiJR6D9xPLNKy7Tt271X7X//2Q==' transform='matrix(
 			C28.796,4.606,34.467,3.076,37.01,5.677z'/>
         </g>
         <defs>
-          <filter id='frame6_frame6_Adobe_OpacityMaskFilter_1_' filterUnits='userSpaceOnUse' x='27.338' y='3.731' width='10.664' height='11.671'>
+          <filter id='frame6_Adobe_OpacityMaskFilter_1_' filterUnits='userSpaceOnUse' x='27.338' y='3.731' width='10.664' height='11.671'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='27.338' y='3.731' width='10.664' height='11.671' id='frame6_frame6_SVGID_2_'>
-          <g filter='url(#frame6_frame6_Adobe_OpacityMaskFilter_1_)'>
+        <mask maskUnits='userSpaceOnUse' x='27.338' y='3.731' width='10.664' height='11.671' id='frame6_SVGID_2_'>
+          <g filter='url(#frame6_Adobe_OpacityMaskFilter_1_)'>
             <image overflow='visible' width='16' height='17' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGCAAABngAAAeD/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -2224,7 +2224,7 @@ wsDDF494rdT9JVtcbASftabJkJWDYjPP/9k=' transform='matrix(1 0 0 1 25 1)'>
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame6_frame6_SVGID_2_)'>
+        <g opacity='0.15' mask='url(#frame6_SVGID_2_)'>
           <path fill='#C40000' d='M37.01,5.677c1.037,1.06,0.354,2.191,0.227,3.792c-0.126,1.601-1.443,5.718-4.25,5.498
 			c-2.808-0.22-5.225-3.907-5.225-3.907l1.036-6.453C28.796,4.606,34.467,3.076,37.01,5.677z'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8552' stroke-linejoin='bevel' stroke-miterlimit='11' d='M37.01,5.677
@@ -2239,12 +2239,12 @@ wsDDF494rdT9JVtcbASftabJkJWDYjPP/9k=' transform='matrix(1 0 0 1 25 1)'>
 			l-4.598,0.441c0,0-3.707-1.763,0-4.57c0,0,5.116,1.336,7.563,2.072'/>
         </g>
         <defs>
-          <filter id='frame6_frame6_Adobe_OpacityMaskFilter_2_' filterUnits='userSpaceOnUse' x='36.506' y='16.605' width='9.761' height='5.409'>
+          <filter id='frame6_Adobe_OpacityMaskFilter_2_' filterUnits='userSpaceOnUse' x='36.506' y='16.605' width='9.761' height='5.409'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='36.506' y='16.605' width='9.761' height='5.409' id='frame6_frame6_SVGID_3_'>
-          <g filter='url(#frame6_frame6_Adobe_OpacityMaskFilter_2_)'>
+        <mask maskUnits='userSpaceOnUse' x='36.506' y='16.605' width='9.761' height='5.409' id='frame6_SVGID_3_'>
+          <g filter='url(#frame6_Adobe_OpacityMaskFilter_2_)'>
             <image overflow='visible' width='15' height='11' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAF7AAABjgAAAcD/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -2256,7 +2256,7 @@ AAwDAQACEQMRAAAAx6Jg/9oACAECAAEFAD//2gAIAQMAAQUAP//aAAgBAQABBQDOz124WK1wb5//
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame6_frame6_SVGID_3_)'>
+        <g opacity='0.15' mask='url(#frame6_SVGID_3_)'>
           <path fill='#C40000' d='M43.179,21.148l-4.598,0.441c0,0-3.707-1.763,0-4.57c0,0,5.116,1.336,7.563,2.072'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8552' stroke-linejoin='bevel' stroke-miterlimit='11' d='M43.179,21.148
 			l-4.598,0.441c0,0-3.707-1.763,0-4.57c0,0,5.116,1.336,7.563,2.072'/>
@@ -2271,12 +2271,12 @@ AAwDAQACEQMRAAAAx6Jg/9oACAECAAEFAD//2gAIAQMAAQUAP//aAAgBAQABBQDOz124WK1wb5//
 			C30.75,56.2,34.1,46.332,34.1,46.332L37.418,44.621z'/>
         </g>
         <defs>
-          <filter id='frame6_frame6_Adobe_OpacityMaskFilter_3_' filterUnits='userSpaceOnUse' x='30.77' y='44.241' width='7.062' height='17.655'>
+          <filter id='frame6_Adobe_OpacityMaskFilter_3_' filterUnits='userSpaceOnUse' x='30.77' y='44.241' width='7.062' height='17.655'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='30.77' y='44.241' width='7.062' height='17.655' id='frame6_frame6_SVGID_4_'>
-          <g filter='url(#frame6_frame6_Adobe_OpacityMaskFilter_3_)'>
+        <mask maskUnits='userSpaceOnUse' x='30.77' y='44.241' width='7.062' height='17.655' id='frame6_SVGID_4_'>
+          <g filter='url(#frame6_Adobe_OpacityMaskFilter_3_)'>
             <image overflow='visible' width='12' height='22' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGFAAABnQAAAdj/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -2289,7 +2289,7 @@ DFkq7hX2PMxUIh9iYGX/2gAIAQICBj8AP//aAAgBAwIGPwA//9oACAEBAQY/AONoAMmOOuGWPqO1
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame6_frame6_SVGID_4_)'>
+        <g opacity='0.15' mask='url(#frame6_SVGID_4_)'>
           <path fill='#C40000' d='M37.418,44.621c0,0-3.232,12.026-3.467,12.6c-0.234,0.574-0.234,0.574-0.234,0.574l1.738,3.676
 			c0,0-3.709-0.383-4.208-2.826C30.75,56.2,34.1,46.332,34.1,46.332L37.418,44.621z'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8552' stroke-linejoin='bevel' stroke-miterlimit='11' d='M37.418,44.621
@@ -2306,12 +2306,12 @@ DFkq7hX2PMxUIh9iYGX/2gAIAQICBj8AP//aAAgBAwIGPwA//9oACAEBAQY/AONoAMmOOuGWPqO1
 			s-1.282-9.078-1.282-9.078l-2.865-4.944L47.465,38.684z'/>
         </g>
         <defs>
-          <filter id='frame6_frame6_Adobe_OpacityMaskFilter_4_' filterUnits='userSpaceOnUse' x='43.78' y='38.409' width='8.872' height='20.367'>
+          <filter id='frame6_Adobe_OpacityMaskFilter_4_' filterUnits='userSpaceOnUse' x='43.78' y='38.409' width='8.872' height='20.367'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='43.78' y='38.409' width='8.872' height='20.367' id='frame6_frame6_SVGID_5_'>
-          <g filter='url(#frame6_frame6_Adobe_OpacityMaskFilter_4_)'>
+        <mask maskUnits='userSpaceOnUse' x='43.78' y='38.409' width='8.872' height='20.367' id='frame6_SVGID_5_'>
+          <g filter='url(#frame6_Adobe_OpacityMaskFilter_4_)'>
             <image overflow='visible' width='14' height='25' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGMAAABqwAAAfH/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -2324,7 +2324,7 @@ Bj8AuGMmEBq2usnzqo4uygI9t3pkOadsMx2+Vbu+pdD9NYMCaid2Gn//2Q==' transform='matrix(
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame6_frame6_SVGID_5_)'>
+        <g opacity='0.15' mask='url(#frame6_SVGID_5_)'>
           <path fill='#C40000' d='M47.465,38.684c0,0,2.749,4.688,2.794,6.891c0.047,2.203,0.286,10.496,0.286,10.496s2.708,1.724,1.3,2.148
 			c-1.409,0.425-2.461,0.046-3.569-1.937s-1.282-9.078-1.282-9.078l-2.865-4.944L47.465,38.684z'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8038' stroke-linejoin='bevel' stroke-miterlimit='11' d='M47.465,38.684
@@ -2341,12 +2341,12 @@ Bj8AuGMmEBq2usnzqo4uygI9t3pkOadsMx2+Vbu+pdD9NYMCaid2Gn//2Q==' transform='matrix(
 			c0,0,2.87,5.917,5.766,6.825s8.824,2.101,8.824,2.101L27.787,20.333z'/>
         </g>
         <defs>
-          <filter id='frame6_frame6_Adobe_OpacityMaskFilter_5_' filterUnits='userSpaceOnUse' x='9.747' y='10.448' width='19.362' height='15.034'>
+          <filter id='frame6_Adobe_OpacityMaskFilter_5_' filterUnits='userSpaceOnUse' x='9.747' y='10.448' width='19.362' height='15.034'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='9.747' y='10.448' width='19.362' height='15.034' id='frame6_frame6_SVGID_6_'>
-          <g filter='url(#frame6_frame6_Adobe_OpacityMaskFilter_5_)'>
+        <mask maskUnits='userSpaceOnUse' x='9.747' y='10.448' width='19.362' height='15.034' id='frame6_SVGID_6_'>
+          <g filter='url(#frame6_Adobe_OpacityMaskFilter_5_)'>
             <image overflow='visible' width='25' height='20' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGPAAABsQAAAgD/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -2360,7 +2360,7 @@ AAAAAAAAAAAAIP/aAAwDAQACEQMRAAAAp+phaSqOvyACWIP/2gAIAQIAAQUA0//aAAgBAwABBQDT
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame6_frame6_SVGID_6_)'>
+        <g opacity='0.15' mask='url(#frame6_SVGID_6_)'>
           <path fill='#C40000' d='M27.787,20.333C27.049,20.088,20,18.448,20,18.448l-3.688-3.538c0,0-0.098-2.452-1.196-3.022
 			s-3.438-1.523-4.542-0.676s0.083,4.17,3.525,4.925c0,0,2.87,5.917,5.766,6.825s8.824,2.101,8.824,2.101L27.787,20.333z'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8552' stroke-linejoin='bevel' stroke-miterlimit='11' d='M27.787,20.333
@@ -2379,12 +2379,12 @@ AAAAAAAAAAAAIP/aAAwDAQACEQMRAAAAp+phaSqOvyACWIP/2gAIAQIAAQUA0//aAAgBAwABBQDT
 			c0.104-3.241,1.78-7.475,4.225-8.838L40.17,31.45z'/>
         </g>
         <defs>
-          <filter id='frame6_frame6_Adobe_OpacityMaskFilter_6_' filterUnits='userSpaceOnUse' x='27.027' y='31.033' width='24.186' height='22.797'>
+          <filter id='frame6_Adobe_OpacityMaskFilter_6_' filterUnits='userSpaceOnUse' x='27.027' y='31.033' width='24.186' height='22.797'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='27.027' y='31.033' width='24.186' height='22.797' id='frame6_frame6_SVGID_7_'>
-          <g filter='url(#frame6_frame6_Adobe_OpacityMaskFilter_6_)'>
+        <mask maskUnits='userSpaceOnUse' x='27.027' y='31.033' width='24.186' height='22.797' id='frame6_SVGID_7_'>
+          <g filter='url(#frame6_Adobe_OpacityMaskFilter_6_)'>
             <image overflow='visible' width='29' height='27' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGbAAABzgAAAjT/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -2398,7 +2398,7 @@ dRvo+VBzLip20fFK5pchtSp9XJU+K06GZyRvu1e8UYfyeqVwsnnTpp3l73FbnG2pz251/9k=' transf
             </image>
           </g>
         </mask>
-        <g mask='url(#frame6_frame6_SVGID_7_)'>
+        <g mask='url(#frame6_SVGID_7_)'>
           <path fill='#C40000' d='M40.17,31.45c0,0,2.015,0.703,5.272,3.386c3.263,2.686,3.671,4.707,5.41,5.983
 			c0,0-1.019,1.601-3.166,2.838c-2.147,1.236-3.403,1.103-4.432,2.08c-1.028,0.979-9.37,7.705-9.37,7.705s-6.683-3.12-6.422-11.229
 			c0.104-3.241,1.78-7.475,4.225-8.838L40.17,31.45z'/>
@@ -2421,12 +2421,12 @@ dRvo+VBzLip20fFK5pchtSp9XJU+K06GZyRvu1e8UYfyeqVwsnnTpp3l73FbnG2pz251/9k=' transf
 			c0,0-2.317-5.837-2.195-7.035C24.541,19.076,27.369,17.657,29.405,17.538z'/>
         </g>
         <defs>
-          <filter id='frame6_frame6_Adobe_OpacityMaskFilter_7_' filterUnits='userSpaceOnUse' x='24.109' y='15.901' width='18.604' height='21.865'>
+          <filter id='frame6_Adobe_OpacityMaskFilter_7_' filterUnits='userSpaceOnUse' x='24.109' y='15.901' width='18.604' height='21.865'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='24.109' y='15.901' width='18.604' height='21.865' id='frame6_frame6_SVGID_8_'>
-          <g filter='url(#frame6_frame6_Adobe_OpacityMaskFilter_7_)'>
+        <mask maskUnits='userSpaceOnUse' x='24.109' y='15.901' width='18.604' height='21.865' id='frame6_SVGID_8_'>
+          <g filter='url(#frame6_Adobe_OpacityMaskFilter_7_)'>
             <image overflow='visible' width='23' height='27' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGXAAABxwAAAjX/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -2440,7 +2440,7 @@ ORrvKBkWra+cTqAjGTWm3kWRIj3rAq0E9eyFT7AaVlv1RYy0lRav22ZumlwTwbm/nt38P//Z' transf
             </image>
           </g>
         </mask>
-        <g mask='url(#frame6_frame6_SVGID_8_)'>
+        <g mask='url(#frame6_SVGID_8_)'>
           <path fill='#C40000' d='M29.405,17.538l1.688,3.477c0,0,4.123,0.806,5.423-2.031l-0.191-2.656c0,0,0.441,0.018,1.405,0.056
 			c0.964,0.039,4.68,0.635,4.68,0.635s-1.189,1.19-1.599,2.136c-0.408,0.947,1.073,2.691,0.947,3.167l-2.192,0.153
 			c0,0,2.076,2.884-0.217,5.447l2.188,3.528c0,0-2.608,5.889-5.528,5.888c-2.921,0.001-5.894-1.69-6.361-2.993l1.439-5.707
@@ -2463,12 +2463,12 @@ ORrvKBkWra+cTqAjGTWm3kWRIj3rAq0E9eyFT7AaVlv1RYy0lRav22ZumlwTwbm/nt38P//Z' transf
 			c2.447,0.734-3.391,7.591-3.391,7.591l0.333,2.325c0,0-3.076,1.604-3.299-0.4c-0.223-2.005,1.408-3.955,1.408-3.955l1.983-3.503'/>
         </g>
         <defs>
-          <filter id='frame6_frame6_Adobe_OpacityMaskFilter_8_' filterUnits='userSpaceOnUse' x='39.339' y='18.681' width='7.832' height='11.361'>
+          <filter id='frame6_Adobe_OpacityMaskFilter_8_' filterUnits='userSpaceOnUse' x='39.339' y='18.681' width='7.832' height='11.361'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='39.339' y='18.681' width='7.832' height='11.361' id='frame6_frame6_SVGID_9_'>
-          <g filter='url(#frame6_frame6_Adobe_OpacityMaskFilter_8_)'>
+        <mask maskUnits='userSpaceOnUse' x='39.339' y='18.681' width='7.832' height='11.361' id='frame6_SVGID_9_'>
+          <g filter='url(#frame6_Adobe_OpacityMaskFilter_8_)'>
             <image overflow='visible' width='13' height='17' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAF8AAABkAAAAcT/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -2480,7 +2480,7 @@ M//aAAgBAgIGPwA//9oACAEDAgY/AD//2gAIAQEBBj8A82oArjwK8Z9ZRlT8bDHO/c2umj//2Q==' tr
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame6_frame6_SVGID_9_)'>
+        <g opacity='0.15' mask='url(#frame6_SVGID_9_)'>
           <path fill='#C40000' d='M46.144,19.091c2.447,0.734-3.391,7.591-3.391,7.591l0.333,2.325c0,0-3.076,1.604-3.299-0.4
 			c-0.223-2.005,1.408-3.955,1.408-3.955l1.983-3.503'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8552' stroke-linejoin='bevel' stroke-miterlimit='11' d='M46.144,19.091
@@ -2506,12 +2506,12 @@ M//aAAgBAgIGPwA//9oACAEDAgY/AD//2gAIAQEBBj8A82oArjwK8Z9ZRlT8bDHO/c2umj//2Q==' tr
 			c-2.279-1.323-4.356-1.323-3.763-4.53L29.575,11.888z'/>
         </g>
         <defs>
-          <filter id='frame7_frame7_Adobe_OpacityMaskFilter' filterUnits='userSpaceOnUse' x='27.053' y='11.474' width='11.059' height='15.246'>
+          <filter id='frame7_Adobe_OpacityMaskFilter' filterUnits='userSpaceOnUse' x='27.053' y='11.474' width='11.059' height='15.246'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='27.053' y='11.474' width='11.059' height='15.246' id='frame7_frame7_SVGID_1_'>
-          <g filter='url(#frame7_frame7_Adobe_OpacityMaskFilter)'>
+        <mask maskUnits='userSpaceOnUse' x='27.053' y='11.474' width='11.059' height='15.246' id='frame7_SVGID_1_'>
+          <g filter='url(#frame7_Adobe_OpacityMaskFilter)'>
             <image overflow='visible' width='16' height='20' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGDAAABowAAAfP/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -2524,7 +2524,7 @@ TQpiBcvL84tAhL0YkS0gLt3E9O7/2gAIAQICBj8AP//aAAgBAwIGPwA//9oACAEBAQY/AD1myWMg
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame7_frame7_SVGID_1_)'>
+        <g opacity='0.15' mask='url(#frame7_SVGID_1_)'>
           <path fill='#C40000' d='M29.575,11.888c0,0,1.217,3.432,0,5.372c-1.217,1.941-2.113,2.966-2.113,2.966s2.002,6.734,5.634,6.013
 			c3.633-0.721,4.633-3.848,4.8-8.618c-2.279-1.323-4.356-1.323-3.763-4.53L29.575,11.888z'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8552' stroke-linejoin='bevel' stroke-miterlimit='11' d='M29.575,11.888
@@ -2541,12 +2541,12 @@ TQpiBcvL84tAhL0YkS0gLt3E9O7/2gAIAQICBj8AP//aAAgBAwIGPwA//9oACAEBAQY/AD1myWMg
 			C28.222,4.723,33.827,2.969,36.472,5.466z'/>
         </g>
         <defs>
-          <filter id='frame7_frame7_Adobe_OpacityMaskFilter_1_' filterUnits='userSpaceOnUse' x='27.019' y='3.697' width='10.502' height='11.641'>
+          <filter id='frame7_Adobe_OpacityMaskFilter_1_' filterUnits='userSpaceOnUse' x='27.019' y='3.697' width='10.502' height='11.641'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='27.019' y='3.697' width='10.502' height='11.641' id='frame7_frame7_SVGID_2_'>
-          <g filter='url(#frame7_frame7_Adobe_OpacityMaskFilter_1_)'>
+        <mask maskUnits='userSpaceOnUse' x='27.019' y='3.697' width='10.502' height='11.641' id='frame7_SVGID_2_'>
+          <g filter='url(#frame7_Adobe_OpacityMaskFilter_1_)'>
             <image overflow='visible' width='15' height='17' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGGAAABogAAAfL/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -2559,7 +2559,7 @@ Im7nWH87y6vblZEpRRrc1i96djztWEqQRe5rD+kGkQ4kscnEhr2vNum3/9k=' transform='matrix(
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame7_frame7_SVGID_2_)'>
+        <g opacity='0.15' mask='url(#frame7_SVGID_2_)'>
           <path fill='#C40000' d='M36.472,5.466c1.078,1.018,0.44,2.175,0.377,3.779c-0.063,1.604-1.216,5.771-4.029,5.663
 			c-2.815-0.108-5.376-3.696-5.376-3.696l0.779-6.489C28.222,4.723,33.827,2.969,36.472,5.466z'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8552' stroke-linejoin='bevel' stroke-miterlimit='11' d='M36.472,5.466
@@ -2578,12 +2578,12 @@ Im7nWH87y6vblZEpRRrc1i96djztWEqQRe5rD+kGkQ4kscnEhr2vNum3/9k=' transform='matrix(
 			c0,0-3.638,0.451-4.342-0.522C20.837,18.142,14.973,13.508,14.973,13.508z'/>
         </g>
         <defs>
-          <filter id='frame7_frame7_Adobe_OpacityMaskFilter_2_' filterUnits='userSpaceOnUse' x='8.197' y='6.782' width='22.503' height='18.697'>
+          <filter id='frame7_Adobe_OpacityMaskFilter_2_' filterUnits='userSpaceOnUse' x='8.197' y='6.782' width='22.503' height='18.697'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='8.197' y='6.782' width='22.503' height='18.697' id='frame7_frame7_SVGID_3_'>
-          <g filter='url(#frame7_frame7_Adobe_OpacityMaskFilter_2_)'>
+        <mask maskUnits='userSpaceOnUse' x='8.197' y='6.782' width='22.503' height='18.697' id='frame7_SVGID_3_'>
+          <g filter='url(#frame7_Adobe_OpacityMaskFilter_2_)'>
             <image overflow='visible' width='27' height='24' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGPAAABuAAAAhb/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -2597,7 +2597,7 @@ AwIGPwAf/9oACAEBAQY/AHliktIhxWmjcWZCQR24748UbzXUdKP6XonfvG54xr0ol4nUDMlSOJ+r
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame7_frame7_SVGID_3_)'>
+        <g opacity='0.15' mask='url(#frame7_SVGID_3_)'>
           <path fill='#C40000' d='M14.973,13.508c1.138-1.074-1.433-4.533-1.433-4.533S9.377,6.023,8.759,7.754
 			c-0.484,1.356,0.498,3.927,0.498,3.927s1.814,3.457,3.275,3.148c0,0,5.251,6.982,6.572,7.787c1.323,0.805,8.309,2.446,8.309,2.446
 			l2.874-1.675l-0.87-3.327l-3.533-0.425c0,0-3.638,0.451-4.342-0.522C20.837,18.142,14.973,13.508,14.973,13.508z'/>
@@ -2617,12 +2617,12 @@ AwIGPwAf/9oACAEBAQY/AHliktIhxWmjcWZCQR24748UbzXUdKP6XonfvG54xr0ol4nUDMlSOJ+r
 			c-0.223-2.005,1.408-3.955,1.408-3.955l1.112-5.145l-4.598,0.441C38.581,21.589,34.874,19.826,38.581,17.019z'/>
         </g>
         <defs>
-          <filter id='frame7_frame7_Adobe_OpacityMaskFilter_3_' filterUnits='userSpaceOnUse' x='36.506' y='16.605' width='10.743' height='15.078'>
+          <filter id='frame7_Adobe_OpacityMaskFilter_3_' filterUnits='userSpaceOnUse' x='36.506' y='16.605' width='10.743' height='15.078'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='36.506' y='16.605' width='10.743' height='15.078' id='frame7_frame7_SVGID_4_'>
-          <g filter='url(#frame7_frame7_Adobe_OpacityMaskFilter_3_)'>
+        <mask maskUnits='userSpaceOnUse' x='36.506' y='16.605' width='10.743' height='15.078' id='frame7_SVGID_4_'>
+          <g filter='url(#frame7_Adobe_OpacityMaskFilter_3_)'>
             <image overflow='visible' width='16' height='20' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGDAAABoAAAAeL/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -2635,7 +2635,7 @@ lnDo59SIqDixqJoXa6IA7wZLzXhXWHc++dz/2Q==' transform='matrix(1 0 0 1 34 14)'>
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame7_frame7_SVGID_4_)'>
+        <g opacity='0.15' mask='url(#frame7_SVGID_4_)'>
           <path fill='#C40000' d='M38.581,17.019c0,0,5.116,1.336,7.563,2.072c2.447,0.734-2.52,9.233-2.52,9.233l0.333,2.325
 			c0,0-3.076,1.604-3.299-0.4c-0.223-2.005,1.408-3.955,1.408-3.955l1.112-5.145l-4.598,0.441
 			C38.581,21.589,34.874,19.826,38.581,17.019z'/>
@@ -2653,12 +2653,12 @@ lnDo59SIqDixqJoXa6IA7wZLzXhXWHc++dz/2Q==' transform='matrix(1 0 0 1 34 14)'>
 			C30.75,56.2,34.1,46.332,34.1,46.332L37.418,44.621z'/>
         </g>
         <defs>
-          <filter id='frame7_frame7_Adobe_OpacityMaskFilter_4_' filterUnits='userSpaceOnUse' x='30.77' y='44.241' width='7.062' height='17.655'>
+          <filter id='frame7_Adobe_OpacityMaskFilter_4_' filterUnits='userSpaceOnUse' x='30.77' y='44.241' width='7.062' height='17.655'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='30.77' y='44.241' width='7.062' height='17.655' id='frame7_frame7_SVGID_5_'>
-          <g filter='url(#frame7_frame7_Adobe_OpacityMaskFilter_4_)'>
+        <mask maskUnits='userSpaceOnUse' x='30.77' y='44.241' width='7.062' height='17.655' id='frame7_SVGID_5_'>
+          <g filter='url(#frame7_Adobe_OpacityMaskFilter_4_)'>
             <image overflow='visible' width='12' height='22' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGFAAABnQAAAdj/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -2671,7 +2671,7 @@ DFkq7hX2PMxUIh9iYGX/2gAIAQICBj8AP//aAAgBAwIGPwA//9oACAEBAQY/AONoAMmOOuGWPqO1
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame7_frame7_SVGID_5_)'>
+        <g opacity='0.15' mask='url(#frame7_SVGID_5_)'>
           <path fill='#C40000' d='M37.418,44.621c0,0-3.232,12.026-3.467,12.6c-0.234,0.574-0.234,0.574-0.234,0.574l1.738,3.676
 			c0,0-3.709-0.383-4.208-2.826C30.75,56.2,34.1,46.332,34.1,46.332L37.418,44.621z'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8552' stroke-linejoin='bevel' stroke-miterlimit='11' d='M37.418,44.621
@@ -2688,12 +2688,12 @@ DFkq7hX2PMxUIh9iYGX/2gAIAQICBj8AP//aAAgBAwIGPwA//9oACAEBAQY/AONoAMmOOuGWPqO1
 			c-1.409,0.425-3.418,0.212-4.526-1.771s0-9.914,0-9.914l-4.147-4.108L47.465,38.684z'/>
         </g>
         <defs>
-          <filter id='frame7_frame7_Adobe_OpacityMaskFilter_5_' filterUnits='userSpaceOnUse' x='43.834' y='38.393' width='9.691' height='20.244'>
+          <filter id='frame7_Adobe_OpacityMaskFilter_5_' filterUnits='userSpaceOnUse' x='43.834' y='38.393' width='9.691' height='20.244'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='43.834' y='38.393' width='9.691' height='20.244' id='frame7_frame7_SVGID_6_'>
-          <g filter='url(#frame7_frame7_Adobe_OpacityMaskFilter_5_)'>
+        <mask maskUnits='userSpaceOnUse' x='43.834' y='38.393' width='9.691' height='20.244' id='frame7_SVGID_6_'>
+          <g filter='url(#frame7_Adobe_OpacityMaskFilter_5_)'>
             <image overflow='visible' width='15' height='25' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGHAAABqAAAAfb/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -2706,7 +2706,7 @@ cBqQo6kwuC+lxnVFPLyMgYs/F6CzSbYiMdwdRctd64t3fQzhMtWqUurncUkcf//Z' transform='mat
             </image>
           </g>
         </mask>
-        <g opacity='0.15' mask='url(#frame7_frame7_SVGID_6_)'>
+        <g opacity='0.15' mask='url(#frame7_SVGID_6_)'>
           <path fill='#C40000' d='M47.465,38.684c0,0,4.031,3.853,4.076,6.055c0.047,2.203-0.996,11.332-0.996,11.332
 			s3.665,1.558,2.257,1.982c-1.409,0.425-3.418,0.212-4.526-1.771s0-9.914,0-9.914l-4.147-4.108L47.465,38.684z'/>
           <path fill='none' stroke='#C40000' stroke-width='0.8038' stroke-linejoin='bevel' stroke-miterlimit='11' d='M47.465,38.684
@@ -2725,12 +2725,12 @@ cBqQo6kwuC+lxnVFPLyMgYs/F6CzSbYiMdwdRctd64t3fQzhMtWqUurncUkcf//Z' transform='mat
 			c0.104-3.241,0.673-8.786,3.118-10.149L40.17,31.45z'/>
         </g>
         <defs>
-          <filter id='frame7_frame7_Adobe_OpacityMaskFilter_6_' filterUnits='userSpaceOnUse' x='28.137' y='31.033' width='24.185' height='24.289'>
+          <filter id='frame7_Adobe_OpacityMaskFilter_6_' filterUnits='userSpaceOnUse' x='28.137' y='31.033' width='24.185' height='24.289'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='28.137' y='31.033' width='24.185' height='24.289' id='frame7_frame7_SVGID_7_'>
-          <g filter='url(#frame7_frame7_Adobe_OpacityMaskFilter_6_)'>
+        <mask maskUnits='userSpaceOnUse' x='28.137' y='31.033' width='24.185' height='24.289' id='frame7_SVGID_7_'>
+          <g filter='url(#frame7_Adobe_OpacityMaskFilter_6_)'>
             <image overflow='visible' width='29' height='29' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGYAAABzAAAAjL/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -2744,7 +2744,7 @@ E3e4MP/aAAgBAgIGPwAf/9oACAEDAgY/AB//2gAIAQEBBj8AMcOQaQrtaJkkc55027VbMLoyfq9O
             </image>
           </g>
         </mask>
-        <g mask='url(#frame7_frame7_SVGID_7_)'>
+        <g mask='url(#frame7_SVGID_7_)'>
           <path fill='#C40000' d='M40.17,31.45c0,0,2.015,0.703,5.272,3.386c3.263,2.686,4.887,4.979,6.626,6.256
 			c0,0-2.234,1.328-4.382,2.565c-2.147,1.236-3.101,3.07-4.129,4.048c-1.028,0.979-5.661,7.213-5.661,7.213
 			s-9.587-3.284-9.327-11.394c0.104-3.241,0.673-8.786,3.118-10.149L40.17,31.45z'/>
@@ -2767,12 +2767,12 @@ E3e4MP/aAAgBAgIGPwAf/9oACAEDAgY/AB//2gAIAQEBBj8AMcOQaQrtaJkkc55027VbMLoyfq9O
 			c0,0-0.072-4.77,0.002-5.972C25.015,19.091,27.314,17.82,29.344,17.621z'/>
         </g>
         <defs>
-          <filter id='frame7_frame7_Adobe_OpacityMaskFilter_7_' filterUnits='userSpaceOnUse' x='24.554' y='15.709' width='17.756' height='21.87'>
+          <filter id='frame7_Adobe_OpacityMaskFilter_7_' filterUnits='userSpaceOnUse' x='24.554' y='15.709' width='17.756' height='21.87'>
             <feColorMatrix type='matrix' values='-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0' color-interpolation-filters='sRGB' result='source'/>
           </filter>
         </defs>
-        <mask maskUnits='userSpaceOnUse' x='24.554' y='15.709' width='17.756' height='21.87' id='frame7_frame7_SVGID_8_'>
-          <g filter='url(#frame7_frame7_Adobe_OpacityMaskFilter_7_)'>
+        <mask maskUnits='userSpaceOnUse' x='24.554' y='15.709' width='17.756' height='21.87' id='frame7_SVGID_8_'>
+          <g filter='url(#frame7_Adobe_OpacityMaskFilter_7_)'>
             <image overflow='visible' width='23' height='27' xlink:href='data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAGXAAABxAAAAi7/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -2786,7 +2786,7 @@ afIE0MmJFJcX3CsSM9InhAHrINEhDqAigAX4Vi5SW2xzxM7cFcHRvs7vz56f/9k=' transform='mat
             </image>
           </g>
         </mask>
-        <g mask='url(#frame7_frame7_SVGID_8_)'>
+        <g mask='url(#frame7_SVGID_8_)'>
           <path fill='#C40000' d='M29.344,17.621l1.825,3.407c0,0,4.151,0.642,5.338-2.245l-0.297-2.646c0,0,1.407,0,2.371,0
 			c0.965,0,3.297,0.882,3.297,0.882s-0.701,0.802-1.072,1.764c-0.37,0.962,1.179,2.646,1.072,3.127l-2.185,0.24
 			c0,0,2.189,2.799,0,5.451l2.185,4.25c0,0-2.23,5.176-5.148,5.291c-2.919,0.116-6.377-0.962-6.896-2.245l1.632-6.253l-2.521-2.807
