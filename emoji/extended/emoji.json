@@ -1247,5 +1247,75 @@
     "code_ja": "ロードスター",
     "code": "roadster",
     "category": "transportation"
+  },
+  {
+    "code_ja": "圧縮",
+    "code": "pack",
+    "category": "abstract"
+  },
+  {
+    "code_ja": "解凍",
+    "code": "unpack",
+    "category": "abstract"
+  },
+  {
+    "code_ja": "グレープソーダ",
+    "code": "grape_soda",
+    "category": "food"
+  },
+  {
+    "code_ja": "緑茶",
+    "code": "bottled_green_tea",
+    "category": "food"
+  },
+  {
+    "code_ja": "ラムネ",
+    "code": "ramune",
+    "category": "food"
+  },
+  {
+    "code_ja": "コーラ",
+    "code": "cola",
+    "category": "food"
+  },
+  {
+    "code_ja": "乳酸菌飲料",
+    "code": "lactic_drink",
+    "category": "food"
+  },
+  {
+    "code_ja": "メロンソーダ",
+    "code": "melon_soda",
+    "category": "food"
+  },
+  {
+    "code_ja": "フラメンコダンサー",
+    "code": "flamenco_dancer",
+    "category": "people"
+  },
+  {
+    "code_ja": "フラメンコダンサー(白)",
+    "code": "flamenco_dancer(wh)",
+    "category": "people"
+  },
+  {
+    "code_ja": "フラメンコダンサー(桃)",
+    "code": "flamenco_dancer(p)",
+    "category": "people"
+  },
+  {
+    "code_ja": "フラメンコダンサー(黄)",
+    "code": "flamenco_dancer(ye)",
+    "category": "people"
+  },
+  {
+    "code_ja": "フラメンコダンサー(茶)",
+    "code": "flamenco_dancer(br)",
+    "category": "people"
+  },
+  {
+    "code_ja": "フラメンコダンサー(黒)",
+    "code": "flamenco_dancer(bk)",
+    "category": "people"
   }
 ]
