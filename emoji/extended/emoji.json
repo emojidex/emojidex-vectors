@@ -689,6 +689,66 @@
     "category": "faces"
   },
   {
+    "code_ja": "スマイリー(よだれ)",
+    "code": "drooling_face(smiley)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "スマイリー(カウボーイ)",
+    "code": "face_with_cowboy_hat(smiley)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "スマイリー(うそつき顔)",
+    "code": "lying_face(smiley)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "スマイリー(笑い転げる)",
+    "code": "rolling_on_the_floor_laughing(smiley)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "スマイリー(ケガ)",
+    "code": "face_with_head_bandage(smiley)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "スマイリー(あきれ顔)",
+    "code": "face_with_rolling_eyes(smiley)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "スマイリー(風邪ひき2)",
+    "code": "face_with_thermometer(smiley)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "スマイリー(金欲顔)",
+    "code": "money_mouth_face(smiley)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "スマイリー(オタク)",
+    "code": "nerd_face(smiley)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "スマイリー(思案顔)",
+    "code": "thinking_face(smiley)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "スマイリー(逆さま顔)",
+    "code": "upside_down_face(smiley)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "スマイリー(お口チャック)",
+    "code": "zipper_mouth_face(smiley)",
+    "category": "faces"
+  },
+  {
     "code_ja": "顔太陽2",
     "code": "sun_with_face2",
     "category": "nature"
@@ -1367,5 +1427,70 @@
     "code_ja": "(グリグリ)目",
     "code": "(googly)eyes",
     "category": "people"
+  },
+  {
+    "code_ja": "ブラシ",
+    "code": "blush",
+    "category": "objects"
+  },
+  {
+    "code_ja": "アイライナー",
+    "code": "eyeliner",
+    "category": "objects"
+  },
+  {
+    "code_ja": "アイシャドウ",
+    "code": "eyeshadow",
+    "category": "objects"
+  },
+  {
+    "code_ja": "リップスティック",
+    "code": "lipstick",
+    "category": "objects"
+  },
+  {
+    "code_ja": "リップスティック(真紅)",
+    "code": "lipstick(crimson)",
+    "category": "objects"
+  },
+  {
+    "code_ja": "リップスティック(桃)",
+    "code": "lipstick(pink)",
+    "category": "objects"
+  },
+  {
+    "code_ja": "リップスティック(赤)",
+    "code": "lipstick(red)",
+    "category": "objects"
+  },
+  {
+    "code_ja": "マニキュア",
+    "code": "nail_polish",
+    "category": "objects"
+  },
+  {
+    "code_ja": "マニキュア(青)",
+    "code": "nail_polish(blue)",
+    "category": "objects"
+  },
+  {
+    "code_ja": "マニキュア(赤)",
+    "code": "nail_polish(red)",
+    "category": "objects"
+  },
+  {
+    "code_ja": "マニキュア(黄)",
+    "code": "nail_polish(yellow)",
+    "category": "objects"
+  },
+  {
+    "code_ja": "スマートフォン",
+    "code": "smartphone",
+    "category": "objects"
+  },
+  {
+    "code_ja": "遺伝子",
+    "code": "DNA",
+    "category": "objects"
   }
 ]
