@@ -13,6 +13,7 @@ gem 'emojidex-converter'
 
 require 'emojidex'
 require 'emojidex_converter'
+require 'json'
 
 emoji_root = File.expand_path('../../emoji/', __FILE__)
 utf_path = File.expand_path('utf', emoji_root)
@@ -62,3 +63,27 @@ all_emoji.each do |emoji|
     puts emoji["code"]
   end
 end
+
+
+# Duplicate check
+class Array
+  def duplicate_check(*arrays)
+    self.sort!
+    self.each_with_index do |v, i|
+      puts "duplicate code #{v}" if v == self[i+1]
+    end
+  end
+end
+
+emoji_names = Array.new
+emoji_ja_names = Array.new
+
+list = JSON.parse(IO.read("#{utf_path}/emoji.json"), symbolize_names: true)
+list.concat(JSON.parse(IO.read("#{extended_path}/emoji.json"), symbolize_names: true))
+list.each do |emoji|
+  emoji_names << emoji[:code]
+  emoji_ja_names << emoji[:code_ja]
+end
+
+emoji_names.duplicate_check
+emoji_ja_names.duplicate_check
