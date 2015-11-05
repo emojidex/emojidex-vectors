@@ -1148,8 +1148,7 @@
   },
   {
     "moji": "🌓",
-    "full_name": "first_quarter_moon_symbol",
-    "code": "first_quarter_moon",
+    "code": "first_quarter_moon_symbol",
     "code_ja": "上弦の月",
     "category": "cosmos",
     "unicode": "1f313"
@@ -1180,8 +1179,7 @@
   },
   {
     "moji": "🌗",
-    "full_name": "last_quarter_moon_symbol",
-    "code": "last_quarter_moon",
+    "code": "last_quarter_moon_symbol",
     "code_ja": "下弦の月",
     "category": "cosmos",
     "unicode": "1f317"
@@ -3634,8 +3632,7 @@
   },
   {
     "moji": "👄",
-    "full_name": "mouth",
-    "code": "lips",
+    "code": "mouth",
     "code_ja": "口",
     "category": "people",
     "unicode": "1f444"
@@ -14664,7 +14661,7 @@
   },
   {
     "moji": "☃",
-    "code": "snowman",
+    "code": "frosty",
     "code_ja": "雪",
     "category": "nature",
     "unicode": "2603"
@@ -14742,8 +14739,7 @@
   },
   {
     "moji": "☔",
-    "full_name": "umbrella_with_rain_drops",
-    "code": "umbrella",
+    "code": "umbrella_with_rain_drops",
     "code_ja": "雨",
     "category": "nature",
     "unicode": "2614"
@@ -14780,14 +14776,14 @@
   {
     "moji": "☚",
     "code": "black_left_pointing_index",
-    "code_ja": "指差し(左・黒)",
+    "code_ja": "指差し(左・黒)2",
     "category": "gestures",
     "unicode": "261a"
   },
   {
     "moji": "☛",
     "code": "black_right_pointing_index",
-    "code_ja": "指差し(右・黒)",
+    "code_ja": "指差し(右・黒)2",
     "category": "gestures",
     "unicode": "261b"
   },
@@ -15072,7 +15068,7 @@
   {
     "moji": "☻",
     "code": "black_smiling_face",
-    "code_ja": "スマイルフェイス(黒)",
+    "code_ja": "スマイルフェイス(黒)2",
     "category": "faces",
     "unicode": "263b"
   },
@@ -15303,7 +15299,7 @@
   {
     "moji": "♜",
     "code": "black_chess_rook",
-    "code_ja": "ルーク(白)",
+    "code_ja": "ルーク(黒)",
     "category": "symbols",
     "unicode": "265c"
   },
@@ -15945,7 +15941,7 @@
   {
     "moji": "⛃",
     "code": "black_draughts_king",
-    "code_ja": "チェッカーのキング(白)",
+    "code_ja": "チェッカーのキング(黒)",
     "category": "objects",
     "unicode": "26c3"
   },
@@ -16235,7 +16231,7 @@
   {
     "moji": "⛵",
     "code": "sailboat",
-    "code_ja": "ボート",
+    "code_ja": "ヨット",
     "category": "transportation",
     "unicode": "26f5"
   },
@@ -16579,7 +16575,7 @@
     "moji": "❤",
     "full_name": "heavy_black_heart",
     "code": "heart",
-    "code_ja": "ハート",
+    "code_ja": "ハート2",
     "category": "abstract",
     "unicode": "2764"
   },
@@ -16682,8 +16678,7 @@
   },
   {
     "moji": "⭐",
-    "full_name": "white_medium_star",
-    "code": "star",
+    "code": "white_medium_star",
     "code_ja": "中星(白)",
     "category": "abstract",
     "unicode": "2b50"
