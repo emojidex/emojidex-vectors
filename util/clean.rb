@@ -1,5 +1,5 @@
 require 'phantom_svg'
-require 'emojidex/collection'
+require 'emojidex/data/collection'
 
 
 def clean_vectors(emoji)
@@ -20,9 +20,9 @@ def clean_vectors(emoji)
   puts "Total Converstion Time: #{run_time}"
 end
 
-utf = Emojidex::Collection.new(nil, File.expand_path('../../emoji/utf', __FILE__))
+utf = Emojidex::Data::Collection.new(nil, File.expand_path('../../emoji/utf', __FILE__))
 puts "Opening UTF collection with #{utf.emoji.count} emoji"
 clean_vectors(utf)
-extended = Emojidex::Collection.new(nil, File.expand_path('../../emoji/extended', __FILE__))
+extended = Emojidex::Data::Collection.new(nil, File.expand_path('../../emoji/extended', __FILE__))
 puts "Opening Extended collection with #{extended.emoji.count} emoji"
 clean_vectors(extended)
