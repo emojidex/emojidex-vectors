@@ -12,6 +12,7 @@ gem 'emojidex'
 gem 'emojidex-converter'
 
 require 'emojidex'
+require 'emojidex/data/collection_checker'
 require 'emojidex_converter'
 require 'json'
 
