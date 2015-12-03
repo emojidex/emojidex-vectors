@@ -1,5 +1,5 @@
 source 'http://rubygems.org'
 
-gem 'emojidex', '0.0.23'
+gem 'emojidex', github: 'emojidex/emojidex'
 gem 'emojidex-converter'
 gem 'phantom_svg'

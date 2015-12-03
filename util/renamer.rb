@@ -18,10 +18,10 @@ emoji_root = File.expand_path('../../emoji/', __FILE__)
 utf_path = File.expand_path('utf', emoji_root)
 extended_path = File.expand_path('extended', emoji_root)
 
-utf = Emojidex::Collection.new
+utf = Emojidex::Data::Collection.new
 utf.load_local_collection utf_path
 
-extended = Emojidex::Collection.new
+extended = Emojidex::Data::Collection.new
 extended.load_local_collection extended_path
 
 variants = ['(br)', '(bk)']

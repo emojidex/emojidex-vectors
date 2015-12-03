@@ -20,13 +20,13 @@ utf_path = File.expand_path('utf', emoji_root)
 extended_path = File.expand_path('extended', emoji_root)
 
 category_names = []
-Emojidex::Categories.new.each { |category| category_names << category.code.to_s }
+Emojidex::Data::Categories.new.each { |category| category_names << category.code.to_s }
 
 
 # Check
-utf = Emojidex::Collection.new
+utf = Emojidex::Data::Collection.new
 utf.load_local_collection utf_path
-utf_cc = Emojidex::CollectionChecker.new(utf, formats: [:svg])
+utf_cc = Emojidex::Data::CollectionChecker.new(utf, formats: [:svg])
 if utf_cc.asset_only.empty? && utf_cc.index_only.empty?
   puts "UTF Collection OK!"
 else
@@ -40,9 +40,9 @@ end
 
 
 # Check
-extended = Emojidex::Collection.new
+extended = Emojidex::Data::Collection.new
 extended.load_local_collection extended_path
-extended_cc = Emojidex::CollectionChecker.new(extended, formats: [:svg])
+extended_cc = Emojidex::Data::CollectionChecker.new(extended, formats: [:svg])
 if extended_cc.asset_only.empty? && extended_cc.index_only.empty?
   puts "Extended Collection OK!"
 else
