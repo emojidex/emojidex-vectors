@@ -13532,42 +13532,42 @@
   },
   {
     "moji": "🤞",
-    "code": "hand_with_first_and_index_finger_crossed",
+    "code": "hand_with_index_and_middle_finger_crossed",
     "code_ja": "指交差",
     "category": "gestures",
     "unicode": "1f91e"
   },
   {
     "moji": "🤞🏻",
-    "code": "hand_with_first_and_index_finger_crossed(wh)",
+    "code": "hand_with_index_and_middle_finger_crossed(wh)",
     "code_ja": "指交差(白)",
     "category": "gestures",
     "unicode": "1f91e1f3fb"
   },
   {
     "moji": "🤞🏼",
-    "code": "hand_with_first_and_index_finger_crossed(p)",
+    "code": "hand_with_index_and_middle_finger_crossed(p)",
     "code_ja": "指交差(桃)",
     "category": "gestures",
     "unicode": "1f91e1f3fc"
   },
   {
     "moji": "🤞🏽",
-    "code": "hand_with_first_and_index_finger_crossed(ye)",
+    "code": "hand_with_index_and_middle_finger_crossed(ye)",
     "code_ja": "指交差(黄)",
     "category": "gestures",
     "unicode": "1f91e1f3fd"
   },
   {
     "moji": "🤞🏾",
-    "code": "hand_with_first_and_index_finger_crossed(br)",
+    "code": "hand_with_index_and_middle_finger_crossed(br)",
     "code_ja": "指交差(茶)",
     "category": "gestures",
     "unicode": "1f91e1f3fe"
   },
   {
     "moji": "🤞🏿",
-    "code": "hand_with_first_and_index_finger_crossed(bk)",
+    "code": "hand_with_index_and_middle_finger_crossed(bk)",
     "code_ja": "指交差(黒)",
     "category": "gestures",
     "unicode": "1f91e1f3ff"
@@ -14176,66 +14176,52 @@
   },
   {
     "moji": "🤺",
-    "code": "drum_with_drumsticks",
-    "code_ja": "ドラム",
-    "category": "objects",
+    "code": "fencer",
+    "code_ja": "フェンシング",
+    "category": "people",
     "unicode": "1f93a"
   },
   {
-    "moji": "🤻",
+    "moji": "🤼",
     "code": "wrestlers",
     "code_ja": "レスラー",
     "category": "people",
-    "unicode": "1f93b"
-  },
-  {
-    "moji": "🤻🏻",
-    "code": "wrestlers(wh)",
-    "code_ja": "レスラー(白)",
-    "category": "people",
-    "unicode": "1f93b1f3fb"
-  },
-  {
-    "moji": "🤻🏼",
-    "code": "wrestlers(p)",
-    "code_ja": "レスラー(桃)",
-    "category": "people",
-    "unicode": "1f93b1f3fc"
-  },
-  {
-    "moji": "🤻🏽",
-    "code": "wrestlers(ye)",
-    "code_ja": "レスラー(黄)",
-    "category": "people",
-    "unicode": "1f93b1f3fd"
-  },
-  {
-    "moji": "🤻🏾",
-    "code": "wrestlers(br)",
-    "code_ja": "レスラー(茶)",
-    "category": "people",
-    "unicode": "1f93b1f3fe"
-  },
-  {
-    "moji": "🤻🏿",
-    "code": "wrestlers(bk)",
-    "code_ja": "レスラー(黒)",
-    "category": "people",
-    "unicode": "1f93b1f3ff"
-  },
-  {
-    "moji": "🤼",
-    "code": "boxing_glove",
-    "code_ja": "ボクシンググローブ",
-    "category": "objects",
     "unicode": "1f93c"
   },
   {
-    "moji": "🤽",
-    "code": "martial_arts_uniform",
-    "code_ja": "道着",
-    "category": "objects",
-    "unicode": "1f93d"
+    "moji": "🤼🏻",
+    "code": "wrestlers(wh)",
+    "code_ja": "レスラー(白)",
+    "category": "people",
+    "unicode": "1f93c1f3fb"
+  },
+  {
+    "moji": "🤼🏼",
+    "code": "wrestlers(p)",
+    "code_ja": "レスラー(桃)",
+    "category": "people",
+    "unicode": "1f93c1f3fc"
+  },
+  {
+    "moji": "🤼🏽",
+    "code": "wrestlers(ye)",
+    "code_ja": "レスラー(黄)",
+    "category": "people",
+    "unicode": "1f93c1f3fd"
+  },
+  {
+    "moji": "🤼🏾",
+    "code": "wrestlers(br)",
+    "code_ja": "レスラー(茶)",
+    "category": "people",
+    "unicode": "1f93c1f3fe"
+  },
+  {
+    "moji": "🤼🏿",
+    "code": "wrestlers(bk)",
+    "code_ja": "レスラー(黒)",
+    "category": "people",
+    "unicode": "1f93c1f3ff"
   },
   {
     "moji": "🤿",
@@ -14250,6 +14236,13 @@
     "code_ja": "しおれた花",
     "category": "objects",
     "unicode": "1f940"
+  },
+  {
+    "moji": "🥁",
+    "code": "drum_with_drumsticks",
+    "code_ja": "ドラム",
+    "category": "objects",
+    "unicode": "1f941"
   },
   {
     "moji": "🥂",
@@ -14299,6 +14292,20 @@
     "code_ja": "銅メダル",
     "category": "objects",
     "unicode": "1f949"
+  },
+  {
+    "moji": "🥊",
+    "code": "boxing_glove",
+    "code_ja": "ボクシンググローブ",
+    "category": "objects",
+    "unicode": "1f94a"
+  },
+  {
+    "moji": "🥋",
+    "code": "martial_arts_uniform",
+    "code_ja": "道着",
+    "category": "objects",
+    "unicode": "1f94b"
   },
   {
     "moji": "🥐",
@@ -14369,13 +14376,6 @@
     "code_ja": "ドネルケバブ",
     "category": "food",
     "unicode": "1f959"
-  },
-  {
-    "moji": "🥡",
-    "code": "fencer",
-    "code_ja": "フェンシング",
-    "category": "people",
-    "unicode": "1f961"
   },
   {
     "moji": "🦀",
