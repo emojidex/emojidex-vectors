@@ -1861,9 +1861,8 @@
   },
   {
     "moji": "🍳",
-    "full_name": "cooking",
-    "code": "egg",
-    "code_ja": "目玉焼き",
+    "code": "cooking",
+    "code_ja": "料理",
     "category": "food",
     "unicode": "1f373"
   },
@@ -14385,6 +14384,27 @@
     "unicode": "1f959"
   },
   {
+    "moji": "🥚",
+    "code": "egg",
+    "code_ja": "卵",
+    "category": "food",
+    "unicode": "1f95a"
+  },
+  {
+    "moji": "🥝",
+    "code": "kiwifruit",
+    "code_ja": "キウイフルーツ",
+    "category": "food",
+    "unicode": "1f95d"
+  },
+  {
+    "moji": "🥞",
+    "code": "pancakes",
+    "code_ja": "パンケーキ",
+    "category": "food",
+    "unicode": "1f95e"
+  },
+  {
     "moji": "🦀",
     "code": "crab",
     "code_ja": "カニ",
@@ -14495,6 +14515,13 @@
     "code_ja": "サイ",
     "category": "nature",
     "unicode": "1f98f"
+  },
+  {
+    "moji": "🦑",
+    "code": "squid",
+    "code_ja": "イカ",
+    "category": "nature",
+    "unicode": "1f991"
   },
   {
     "moji": "🧀",
