@@ -1757,5 +1757,920 @@
     "code_ja": "ハートボックス",
     "code": "heart_shaped_box",
     "category": "objects"
+  },
+  {
+    "code_ja": "怒った顔(うんち)",
+    "code": "angry(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "悲しい顔(うんち)",
+    "code": "anguished(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "びっくり(うんち)",
+    "code": "astonished(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "にこにこ(うんち)",
+    "code": "blush(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "冷や汗2(うんち)",
+    "code": "cold_sweat(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "混乱(うんち)",
+    "code": "confounded(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "困る(うんち)",
+    "code": "confused(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "涙(うんち)",
+    "code": "cry(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "やれやれ(うんち)",
+    "code": "disappointed_relieved(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "がっかり(うんち)",
+    "code": "disappointed(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "ふらふら(うんち)",
+    "code": "dizzy_face(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "酔っ払い(うんち)",
+    "code": "drunk(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "ぼけーっとした顔(うんち)",
+    "code": "expressionless(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "青ざめ(うんち)",
+    "code": "fearful(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "ぽっ(うんち)",
+    "code": "flushed(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "しかめっ面(うんち)",
+    "code": "frowning(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "いーっ(うんち)",
+    "code": "grimacing(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "うっしっし(うんち)",
+    "code": "grin(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "にんまり(うんち)",
+    "code": "grinning(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "目がハート(うんち)",
+    "code": "heart_eyes(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "しーん(うんち)",
+    "code": "hushed(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "天使の笑顔(うんち)",
+    "code": "innocent(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "泣き笑い(うんち)",
+    "code": "joy(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "チュッ(うんち)",
+    "code": "kissing_closed_eyes(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "投げキッス(うんち)",
+    "code": "kissing_heart(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "チューしよ(うんち)",
+    "code": "kissing_smiling_eyes(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "チュー(うんち)",
+    "code": "kissing(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "笑い(うんち)",
+    "code": "laughing(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "風邪ひき(うんち)",
+    "code": "mask(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "普通の顔(うんち)",
+    "code": "neutral_face(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "無表情(うんち)",
+    "code": "no_mouth(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "ぽかんと(うんち)",
+    "code": "open_mouth(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "しょんぼり(うんち)",
+    "code": "pensive(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "がまん顔(うんち)",
+    "code": "persevere(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "嘔吐(うんち)",
+    "code": "puke(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "ふくれっ面(うんち)",
+    "code": "rage(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "リラックス(うんち)",
+    "code": "relaxed(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "ほっとした顔(うんち)",
+    "code": "relieved(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "満足(うんち)",
+    "code": "satisfied(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "ショッキング(うんち)",
+    "code": "scream(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "眠い(うんち)",
+    "code": "sleeping(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "睡眠中(うんち)",
+    "code": "sleepy(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "嬉しい顔(うんち)",
+    "code": "smile(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "スマイル(うんち)",
+    "code": "smiley(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "スマイルフェイス(うんち)",
+    "code": "smiling_face(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "怒り(悪魔・うんち)",
+    "code": "smiling_imp(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "ふっ(うんち)",
+    "code": "smirk(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "大泣き(うんち)",
+    "code": "sob(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "べーっ(うんち)",
+    "code": "stuck_out_tongue_closed_eyes(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "あっかんべー(うんち)",
+    "code": "stuck_out_tongue_winking_eye(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "べー(うんち)",
+    "code": "stuck_out_tongue(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "キリッ(うんち)",
+    "code": "sunglasses(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "冷や汗(うんち)",
+    "code": "sweat_smile(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "困り顔(うんち)",
+    "code": "sweat(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "疲れた(うんち)",
+    "code": "tired_face(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "勝ち誇り(うんち)",
+    "code": "triumph(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "横目(うんち)",
+    "code": "unamused(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "うんざり(うんち)",
+    "code": "weary(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "ウインク(うんち)",
+    "code": "wink(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "心配(うんち)",
+    "code": "worried(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "うまい(うんち)",
+    "code": "yum(poop)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "怒った顔(スライム)",
+    "code": "angry(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "悲しい顔(スライム)",
+    "code": "anguished(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "びっくり(スライム)",
+    "code": "astonished(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "にこにこ(スライム)",
+    "code": "blush(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "冷や汗2(スライム)",
+    "code": "cold_sweat(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "混乱(スライム)",
+    "code": "confounded(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "困る(スライム)",
+    "code": "confused(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "涙(スライム)",
+    "code": "cry(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "やれやれ(スライム)",
+    "code": "disappointed_relieved(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "がっかり(スライム)",
+    "code": "disappointed(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "ふらふら(スライム)",
+    "code": "dizzy_face(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "酔っ払い(スライム)",
+    "code": "drunk(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "ぼけーっとした顔(スライム)",
+    "code": "expressionless(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "青ざめ(スライム)",
+    "code": "fearful(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "ぽっ(スライム)",
+    "code": "flushed(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "しかめっ面(スライム)",
+    "code": "frowning(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "いーっ(スライム)",
+    "code": "grimacing(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "うっしっし(スライム)",
+    "code": "grin(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "にんまり(スライム)",
+    "code": "grinning(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "目がハート(スライム)",
+    "code": "heart_eyes(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "しーん(スライム)",
+    "code": "hushed(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "天使の笑顔(スライム)",
+    "code": "innocent(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "泣き笑い(スライム)",
+    "code": "joy(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "チュッ(スライム)",
+    "code": "kissing_closed_eyes(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "投げキッス(スライム)",
+    "code": "kissing_heart(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "チューしよ(スライム)",
+    "code": "kissing_smiling_eyes(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "チュー(スライム)",
+    "code": "kissing(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "笑い(スライム)",
+    "code": "laughing(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "風邪ひき(スライム)",
+    "code": "mask(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "普通の顔(スライム)",
+    "code": "neutral_face(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "無表情(スライム)",
+    "code": "no_mouth(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "ぽかんと(スライム)",
+    "code": "open_mouth(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "しょんぼり(スライム)",
+    "code": "pensive(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "がまん顔(スライム)",
+    "code": "persevere(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "嘔吐(スライム)",
+    "code": "puke(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "ふくれっ面(スライム)",
+    "code": "rage(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "リラックス(スライム)",
+    "code": "relaxed(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "ほっとした顔(スライム)",
+    "code": "relieved(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "満足(スライム)",
+    "code": "satisfied(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "ショッキング(スライム)",
+    "code": "scream(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "眠い(スライム)",
+    "code": "sleeping(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "睡眠中(スライム)",
+    "code": "sleepy(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "嬉しい顔(スライム)",
+    "code": "smile(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "スマイル(スライム)",
+    "code": "smiley(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "スマイルフェイス(スライム)",
+    "code": "smiling_face(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "怒り(悪魔・スライム)",
+    "code": "smiling_imp(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "ふっ(スライム)",
+    "code": "smirk(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "大泣き(スライム)",
+    "code": "sob(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "べーっ(スライム)",
+    "code": "stuck_out_tongue_closed_eyes(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "あっかんべー(スライム)",
+    "code": "stuck_out_tongue_winking_eye(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "べー(スライム)",
+    "code": "stuck_out_tongue(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "キリッ(スライム)",
+    "code": "sunglasses(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "冷や汗(スライム)",
+    "code": "sweat_smile(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "困り顔(スライム)",
+    "code": "sweat(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "疲れた(スライム)",
+    "code": "tired_face(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "勝ち誇り(スライム)",
+    "code": "triumph(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "横目(スライム)",
+    "code": "unamused(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "うんざり(スライム)",
+    "code": "weary(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "ウインク(スライム)",
+    "code": "wink(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "心配(スライム)",
+    "code": "worried(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "うまい(スライム)",
+    "code": "yum(slime)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "怒った顔(プリン)",
+    "code": "angry(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "悲しい顔(プリン)",
+    "code": "anguished(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "びっくり(プリン)",
+    "code": "astonished(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "にこにこ(プリン)",
+    "code": "blush(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "冷や汗2(プリン)",
+    "code": "cold_sweat(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "混乱(プリン)",
+    "code": "confounded(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "困る(プリン)",
+    "code": "confused(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "涙(プリン)",
+    "code": "cry(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "やれやれ(プリン)",
+    "code": "disappointed_relieved(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "がっかり(プリン)",
+    "code": "disappointed(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "ふらふら(プリン)",
+    "code": "dizzy_face(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "酔っ払い(プリン)",
+    "code": "drunk(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "ぼけーっとした顔(プリン)",
+    "code": "expressionless(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "青ざめ(プリン)",
+    "code": "fearful(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "ぽっ(プリン)",
+    "code": "flushed(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "しかめっ面(プリン)",
+    "code": "frowning(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "いーっ(プリン)",
+    "code": "grimacing(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "うっしっし(プリン)",
+    "code": "grin(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "にんまり(プリン)",
+    "code": "grinning(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "目がハート(プリン)",
+    "code": "heart_eyes(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "しーん(プリン)",
+    "code": "hushed(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "天使の笑顔(プリン)",
+    "code": "innocent(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "泣き笑い(プリン)",
+    "code": "joy(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "チュッ(プリン)",
+    "code": "kissing_closed_eyes(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "投げキッス(プリン)",
+    "code": "kissing_heart(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "チューしよ(プリン)",
+    "code": "kissing_smiling_eyes(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "チュー(プリン)",
+    "code": "kissing(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "笑い(プリン)",
+    "code": "laughing(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "風邪ひき(プリン)",
+    "code": "mask(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "普通の顔(プリン)",
+    "code": "neutral_face(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "無表情(プリン)",
+    "code": "no_mouth(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "ぽかんと(プリン)",
+    "code": "open_mouth(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "しょんぼり(プリン)",
+    "code": "pensive(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "がまん顔(プリン)",
+    "code": "persevere(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "嘔吐(プリン)",
+    "code": "puke(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "ふくれっ面(プリン)",
+    "code": "rage(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "リラックス(プリン)",
+    "code": "relaxed(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "ほっとした顔(プリン)",
+    "code": "relieved(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "満足(プリン)",
+    "code": "satisfied(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "ショッキング(プリン)",
+    "code": "scream(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "眠い(プリン)",
+    "code": "sleeping(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "睡眠中(プリン)",
+    "code": "sleepy(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "嬉しい顔(プリン)",
+    "code": "smile(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "スマイル(プリン)",
+    "code": "smiley(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "スマイルフェイス(プリン)",
+    "code": "smiling_face(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "怒り(悪魔・プリン)",
+    "code": "smiling_imp(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "ふっ(プリン)",
+    "code": "smirk(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "大泣き(プリン)",
+    "code": "sob(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "べーっ(プリン)",
+    "code": "stuck_out_tongue_closed_eyes(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "あっかんべー(プリン)",
+    "code": "stuck_out_tongue_winking_eye(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "べー(プリン)",
+    "code": "stuck_out_tongue(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "キリッ(プリン)",
+    "code": "sunglasses(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "冷や汗(プリン)",
+    "code": "sweat_smile(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "困り顔(プリン)",
+    "code": "sweat(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "疲れた(プリン)",
+    "code": "tired_face(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "勝ち誇り(プリン)",
+    "code": "triumph(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "横目(プリン)",
+    "code": "unamused(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "うんざり(プリン)",
+    "code": "weary(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "ウインク(プリン)",
+    "code": "wink(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "心配(プリン)",
+    "code": "worried(pudding)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "うまい(プリン)",
+    "code": "yum(pudding)",
+    "category": "faces"
   }
 ]
