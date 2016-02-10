@@ -2672,5 +2672,40 @@
     "code_ja": "うまい(プリン)",
     "code": "yum(pudding)",
     "category": "faces"
+  },
+  {
+    "code_ja": "月への旅",
+    "code": "journy_to_the_moon",
+    "category": "cosmos"
+  },
+  {
+    "code_ja": "ミント",
+    "code": "mint",
+    "category": "objects"
+  },
+  {
+    "code_ja": "ロケット(シンプル)",
+    "code": "rocket(simple)",
+    "category": "transportation"
+  },
+  {
+    "code_ja": "ロケット(シンプル・上向き)",
+    "code": "upwards_rocket(simple)",
+    "category": "transportation"
+  },
+  {
+    "code_ja": "ロケット(シンプル・下向き)",
+    "code": "downwards_rocket(simple)",
+    "category": "transportation"
+  },
+  {
+    "code_ja": "ロケット(シンプル・左向き)",
+    "code": "leftwards_rocket(simple)",
+    "category": "transportation"
+  },
+  {
+    "code_ja": "ロケット(シンプル・右向き)",
+    "code": "rightwards_rocket(simple)",
+    "category": "transportation"
   }
 ]
