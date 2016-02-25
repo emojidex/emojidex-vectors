@@ -400,7 +400,7 @@
   },
   {
     "code_ja": "スマイリー(怒った顔)",
-    "code": "angry_face(smiley)",
+    "code": "angry(smiley)",
     "category": "faces"
   },
   {
@@ -425,7 +425,7 @@
   },
   {
     "code_ja": "スマイリー(困惑)",
-    "code": "confounded_face(smiley)",
+    "code": "confounded(smiley)",
     "category": "faces"
   },
   {
@@ -435,17 +435,17 @@
   },
   {
     "code_ja": "スマイリー(涙)",
-    "code": "crying_face(smiley)",
+    "code": "cry(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(やれやれ)",
-    "code": "disappointed_but_relieved_face(smiley)",
+    "code": "disappointed_relieved(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(がっかり)",
-    "code": "disappointed_face(smiley)",
+    "code": "disappointed(smiley)",
     "category": "faces"
   },
   {
@@ -465,37 +465,37 @@
   },
   {
     "code_ja": "スマイリー(うまい)",
-    "code": "face_savouring_delicious_food(smiley)",
+    "code": "yum(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(勝ち誇り)",
-    "code": "face_with_look_of_triumph(smiley)",
+    "code": "triumph(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(風邪ひき)",
-    "code": "face_with_medical_mask(smiley)",
+    "code": "mask(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(冷や汗2)",
-    "code": "face_with_open_mouth_and_cold_sweat(smiley)",
+    "code": "cold_sweat(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(あっかんべー)",
-    "code": "face_with_stuck_out_tongue_and_winking_eye(smiley)",
+    "code": "stuck_out_tongue_winking_eye(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(泣き笑い)",
-    "code": "face_with_tears_of_joy(smiley)",
+    "code": "joy(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(青ざめ)",
-    "code": "fearful_face(smiley)",
+    "code": "fearful(smiley)",
     "category": "faces"
   },
   {
@@ -560,7 +560,7 @@
   },
   {
     "code_ja": "スマイリー(大泣き)",
-    "code": "loudly_crying_face(smiley)",
+    "code": "sob(smiley)",
     "category": "faces"
   },
   {
@@ -570,27 +570,22 @@
   },
   {
     "code_ja": "スマイリー(しょんぼり)",
-    "code": "pensive_face(smiley)",
+    "code": "pensive(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(がまん顔)",
-    "code": "persevering_face(smiley)",
+    "code": "persevere(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(ふくれっ面)",
-    "code": "pouting_face(smiley)",
+    "code": "rage(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(嘔吐)",
     "code": "puke(smiley)",
-    "category": "faces"
-  },
-  {
-    "code_ja": "スマイリー(リラックス)",
-    "code": "relaxed(smiley)",
     "category": "faces"
   },
   {
@@ -610,7 +605,7 @@
   },
   {
     "code_ja": "スマイリー(眠い)",
-    "code": "sleepy_face(smiley)",
+    "code": "sleepy(smiley)",
     "category": "faces"
   },
   {
@@ -680,12 +675,17 @@
   },
   {
     "code_ja": "スマイリー(ショッキング)",
-    "code": "face_screaming_in_fear(smiley)",
+    "code": "scream(smiley)",
     "category": "faces"
   },
   {
     "code_ja": "スマイリー(リラックス2)",
     "code": "white_smiling_face(smiley)",
+    "category": "faces"
+   },
+  {
+    "code_ja": "スマイリー(リラックス)",
+    "code": "relaxed(smiley)",
     "category": "faces"
   },
   {
