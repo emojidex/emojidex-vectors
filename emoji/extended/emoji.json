@@ -734,6 +734,11 @@
     "category": "faces"
   },
   {
+    "code_ja": "スマイリー(くしゃみ)",
+    "code": "sneezing_face(smiley)",
+    "category": "faces"
+  },
+  {
     "code_ja": "スマイリー(思案顔)",
     "code": "thinking_face(smiley)",
     "category": "faces"
@@ -2707,5 +2712,40 @@
     "code_ja": "ロケット(シンプル・右向き)",
     "code": "rightwards_rocket(simple)",
     "category": "transportation"
+  },
+  {
+    "code_ja": "白黒クッキー",
+    "code": "black_and_white_cookie",
+    "category": "food"
+  },
+  {
+    "code_ja": "ブルックリンヒップスター",
+    "code": "brooklyn_hipster",
+    "category": "people"
+  },
+  {
+    "code_ja": "現金のみ",
+    "code": "cash_only",
+    "category": "symbols"
+  },
+  {
+    "code_ja": "輪タク",
+    "code": "pedicab",
+    "category": "transportation"
+  },
+  {
+    "code_ja": "ピザを盗むネズミ",
+    "code": "pizza_rat",
+    "category": "nature"
+  },
+  {
+    "code_ja": "地下鉄車両",
+    "code": "subway_car",
+    "category": "transportation"
+  },
+  {
+    "code_ja": "持ち帰り用コーヒー",
+    "code": "to_go_coffee",
+    "category": "food"
   }
 ]
