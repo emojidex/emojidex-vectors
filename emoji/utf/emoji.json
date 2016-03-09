@@ -13529,6 +13529,48 @@
     "category": "gestures",
     "unicode": "1f91c-1f3ff"
   },
+    {
+    "moji": "🤝",
+    "code": "handshake",
+    "code_ja": "握手",
+    "category": "gestures",
+    "unicode": "1f91d"
+  },
+  {
+    "moji": "🤝🏻",
+    "code": "handshake(wh)",
+    "code_ja": "握手(白)",
+    "category": "gestures",
+    "unicode": "1f91d-1f3fb"
+  },
+  {
+    "moji": "🤝🏼",
+    "code": "handshake(p)",
+    "code_ja": "握手(桃)",
+    "category": "gestures",
+    "unicode": "1f91d-1f3fc"
+  },
+  {
+    "moji": "🤝🏽",
+    "code": "handshake(ye)",
+    "code_ja": "握手(黄)",
+    "category": "gestures",
+    "unicode": "1f91d-1f3fd"
+  },
+  {
+    "moji": "🤝🏾",
+    "code": "handshake(br)",
+    "code_ja": "握手(茶)",
+    "category": "gestures",
+    "unicode": "1f91d-1f3fe"
+  },
+  {
+    "moji": "握手🤝🏿",
+    "code": "handshake(bk)",
+    "code_ja": "(黒)",
+    "category": "gestures",
+    "unicode": "1f91d-1f3ff"
+  },
   {
     "moji": "🤞",
     "code": "hand_with_index_and_middle_finger_crossed",
@@ -14181,6 +14223,13 @@
     "unicode": "1f93a"
   },
   {
+    "moji": "🤻",
+    "code": "modern_pentathlon",
+    "code_ja": "近代五種競技",
+    "category": "people",
+    "unicode": "1f93b"
+  },
+  {
     "moji": "🤼",
     "code": "wrestlers",
     "code_ja": "レスラー",
@@ -14221,6 +14270,48 @@
     "code_ja": "レスラー(黒)",
     "category": "people",
     "unicode": "1f93c-1f3ff"
+  },
+    {
+    "moji": "🤽",
+    "code": "water_polo",
+    "code_ja": "水球",
+    "category": "people",
+    "unicode": "1f93d"
+  },
+  {
+    "moji": "🤽🏻",
+    "code": "water_polo(wh)",
+    "code_ja": "水球(白)",
+    "category": "people",
+    "unicode": "1f93d-1f3fb"
+  },
+  {
+    "moji": "🤽🏼",
+    "code": "water_polo(p)",
+    "code_ja": "水球(桃)",
+    "category": "people",
+    "unicode": "1f93d-1f3fc"
+  },
+  {
+    "moji": "🤽🏽",
+    "code": "water_polo(ye)",
+    "code_ja": "水球(黄)",
+    "category": "people",
+    "unicode": "1f93d-1f3fd"
+  },
+  {
+    "moji": "🤽🏾",
+    "code": "water_polo(br)",
+    "code_ja": "水球(茶)",
+    "category": "people",
+    "unicode": "1f93d-1f3fe"
+  },
+  {
+    "moji": "🤽🏿",
+    "code": "water_polo(bk)",
+    "code_ja": "水球(黒)",
+    "category": "people",
+    "unicode": "1f93d-1f3ff"
   },
   {
     "moji": "🤿",
@@ -16106,7 +16197,7 @@
   },
   {
     "moji": "⚸",
-    "code": "black_moon_lilith",
+    "code": "Black_Moon_Lilith",
     "code_ja": "リリス",
     "category": "symbols",
     "unicode": "26b8"
