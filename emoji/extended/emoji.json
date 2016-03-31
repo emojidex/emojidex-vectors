@@ -3013,5 +3013,80 @@
     "code_ja": "テールライト(GTR・右)",
     "code": "taillight_GTR_r",
     "category": "objects"
+  },
+  {
+    "code_ja": "ムチ",
+    "code": "whip",
+    "category": "objects"
+  },
+  {
+    "code_ja": "赤い蝋燭",
+    "code": "red_candle",
+    "category": "objects"
+  },
+  {
+    "code_ja": "赤い縄",
+    "code": "red_rope",
+    "category": "objects"
+  },
+  {
+    "code_ja": "目隠し",
+    "code": "blindfold",
+    "category": "objects"
+  },
+  {
+    "code_ja": "(イカ)寿司",
+    "code": "(squid)sushi",
+    "category": "food"
+  },
+  {
+    "code_ja": "イクラ",
+    "code": "salmon_roe",
+    "category": "food"
+  },
+  {
+    "code_ja": "(ウナギ)寿司",
+    "code": "(eel)sushi",
+    "category": "food"
+  },
+  {
+    "code_ja": "ウニ",
+    "code": "sea_urchin_roe",
+    "category": "food"
+  },
+  {
+    "code_ja": "(エビ)寿司",
+    "code": "(shrimp)sushi",
+    "category": "food"
+  },
+  {
+    "code_ja": "かっぱ巻き",
+    "code": "cucumber_roll",
+    "category": "food"
+  },
+  {
+    "code_ja": "(サーモン)寿司",
+    "code": "(salmon)sushi",
+    "category": "food"
+  },
+  {
+    "code_ja": "(玉子)寿司",
+    "code": "(egg)sushi",
+    "category": "food"
+  },
+  {
+    "code_ja": "(穴子)寿司",
+    "code": "(conger_eel)sushi",
+    "category": "food"
+  },
+  {
+    "code_ja": "(鯛)寿司",
+    "code": "(snapper)sushi",
+    "category": "food"
+  },
+  {
+    "code_ja": "鉄火巻き",
+    "code": "tuna_roll",
+    "category": "food"
   }
 ]
