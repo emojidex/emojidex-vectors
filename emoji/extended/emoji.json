@@ -2995,26 +2995,6 @@
     "category": "objects"
   },
   {
-    "code_ja": "テールライト(86・左)",
-    "code": "taillight_86_l",
-    "category": "objects"
-  },
-  {
-    "code_ja": "テールライト(86・右)",
-    "code": "taillight_86_r",
-    "category": "objects"
-  },
-  {
-    "code_ja": "テールライト(GTR・左)",
-    "code": "taillight_GTR_l",
-    "category": "objects"
-  },
-  {
-    "code_ja": "テールライト(GTR・右)",
-    "code": "taillight_GTR_r",
-    "category": "objects"
-  },
-  {
     "code_ja": "ムチ",
     "code": "whip",
     "category": "objects"
@@ -3035,58 +3015,58 @@
     "category": "objects"
   },
   {
-    "code_ja": "(イカ)寿司",
+    "code_ja": "(イカ)すし",
     "code": "(squid)sushi",
     "category": "food"
   },
   {
-    "code_ja": "イクラ",
-    "code": "salmon_roe",
+    "code_ja": "(イクラ)すし",
+    "code": "(salmon_roe)sushi",
     "category": "food"
   },
   {
-    "code_ja": "(ウナギ)寿司",
+    "code_ja": "(ウナギ)すし",
     "code": "(eel)sushi",
     "category": "food"
   },
   {
-    "code_ja": "ウニ",
-    "code": "sea_urchin_roe",
+    "code_ja": "(ウニ)すし",
+    "code": "(sea_urchin)sushi",
     "category": "food"
   },
   {
-    "code_ja": "(エビ)寿司",
+    "code_ja": "(エビ)すし",
     "code": "(shrimp)sushi",
     "category": "food"
   },
   {
-    "code_ja": "かっぱ巻き",
-    "code": "cucumber_roll",
+    "code_ja": "(かっぱ巻)すし",
+    "code": "(cucumber_roll)sushi",
     "category": "food"
   },
   {
-    "code_ja": "(サーモン)寿司",
+    "code_ja": "(サーモン)すし",
     "code": "(salmon)sushi",
     "category": "food"
   },
   {
-    "code_ja": "(玉子)寿司",
+    "code_ja": "(玉子)すし",
     "code": "(egg)sushi",
     "category": "food"
   },
   {
-    "code_ja": "(穴子)寿司",
+    "code_ja": "(穴子)すし",
     "code": "(conger_eel)sushi",
     "category": "food"
   },
   {
-    "code_ja": "(鯛)寿司",
+    "code_ja": "(鯛)すし",
     "code": "(snapper)sushi",
     "category": "food"
   },
   {
-    "code_ja": "鉄火巻き",
-    "code": "tuna_roll",
+    "code_ja": "(鉄火巻)すし",
+    "code": "(tuna_roll)sushi",
     "category": "food"
   }
 ]
