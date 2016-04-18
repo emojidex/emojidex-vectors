@@ -1377,6 +1377,20 @@
     "unicode": "1f32c-1f3ff"
   },
   {
+    "moji": "🌭",
+    "code": "hot_dog",
+    "code_ja": "ホットドッグ",
+    "category": "food",
+    "unicode": "1f32d"
+  },
+  {
+    "moji": "🌮",
+    "code": "taco",
+    "code_ja": "タコス",
+    "category": "food",
+    "unicode": "1f32e"
+  },
+  {
     "moji": "🌯",
     "code": "burrito",
     "code_ja": "ブリトー",
@@ -7018,6 +7032,13 @@
     "code_ja": "シナゴーグ",
     "category": "places",
     "unicode": "1f54d"
+  },
+  {
+    "moji": "🕎",
+    "code": "menorah_with_nine_branches",
+    "code_ja": "メノラー",
+    "category": "objects",
+    "unicode": "1f54e"
   },
   {
     "moji": "🕐",
@@ -13573,9 +13594,9 @@
     "unicode": "1f91d-1f3fe"
   },
   {
-    "moji": "握手🤝🏿",
+    "moji": "🤝🏿",
     "code": "handshake(bk)",
-    "code_ja": "(黒)",
+    "code_ja": "握手(黒)",
     "category": "gestures",
     "unicode": "1f91d-1f3ff"
   },
@@ -14322,11 +14343,11 @@
     "unicode": "1f93d-1f3ff"
   },
   {
-    "moji": "🤿",
+    "moji": "🤾",
     "code": "handball",
     "code_ja": "ハンドボール",
     "category": "objects",
-    "unicode": "1f93f"
+    "unicode": "1f93e"
   },
   {
     "moji": "🥀",
