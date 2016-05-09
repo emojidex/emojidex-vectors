@@ -25,7 +25,7 @@ Emojidex::Data::Categories.new.each { |category| category_names << category.code
 
 
 # Check
-utf = Emojidex::Data::Collection.new
+utf = Emojidex::Data::Collection.new(r18: true)
 utf.load_local_collection utf_path
 utf_cc = Emojidex::Util::CollectionChecker.new(utf, formats: [:svg])
 if utf_cc.asset_only.empty? && utf_cc.index_only.empty?
@@ -41,7 +41,7 @@ end
 
 
 # Check
-extended = Emojidex::Data::Collection.new
+extended = Emojidex::Data::Collection.new(r18: true)
 extended.load_local_collection extended_path
 extended_cc = Emojidex::Util::CollectionChecker.new(extended, formats: [:svg])
 if extended_cc.asset_only.empty? && extended_cc.index_only.empty?
