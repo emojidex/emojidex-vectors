@@ -3053,5 +3053,140 @@
     "code_ja": "(鉄火巻)すし",
     "code": "(tuna_roll)sushi",
     "category": "food"
+  },
+  {
+    "code_ja": "(釘抜き)金槌",
+    "code": "(claw)hammer",
+    "category": "tools"
+  },
+  {
+    "code_ja": "(マイナス)ドライバー",
+    "code": "(flat_head)screw_driver",
+    "category": "tools"
+  },
+  {
+    "code_ja": "ハート(天使)",
+    "code": "angel_heart",
+    "category": "abstract"
+  },
+  {
+    "code_ja": "ハート(蝶)",
+    "code": "butterfly_heart",
+    "category": "abstract"
+  },
+  {
+    "code_ja": "洗濯バサミ",
+    "code": "clothes_pin",
+    "category": "objects"
+  },
+  {
+    "code_ja": "配達員",
+    "code": "delivery_man",
+    "category": "people"
+  },
+  {
+    "code_ja": "配達員(白)",
+    "code": "delivery_man(wh)",
+    "category": "people"
+  },
+  {
+    "code_ja": "配達員(桃)",
+    "code": "delivery_man(p)",
+    "category": "people"
+  },
+  {
+    "code_ja": "配達員(黄)",
+    "code": "delivery_man(ye)",
+    "category": "people"
+  },
+  {
+    "code_ja": "配達員(茶)",
+    "code": "delivery_man(br)",
+    "category": "people"
+  },
+  {
+    "code_ja": "配達員(黒)",
+    "code": "delivery_man(bk)",
+    "category": "people"
+  },
+  {
+    "code_ja": "ドリル",
+    "code": "drill",
+    "category": "tools"
+  },
+  {
+    "code_ja": "フロアジャッキ",
+    "code": "floor_jack",
+    "category": "tools"
+  },
+  {
+    "code_ja": "手錠",
+    "code": "hand_cuffs",
+    "category": "objects"
+  },
+  {
+    "code_ja": "蝶の羽(左)",
+    "code": "left_butterfly_wing",
+    "category": "objects"
+  },
+  {
+    "code_ja": "羽(左)",
+    "code": "left_wing",
+    "category": "objects"
+  },
+  {
+    "code_ja": "パンティー",
+    "code": "panties",
+    "category": "objects"
+  },
+  {
+    "code_ja": "ラチェット",
+    "code": "rachet",
+    "category": "tools"
+  },
+  {
+    "code_ja": "蝶の羽(右)",
+    "code": "right_butterfly_wing",
+    "category": "objects"
+  },
+  {
+    "code_ja": "羽(右)",
+    "code": "right_wing",
+    "category": "objects"
+  },
+  {
+    "code_ja": "ドライバー",
+    "code": "screw_driver",
+    "category": "tools"
+  },
+  {
+    "code_ja": "みぞれ溜まり",
+    "code": "slush_puddle",
+    "category": "objects"
+  },
+  {
+    "code_ja": "ソケットレンチ",
+    "code": "socket_wrench",
+    "category": "tools"
+  },
+  {
+    "code_ja": "クモ(影)",
+    "code": "spider_shadowgraph",
+    "category": "nature"
+  },
+  {
+    "code_ja": "行列",
+    "code": "standing_in_line",
+    "category": "abstract"
+  },
+  {
+    "code_ja": "パンツ",
+    "code": "underwear",
+    "category": "objects"
+  },
+  {
+    "code_ja": "ハート(羽)",
+    "code": "winged_heart",
+    "category": "abstract"
   }
 ]
