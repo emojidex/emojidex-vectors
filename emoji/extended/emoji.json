@@ -3200,6 +3200,21 @@
     "category": "abstract"
   },
   {
+    "code": "rainbow_heart",
+    "code_ja": "ハート(虹)",
+    "category": "abstract"
+  },
+  {
+    "code": "rainbow_heart(curved)",
+    "code_ja": "ハート(曲線虹)",
+    "category": "abstract"
+  },
+  {
+    "code": "rainbow_heart(diagonal)",
+    "code_ja": "ハート(斜線虹)",
+    "category": "abstract"
+  },
+  {
     "code": "sled",
     "code_ja": "そり",
     "category": "abstract"
@@ -3208,5 +3223,20 @@
     "code": "curling_stone",
     "code_ja": "カーリングストーン",
     "category": "abstract"
+  },
+  {
+    "code": "samurai",
+    "code_ja": "侍",
+    "category": "people"
+  },
+  {
+    "code": "katana",
+    "code_ja": "刀",
+    "category": "tools"
+  },
+  {
+    "code": "(yellow)watermelon",
+    "code_ja": "スイカ(黄)",
+    "category": "food"
   }
 ]
