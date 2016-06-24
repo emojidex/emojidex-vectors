@@ -243,6 +243,43 @@
 	</g>
 </g>
 <g>
+	<radialGradient id="SVGID_10_" cx="16.2154484" cy="41.2451363" r="6.7096362" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#E71F19"/>
+		<stop  offset="0.4236158" style="stop-color:#E21D19;stop-opacity:0.5763842"/>
+		<stop  offset="0.8947303" style="stop-color:#D5181B;stop-opacity:0.1052697"/>
+		<stop  offset="1" style="stop-color:#D1161B;stop-opacity:0"/>
+	</radialGradient>
+	<circle style="fill:url(#SVGID_10_);" cx="16.2477188" cy="41.2909241" r="7.0957274"/>
+	<radialGradient id="SVGID_11_" cx="48.2421799" cy="41.2451363" r="6.7097282" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#E71F19"/>
+		<stop  offset="0.4236158" style="stop-color:#E21D19;stop-opacity:0.5763842"/>
+		<stop  offset="0.8947303" style="stop-color:#D5181B;stop-opacity:0.1052697"/>
+		<stop  offset="1" style="stop-color:#D1161B;stop-opacity:0"/>
+	</radialGradient>
+	<circle style="fill:url(#SVGID_11_);" cx="48.2744522" cy="41.2909241" r="7.0959229"/>
+	<g>
+		<g>
+			<g>
+				
+					<rect x="37.8309479" y="33.4743385" transform="matrix(0.9667948 0.2555541 -0.2555541 0.9667948 10.0905228 -9.5961704)" style="fill:#330100;" width="8.2826576" height="1.1138227"/>
+			</g>
+			
+				<rect x="37.2543716" y="35.0700912" transform="matrix(0.9636083 0.2673181 -0.2673181 0.9636083 11.1822777 -9.7720251)" style="fill:#330100;" width="8.4547777" height="2.2281699"/>
+		</g>
+		<g>
+			<g>
+				
+					<rect x="21.3912277" y="29.889637" transform="matrix(0.2553028 0.9668611 -0.9668611 0.2553028 49.2484207 4.1218996)" style="fill:#330100;" width="1.1143894" height="8.2832241"/>
+			</g>
+			
+				<rect x="21.3253555" y="31.956789" transform="matrix(0.267201 0.9636408 -0.9636408 0.267201 51.3120728 4.8922696)" style="fill:#330100;" width="2.227957" height="8.4547777"/>
+		</g>
+		<path style="fill:#330100;" d="M32.071125,53.0083275c-4.4385452,0-10.8602695-2.2290344-10.8602695-6.2583504h2.2282391
+			c0,2.1326065,4.8270512,4.0301132,8.6320305,4.0301132c3.805378,0,8.6324272-1.8975067,8.6324272-4.0301132h2.228241
+			C42.9317932,50.7792931,36.510067,53.0083275,32.071125,53.0083275z"/>
+	</g>
+</g>
+<g>
 </g>
 <g>
 </g>
