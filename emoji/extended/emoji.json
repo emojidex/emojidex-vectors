@@ -5,6 +5,102 @@
     "category": "symbols"
   },
   {
+    "moji": "#️⃣️",
+    "full_name": "number_sign",
+    "code": "hash",
+    "code_ja": "ハッシュ・キー",
+    "category": "symbols",
+    "unicode": "0023-fe0f-20e3"
+  },
+  {
+    "moji": "*️⃣",
+    "full_name": "asterisk_sign",
+    "code": "asterisk",
+    "code_ja": "アスタリスク・キー",
+    "category": "symbols",
+    "unicode": "002a-fe0f-20e3"
+  },
+  {
+    "moji": "️1️⃣",
+    "full_name": "digit_one",
+    "code": "one",
+    "code_ja": "1キー",
+    "category": "symbols",
+    "unicode": "0031-fe0f-20e3"
+  },
+  {
+    "moji": "️2️⃣",
+    "full_name": "digit_two",
+    "code": "two",
+    "code_ja": "2キー",
+    "category": "symbols",
+    "unicode": "0032-fe0f-20e3"
+  },
+  {
+    "moji": "️3️⃣",
+    "full_name": "digit_three",
+    "code": "three",
+    "code_ja": "3キー",
+    "category": "symbols",
+    "unicode": "0033-fe0f-20e3"
+  },
+  {
+    "moji": "️4️⃣",
+    "full_name": "digit_four",
+    "code": "four",
+    "code_ja": "4キー",
+    "category": "symbols",
+    "unicode": "0034-fe0f-20e3"
+  },
+  {
+    "moji": "️5️⃣",
+    "full_name": "digit_five",
+    "code": "five",
+    "code_ja": "5キー",
+    "category": "symbols",
+    "unicode": "0035-fe0f-20e3"
+  },
+  {
+    "moji": "️6️⃣",
+    "full_name": "digit_six",
+    "code": "six",
+    "code_ja": "6キー",
+    "category": "symbols",
+    "unicode": "0036-fe0f-20e3"
+  },
+  {
+    "moji": "️7️⃣",
+    "full_name": "digit_seven",
+    "code": "seven",
+    "code_ja": "7キー",
+    "category": "symbols",
+    "unicode": "0037-fe0f-20e3"
+  },
+  {
+    "moji": "️8️⃣",
+    "full_name": "digit_eight",
+    "code": "eight",
+    "code_ja": "8キー",
+    "category": "symbols",
+    "unicode": "0038-fe0f-20e3"
+  },
+  {
+    "moji": "️9️⃣",
+    "full_name": "digit_nine",
+    "code": "nine",
+    "code_ja": "9キー",
+    "category": "symbols",
+    "unicode": "0039-fe0f-20e3"
+  },
+  {
+    "moji": "️0️⃣",
+    "full_name": "digit_zero",
+    "code": "zero",
+    "code_ja": "0キー",
+    "category": "symbols",
+    "unicode": "0030-fe0f-20e3"
+  },
+  {
     "code_ja": "不和のりんご",
     "code": "apple_of_discord",
     "category": "abstract"
