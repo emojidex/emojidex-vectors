@@ -1337,42 +1337,42 @@
   {
     "moji": "🌬",
     "code": "wind_blowing_face",
-    "code_ja": "風になびく髪",
+    "code_ja": "母なる自然の風",
     "category": "people",
     "unicode": "1f32c"
   },
   {
     "moji": "🌬🏻",
     "code": "wind_blowing_face(wh)",
-    "code_ja": "風になびく髪(白)",
+    "code_ja": "母なる自然の風(白)",
     "category": "people",
     "unicode": "1f32c-1f3fb"
   },
   {
     "moji": "🌬🏼",
     "code": "wind_blowing_face(p)",
-    "code_ja": "風になびく髪(桃)",
+    "code_ja": "母なる自然の風(桃)",
     "category": "people",
     "unicode": "1f32c-1f3fc"
   },
   {
     "moji": "🌬🏽",
     "code": "wind_blowing_face(ye)",
-    "code_ja": "風になびく髪(黄)",
+    "code_ja": "母なる自然の風(黄)",
     "category": "people",
     "unicode": "1f32c-1f3fd"
   },
   {
     "moji": "🌬🏾",
     "code": "wind_blowing_face(br)",
-    "code_ja": "風になびく髪(茶)",
+    "code_ja": "母なる自然の風(茶)",
     "category": "people",
     "unicode": "1f32c-1f3fe"
   },
   {
     "moji": "🌬🏿",
     "code": "wind_blowing_face(bk)",
-    "code_ja": "風になびく髪(黒)",
+    "code_ja": "母なる自然の風(黒)",
     "category": "people",
     "unicode": "1f32c-1f3ff"
   },
@@ -13929,6 +13929,48 @@
     "category": "faces",
     "unicode": "1f927-1f3ff"
   },
+    {
+    "moji": "🤨",
+    "code": "face_with_one_eyebrow_raised",
+    "code_ja": "そうか？",
+    "category": "faces",
+    "unicode": "1f928"
+  },
+  {
+    "moji": "🤨🏻",
+    "code": "face_with_one_eyebrow_raised(wh)",
+    "code_ja": "そうか？(白)",
+    "category": "faces",
+    "unicode": "1f928-1f3fb"
+  },
+  {
+    "moji": "🤨🏼",
+    "code": "face_with_one_eyebrow_raised(p)",
+    "code_ja": "そうか？(桃)",
+    "category": "faces",
+    "unicode": "1f928-1f3fc"
+  },
+  {
+    "moji": "🤨🏽",
+    "code": "face_with_one_eyebrow_raised(ye)",
+    "code_ja": "そうか？(黄)",
+    "category": "faces",
+    "unicode": "1f928-1f3fd"
+  },
+  {
+    "moji": "🤨🏾",
+    "code": "face_with_one_eyebrow_raised(br)",
+    "code_ja": "そうか？(茶)",
+    "category": "faces",
+    "unicode": "1f928-1f3fe"
+  },
+  {
+    "moji": "🤨🏿",
+    "code": "face_with_one_eyebrow_raised(bk)",
+    "code_ja": "そうか？(黒)",
+    "category": "faces",
+    "unicode": "1f928-1f3ff"
+  },
   {
     "moji": "🤰",
     "code": "pregnant_woman",
@@ -14591,7 +14633,7 @@
     "moji": "🦃",
     "code": "turkey",
     "code_ja": "七面鳥",
-    "category": "food",
+    "category": "nature",
     "unicode": "1f983"
   },
   {

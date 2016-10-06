@@ -845,6 +845,11 @@
     "category": "faces"
   },
   {
+    "code_ja": "スマイリー(そうか？)",
+    "code": "face_with_one_eyebrow_raised(smiley)",
+    "category": "faces"
+  },
+  {
     "code_ja": "顔太陽2",
     "code": "sun_with_face2",
     "category": "nature"
@@ -2760,6 +2765,11 @@
     "category": "faces"
   },
   {
+    "code_ja": "そうか？(プリン)",
+    "code": "face_with_one_eyebrow_raised(pudding)",
+    "category": "faces"
+  },
+  {
     "code_ja": "怒った顔(餃子)",
     "code": "angry(dumpling)",
     "category": "faces"
@@ -3062,6 +3072,11 @@
   {
     "code_ja": "うまい(餃子)",
     "code": "yum(dumpling)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "そうか？(餃子)",
+    "code": "face_with_one_eyebrow_raised(dumpling)",
     "category": "faces"
   },
   {
@@ -3528,6 +3543,11 @@
     "category": "food"
   },
   {
+    "code_ja": "(サラダ巻)すし",
+    "code": "(salad_roll)sushi",
+    "category": "food"
+  },
+  {
     "code_ja": "(釘抜き)金槌",
     "code": "(claw)hammer",
     "category": "tools"
@@ -3731,5 +3751,110 @@
     "code": "zero_width_joiner_symbol",
     "code_ja": "ゼロ幅接合子の記号",
     "category": "symbols"
+  },
+  {
+    "code": "frozen_heart",
+    "code_ja": "ハート(氷)",
+    "category": "abstract"
+  },
+  {
+    "code": "hedgehog",
+    "code_ja": "ハリネズミ",
+    "category": "nature"
+  },
+  {
+    "code": "shaka_sign",
+    "code_ja": "釈迦の手",
+    "category": "gestures"
+  },
+  {
+    "code": "shaka_sign(wh)",
+    "code_ja": "釈迦の手(白)",
+    "category": "gestures"
+  },
+  {
+    "code": "shaka_sign(p)",
+    "code_ja": "釈迦の手(桃)",
+    "category": "gestures"
+  },
+  {
+    "code": "shaka_sign(ye)",
+    "code_ja": "釈迦の手(黄)",
+    "category": "gestures"
+  },
+  {
+    "code": "shaka_sign(br)",
+    "code_ja": "釈迦の手(茶)",
+    "category": "gestures"
+  },
+  {
+    "code": "shaka_sign(bk)",
+    "code_ja": "釈迦の手(黒)",
+    "category": "gestures"
+  },
+  {
+    "code": "shakes_fist",
+    "code_ja": "拳を振る",
+    "category": "gestures"
+  },
+  {
+    "code": "shakes_fist(wh)",
+    "code_ja": "拳を振る(白)",
+    "category": "gestures"
+  },
+  {
+    "code": "shakes_fist(p)",
+    "code_ja": "拳を振る(桃)",
+    "category": "gestures"
+  },
+  {
+    "code": "shakes_fist(ye)",
+    "code_ja": "拳を振る(黄)",
+    "category": "gestures"
+  },
+  {
+    "code": "shakes_fist(br)",
+    "code_ja": "拳を振る(茶)",
+    "category": "gestures"
+  },
+  {
+    "code": "shakes_fist(bk)",
+    "code_ja": "拳を振る(黒)",
+    "category": "gestures"
+  },
+  {
+    "code": "roast_turkey",
+    "code_ja": "七面鳥の丸焼き",
+    "category": "food"
+  },
+  {
+    "code": "wind_blown_face",
+    "code_ja": "風になびく髪",
+    "category": "people"
+  },
+  {
+    "code": "wind_blown_face(wh)",
+    "code_ja": "風になびく髪(白)",
+    "category": "people"
+  },
+  {
+    "code": "wind_blown_face(p)",
+    "code_ja": "風になびく髪(桃)",
+    "category": "people"
+  },
+  {
+    "code": "wind_blown_face(ye)",
+    "code_ja": "風になびく髪(黄)",
+    "category": "people"
+  },
+  {
+    "code": "wind_blown_face(br)",
+    "code_ja": "風になびく髪(茶)",
+    "category": "people"
+  },
+  {
+    "code": "wind_blown_face(bk)",
+    "code_ja": "風になびく髪(黒)",
+    "category": "people"
   }
 ]
