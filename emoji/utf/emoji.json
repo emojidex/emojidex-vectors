@@ -646,6 +646,14 @@
     "unicode": "1f1ee-1f1f1"
   },
   {
+    "moji": "🇮🇷",
+    "full_name": "flag_for_Iran",
+    "code": "ir",
+    "code_ja": "イラン国旗",
+    "category": "symbols",
+    "unicode": "1f1ee-1f1f7"
+  },
+  {
     "moji": "🇯🇲",
     "full_name": "flag_for_Jamaica",
     "code": "jm",
@@ -3015,11 +3023,25 @@
     "unicode": "1f3f3"
   },
   {
+    "moji": "🏳️‍🌈",
+    "code": "rainbow_flag",
+    "code_ja": "レインボーフラッグ",
+    "category": "objects",
+    "unicode": "1f3f3-fe0f-200d-1f308"
+  },
+  {
     "moji": "🏴",
     "code": "waving_black_flag",
     "code_ja": "旗(黒)",
     "category": "objects",
     "unicode": "1f3f4"
+  },
+  {
+    "moji": "🏴‍☠️",
+    "code": "pirate_flag",
+    "code_ja": "海賊旗",
+    "category": "objects",
+    "unicode": "1f3f4-200d-2620"
   },
   {
     "moji": "🏵",
@@ -3552,6 +3574,13 @@
     "code_ja": "目2",
     "category": "people",
     "unicode": "1f441"
+  },
+  {
+    "moji": "👁‍🗨",
+    "code": "eye_in_speech_bubble",
+    "code_ja": "検索目",
+    "category": "symbols",
+    "unicode": "1f441-200d-1f5e8"
   },
   {
     "moji": "👂",
@@ -14954,6 +14983,13 @@
     "code_ja": "左向き三角",
     "category": "abstract",
     "unicode": "25c0"
+  },
+  {
+    "moji": "◯‍◯‍◯‍◯‍◯",
+    "code": "olympic_rings",
+    "code_ja": "オリンピック",
+    "category": "symbols",
+    "unicode": "25ef-200d-25ef-200d-25ef-200d-25ef-200d-25ef"
   },
   {
     "moji": "◻",
