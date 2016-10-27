@@ -1,0 +1,12 @@
+{
+	"name": "jack_o_lantern",
+	"loops": 0,
+  "skip_first": false,
+  "default_delay": "200/1000",
+	"frames": [
+    "0",
+    "1",
+    "2",
+    "3"
+  ]
+}
