@@ -1,27 +1,32 @@
 require 'json'
 require 'phantom/svg'
 
-class ComboEmojiGenerator
-  def initialize(source_path, outdir, max_renderers = 4, show_debug_output = true)
-    @outdir = "./generated"
-    Dir.mkdir(@outdir) unless Dir.exist?(@outdir)
-    @emoji = JSON.parse(File.read('components.json'), {:symbolize_names => true})
-    @count = 0
-    @num_renderers = 0
-    @max_renderers = max_renderers
+# Generates all combinations for the base emoji of a ZWJ combinable emoji
+class ComboEmojiBaseGenerator
+  attr_readable :source, :outdir, :bases, :components, :number_generated, :status
 
-    generate_all()
+  def initialize(source_path, outdir = "", show_debug_output = true)
+    @source = source_path
+    @outdir = "#{source_path}/generated/"
+    @debug = show_debug_output
+    Dir.mkdir(@outdir) unless Dir.exist?(@outdir)
+    @components = JSON.parse(File.read('components.json'), {:symbolize_names => true})
+    @bases = JSON.parse(File.read('components.json'), {:symbolize_names => true})
+
+    generate_bases()
   end
 
-  def generate_all()
-    @running = true
-    @last_renderd = "⚙"
-    Thread.start { _status_output() }
-    _get_total()
-    print "Generating #{@total} images..."
-    components = @emoji[:components].dup
-    generate([], components.shift, components)
-    @running = false
+  private
+  def generate_bases()
+    print "⚙ Generating base images..." if @debug
+    @number_generated = 0
+    @status = "generating"
+    @bases.each do |base|
+      print "⚙⚙ Generating bases for #{base.code}..." if @debug
+    end
+    #components = @emoji[:components].dup
+    #generate([], components.shift, components)
+    @status = "completed"
   end
 
   def generate(super_components, component, sub_components)
