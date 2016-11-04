@@ -1,0 +1,34 @@
+{
+  "moji": "👪",
+  "code": "family",
+  "code_ja": "家族",
+  "category": "people",
+  "unicode": "1f46a",
+  "components": [
+    [
+      "man", "man(p)", "man(ye)", "man(bk)", "man(br)", "man(wh)",
+      "woman", "woman(bk)", "woman(br)", "woman(p)", "woman(wh)", "woman(ye)",
+      ""
+    ],
+    [
+      "woman", "woman(bk)", "woman(br)", "woman(p)", "woman(wh)", "woman(ye)",
+      "man", "man(p)", "man(ye)", "man(bk)", "man(br)", "man(wh)",
+      ""
+    ],
+    [
+ 
+      "boy", "boy(p)", "boy(ye)", "boy(bk)", "boy(br)", "boy(wh)",
+      "girl", "girl(p)", "girl(ye)", "girl(bk)", "girl(br)", "girl(wh)",
+      ""
+    ],
+    [
+      "girl", "girl(p)", "girl(ye)", "girl(bk)", "girl(br)", "girl(wh)",
+      "boy", "boy(p)", "boy(ye)", "boy(bk)", "boy(br)", "boy(wh)",
+      ""
+    ],
+    [
+      "baby", "baby(p)", "baby(ye)", "baby(bk)", "baby(br)", "baby(wh)",
+      ""
+    ]
+  ]
+}
