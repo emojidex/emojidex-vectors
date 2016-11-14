@@ -6,6 +6,7 @@
     "code_ja": "手をつないだカップル",
     "category": "people",
     "unicode": "1f46b",
+    "combination_base": "man",
     "combination": ["man", "heart", "woman"]
   },
   {
@@ -15,6 +16,7 @@
     "code_ja": "手をつないだカップル(白)",
     "category": "people",
     "unicode": "1f46b-1f3fb",
+    "combination_base": "man",
     "combination": ["man(wh)", "heart", "woman(wh)"]
   },
   {
@@ -24,6 +26,7 @@
     "code_ja": "手をつないだカップル(桃)",
     "category": "people",
     "unicode": "1f46b-1f3fc",
+    "combination_base": "man",
     "combination": ["man(p)", "heart", "woman(p)"]
   },
   {
@@ -33,6 +36,7 @@
     "code_ja": "手をつないだカップル(黄)",
     "category": "people",
     "unicode": "1f46b-1f3fd",
+    "combination_base": "man",
     "combination": ["man(ye)", "heart", "woman(ye)"]
   },
   {
@@ -42,6 +46,7 @@
     "code_ja": "手をつないだカップル(茶)",
     "category": "people",
     "unicode": "1f46b-1f3fe",
+    "combination_base": "man",
     "combination": ["man(br)", "heart", "woman(br)"]
   },
   {
@@ -51,6 +56,7 @@
     "code_ja": "手をつないだカップル(黒)",
     "category": "people",
     "unicode": "1f46b-1f3ff",
-    "combination": ["man(bk)", "heart(bk)", "woman(bk)"]
+    "combination_base": "man",
+    "combination": ["man(bk)", "heart", "woman(bk)"]
   }
 ]
