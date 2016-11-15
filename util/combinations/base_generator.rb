@@ -33,7 +33,6 @@ class ComboEmojiBaseGenerator
     @status = "Base generation completed."
   end
 
-  private
   def get_component_set(base)
     @components.each do |component_set|
       return component_set if base[:combination_base] == component_set[:code]

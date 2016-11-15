@@ -1,88 +1,58 @@
 require 'json'
 require 'phantom/svg'
 
-class ComboEmojiGenerator
-  def initialize(output = false, max_renderers = 4)
-    @outdir = "./generated"
+class VariantGenerator
+  attr_reader :source, :outdir, :status, :variants, :animation
+  def initialize(source_path, outdir = "", show_debug_output = true)
+    @source = source_path
+    @outdir = "#{source_path}/generated/"
+    @debug = show_debug_output
     Dir.mkdir(@outdir) unless Dir.exist?(@outdir)
-    @emoji = JSON.parse(File.read('components.json'), {:symbolize_names => true})
-    @count = 0
-    @num_renderers = 0
-    @max_renderers = max_renderers
-
-    generate_all()
-  end
-
-  def generate_all()
-    @running = true
-    @last_renderd = "⚙"
-    Thread.start { _status_output() }
-    _get_total()
-    print "Generating #{@total} images..."
-    components = @emoji[:components].dup
-    generate([], components.shift, components)
-    @running = false
-  end
-
-  def generate(super_components, component, sub_components)
-    generators = []
-    component.each do |part|
-      until @num_renderers < @max_renderers
-        sleep(1)
+    if (File.exist?("#{source_path}/variants.json"))
+      @variants = JSON.parse(File.read("#{source_path}/variants.json"), {:symbolize_names => true})
+      @animation = nil
+      if (File.exist?("#{source_path}/animation.json"))
+        @animation = JSON.parse(
+          File.read("#{source_path}/animation.json"), {:symbolize_names => true})
       end
-      th = Thread.new do
-        render(super_components.dup.push(part))
-        if sub_components.length != 0
-          sub_sub = sub_components.dup
-          generate(super_components.dup.push(part), sub_sub.shift, sub_sub)
-        end
-      end
-      generators.push th
-    end
-    generators.each {|t| t.join}
-  end
 
-  def render(parts)
-    return if parts.length == 0 || parts[0] == ""
-    @num_renderers += 1
-
-    filename = "#{@emoji[:code]}("
-    base = nil
-
-    for i in 0..parts.length - 1 do
-      if parts[i] == "" 
-        filename = "#{filename}()" if i != (parts.length - 1)
-      else
-        if base == nil
-          base = Phantom::SVG::Base.new("./#{i}/#{parts[i]}.svg")
-        else
-          base.combine("./#{i}/#{parts[i]}.svg")
-        end
-        filename = "#{filename}(#{parts[i]})"
-      end
-    end
-
-    base.save_svg("./generated/#{filename}).svg") unless base == nil
-    @count += 1
-    @last_rendered = "#{@emoji[:code]} #{parts}"
-    @num_renderers -= 1
-  end
-
-  def _get_total()
-    @total = 1
-    @emoji[:components].each { |c| @total = @total * c.length }
-  end
-
-  def _status_output()
-    while @running
-      print "\r"
-      $stdout.flush
-      print "Rendered #{@last_rendered} (#{@count}/#{@total}) Renderers: #{@num_renderers}/#{@max_renderers}"
-      sleep(1)
+      generate_variants()
+    else
+      @status = 'No variant info found. Variants not generated.'
+      puts @status if @debug
     end
   end
 
+  private
+
+  def generate_variants()
+    @variants.each do |variant|
+      @status "Generating #{variant[:code]} ..."
+      puts @status if @debug
+
+      generate(variant)
+    end
+    @status = "Variant generation completed."
+  end
+
+  def generate(variant)
+    if @animation.nil?
+      image = Phantom::SVG::Base.new("#{variant[:base]}.svg")
+      image.combine("#{@source}/overlay.svg")
+      image.save_svg("#{@outdir}/#{variant[:code]}.svg")
+    else
+      dest = "#{@outdir}/#{variant[:code]}"
+      Dir.mkdir(dest) unless Dir.exist?(dest)
+      @animation[:frames].keys.each do |frame|
+        image = Phantom::SVG::Base.new("#{variant[:base]}.svg")
+        image.combine("#{@source}/#{frame}.svg")
+        image.save_svg("#{dest}/#{frame}.svg")
+      end
+      json_data = @animation.dup
+      json_data[:code] = variant[:code]
+      File.open("#{dest}/animation.json", "w") do |f|
+        f.write(json_data.to_json)
+      end
+    end
+  end
 end
-
-
-CustomEmojiGenerator.new
