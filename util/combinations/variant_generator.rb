@@ -27,7 +27,7 @@ class VariantGenerator
 
   def generate_variants()
     @variants.each do |variant|
-      @status "Generating #{variant[:code]} ..."
+      @status = "Generating #{variant[:code]} ..."
       puts @status if @debug
 
       generate(variant)
@@ -37,16 +37,16 @@ class VariantGenerator
 
   def generate(variant)
     if @animation.nil?
-      image = Phantom::SVG::Base.new("#{variant[:base]}.svg")
+      image = Phantom::SVG::Base.new("#{@source}/#{variant[:base]}.svg")
       image.combine("#{@source}/overlay.svg")
       image.save_svg("#{@outdir}/#{variant[:code]}.svg")
     else
       dest = "#{@outdir}/#{variant[:code]}"
       Dir.mkdir(dest) unless Dir.exist?(dest)
-      @animation[:frames].keys.each do |frame|
-        image = Phantom::SVG::Base.new("#{variant[:base]}.svg")
-        image.combine("#{@source}/#{frame}.svg")
-        image.save_svg("#{dest}/#{frame}.svg")
+      @animation[:frames].each do |frame|
+        image = Phantom::SVG::Base.new("#{@source}/#{variant[:base]}.svg")
+        image.combine("#{@source}/#{frame.keys.first}.svg")
+        image.save_svg("#{dest}/#{frame.keys.first}.svg")
       end
       json_data = @animation.dup
       json_data[:code] = variant[:code]

@@ -1,46 +1,37 @@
 [
   {
     "code": "stuck_out_tongue",
-    "base": "../components/face_base"
+    "base": "../components/faces/face_base",
+    "dest": "../utf"
   },
   {
     "code": "stuck_out_tongue(wh)",
-    "base": "../components/face_base(wh)"
+    "base": "../components/faces/face_base(wh)",
+    "dest": "../utf"
   },
   {
-    "code": "stuck_out_tongue(wh)",
-    "base": "../components/face_base(p)"
+    "code": "stuck_out_tongue(p)",
+    "base": "../components/faces/face_base(p)",
+    "dest": "../utf"
   },
   {
-    "code": "stuck_out_tongue(wh)",
-    "base": "../components/face_base(ye)"
+    "code": "stuck_out_tongue(ye)",
+    "base": "../components/faces/face_base(ye)",
+    "dest": "../utf"
   },
   {
-    "code": "stuck_out_tongue(wh)",
-    "base": "../components/face_base(br)"
+    "code": "stuck_out_tongue(br)",
+    "base": "../components/faces/face_base(br)",
+    "dest": "../utf"
   },
   {
-    "code": "stuck_out_tongue(wh)",
-    "base": "../components/face_base(bk)"
+    "code": "stuck_out_tongue(bk)",
+    "base": "../components/faces/face_base(bk)",
+    "dest": "../utf"
   },
   {
-    "code": "stuck_out_tongue(wh)",
-    "base": "../components/face_base(poop)"
-  },
-  {
-    "code": "stuck_out_tongue(wh)",
-    "base": "../components/face_base(pudding)"
-  },
-  {
-    "code": "stuck_out_tongue(wh)",
-    "base": "../components/face_base(slime)"
-  },
-  {
-    "code": "stuck_out_tongue(wh)",
-    "base": "../components/face_base(dumpling)"
-  },
-  {
-    "code": "stuck_out_tongue(wh)",
-    "base": "../components/face_base(smiley)"
+    "code": "stuck_out_tongue(smiley)",
+    "base": "../components/faces/face_base(smiley)",
+    "dest": "../extended"
   }
 ]
