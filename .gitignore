@@ -28,3 +28,7 @@ Gemfile.lock
 .DS_Store
 *.swp
 *.swo
+emoji/combinations/**/generated/
+emoji/combinations/**/generated/*
+emoji/variants/**/generated/
+emoji/variants/**/generated/*
