@@ -1,15 +1,14 @@
 require_relative 'combinations/variant_generator'
 
-combo_sets_path = '../emoji/variants/'
+variant_sets_path = '../emoji/variants/'
 
-combos = Dir.entries(combo_sets_path)
-combos -= ['.']
-combos -= ['..']
-combos -= ['components']
+variants = Dir.entries(variant_sets_path)
+variants -= ['.']
+variants -= ['..']
+variants -= ['components']
 
-
-combos.each do |combo|
-  puts "⚙ Processing #{combo}"
-  gen = VariantGenerator.new("#{combo_sets_path}#{combo}")
+variants.each do |variant|
+  puts "⚙ Processing #{variant}"
+  gen = VariantGenerator.new("#{variant_sets_path}#{variant}")
   puts "\t[#{gen.status}]"
 end

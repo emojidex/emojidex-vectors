@@ -1,0 +1,16 @@
+{
+  "name": "grinning_face_with_star_eyes",
+  "loops": 0,
+  "skip_first": false,
+  "default_delay": "100/1000",
+  "frames": [
+    {"0": 100},
+    {"1": 100},
+    {"2": 100},
+    {"3": 100},
+    {"4": 100},
+    {"3": 100},
+    {"2": 100},
+    {"1": 100}
+  ]
+}

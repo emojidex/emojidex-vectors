@@ -1,0 +1,37 @@
+[
+  {
+    "code": "grinning_face_with_star_eyes",
+    "base": "../components/faces/face_base",
+    "dest": "../utf"
+  },
+  {
+    "code": "grinning_face_with_star_eyes(wh)",
+    "base": "../components/faces/face_base(wh)",
+    "dest": "../utf"
+  },
+  {
+    "code": "grinning_face_with_star_eyes(p)",
+    "base": "../components/faces/face_base(p)",
+    "dest": "../utf"
+  },
+  {
+    "code": "grinning_face_with_star_eyes(ye)",
+    "base": "../components/faces/face_base(ye)",
+    "dest": "../utf"
+  },
+  {
+    "code": "grinning_face_with_star_eyes(br)",
+    "base": "../components/faces/face_base(br)",
+    "dest": "../utf"
+  },
+  {
+    "code": "grinning_face_with_star_eyes(bk)",
+    "base": "../components/faces/face_base(bk)",
+    "dest": "../utf"
+  },
+  {
+    "code": "grinning_face_with_star_eyes(smiley)",
+    "base": "../components/faces/face_base(smiley)",
+    "dest": "../extended"
+  }
+]
