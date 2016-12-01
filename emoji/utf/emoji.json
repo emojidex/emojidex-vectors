@@ -13989,44 +13989,92 @@
     {
     "moji": "🤨",
     "code": "face_with_one_eyebrow_raised",
-    "code_ja": "そうか？",
+    "code_ja": "そうか",
     "category": "faces",
     "unicode": "1f928"
   },
   {
     "moji": "🤨🏻",
     "code": "face_with_one_eyebrow_raised(wh)",
-    "code_ja": "そうか？(白)",
+    "code_ja": "そうか(白)",
     "category": "faces",
     "unicode": "1f928-1f3fb"
   },
   {
     "moji": "🤨🏼",
     "code": "face_with_one_eyebrow_raised(p)",
-    "code_ja": "そうか？(桃)",
+    "code_ja": "そうか(桃)",
     "category": "faces",
     "unicode": "1f928-1f3fc"
   },
   {
     "moji": "🤨🏽",
     "code": "face_with_one_eyebrow_raised(ye)",
-    "code_ja": "そうか？(黄)",
+    "code_ja": "そうか(黄)",
     "category": "faces",
     "unicode": "1f928-1f3fd"
   },
   {
     "moji": "🤨🏾",
     "code": "face_with_one_eyebrow_raised(br)",
-    "code_ja": "そうか？(茶)",
+    "code_ja": "そうか(茶)",
     "category": "faces",
     "unicode": "1f928-1f3fe"
   },
   {
     "moji": "🤨🏿",
     "code": "face_with_one_eyebrow_raised(bk)",
-    "code_ja": "そうか？(黒)",
+    "code_ja": "そうか(黒)",
     "category": "faces",
     "unicode": "1f928-1f3ff"
+  },
+  {
+    "moji": "🤩",
+    "full_name": "grinning_face_with_star_eyes",
+    "code": "starry_eyed",
+    "code_ja": "夢想的な顔",
+    "category": "faces",
+    "unifull_name": "1f929"
+  },
+  {
+    "moji": "🤩🏻",
+    "full_name": "grinning_face_with_star_eyes(wh)",
+    "code": "starry_eyed(wh)",
+    "code_ja": "夢想的な顔(白)",
+    "category": "faces",
+    "unifull_name": "1f929-1f3fb"
+  },
+  {
+    "moji": "🤩🏼",
+    "full_name": "grinning_face_with_star_eyes(p)",
+    "code": "starry_eyed(p)",
+    "code_ja": "夢想的な顔(桃)",
+    "category": "faces",
+    "unifull_name": "1f929-1f3fc"
+  },
+  {
+    "moji": "🤩🏽",
+    "full_name": "grinning_face_with_star_eyes(ye)",
+    "code": "starry_eyed(ye)",
+    "code_ja": "夢想的な顔(黄)",
+    "category": "faces",
+    "unifull_name": "1f929-1f3fd"
+  },
+  {
+    "moji": "🤩🏾",
+    "full_name": "grinning_face_with_star_eyes(br)",
+    "code": "starry_eyed(br)",
+    "code_ja": "夢想的な顔(茶)",
+    "category": "faces",
+    "unifull_name": "1f929-1f3fe"
+  },
+  {
+    "moji": "🤩🏿",
+    "full_name": "grinning_face_with_star_eyes(bk)",
+    "code": "starry_eyed(bk)",
+    "code_ja": "夢想的な顔(黒)",
+    "category": "faces",
+    "unifull_name": "1f929-1f3ff"
   },
   {
     "moji": "🤰",
@@ -14070,7 +14118,49 @@
     "category": "people",
     "unicode": "1f930-1f3ff"
   },
-    {
+  {
+    "moji": "🤱",
+    "code": "breastfeeding",
+    "code_ja":"授乳",
+    "category": "people",
+    "unicode": "1f931"
+  },
+  {
+    "moji": "🤱🏻",
+    "code": "breastfeeding(wh)",
+    "code_ja":"授乳(白)",
+    "category": "people",
+    "unicode": "1f931-1f3fb"
+  },
+  {
+    "moji": "🤱🏼",
+    "code": "breastfeeding(p)",
+    "code_ja":"授乳(桃)",
+    "category": "people",
+    "unicode": "1f931-1f3fc"
+  },
+  {
+    "moji": "🤱🏽",
+    "code": "breastfeeding(ye)",
+    "code_ja":"授乳(黄)",
+    "category": "people",
+    "unicode": "1f931-1f3fd"
+  },
+  {
+    "moji": "🤱🏾",
+    "code": "breastfeeding(br)",
+    "code_ja":"授乳(茶)",
+    "category": "people",
+    "unicode": "1f931-1f3fe"
+  },
+  {
+    "moji": "🤱🏿",
+    "code": "breastfeeding(bk)",
+    "code_ja":"授乳(黒)",
+    "category": "people",
+    "unicode": "1f931-1f3ff"
+  },
+  {
     "moji": "🤳",
     "code": "selfie",
     "code_ja": "自撮り",

@@ -845,8 +845,13 @@
     "category": "faces"
   },
   {
-    "code_ja": "スマイリー(そうか？)",
+    "code_ja": "スマイリー(そうか)",
     "code": "face_with_one_eyebrow_raised(smiley)",
+    "category": "faces"
+  },
+  {
+    "code_ja": "スマイリー(夢想的な顔)",
+    "code": "starry_eyed(smiley)",
     "category": "faces"
   },
   {
@@ -4017,36 +4022,6 @@
     "category": "objects"
   },
   {
-    "code": "breastfeeding",
-    "code_ja":"授乳",
-    "category": "people"
-  },
-  {
-    "code": "breastfeeding(wh)",
-    "code_ja":"授乳(白)",
-    "category": "people"
-  },
-  {
-    "code": "breastfeeding(p)",
-    "code_ja":"授乳(桃)",
-    "category": "people"
-  },
-  {
-    "code": "breastfeeding(ye)",
-    "code_ja":"授乳(黄)",
-    "category": "people"
-  },
-  {
-    "code": "breastfeeding(br)",
-    "code_ja":"授乳(茶)",
-    "category": "people"
-  },
-  {
-    "code": "breastfeeding(bk)",
-    "code_ja":"授乳(黒)",
-    "category": "people"
-  },
-  {
     "code": "climber",
     "code_ja":"岩登り",
     "category": "people"
@@ -4074,6 +4049,156 @@
   {
     "code": "climber(bk)",
     "code_ja":"岩登り(黒)",
+    "category": "people"
+  },
+  {
+    "code": "man_meditating",
+    "code_ja":"座禅する男",
+    "category": "people"
+  },
+  {
+    "code": "man_meditating(wh)",
+    "code_ja":"座禅する男(白)",
+    "category": "people"
+  },
+  {
+    "code": "man_meditating(p)",
+    "code_ja":"座禅する男(桃)",
+    "category": "people"
+  },
+  {
+    "code": "man_meditating(ye)",
+    "code_ja":"座禅する男(黄)",
+    "category": "people"
+  },
+  {
+    "code": "man_meditating(br)",
+    "code_ja":"座禅する男(茶)",
+    "category": "people"
+  },
+  {
+    "code": "man_meditating(bk)",
+    "code_ja":"座禅する男(黒)",
+    "category": "people"
+  },
+  {
+    "code": "woman_meditating",
+    "code_ja":"座禅する女",
+    "category": "people"
+  },
+  {
+    "code": "woman_meditating(wh)",
+    "code_ja":"座禅する女(白)",
+    "category": "people"
+  },
+  {
+    "code": "woman_meditating(p)",
+    "code_ja":"座禅する女(桃)",
+    "category": "people"
+  },
+  {
+    "code": "woman_meditating(ye)",
+    "code_ja":"座禅する女(黄)",
+    "category": "people"
+  },
+  {
+    "code": "woman_meditating(br)",
+    "code_ja":"座禅する女(茶)",
+    "category": "people"
+  },
+  {
+    "code": "woman_meditating(bk)",
+    "code_ja":"座禅する女(黒)",
+    "category": "people"
+  },
+  {
+    "code": "man_in_stocking_cap",
+    "code_ja":"ストッキング・キャップの男",
+    "category": "people"
+  },
+  {
+    "code": "man_in_stocking_cap(wh)",
+    "code_ja":"ストッキング・キャップの男(白)",
+    "category": "people"
+  },
+  {
+    "code": "man_in_stocking_cap(p)",
+    "code_ja":"ストッキング・キャップの男(桃)",
+    "category": "people"
+  },
+  {
+    "code": "man_in_stocking_cap(ye)",
+    "code_ja":"ストッキング・キャップの男(黄)",
+    "category": "people"
+  },
+  {
+    "code": "man_in_stocking_cap(br)",
+    "code_ja":"ストッキング・キャップの男(茶)",
+    "category": "people"
+  },
+  {
+    "code": "man_in_stocking_cap(bk)",
+    "code_ja":"ストッキング・キャップの男(黒)",
+    "category": "people"
+  },
+  {
+    "code": "woman_in_stocking_cap",
+    "code_ja":"ストッキング・キャップの女",
+    "category": "people"
+  },
+  {
+    "code": "woman_in_stocking_cap(wh)",
+    "code_ja":"ストッキング・キャップの女(白)",
+    "category": "people"
+  },
+  {
+    "code": "woman_in_stocking_cap(p)",
+    "code_ja":"ストッキング・キャップの女(桃)",
+    "category": "people"
+  },
+  {
+    "code": "woman_in_stocking_cap(ye)",
+    "code_ja":"ストッキング・キャップの女(黄)",
+    "category": "people"
+  },
+  {
+    "code": "woman_in_stocking_cap(br)",
+    "code_ja":"ストッキング・キャップの女(茶)",
+    "category": "people"
+  },
+  {
+    "code": "woman_in_stocking_cap(bk)",
+    "code_ja":"ストッキング・キャップの女(黒)",
+    "category": "people"
+  },
+  {
+    "code": "mermaid",
+    "code_ja":"人魚",
+    "category": "people"
+  },
+  {
+    "code": "mermaid(wh)",
+    "code_ja":"人魚(白)",
+    "category": "people"
+  },
+  {
+    "code": "mermaid(p)",
+    "code_ja":"人魚(桃)",
+    "category": "people"
+  },
+  {
+    "code": "mermaid(ye)",
+    "code_ja":"人魚(黄)",
+    "category": "people"
+  },
+  {
+    "code": "mermaid(br)",
+    "code_ja":"人魚(茶)",
+    "category": "people"
+  },
+  {
+    "code": "mermaid(bk)",
+    "code_ja":"人魚(黒)",
     "category": "people"
   }
 ]
