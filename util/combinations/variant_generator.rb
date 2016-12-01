@@ -5,7 +5,7 @@ class VariantGenerator
   attr_reader :source, :outdir, :status, :variants, :animation
   def initialize(source_path, outdir = "", enable_hacks = true, show_debug_output = true)
     @source = source_path
-    @outdir = "#{source_path}/generated/"
+    @outdir = "generated/"
     @debug = show_debug_output
     @hacks = enable_hacks # currently: forces overlays on frames to prevent the final frame culling bug in FireFox
     Dir.mkdir(@outdir) unless Dir.exist?(@outdir)
@@ -37,12 +37,13 @@ class VariantGenerator
   end
 
   def generate(variant)
+    out_path = variant[:dest] || @outdir
     if @animation.nil?
       image = Phantom::SVG::Base.new("#{@source}/#{variant[:base]}.svg")
       image.combine("#{@source}/overlay.svg")
-      image.save_svg("#{@outdir}/#{variant[:code]}.svg")
+      image.save_svg("#{@source}/#{out_path}/#{variant[:code]}.svg")
     else
-      dest = "#{@outdir}/#{variant[:code]}"
+      dest = "#{@source}/#{out_path}/#{variant[:code]}"
       Dir.mkdir(dest) unless Dir.exist?(dest)
       @frame_num = 0
       @animation[:frames].each do |frame|
@@ -53,7 +54,7 @@ class VariantGenerator
         image.save_svg("#{dest}/#{frame.keys.first}.svg")
       end
       json_data = @animation.dup
-      json_data[:code] = variant[:code]
+      json_data[:name] = variant[:code]
       File.open("#{dest}/animation.json", "w") do |f|
         f.write(json_data.to_json)
       end
@@ -65,7 +66,6 @@ class VariantGenerator
   end
 
   def _anti_cull_hack(image)
-    puts "#{source}/../components/overlays/#{@frame_num % 4}alpha.svg"
     image.combine("#{source}/../components/overlays/#{@frame_num % 4}alpha.svg")
   end
 end

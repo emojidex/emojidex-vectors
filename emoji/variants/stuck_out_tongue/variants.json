@@ -2,36 +2,36 @@
   {
     "code": "stuck_out_tongue",
     "base": "../components/faces/face_base",
-    "dest": "../utf"
+    "dest": "../../utf"
   },
   {
     "code": "stuck_out_tongue(wh)",
     "base": "../components/faces/face_base(wh)",
-    "dest": "../utf"
+    "dest": "../../utf"
   },
   {
     "code": "stuck_out_tongue(p)",
     "base": "../components/faces/face_base(p)",
-    "dest": "../utf"
+    "dest": "../../utf"
   },
   {
     "code": "stuck_out_tongue(ye)",
     "base": "../components/faces/face_base(ye)",
-    "dest": "../utf"
+    "dest": "../../utf"
   },
   {
     "code": "stuck_out_tongue(br)",
     "base": "../components/faces/face_base(br)",
-    "dest": "../utf"
+    "dest": "../../utf"
   },
   {
     "code": "stuck_out_tongue(bk)",
     "base": "../components/faces/face_base(bk)_white_eyes",
-    "dest": "../utf"
+    "dest": "../../utf"
   },
   {
     "code": "stuck_out_tongue(smiley)",
     "base": "../components/faces/face_base(smiley)",
-    "dest": "../extended"
+    "dest": "../../extended"
   }
 ]
