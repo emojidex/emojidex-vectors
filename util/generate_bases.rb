@@ -1,6 +1,6 @@
 require_relative 'combinations/base_generator'
 
-combo_sets_path = '../emoji/combinations/'
+combo_sets_path = '../src/combinations/'
 
 combos = Dir.entries(combo_sets_path)
 combos -= ['.']

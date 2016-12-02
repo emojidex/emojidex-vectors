@@ -1,0 +1,37 @@
+[
+  {
+    "code": "stuck_out_tongue",
+    "base": "../../components/faces/face_base",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "stuck_out_tongue(wh)",
+    "base": "../../components/faces/face_base(wh)",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "stuck_out_tongue(p)",
+    "base": "../../components/faces/face_base(p)",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "stuck_out_tongue(ye)",
+    "base": "../../components/faces/face_base(ye)",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "stuck_out_tongue(br)",
+    "base": "../../components/faces/face_base(br)",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "stuck_out_tongue(bk)",
+    "base": "../../components/faces/face_base(bk)_white_eyes",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "stuck_out_tongue(smiley)",
+    "base": "../../components/faces/face_base(smiley)",
+    "dest": "../../../emoji/extended"
+  }
+]

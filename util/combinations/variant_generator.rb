@@ -66,6 +66,6 @@ class VariantGenerator
   end
 
   def _anti_cull_hack(image)
-    image.combine("#{source}/../components/overlays/#{@frame_num % 4}alpha.svg")
+    image.combine("#{source}/../../components/overlays/#{@frame_num % 2}alpha.svg")
   end
 end

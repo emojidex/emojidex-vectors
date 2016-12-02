@@ -1,11 +1,10 @@
 require_relative 'combinations/variant_generator'
 
-variant_sets_path = '../emoji/variants/'
+variant_sets_path = '../src/variants/'
 
 variants = Dir.entries(variant_sets_path)
 variants -= ['.']
 variants -= ['..']
-variants -= ['components']
 
 variants.each do |variant|
   puts "⚙ Processing #{variant}"
