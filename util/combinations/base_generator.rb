@@ -59,11 +59,19 @@ class ComboEmojiBaseGenerator
       if image == nil
         image = Phantom::SVG::Base.new("#{@source}/#{i}/#{order[i]}.svg")
       else
-        image.combine("#{@source}/#{i}/#{order[i]}.svg")
+        if order[i] != ""
+          image.combine("#{@source}/#{i}/#{order[i]}.svg")
+        end
       end
     end
 
     out_path = "#{@outdir}/#{base[:code]}.svg"
+    if base.key? :moji && base[:moji] != ""
+      out_path = "#{@source}/../../../emoji/utf/#{base[:code]}.svg"
+    else
+      out_path = "#{@source}/../../../emoji/extended/#{base[:code]}.svg"
+    end
+
     puts "Saving #{out_path}..." if @debug
     image.save_svg(out_path)
   end
