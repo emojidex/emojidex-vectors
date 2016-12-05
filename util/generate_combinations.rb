@@ -1,4 +1,4 @@
-require_relative 'combinations/base_generator'
+require_relative 'generators/combination_generator'
 
 combo_sets_path = '../src/combinations/'
 
@@ -9,6 +9,6 @@ combos -= ['..']
 
 combos.each do |combo|
   puts "⚙ Processing #{combo}"
-  gen = ComboEmojiBaseGenerator.new("#{combo_sets_path}#{combo}")
+  gen = CombinationGenerator.new("#{combo_sets_path}#{combo}")
   puts "\t[#{gen.status}]"
 end

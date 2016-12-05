@@ -2,7 +2,7 @@ require 'json'
 require 'phantom/svg'
 
 # Generates all combinations for the base emoji of a ZWJ combinable emoji
-class ComboEmojiBaseGenerator
+class ComboinationGenerator
   attr_reader :source, :outdir, :bases, :components, :number_generated, :status
 
   def initialize(source_path, outdir = "", show_debug_output = true)
@@ -66,6 +66,7 @@ class ComboEmojiBaseGenerator
     end
 
     out_path = "#{@outdir}/#{base[:code]}.svg"
+    puts base
     if base.key? :moji && base[:moji] != ""
       out_path = "#{@source}/../../../emoji/utf/#{base[:code]}.svg"
     else
