@@ -1,4 +1,4 @@
-require_relative 'combinations/variant_generator'
+require_relative 'generators/variant_generator'
 
 variant_sets_path = '../src/variants/'
 
