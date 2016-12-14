@@ -3,7 +3,7 @@ require 'phantom/svg'
 
 class VariantGenerator
   attr_reader :source, :outdir, :status, :variants, :animation
-  def initialize(source_path, outdir = "", enable_hacks = true, show_debug_output = true)
+  def initialize(source_path, outdir = "", enable_hacks = false, show_debug_output = true)
     @source = source_path
     @outdir = "generated/"
     @debug = show_debug_output
