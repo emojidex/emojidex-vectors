@@ -39,27 +39,27 @@ class VariantGenerator
   def generate(variant)
     out_path = variant[:dest] || @outdir
     if @animation.nil?
-      if file.exist?("#{@source}/background.svg")
+      if File.exist?("#{@source}/background.svg")
         image = Phantom::SVG::Base.new("#{@source}/background.svg")
         image.combine("#{@source}/#{variant[:base]}.svg")
       else
         image = Phantom::SVG::Base.new("#{@source}/#{variant[:base]}.svg")
       end
-      image.combine("#{@source}/overlay.svg") if file.exist?("#{@source}/overlay.svg")
+      image.combine("#{@source}/overlay.svg") if File.exist?("#{@source}/overlay.svg")
       image.save_svg("#{@source}/#{out_path}/#{variant[:code]}.svg")
     else
       dest = "#{@source}/#{out_path}/#{variant[:code]}"
       Dir.mkdir(dest) unless Dir.exist?(dest)
       @frame_num = 0
       @animation[:frames].each do |frame|
-        if file.exist?("#{@source}/background.svg")
+        if File.exist?("#{@source}/background.svg")
           image = Phantom::SVG::Base.new("#{@source}/background.svg")
           image.combine("#{@source}/#{variant[:base]}.svg")
         else
           image = Phantom::SVG::Base.new("#{@source}/#{variant[:base]}.svg")
         end
         image.combine("#{@source}/#{frame.keys.first}.svg")
-        image.combine("#{@source}/overlay.svg") if file.exist?("#{@source}/overlay.svg")
+        image.combine("#{@source}/overlay.svg") if File.exist?("#{@source}/overlay.svg")
         apply_hacks(image) if @hacks
         @frame_num += 1
         image.save_svg("#{dest}/#{frame.keys.first}.svg")

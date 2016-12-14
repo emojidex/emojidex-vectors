@@ -1,92 +1,92 @@
 [
   {
     "code": "male_teacher",
-    "base": "../../components/people/man.svg",
+    "base": "../../components/people/man_anim",
     "dest": "../../../emoji/utf"
   },
   {
     "code": "male_teacher(wh)",
-    "base": "../../components/people/man(wh)",
+    "base": "../../components/people/man(wh)_anim",
     "dest": "../../../emoji/utf"
   },
   {
     "code": "male_teacher(p)",
-    "base": "../../components/people/man(p)",
+    "base": "../../components/people/man(p)_anim",
     "dest": "../../../emoji/utf"
   },
   {
     "code": "male_teacher(ye)",
-    "base": "../../components/people/man(ye)",
+    "base": "../../components/people/man(ye)_anim",
     "dest": "../../../emoji/utf"
   },
   {
     "code": "male_teacher(br)",
-    "base": "../../components/people/man(br)",
+    "base": "../../components/people/man(br)_anim",
     "dest": "../../../emoji/utf"
   },
   {
     "code": "male_teacher(bk)",
-    "base": "../../components/people/man(bk)",
+    "base": "../../components/people/man(bk)_anim",
     "dest": "../../../emoji/utf"
   },
   {
     "code": "female_teacher",
-    "base": "../../components/people/woman.svg",
+    "base": "../../components/people/woman_anim",
     "dest": "../../../emoji/utf"
   },
   {
     "code": "female_teacher(wh)",
-    "base": "../../components/people/woman(wh)",
+    "base": "../../components/people/woman(wh)_anim",
     "dest": "../../../emoji/utf"
   },
   {
     "code": "female_teacher(p)",
-    "base": "../../components/people/woman(p)",
+    "base": "../../components/people/woman(p)_anim",
     "dest": "../../../emoji/utf"
   },
   {
     "code": "female_teacher(ye)",
-    "base": "../../components/people/woman(ye)",
+    "base": "../../components/people/woman(ye)_anim",
     "dest": "../../../emoji/utf"
   },
   {
     "code": "female_teacher(br)",
-    "base": "../../components/people/woman(br)",
+    "base": "../../components/people/woman(br)_anim",
     "dest": "../../../emoji/utf"
   },
   {
     "code": "female_teacher(bk)",
-    "base": "../../components/people/woman(bk)",
+    "base": "../../components/people/woman(bk)_anim",
     "dest": "../../../emoji/utf"
   },
   {
     "code": "teacher",
-    "base": "../../components/people/person.svg",
+    "base": "../../components/people/person_anim",
     "dest": "../../../emoji/utf"
   },
   {
     "code": "teacher(wh)",
-    "base": "../../components/people/person(wh)",
+    "base": "../../components/people/person(wh)_anim",
     "dest": "../../../emoji/utf"
   },
   {
     "code": "teacher(p)",
-    "base": "../../components/people/person(p)",
+    "base": "../../components/people/person(p)_anim",
     "dest": "../../../emoji/utf"
   },
   {
     "code": "teacher(ye)",
-    "base": "../../components/people/person(ye)",
+    "base": "../../components/people/person(ye)_anim",
     "dest": "../../../emoji/utf"
   },
   {
     "code": "teacher(br)",
-    "base": "../../components/people/person(br)",
+    "base": "../../components/people/person(br)_anim",
     "dest": "../../../emoji/utf"
   },
   {
     "code": "teacher(bk)",
-    "base": "../../components/people/person(bk)",
+    "base": "../../components/people/person(bk)_anim",
     "dest": "../../../emoji/utf"
   }
 ]
