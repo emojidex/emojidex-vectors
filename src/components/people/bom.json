@@ -1,0 +1,74 @@
+[
+  {
+    "name": "man_anim",
+    "materials": ["bases/man.svg", "eyes/man"]
+  },
+  {
+    "name": "man(wh)_anim",
+    "materials": ["bases/man(wh).svg", "eyes/man(wh)"]
+  },
+  {
+    "name": "man(p)_anim",
+    "materials": ["bases/man(p).svg", "eyes/man"]
+  },
+  {
+    "name": "man(ye)_anim",
+    "materials": ["bases/man(ye).svg", "eyes/man"]
+  },
+  {
+    "name": "man(br)_anim",
+    "materials": ["bases/man(br).svg", "eyes/man"]
+  },
+  {
+    "name": "man(bk)_anim",
+    "materials": ["bases/man(bk).svg", "eyes/man"]
+  },
+  {
+    "name": "person_anim",
+    "materials": ["bases/person.svg", "eyes/person"]
+  },
+  {
+    "name": "person(wh)_anim",
+    "materials": ["bases/person(wh).svg", "eyes/person(wh)"]
+  },
+  {
+    "name": "person(p)_anim",
+    "materials": ["bases/person(p).svg", "eyes/person"]
+  },
+  {
+    "name": "person(ye)_anim",
+    "materials": ["bases/person(ye).svg", "eyes/person"]
+  },
+  {
+    "name": "person(br)_anim",
+    "materials": ["bases/person(br).svg", "eyes/person"]
+  },
+  {
+    "name": "person(bk)_anim",
+    "materials": ["bases/person(bk).svg", "eyes/person"]
+  },
+  {
+    "name": "woman_anim",
+    "materials": ["bases/woman.svg", "eyes/woman"]
+  },
+  {
+    "name": "woman(wh)_anim",
+    "materials": ["bases/woman(wh).svg", "eyes/woman(wh)"]
+  },
+  {
+    "name": "woman(p)_anim",
+    "materials": ["bases/woman(p).svg", "eyes/woman"]
+  },
+  {
+    "name": "woman(ye)_anim",
+    "materials": ["bases/woman(ye).svg", "eyes/woman"]
+  },
+  {
+    "name": "woman(br)_anim",
+    "materials": ["bases/woman(br).svg", "eyes/woman"]
+  },
+  {
+    "name": "woman(bk)_anim",
+    "materials": ["bases/woman(bk).svg", "eyes/woman"]
+  }
+]

@@ -13,6 +13,10 @@ on in this repository in the emoji/utf and emoji/extended folders.
 
 Generators
 ==========
+Components
+----------
+Components are parts of emoji which are generally layered on top of eachother.
+
 Variants
 --------
 Variants are emoji which have multiple versions [variants] with a common component. The best 
@@ -26,6 +30,24 @@ contains the base components for these combinations. The combination generator g
 non-combined bases (EG: 'family', 'family(ye)'...) and copies all relevant individual components 
 (eg man(p), heart, woman(ye)) for ZWJ sequences and other combinations to be assembled on/by 
 user end clients.
+
+Specification files and the Generator Chain
+-------------------------------------------
+There are several types of specification files which are used to generate different parts of 
+the emoji assets.
+
+* bom.json: a bill of materials to generate COMPONENTS.
+* components.json: a specification file that instructs what components are used to assemble 
+different versions of an emoji.
+* bases.json: a specification file that is used to generate different base emoji [NOT ZWJ] 
+assets from several different components.
+
+The component generator uses bom.json, the combination generator uses components.json, 
+the variants generator uses bases.json, such that the chain is 
+components → combinations → variants. To put it another way, the component generator 
+build the components, the combination generator assembles components into different 
+combinations, and the variant generator puts different components and combinations together 
+to build base emoji.
 
 Animation Updator
 =================

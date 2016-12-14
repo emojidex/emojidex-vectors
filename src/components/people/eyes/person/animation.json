@@ -1,0 +1,12 @@
+{
+  "name": "person",
+  "loops": 0,
+  "skip_first": false,
+  "default_delay": "100/1000",
+  "frames": [
+    {"0": 4000},
+    {"1": 150},
+    {"2": 120},
+    {"1": 100}
+  ]
+}
