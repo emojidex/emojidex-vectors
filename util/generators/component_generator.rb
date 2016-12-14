@@ -2,12 +2,12 @@ require 'json'
 require 'phantom/svg'
 
 class ComponentGenerator
-  attr_reader :source, :outdir, :bases, :bom, :number_generated, :status
+  attr_reader :source, :outdir, :bom, :status
 
   def initialize(source_path, outdir = "", show_debug_output = true)
     @status = "Initializing"
     @source = source_path
-    @outdir = "#{source_path}/generated/"
+    @outdir = source_path
     @debug = show_debug_output
     Dir.mkdir(@outdir) unless Dir.exist?(@outdir)
     if File.exist?("#{source_path}/bom.json")
@@ -23,6 +23,7 @@ class ComponentGenerator
   def generate_components
     _status "Generating..."
     @bom.each do |component|
+      img = nil
       _status "Generating component [#{component[:name]}]."
       component[:materials].each do |material|
         if File.directory?("#{@source}/#{material}")
@@ -31,9 +32,16 @@ class ComponentGenerator
             _status "Generating animation for material in #{@source}/#{material}"
             anim_gen = Phantom::SVG::Base.new("#{@source}/#{material}/animation.json")
             anim_gen.save_svg("#{@source}/#{material}.svg")
+            material = material + '.svg'
           end
-        end 
+        end
+        if img.nil?
+          img = Phantom::SVG::Base.new("#{source}/#{material}")
+        else
+          img.combine("#{source}/#{material}")
+        end
       end
+      img.save_svg("#{outdir}/#{component[:name]}.svg")
     end
   end
 

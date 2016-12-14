@@ -41,6 +41,7 @@ the emoji assets.
 different versions of an emoji.
 * bases.json: a specification file that is used to generate different base emoji [NOT ZWJ] 
 assets from several different components.
+* variants.json: specifies the components of a set of variants
 
 The component generator uses bom.json, the combination generator uses components.json, 
 the variants generator uses bases.json, such that the chain is 
