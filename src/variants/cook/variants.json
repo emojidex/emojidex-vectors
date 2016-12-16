@@ -1,0 +1,92 @@
+[
+  {
+    "code": "male_cook",
+    "base": "../../components/people/man_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "male_cook(wh)",
+    "base": "../../components/people/man(wh)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "male_cook(p)",
+    "base": "../../components/people/man(p)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "male_cook(ye)",
+    "base": "../../components/people/man(ye)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "male_cook(br)",
+    "base": "../../components/people/man(br)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "male_cook(bk)",
+    "base": "../../components/people/man(bk)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "female_cook",
+    "base": "../../components/people/woman_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "female_cook(wh)",
+    "base": "../../components/people/woman(wh)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "female_cook(p)",
+    "base": "../../components/people/woman(p)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "female_cook(ye)",
+    "base": "../../components/people/woman(ye)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "female_cook(br)",
+    "base": "../../components/people/woman(br)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "female_cook(bk)",
+    "base": "../../components/people/woman(bk)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "cook",
+    "base": "../../components/people/person_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "cook(wh)",
+    "base": "../../components/people/person(wh)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "cook(p)",
+    "base": "../../components/people/person(p)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "cook(ye)",
+    "base": "../../components/people/person(ye)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "cook(br)",
+    "base": "../../components/people/person(br)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "cook(bk)",
+    "base": "../../components/people/person(bk)_anim",
+    "dest": "../../../emoji/utf"
+  }
+]
