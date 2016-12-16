@@ -17213,5 +17213,768 @@
     "code_ja": "マル秘",
     "category": "symbols",
     "unicode": "3299"
+  },
+  {
+    "moji": "👤‍⚕️",
+    "code": "health_worker",
+    "code_ja": "医者",
+    "category": "people",
+    "unicode": "1f464-200d-2695-fe0f"
+  },
+  {
+    "moji": "👤🏻‍⚕️",
+    "code": "health_worker(wh)",
+    "code_ja": "医者(白)",
+    "category": "people",
+    "unicode": "1f464-1f3fb-200d-2695-fe0f"
+  },
+  {
+    "moji": "👤🏼‍⚕️",
+    "code": "health_worker(p)",
+    "code_ja": "医者(桃)",
+    "category": "people",
+    "unicode": "1f464-1f3fc-200d-2695-fe0f"
+  },
+  {
+    "moji": "👤🏽‍⚕️",
+    "code": "health_worker(ye)",
+    "code_ja": "医者(黄)",
+    "category": "people",
+    "unicode": "1f464-1f3fd-200d-2695-fe0f"
+  },
+  {
+    "moji": "👤🏾‍⚕️",
+    "code": "health_worker(br)",
+    "code_ja": "医者(茶)",
+    "category": "people",
+    "unicode": "1f464-1f3fe-200d-2695-fe0f"
+  },
+  {
+    "moji": "👤🏿‍⚕️",
+    "code": "health_worker(bk)",
+    "code_ja": "医者(黒)",
+    "category": "people",
+    "unicode": "1f464-1f3ff-200d-2695-fe0f"
+  },
+  {
+    "moji": "👨‍⚕️",
+    "code": "male_health_worker",
+    "code_ja": "男医",
+    "category": "people",
+    "unicode": "1f468-200d-2695-fe0f"
+  },
+  {
+    "moji": "👨🏻‍⚕️",
+    "code": "male_health_worker(wh)",
+    "code_ja": "男医(白)",
+    "category": "people",
+    "unicode": "1f468-1f3fb-200d-2695-fe0f"
+  },
+  {
+    "moji": "👨🏼‍⚕️",
+    "code": "male_health_worker(p)",
+    "code_ja": "男医(桃)",
+    "category": "people",
+    "unicode": "1f468-1f3fc-200d-2695-fe0f"
+  },
+  {
+    "moji": "👨🏽‍⚕️",
+    "code": "male_health_worker(ye)",
+    "code_ja": "男医(黄)",
+    "category": "people",
+    "unicode": "1f468-1f3fd-200d-2695-fe0f"
+  },
+  {
+    "moji": "👨🏾‍⚕️",
+    "code": "male_health_worker(br)",
+    "code_ja": "男医(茶)",
+    "category": "people",
+    "unicode": "1f468-1f3fe-200d-2695-fe0f"
+  },
+  {
+    "moji": "👨🏿‍⚕️",
+    "code": "male_health_worker(bk)",
+    "code_ja": "男医(黒)",
+    "category": "people",
+    "unicode": "1f468-1f3ff-200d-2695-fe0f"
+  },
+  {
+    "moji": "👩‍⚕️",
+    "code": "female_health_worker",
+    "code_ja": "女医",
+    "category": "people",
+    "unicode": "1f469-200d-2695-fe0f"
+  },
+  {
+    "moji": "👩🏻‍⚕️",
+    "code": "female_health_worker(wh)",
+    "code_ja": "女医(白)",
+    "category": "people",
+    "unicode": "1f469-1f3fb-200d-2695-fe0f"
+  },
+  {
+    "moji": "👩🏼‍⚕️",
+    "code": "female_health_worker(p)",
+    "code_ja": "女医(桃)",
+    "category": "people",
+    "unicode": "1f469-1f3fc-200d-2695-fe0f"
+  },
+  {
+    "moji": "👩🏽‍⚕️",
+    "code": "female_health_worker(ye)",
+    "code_ja": "女医(黄)",
+    "category": "people",
+    "unicode": "1f469-1f3fd-200d-2695-fe0f"
+  },
+  {
+    "moji": "👩🏾‍⚕️",
+    "code": "female_health_worker(br)",
+    "code_ja": "女医(茶)",
+    "category": "people",
+    "unicode": "1f469-1f3fe-200d-2695-fe0f"
+  },
+  {
+    "moji": "👩🏿‍⚕️",
+    "code": "female_health_worker(bk)",
+    "code_ja": "女医(黒)",
+    "category": "people",
+    "unicode": "1f469-1f3ff-200d-2695-fe0f"
+  },
+  {
+    "moji": "👤‍🏫",
+    "code": "teacher",
+    "code_ja": "教師",
+    "category": "people",
+    "unicode": "1f464-200d-1f3eb"
+  },
+  {
+    "moji": "👤🏻‍🏫",
+    "code": "teacher(wh)",
+    "code_ja": "教師(白)",
+    "category": "people",
+    "unicode": "1f464-1f3fb-200d-1f3eb"
+  },
+  {
+    "moji": "👤🏼‍🏫",
+    "code": "teacher(p)",
+    "code_ja": "教師(桃)",
+    "category": "people",
+    "unicode": "1f464-1f3fc-200d-1f3eb"
+  },
+  {
+    "moji": "👤🏽‍🏫",
+    "code": "teacher(ye)",
+    "code_ja": "教師(黄)",
+    "category": "people",
+    "unicode": "1f464-1f3fd-200d-1f3eb"
+  },
+  {
+    "moji": "👤🏾‍🏫",
+    "code": "teacher(br)",
+    "code_ja": "教師(茶)",
+    "category": "people",
+    "unicode": "1f464-1f3fe-200d-1f3eb"
+  },
+  {
+    "moji": "👤🏿‍🏫",
+    "code": "teacher(bk)",
+    "code_ja": "教師(黒)",
+    "category": "people",
+    "unicode": "1f464-1f3ff-200d-1f3eb"
+  },
+  {
+    "moji": "👨‍🏫",
+    "code": "male_teacher",
+    "code_ja": "男教師",
+    "category": "people",
+    "unicode": "1f468-200d-1f3eb"
+  },
+  {
+    "moji": "👨🏻‍🏫",
+    "code": "male_teacher(wh)",
+    "code_ja": "男教師(白)",
+    "category": "people",
+    "unicode": "1f468-1f3fb-200d-1f3eb"
+  },
+  {
+    "moji": "👨🏼‍🏫",
+    "code": "male_teacher(p)",
+    "code_ja": "男教師(桃)",
+    "category": "people",
+    "unicode": "1f468-1f3fc-200d-1f3eb"
+  },
+  {
+    "moji": "👨🏽‍🏫",
+    "code": "male_teacher(ye)",
+    "code_ja": "男教師(黄)",
+    "category": "people",
+    "unicode": "1f468-1f3fd-200d-1f3eb"
+  },
+  {
+    "moji": "👨🏾‍🏫",
+    "code": "male_teacher(br)",
+    "code_ja": "男教師(茶)",
+    "category": "people",
+    "unicode": "1f468-1f3fe-200d-1f3eb"
+  },
+  {
+    "moji": "👨🏿‍🏫",
+    "code": "male_teacher(bk)",
+    "code_ja": "男教師(黒)",
+    "category": "people",
+    "unicode": "1f468-1f3ff-200d-1f3eb"
+  },
+  {
+    "moji": "👩‍🏫",
+    "code": "female_teacher",
+    "code_ja": "女教師",
+    "category": "people",
+    "unicode": "1f469-200d-1f3eb"
+  },
+  {
+    "moji": "👩🏻‍🏫",
+    "code": "female_teacher(wh)",
+    "code_ja": "女教師(白)",
+    "category": "people",
+    "unicode": "1f469-1f3fb-200d-1f3eb"
+  },
+  {
+    "moji": "👩🏼‍🏫",
+    "code": "female_teacher(p)",
+    "code_ja": "女教師(桃)",
+    "category": "people",
+    "unicode": "1f469-1f3fc-200d-1f3eb"
+  },
+  {
+    "moji": "👩🏽‍🏫",
+    "code": "female_teacher(ye)",
+    "code_ja": "女教師(黄)",
+    "category": "people",
+    "unicode": "1f469-1f3fd-200d-1f3eb"
+  },
+  {
+    "moji": "👩🏾‍🏫",
+    "code": "female_teacher(br)",
+    "code_ja": "女教師(茶)",
+    "category": "people",
+    "unicode": "1f469-1f3fe-200d-1f3eb"
+  },
+  {
+    "moji": "👩🏿‍🏫",
+    "code": "female_teacher(bk)",
+    "code_ja": "女教師(黒)",
+    "category": "people",
+    "unicode": "1f469-1f3ff-200d-1f3eb"
+  },
+  {
+    "moji": "👤‍🍳",
+    "code": "cook",
+    "code_ja": "コック",
+    "category": "people",
+    "unicode": "1f464-200d-1f373"
+  },
+  {
+    "moji": "👤🏻‍🍳",
+    "code": "cook(wh)",
+    "code_ja": "コック(白)",
+    "category": "people",
+    "unicode": "1f464-1f3fb-200d-1f373"
+  },
+  {
+    "moji": "👤🏼‍🍳",
+    "code": "cook(p)",
+    "code_ja": "コック(桃)",
+    "category": "people",
+    "unicode": "1f464-1f3fc-200d-1f373"
+  },
+  {
+    "moji": "👤🏽‍🍳",
+    "code": "cook(ye)",
+    "code_ja": "コック(黄)",
+    "category": "people",
+    "unicode": "1f464-1f3fd-200d-1f373"
+  },
+  {
+    "moji": "👤🏾‍🍳",
+    "code": "cook(br)",
+    "code_ja": "コック(茶)",
+    "category": "people",
+    "unicode": "1f464-1f3fe-200d-1f373"
+  },
+  {
+    "moji": "👤🏿‍🍳",
+    "code": "cook(bk)",
+    "code_ja": "コック(黒)",
+    "category": "people",
+    "unicode": "1f464-1f3ff-200d-1f373"
+  },
+  {
+    "moji": "👨‍🍳",
+    "code": "male_cook",
+    "code_ja": "男コック",
+    "category": "people",
+    "unicode": "1f468-200d-1f373"
+  },
+  {
+    "moji": "👨🏻‍🍳",
+    "code": "male_cook(wh)",
+    "code_ja": "男コック(白)",
+    "category": "people",
+    "unicode": "1f468-1f3fb-200d-1f373"
+  },
+  {
+    "moji": "👨🏼‍🍳",
+    "code": "male_cook(p)",
+    "code_ja": "男コック(桃)",
+    "category": "people",
+    "unicode": "1f468-1f3fc-200d-1f373"
+  },
+  {
+    "moji": "👨🏽‍🍳",
+    "code": "male_cook(ye)",
+    "code_ja": "男コック(黄)",
+    "category": "people",
+    "unicode": "1f468-1f3fd-200d-1f373"
+  },
+  {
+    "moji": "👨🏾‍🍳",
+    "code": "male_cook(br)",
+    "code_ja": "男コック(茶)",
+    "category": "people",
+    "unicode": "1f468-1f3fe-200d-1f373"
+  },
+  {
+    "moji": "👨🏿‍🍳",
+    "code": "male_cook(bk)",
+    "code_ja": "男コック(黒)",
+    "category": "people",
+    "unicode": "1f468-1f3ff-200d-1f373"
+  },
+  {
+    "moji": "👩‍🍳",
+    "code": "female_cook",
+    "code_ja": "女コック",
+    "category": "people",
+    "unicode": "1f469-200d-1f373"
+  },
+  {
+    "moji": "👩🏻‍🍳",
+    "code": "female_cook(wh)",
+    "code_ja": "女コック(白)",
+    "category": "people",
+    "unicode": "1f469-1f3fb-200d-1f373"
+  },
+  {
+    "moji": "👩🏼‍🍳",
+    "code": "female_cook(p)",
+    "code_ja": "女コック(桃)",
+    "category": "people",
+    "unicode": "1f469-1f3fc-200d-1f373"
+  },
+  {
+    "moji": "👩🏽‍🍳",
+    "code": "female_cook(ye)",
+    "code_ja": "女コック(黄)",
+    "category": "people",
+    "unicode": "1f469-1f3fd-200d-1f373"
+  },
+  {
+    "moji": "👩🏾‍🍳",
+    "code": "female_cook(br)",
+    "code_ja": "女コック(茶)",
+    "category": "people",
+    "unicode": "1f469-1f3fe-200d-1f373"
+  },
+  {
+    "moji": "👩🏿‍🍳",
+    "code": "female_cook(bk)",
+    "code_ja": "女コック(黒)",
+    "category": "people",
+    "unicode": "1f469-1f3ff-200d-1f373"
+  },
+  {
+    "moji": "👤‍🌾",
+    "code": "farmer",
+    "code_ja": "農家",
+    "category": "people",
+    "unicode": "1f464-200d-1f33e"
+  },
+  {
+    "moji": "👤🏻‍🌾",
+    "code": "farmer(wh)",
+    "code_ja": "農家(白)",
+    "category": "people",
+    "unicode": "1f464-1f3fb-200d-1f33e"
+  },
+  {
+    "moji": "👤🏼‍🌾",
+    "code": "farmer(p)",
+    "code_ja": "農家(桃)",
+    "category": "people",
+    "unicode": "1f464-1f3fc-200d-1f33e"
+  },
+  {
+    "moji": "👤🏽‍🌾",
+    "code": "farmer(ye)",
+    "code_ja": "農家(黄)",
+    "category": "people",
+    "unicode": "1f464-1f3fd-200d-1f33e"
+  },
+  {
+    "moji": "👤🏾‍🌾",
+    "code": "farmer(br)",
+    "code_ja": "農家(茶)",
+    "category": "people",
+    "unicode": "1f464-1f3fe-200d-1f33e"
+  },
+  {
+    "moji": "👤🏿‍🌾",
+    "code": "farmer(bk)",
+    "code_ja": "農家(黒)",
+    "category": "people",
+    "unicode": "1f464-1f3ff-200d-1f33e"
+  },
+  {
+    "moji": "👨‍🌾",
+    "code": "male_farmer",
+    "code_ja": "男農家",
+    "category": "people",
+    "unicode": "1f468-200d-1f33e"
+  },
+  {
+    "moji": "👨🏻‍🌾",
+    "code": "male_farmer(wh)",
+    "code_ja": "男農家(白)",
+    "category": "people",
+    "unicode": "1f468-1f3fb-200d-1f33e"
+  },
+  {
+    "moji": "👨🏼‍🌾",
+    "code": "male_farmer(p)",
+    "code_ja": "男農家(桃)",
+    "category": "people",
+    "unicode": "1f468-1f3fc-200d-1f33e"
+  },
+  {
+    "moji": "👨🏽‍🌾",
+    "code": "male_farmer(ye)",
+    "code_ja": "男農家(黄)",
+    "category": "people",
+    "unicode": "1f468-1f3fd-200d-1f33e"
+  },
+  {
+    "moji": "👨🏾‍🌾",
+    "code": "male_farmer(br)",
+    "code_ja": "男農家(茶)",
+    "category": "people",
+    "unicode": "1f468-1f3fe-200d-1f33e"
+  },
+  {
+    "moji": "👨🏿‍🌾",
+    "code": "male_farmer(bk)",
+    "code_ja": "男農家(黒)",
+    "category": "people",
+    "unicode": "1f468-1f3ff-200d-1f33e"
+  },
+  {
+    "moji": "👩‍🌾",
+    "code": "female_farmer",
+    "code_ja": "女農家",
+    "category": "people",
+    "unicode": "1f469-200d-1f33e"
+  },
+  {
+    "moji": "👩🏻‍🌾",
+    "code": "female_farmer(wh)",
+    "code_ja": "女農家(白)",
+    "category": "people",
+    "unicode": "1f469-1f3fb-200d-1f33e"
+  },
+  {
+    "moji": "👩🏼‍🌾",
+    "code": "female_farmer(p)",
+    "code_ja": "女農家(桃)",
+    "category": "people",
+    "unicode": "1f469-1f3fc-200d-1f33e"
+  },
+  {
+    "moji": "👩🏽‍🌾",
+    "code": "female_farmer(ye)",
+    "code_ja": "女農家(黄)",
+    "category": "people",
+    "unicode": "1f469-1f3fd-200d-1f33e"
+  },
+  {
+    "moji": "👩🏾‍🌾",
+    "code": "female_farmer(br)",
+    "code_ja": "女農家(茶)",
+    "category": "people",
+    "unicode": "1f469-1f3fe-200d-1f33e"
+  },
+  {
+    "moji": "👩🏿‍🌾",
+    "code": "female_farmer(bk)",
+    "code_ja": "女農家(黒)",
+    "category": "people",
+    "unicode": "1f469-1f3ff-200d-1f33e"
+  },
+  {
+    "moji": "👤‍🎓",
+    "code": "student",
+    "code_ja": "学生",
+    "category": "people",
+    "unicode": "1f464-200d-1f393"
+  },
+  {
+    "moji": "👤🏻‍🎓",
+    "code": "student(wh)",
+    "code_ja": "学生(白)",
+    "category": "people",
+    "unicode": "1f464-1f3fb-200d-1f393"
+  },
+  {
+    "moji": "👤🏼‍🎓",
+    "code": "student(p)",
+    "code_ja": "学生(桃)",
+    "category": "people",
+    "unicode": "1f464-1f3fc-200d-1f393"
+  },
+  {
+    "moji": "👤🏽‍🎓",
+    "code": "student(ye)",
+    "code_ja": "学生(黄)",
+    "category": "people",
+    "unicode": "1f464-1f3fd-200d-1f393"
+  },
+  {
+    "moji": "👤🏾‍🎓",
+    "code": "student(br)",
+    "code_ja": "学生(茶)",
+    "category": "people",
+    "unicode": "1f464-1f3fe-200d-1f393"
+  },
+  {
+    "moji": "👤🏿‍🎓",
+    "code": "student(bk)",
+    "code_ja": "学生(黒)",
+    "category": "people",
+    "unicode": "1f464-1f3ff-200d-1f393"
+  },
+  {
+    "moji": "👨‍🎓",
+    "code": "male_student",
+    "code_ja": "男子学生",
+    "category": "people",
+    "unicode": "1f468-200d-1f393"
+  },
+  {
+    "moji": "👨🏻‍🎓",
+    "code": "male_student(wh)",
+    "code_ja": "男子学生(白)",
+    "category": "people",
+    "unicode": "1f468-1f3fb-200d-1f393"
+  },
+  {
+    "moji": "👨🏼‍🎓",
+    "code": "male_student(p)",
+    "code_ja": "男子学生(桃)",
+    "category": "people",
+    "unicode": "1f468-1f3fc-200d-1f393"
+  },
+  {
+    "moji": "👨🏽‍🎓",
+    "code": "male_student(ye)",
+    "code_ja": "男子学生(黄)",
+    "category": "people",
+    "unicode": "1f468-1f3fd-200d-1f393"
+  },
+  {
+    "moji": "👨🏾‍🎓",
+    "code": "male_student(br)",
+    "code_ja": "男子学生(茶)",
+    "category": "people",
+    "unicode": "1f468-1f3fe-200d-1f393"
+  },
+  {
+    "moji": "👨🏿‍🎓",
+    "code": "male_student(bk)",
+    "code_ja": "男子学生(黒)",
+    "category": "people",
+    "unicode": "1f468-1f3ff-200d-1f393"
+  },
+  {
+    "moji": "👩‍🎓",
+    "code": "female_student",
+    "code_ja": "女子学生",
+    "category": "people",
+    "unicode": "1f469-200d-1f393"
+  },
+  {
+    "moji": "👩🏻‍🎓",
+    "code": "female_student(wh)",
+    "code_ja": "女子学生(白)",
+    "category": "people",
+    "unicode": "1f469-1f3fb-200d-1f393"
+  },
+  {
+    "moji": "👩🏼‍🎓",
+    "code": "female_student(p)",
+    "code_ja": "女子学生(桃)",
+    "category": "people",
+    "unicode": "1f469-1f3fc-200d-1f393"
+  },
+  {
+    "moji": "👩🏽‍🎓",
+    "code": "female_student(ye)",
+    "code_ja": "女子学生(黄)",
+    "category": "people",
+    "unicode": "1f469-1f3fd-200d-1f393"
+  },
+  {
+    "moji": "👩🏾‍🎓",
+    "code": "female_student(br)",
+    "code_ja": "女子学生(茶)",
+    "category": "people",
+    "unicode": "1f469-1f3fe-200d-1f393"
+  },
+  {
+    "moji": "👩🏿‍🎓",
+    "code": "female_student(bk)",
+    "code_ja": "女子学生(黒)",
+    "category": "people",
+    "unicode": "1f469-1f3ff-200d-1f393"
+  },
+  {
+    "moji": "🥧",
+    "code": "pie",
+    "code_ja": "パイ",
+    "category": "food",
+    "unicode": "1f967"
+  },
+  {
+    "moji": "🥪",
+    "code_ja": "サンドイッチ",
+    "code": "sandwich",
+    "category": "food",
+    "unicode": "1f96a"
+  },
+  {
+    "moji": "🥦",
+    "code": "broccoli",
+    "code_ja": "ブロッコリー",
+    "category": "food",
+    "unicode": "1f966"
+  },
+  {
+    "moji": "🥥",
+    "code": "coconut",
+    "code_ja": "ココナツ",
+    "category": "food",
+    "unicode": "1f965"
+  },
+  {
+    "moji": "🧤",
+    "code": "gloves",
+    "code_ja": "グローブ",
+    "category": "objects",
+    "unicode": "1f9e4"
+  },
+  {
+    "moji": "🦔",
+    "code": "hedgehog",
+    "code_ja": "ハリネズミ",
+    "category": "nature",
+    "unicode": "1f994"
+  },
+  {
+    "moji": "🦖",
+    "code_ja": "ティラノサウルス",
+    "code": "T-Rex",
+    "category": "nature",
+    "unicode": "1f996"
+  },
+  {
+    "moji": "🛸",
+    "code_ja": "UFO",
+    "code": "UFO",
+    "category": "transportation",
+    "unicode": "1f6f8"
+  },
+  {
+    "moji": "🧡",
+    "code": "orange_heart",
+    "code_ja": "ハート(オレンジ)",
+    "category": "abstract",
+    "unicode": "1f9e1"
+  },
+  {
+    "moji": "❤‍🧡‍💛‍💚‍💙‍💜",
+    "code": "rainbow_heart",
+    "code_ja": "ハート(虹)",
+    "category": "abstract",
+    "unicode": "2764-200d-1f9e1-200d-1f49b-200d-1f49a-200d-1f499-200d-1f49c"
+  },
+  {
+    "moji": "🧠",
+    "code_ja": "脳",
+    "code": "brain",
+    "category": "objects",
+    "unicode": "1f9e0"
+  },
+  {
+    "moji": "🤟",
+    "code": "ILY_sign",
+    "code_ja": "愛しているのサイン",
+    "category": "gestures",
+    "unicoe": "1f91f"
+  },
+  {
+    "moji": "🤟🏻",
+    "code": "ILY_sign(wh)",
+    "code_ja": "愛してるのサイン(白)",
+    "category": "gestures",
+    "unicoe": "1f91f-1f3fb"
+  },
+  {
+    "moji": "🤟🏼",
+    "code": "ILY_sign(p)",
+    "code_ja": "愛してるのサイン(桃)",
+    "category": "gestures",
+    "unicoe": "1f91f-1f3fc"
+  },
+  {
+    "moji": "🤟🏽",
+    "code": "ILY_sign(ye)",
+    "code_ja": "愛してるのサイン(黄)",
+    "category": "gestures",
+    "unicoe": "1f91f-1f3fd"
+  },
+  {
+    "moji": "🤟🏾",
+    "code": "ILY_sign(br)",
+    "code_ja": "愛してるのサイン(茶)",
+    "category": "gestures",
+    "unicoe": "1f91f-1f3fe"
+  },
+  {
+    "moji": "🤟🏿",
+    "code": "ILY_sign(bk)",
+    "code_ja": "愛してるのサイン(黒)",
+    "category": "gestures",
+    "unicoe": "1f91f-1f3ff"
+  },
+  {
+    "moji": "🛷",
+    "code": "sled",
+    "code_ja": "そり",
+    "category": "objects",
+    "unicode": "1f6f7"
+  },
+  {
+    "moji": "🥌",
+    "code": "curling_stone",
+    "code_ja": "カーリングストーン",
+    "category": "objects",
+    "unicode": "1f94c"
   }
 ]

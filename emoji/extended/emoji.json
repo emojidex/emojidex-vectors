@@ -145,11 +145,6 @@
     "category": "nature"
   },
   {
-    "code_ja": "ティラノサウルス",
-    "code": "t_rex",
-    "category": "nature"
-  },
-  {
     "code_ja": "ペガサス(黒)",
     "code": "black_pegasus",
     "category": "nature"
@@ -337,11 +332,6 @@
   {
     "code_ja": "ペパロニクリームチーズピザ",
     "code": "pepperoni_cream_cheese_pizza",
-    "category": "food"
-  },
-  {
-    "code_ja": "サンドイッチ",
-    "code": "sandwich",
     "category": "food"
   },
   {
@@ -1003,11 +993,6 @@
     "code_ja": "ナマズ",
     "code": "catfish",
     "category": "nature"
-  },
-  {
-    "code_ja": "UFO",
-    "code": "UFO",
-    "category": "people"
   },
   {
     "code_ja": "宇宙人(シンプル)",
@@ -3440,11 +3425,6 @@
     "category": "food"
   },
   {
-    "code_ja": "脳",
-    "code": "brain",
-    "category": "objects"
-  },
-  {
     "code_ja": "ムチ",
     "code": "whip",
     "category": "objects"
@@ -3665,16 +3645,6 @@
     "category": "abstract"
   },
   {
-    "code": "orange_heart",
-    "code_ja": "ハート(オレンジ)",
-    "category": "abstract"
-  },
-  {
-    "code": "rainbow_heart",
-    "code_ja": "ハート(虹)",
-    "category": "abstract"
-  },
-  {
     "code": "rainbow_heart(curved)",
     "code_ja": "ハート(曲線虹)",
     "category": "abstract"
@@ -3682,16 +3652,6 @@
   {
     "code": "rainbow_heart(diagonal)",
     "code_ja": "ハート(斜線虹)",
-    "category": "abstract"
-  },
-  {
-    "code": "sled",
-    "code_ja": "そり",
-    "category": "abstract"
-  },
-  {
-    "code": "curling_stone",
-    "code_ja": "カーリングストーン",
     "category": "abstract"
   },
   {
@@ -3733,11 +3693,6 @@
     "code": "frozen_heart",
     "code_ja": "ハート(氷)",
     "category": "abstract"
-  },
-  {
-    "code": "hedgehog",
-    "code_ja": "ハリネズミ",
-    "category": "nature"
   },
   {
     "code": "shaka_sign",
@@ -3835,16 +3790,6 @@
     "category": "people"
   },
   {
-    "code": "broccoli",
-    "code_ja": "ブロッコリー",
-    "category": "food"
-  },
-  {
-    "code": "coconut",
-    "code_ja": "ココナツ",
-    "category": "food"
-  },
-  {
     "code": "almond",
     "code_ja": "アーモンド",
     "category": "food"
@@ -3893,36 +3838,6 @@
     "code": "cross_eyed_face(dumpling)",
     "code_ja": "ロンパリ(餃子)",
     "category": "faces"
-  },
-  {
-    "code": "ILY_sign",
-    "code_ja": "",
-    "category": "gestures"
-  },
-  {
-    "code": "ILY_sign(wh)",
-    "code_ja": "愛してる(白)",
-    "category": "gestures"
-  },
-  {
-    "code": "ILY_sign(p)",
-    "code_ja": "愛してる(桃)",
-    "category": "gestures"
-  },
-  {
-    "code": "ILY_sign(ye)",
-    "code_ja": "愛してる(黄)",
-    "category": "gestures"
-  },
-  {
-    "code": "ILY_sign(br)",
-    "code_ja": "愛してる(茶)",
-    "category": "gestures"
-  },
-  {
-    "code": "ILY_sign(bk)",
-    "code_ja": "愛してる(黒)",
-    "category": "gestures"
   },
   {
     "code": "milkshake",
