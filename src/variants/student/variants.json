@@ -1,0 +1,92 @@
+[
+  {
+    "code": "male_student",
+    "base": "../../components/people/man_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "male_student(wh)",
+    "base": "../../components/people/man(wh)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "male_student(p)",
+    "base": "../../components/people/man(p)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "male_student(ye)",
+    "base": "../../components/people/man(ye)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "male_student(br)",
+    "base": "../../components/people/man(br)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "male_student(bk)",
+    "base": "../../components/people/man(bk)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "female_student",
+    "base": "../../components/people/woman_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "female_student(wh)",
+    "base": "../../components/people/woman(wh)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "female_student(p)",
+    "base": "../../components/people/woman(p)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "female_student(ye)",
+    "base": "../../components/people/woman(ye)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "female_student(br)",
+    "base": "../../components/people/woman(br)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "female_student(bk)",
+    "base": "../../components/people/woman(bk)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "student",
+    "base": "../../components/people/person_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "student(wh)",
+    "base": "../../components/people/person(wh)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "student(p)",
+    "base": "../../components/people/person(p)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "student(ye)",
+    "base": "../../components/people/person(ye)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "student(br)",
+    "base": "../../components/people/person(br)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "student(bk)",
+    "base": "../../components/people/person(bk)_anim",
+    "dest": "../../../emoji/utf"
+  }
+]
