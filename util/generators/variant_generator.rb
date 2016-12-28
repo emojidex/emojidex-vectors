@@ -45,7 +45,11 @@ class VariantGenerator
       else
         image = Phantom::SVG::Base.new("#{@source}/#{variant[:base]}.svg")
       end
-      image.combine("#{@source}/overlay.svg") if File.exist?("#{@source}/overlay.svg")
+      if variant.include? :overlay
+        image.combine("#{@source}/#{variant[:overlay]}.svg")
+      else
+        image.combine("#{@source}/overlay.svg") if File.exist?("#{@source}/overlay.svg")
+      end
       image.save_svg("#{@source}/#{out_path}/#{variant[:code]}.svg")
     else
       dest = "#{@source}/#{out_path}/#{variant[:code]}"

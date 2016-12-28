@@ -1,0 +1,110 @@
+[
+  {
+    "code": "male_singer",
+    "base": "../../components/people/man_anim",
+    "overlay": "male_singer",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "male_singer(wh)",
+    "base": "../../components/people/man(wh)_anim",
+    "overlay": "male_singer",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "male_singer(p)",
+    "base": "../../components/people/man(p)_anim",
+    "overlay": "male_singer",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "male_singer(ye)",
+    "base": "../../components/people/man(ye)_anim",
+    "overlay": "male_singer",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "male_singer(br)",
+    "base": "../../components/people/man(br)_anim",
+    "overlay": "male_singer",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "male_singer(bk)",
+    "base": "../../components/people/man(bk)_anim",
+    "overlay": "male_singer",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "female_singer",
+    "base": "../../components/people/woman_anim",
+    "overlay": "female_singer",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "female_singer(wh)",
+    "base": "../../components/people/woman(wh)_anim",
+    "overlay": "female_singer",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "female_singer(p)",
+    "base": "../../components/people/woman(p)_anim",
+    "overlay": "female_singer",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "female_singer(ye)",
+    "base": "../../components/people/woman(ye)_anim",
+    "overlay": "female_singer",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "female_singer(br)",
+    "base": "../../components/people/woman(br)_anim",
+    "overlay": "female_singer",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "female_singer(bk)",
+    "base": "../../components/people/woman(bk)_anim",
+    "overlay": "female_singer",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "singer",
+    "base": "../../components/people/person_anim",
+    "overlay": "male_singer",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "singer(wh)",
+    "base": "../../components/people/person(wh)_anim",
+    "overlay": "male_singer",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "singer(p)",
+    "base": "../../components/people/person(p)_anim",
+    "overlay": "male_singer",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "singer(ye)",
+    "base": "../../components/people/person(ye)_anim",
+    "overlay": "male_singer",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "singer(br)",
+    "base": "../../components/people/person(br)_anim",
+    "overlay": "male_singer",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "singer(bk)",
+    "base": "../../components/people/person(bk)_anim",
+    "overlay": "male_singer",
+    "dest": "../../../emoji/utf"
+  }
+]
