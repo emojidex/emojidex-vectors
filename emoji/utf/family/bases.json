@@ -1,0 +1,56 @@
+[
+  {
+    "moji": "👪",
+    "code": "family",
+    "code_ja": "家族",
+    "category": "people",
+    "unicode": "1f46a",
+    "combination_base": "man",
+    "combination": ["man", "woman", "boy", "girl", "baby"]
+  },
+  {
+    "moji": "👪🏻",
+    "code": "family(wh)",
+    "code_ja": "家族(白)",
+    "category": "people",
+    "unicode": "1f46a-1f3fb",
+    "combination_base": "man(wh)",
+    "combination": ["man(wh)", "woman(wh)", "boy(wh)", "girl(wh)", "baby(wh)"]
+  },
+  {
+    "moji": "👪🏼",
+    "code": "family(p)",
+    "code_ja": "家族(桃)",
+    "category": "people",
+    "unicode": "1f46a-1f3fc",
+    "combination_base": "man(p)",
+    "combination": ["man(p)", "woman(p)", "boy(p)", "girl(p)", "baby(p)"]
+  },
+  {
+    "moji": "👪🏽",
+    "code": "family(ye)",
+    "code_ja": "家族(黄)",
+    "category": "people",
+    "unicode": "1f46a-1f3fd",
+    "combination_base": "man(ye)",
+    "combination": ["man(ye)", "woman(ye)", "boy(ye)", "girl(ye)", "baby(ye)"]
+  },
+  {
+    "moji": "👪🏾",
+    "code": "family(br)",
+    "code_ja": "家族(茶)",
+    "category": "people",
+    "unicode": "1f46a-1f3fe",
+    "combination_base": "man(br)",
+    "combination": ["man(br)", "woman(br)", "boy(br)", "girl(br)", "baby(br)"]
+  },
+  {
+    "moji": "👪🏿",
+    "code": "family(bk)",
+    "code_ja": "家族(黒)",
+    "category": "people",
+    "unicode": "1f46a-1f3ff",
+    "combination_base": "man(bk)",
+    "combination": ["man(bk)", "woman(bk)", "boy(bk)", "girl(bk)", "baby(bk)"]
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "moji": "👨",
+    "code": "man",
+    "code_ja": "男の人",
+    "category": "people",
+    "unicode": "1f468",
+    "component_layer_order": [0, 2, 1],
+    "components": [
+      [
+        "man", "man(p)", "man(ye)", "man(bk)", "man(br)", "man(wh)"
+      ],
+      [
+        "heart", "blue_heart", "purple_heart", "yellow_heart", "green_heart",
+        "sparkling_heart", "heartpulse", "gift_heart", "stars", "secret",
+        "underage", "beginner", "zap", "lock", "bulb", "broken_heart", "skull",
+        "bomb", "cocktail", "two_hearts", "nut_and_bolt", ""
+      ],
+      [
+        "woman", "woman(bk)", "woman(br)", "woman(p)", "woman(wh)", "woman(ye)",
+        "man", "man(p)", "man(ye)", "man(bk)", "man(br)", "man(wh)"
+      ]
+    ]
+  },
+  {
+    "moji": "👩",
+    "code": "woman",
+    "code_ja": "女の人",
+    "category": "people",
+    "unicode": "1f469",
+    "component_layer_order": [0, 2, 1],
+    "components": [
+      [
+        "woman", "woman(bk)", "woman(br)", "woman(p)", "woman(wh)", "woman(ye)"
+      ],
+      [
+        "heart", "blue_heart", "purple_heart", "yellow_heart", "green_heart",
+        "sparkling_heart", "heartpulse", "gift_heart", "stars", "secret",
+        "underage", "beginner", "zap", "lock", "bulb", "broken_heart", "skull",
+        "bomb", "cocktail", "two_hearts", "nut_and_bolt", ""
+      ],
+      [
+        "man", "man(p)", "man(ye)", "man(bk)", "man(br)", "man(wh)",
+        "woman", "woman(bk)", "woman(br)", "woman(p)", "woman(wh)", "woman(ye)"
+      ]
+    ]
+  }
+]

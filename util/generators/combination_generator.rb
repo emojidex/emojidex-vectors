@@ -86,6 +86,6 @@ class CombinationGenerator
   end
 
   def copy_components
-    FileUtils.cp(@source, "#{@source}/../../../emoji/utf/")
+    FileUtils.cp_r(@source, File.expand_path("#{@source}/../../../emoji/utf/#{@source.match(/[^\/]+(?=\/$|$)/)}"), {remove_destination: true})
   end
 end
