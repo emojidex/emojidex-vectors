@@ -4469,84 +4469,420 @@
     "code": "man",
     "code_ja": "男の人",
     "category": "people",
-    "unicode": "1f468"
+    "unicode": "1f468",
+    "combinations": [
+      {
+        "base": "family",
+        "component_layer_order": [0, 1, 2, 3, 4],
+        "components": [
+          [
+            "woman", "woman(bk)", "woman(br)", "woman(p)", "woman(wh)", "woman(ye)",
+            "man", "man(p)", "man(ye)", "man(bk)", "man(br)", "man(wh)",
+            ""
+          ],
+          [
+       
+            "boy", "boy(p)", "boy(ye)", "boy(bk)", "boy(br)", "boy(wh)",
+            "girl", "girl(p)", "girl(ye)", "girl(bk)", "girl(br)", "girl(wh)",
+            ""
+          ],
+          [
+            "girl", "girl(p)", "girl(ye)", "girl(bk)", "girl(br)", "girl(wh)",
+            "boy", "boy(p)", "boy(ye)", "boy(bk)", "boy(br)", "boy(wh)",
+            ""
+          ],
+          [
+            "baby", "baby(p)", "baby(ye)", "baby(bk)", "baby(br)", "baby(wh)",
+            ""
+          ]
+        ]
+      }
+    ]
   },
   {
     "moji": "👨🏻",
     "code": "man(wh)",
     "code_ja": "男の人(白)",
     "category": "people",
-    "unicode": "1f468-1f3fb"
+    "unicode": "1f468-1f3fb",
+    "combinations": [
+      {
+        "base": "family",
+        "component_layer_order": [0, 1, 2, 3, 4],
+        "components": [
+          [
+            "woman", "woman(bk)", "woman(br)", "woman(p)", "woman(wh)", "woman(ye)",
+            "man", "man(p)", "man(ye)", "man(bk)", "man(br)", "man(wh)",
+            ""
+          ],
+          [
+       
+            "boy", "boy(p)", "boy(ye)", "boy(bk)", "boy(br)", "boy(wh)",
+            "girl", "girl(p)", "girl(ye)", "girl(bk)", "girl(br)", "girl(wh)",
+            ""
+          ],
+          [
+            "girl", "girl(p)", "girl(ye)", "girl(bk)", "girl(br)", "girl(wh)",
+            "boy", "boy(p)", "boy(ye)", "boy(bk)", "boy(br)", "boy(wh)",
+            ""
+          ],
+          [
+            "baby", "baby(p)", "baby(ye)", "baby(bk)", "baby(br)", "baby(wh)",
+            ""
+          ]
+        ]
+      }
+    ]
   },
   {
     "moji": "👨🏼",
     "code": "man(p)",
     "code_ja": "男の人(桃)",
     "category": "people",
-    "unicode": "1f468-1f3fc"
+    "unicode": "1f468-1f3fc",
+    "combinations": [
+      {
+        "base": "family",
+        "component_layer_order": [0, 1, 2, 3, 4],
+        "components": [
+          [
+            "woman", "woman(bk)", "woman(br)", "woman(p)", "woman(wh)", "woman(ye)",
+            "man", "man(p)", "man(ye)", "man(bk)", "man(br)", "man(wh)",
+            ""
+          ],
+          [
+       
+            "boy", "boy(p)", "boy(ye)", "boy(bk)", "boy(br)", "boy(wh)",
+            "girl", "girl(p)", "girl(ye)", "girl(bk)", "girl(br)", "girl(wh)",
+            ""
+          ],
+          [
+            "girl", "girl(p)", "girl(ye)", "girl(bk)", "girl(br)", "girl(wh)",
+            "boy", "boy(p)", "boy(ye)", "boy(bk)", "boy(br)", "boy(wh)",
+            ""
+          ],
+          [
+            "baby", "baby(p)", "baby(ye)", "baby(bk)", "baby(br)", "baby(wh)",
+            ""
+          ]
+        ]
+      }
+    ]
   },
   {
     "moji": "👨🏽",
     "code": "man(ye)",
     "code_ja": "男の人(黄)",
     "category": "people",
-    "unicode": "1f468-1f3fd"
+    "unicode": "1f468-1f3fd",
+    "combinations": [
+      {
+        "base": "family",
+        "component_layer_order": [0, 1, 2, 3, 4],
+        "components": [
+          [
+            "woman", "woman(bk)", "woman(br)", "woman(p)", "woman(wh)", "woman(ye)",
+            "man", "man(p)", "man(ye)", "man(bk)", "man(br)", "man(wh)",
+            ""
+          ],
+          [
+       
+            "boy", "boy(p)", "boy(ye)", "boy(bk)", "boy(br)", "boy(wh)",
+            "girl", "girl(p)", "girl(ye)", "girl(bk)", "girl(br)", "girl(wh)",
+            ""
+          ],
+          [
+            "girl", "girl(p)", "girl(ye)", "girl(bk)", "girl(br)", "girl(wh)",
+            "boy", "boy(p)", "boy(ye)", "boy(bk)", "boy(br)", "boy(wh)",
+            ""
+          ],
+          [
+            "baby", "baby(p)", "baby(ye)", "baby(bk)", "baby(br)", "baby(wh)",
+            ""
+          ]
+        ]
+      }
+    ]
   },
   {
     "moji": "👨🏾",
     "code": "man(br)",
     "code_ja": "男の人(茶)",
     "category": "people",
-    "unicode": "1f468-1f3fe"
+    "unicode": "1f468-1f3fe",
+    "combinations": [
+      {
+        "base": "family",
+        "component_layer_order": [0, 1, 2, 3, 4],
+        "components": [
+          [
+            "woman", "woman(bk)", "woman(br)", "woman(p)", "woman(wh)", "woman(ye)",
+            "man", "man(p)", "man(ye)", "man(bk)", "man(br)", "man(wh)",
+            ""
+          ],
+          [
+       
+            "boy", "boy(p)", "boy(ye)", "boy(bk)", "boy(br)", "boy(wh)",
+            "girl", "girl(p)", "girl(ye)", "girl(bk)", "girl(br)", "girl(wh)",
+            ""
+          ],
+          [
+            "girl", "girl(p)", "girl(ye)", "girl(bk)", "girl(br)", "girl(wh)",
+            "boy", "boy(p)", "boy(ye)", "boy(bk)", "boy(br)", "boy(wh)",
+            ""
+          ],
+          [
+            "baby", "baby(p)", "baby(ye)", "baby(bk)", "baby(br)", "baby(wh)",
+            ""
+          ]
+        ]
+      }
+    ]
   },
   {
     "moji": "👨🏿",
     "code": "man(bk)",
     "code_ja": "男の人(黒)",
     "category": "people",
-    "unicode": "1f468-1f3ff"
+    "unicode": "1f468-1f3ff",
+    "combinations": [
+      {
+        "base": "family",
+        "component_layer_order": [0, 1, 2, 3, 4],
+        "components": [
+          [
+            "woman", "woman(bk)", "woman(br)", "woman(p)", "woman(wh)", "woman(ye)",
+            "man", "man(p)", "man(ye)", "man(bk)", "man(br)", "man(wh)",
+            ""
+          ],
+          [
+       
+            "boy", "boy(p)", "boy(ye)", "boy(bk)", "boy(br)", "boy(wh)",
+            "girl", "girl(p)", "girl(ye)", "girl(bk)", "girl(br)", "girl(wh)",
+            ""
+          ],
+          [
+            "girl", "girl(p)", "girl(ye)", "girl(bk)", "girl(br)", "girl(wh)",
+            "boy", "boy(p)", "boy(ye)", "boy(bk)", "boy(br)", "boy(wh)",
+            ""
+          ],
+          [
+            "baby", "baby(p)", "baby(ye)", "baby(bk)", "baby(br)", "baby(wh)",
+            ""
+          ]
+        ]
+      }
+    ]
   },
   {
     "moji": "👩",
     "code": "woman",
     "code_ja": "女の人",
     "category": "people",
-    "unicode": "1f469"
+    "unicode": "1f469",
+    "combinations": [
+      {
+        "base": "family",
+        "component_layer_order": [0, 1, 2, 3, 4],
+        "components": [
+          [
+            "woman", "woman(bk)", "woman(br)", "woman(p)", "woman(wh)", "woman(ye)",
+            "man", "man(p)", "man(ye)", "man(bk)", "man(br)", "man(wh)",
+            ""
+          ],
+          [
+       
+            "boy", "boy(p)", "boy(ye)", "boy(bk)", "boy(br)", "boy(wh)",
+            "girl", "girl(p)", "girl(ye)", "girl(bk)", "girl(br)", "girl(wh)",
+            ""
+          ],
+          [
+            "girl", "girl(p)", "girl(ye)", "girl(bk)", "girl(br)", "girl(wh)",
+            "boy", "boy(p)", "boy(ye)", "boy(bk)", "boy(br)", "boy(wh)",
+            ""
+          ],
+          [
+            "baby", "baby(p)", "baby(ye)", "baby(bk)", "baby(br)", "baby(wh)",
+            ""
+          ]
+        ]
+      }
+    ]
   },
   {
     "moji": "👩🏻",
     "code": "woman(wh)",
     "code_ja": "女の人(白)",
     "category": "people",
-    "unicode": "1f469-1f3fb"
+    "unicode": "1f469-1f3fb",
+    "combinations": [
+      {
+        "base": "family",
+        "component_layer_order": [0, 1, 2, 3, 4],
+        "components": [
+          [
+            "woman", "woman(bk)", "woman(br)", "woman(p)", "woman(wh)", "woman(ye)",
+            "man", "man(p)", "man(ye)", "man(bk)", "man(br)", "man(wh)",
+            ""
+          ],
+          [
+       
+            "boy", "boy(p)", "boy(ye)", "boy(bk)", "boy(br)", "boy(wh)",
+            "girl", "girl(p)", "girl(ye)", "girl(bk)", "girl(br)", "girl(wh)",
+            ""
+          ],
+          [
+            "girl", "girl(p)", "girl(ye)", "girl(bk)", "girl(br)", "girl(wh)",
+            "boy", "boy(p)", "boy(ye)", "boy(bk)", "boy(br)", "boy(wh)",
+            ""
+          ],
+          [
+            "baby", "baby(p)", "baby(ye)", "baby(bk)", "baby(br)", "baby(wh)",
+            ""
+          ]
+        ]
+      }
+    ]
   },
   {
     "moji": "👩🏼",
     "code": "woman(p)",
     "code_ja": "女の人(桃)",
     "category": "people",
-    "unicode": "1f469-1f3fc"
+    "unicode": "1f469-1f3fc",
+    "combinations": [
+      {
+        "base": "family",
+        "component_layer_order": [0, 1, 2, 3, 4],
+        "components": [
+          [
+            "woman", "woman(bk)", "woman(br)", "woman(p)", "woman(wh)", "woman(ye)",
+            "man", "man(p)", "man(ye)", "man(bk)", "man(br)", "man(wh)",
+            ""
+          ],
+          [
+       
+            "boy", "boy(p)", "boy(ye)", "boy(bk)", "boy(br)", "boy(wh)",
+            "girl", "girl(p)", "girl(ye)", "girl(bk)", "girl(br)", "girl(wh)",
+            ""
+          ],
+          [
+            "girl", "girl(p)", "girl(ye)", "girl(bk)", "girl(br)", "girl(wh)",
+            "boy", "boy(p)", "boy(ye)", "boy(bk)", "boy(br)", "boy(wh)",
+            ""
+          ],
+          [
+            "baby", "baby(p)", "baby(ye)", "baby(bk)", "baby(br)", "baby(wh)",
+            ""
+          ]
+        ]
+      }
+    ]
   },
   {
     "moji": "👩🏽",
     "code": "woman(ye)",
     "code_ja": "女の人(黄)",
     "category": "people",
-    "unicode": "1f469-1f3fd"
+    "unicode": "1f469-1f3fd",
+    "combinations": [
+      {
+        "base": "family",
+        "component_layer_order": [0, 1, 2, 3, 4],
+        "components": [
+          [
+            "woman", "woman(bk)", "woman(br)", "woman(p)", "woman(wh)", "woman(ye)",
+            "man", "man(p)", "man(ye)", "man(bk)", "man(br)", "man(wh)",
+            ""
+          ],
+          [
+       
+            "boy", "boy(p)", "boy(ye)", "boy(bk)", "boy(br)", "boy(wh)",
+            "girl", "girl(p)", "girl(ye)", "girl(bk)", "girl(br)", "girl(wh)",
+            ""
+          ],
+          [
+            "girl", "girl(p)", "girl(ye)", "girl(bk)", "girl(br)", "girl(wh)",
+            "boy", "boy(p)", "boy(ye)", "boy(bk)", "boy(br)", "boy(wh)",
+            ""
+          ],
+          [
+            "baby", "baby(p)", "baby(ye)", "baby(bk)", "baby(br)", "baby(wh)",
+            ""
+          ]
+        ]
+      }
+    ]
   },
   {
     "moji": "👩🏾",
     "code": "woman(br)",
     "code_ja": "女の人(茶)",
     "category": "people",
-    "unicode": "1f469-1f3fe"
+    "unicode": "1f469-1f3fe",
+    "combinations": [
+      {
+        "base": "family",
+        "component_layer_order": [0, 1, 2, 3, 4],
+        "components": [
+          [
+            "woman", "woman(bk)", "woman(br)", "woman(p)", "woman(wh)", "woman(ye)",
+            "man", "man(p)", "man(ye)", "man(bk)", "man(br)", "man(wh)",
+            ""
+          ],
+          [
+       
+            "boy", "boy(p)", "boy(ye)", "boy(bk)", "boy(br)", "boy(wh)",
+            "girl", "girl(p)", "girl(ye)", "girl(bk)", "girl(br)", "girl(wh)",
+            ""
+          ],
+          [
+            "girl", "girl(p)", "girl(ye)", "girl(bk)", "girl(br)", "girl(wh)",
+            "boy", "boy(p)", "boy(ye)", "boy(bk)", "boy(br)", "boy(wh)",
+            ""
+          ],
+          [
+            "baby", "baby(p)", "baby(ye)", "baby(bk)", "baby(br)", "baby(wh)",
+            ""
+          ]
+        ]
+      }
+    ]
   },
   {
     "moji": "👩🏿",
     "code": "woman(bk)",
     "code_ja": "女の人(黒)",
     "category": "people",
-    "unicode": "1f469-1f3ff"
+    "unicode": "1f469-1f3ff",
+    "combinations": [
+      {
+        "base": "family",
+        "component_layer_order": [0, 1, 2, 3, 4],
+        "components": [
+          [
+            "woman", "woman(bk)", "woman(br)", "woman(p)", "woman(wh)", "woman(ye)",
+            "man", "man(p)", "man(ye)", "man(bk)", "man(br)", "man(wh)",
+            ""
+          ],
+          [
+       
+            "boy", "boy(p)", "boy(ye)", "boy(bk)", "boy(br)", "boy(wh)",
+            "girl", "girl(p)", "girl(ye)", "girl(bk)", "girl(br)", "girl(wh)",
+            ""
+          ],
+          [
+            "girl", "girl(p)", "girl(ye)", "girl(bk)", "girl(br)", "girl(wh)",
+            "boy", "boy(p)", "boy(ye)", "boy(bk)", "boy(br)", "boy(wh)",
+            ""
+          ],
+          [
+            "baby", "baby(p)", "baby(ye)", "baby(bk)", "baby(br)", "baby(wh)",
+            ""
+          ]
+        ]
+      }
+    ]
   },
   {
     "moji": "👪",

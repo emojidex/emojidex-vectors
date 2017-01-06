@@ -1,13 +1,18 @@
 require 'json'
+require 'fileutils'
 require 'phantom/svg'
 
 # Generates all combinations for the base emoji of a ZWJ combinable emoji
 class CombinationGenerator
   attr_reader :source, :outdir, :bases, :components, :number_generated, :status
 
-  def initialize(source_path, outdir = "", show_debug_output = true)
+  def initialize(source_path, outdir = nil, copy_src = true, show_debug_output = true)
     @source = source_path
-    @outdir = "#{source_path}/generated/"
+    if outdir == nil || outdir == ""
+      @outdir = "#{source_path}/generated/"
+    else
+      @outdir = outdir
+    end
     @debug = show_debug_output
     Dir.mkdir(@outdir) unless Dir.exist?(@outdir)
     if (File.exist?("#{source_path}/components.json") && File.exist?("#{source_path}/bases.json"))
@@ -15,6 +20,7 @@ class CombinationGenerator
       @bases = JSON.parse(File.read("#{source_path}/bases.json"), {:symbolize_names => true})
 
       generate_bases()
+      copy_components() if copy_src
     else
       @status = 'No base info found. Bases not generated.'
       puts @status if @debug
@@ -77,5 +83,9 @@ class CombinationGenerator
 
     puts "Saving #{out_path}..." if @debug
     image.save_svg(out_path)
+  end
+
+  def copy_components
+    FileUtils.cp(@source, "#{@source}/../../../emoji/utf/")
   end
 end
