@@ -1,0 +1,92 @@
+[
+  {
+    "code": "male_spy",
+    "base": "../../components/people/man_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "male_spy(wh)",
+    "base": "../../components/people/man(wh)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "male_spy(p)",
+    "base": "../../components/people/man(p)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "male_spy(ye)",
+    "base": "../../components/people/man(ye)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "male_spy(br)",
+    "base": "../../components/people/man(br)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "male_spy(bk)",
+    "base": "../../components/people/man(bk)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "female_spy",
+    "base": "../../components/people/woman_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "female_spy(wh)",
+    "base": "../../components/people/woman(wh)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "female_spy(p)",
+    "base": "../../components/people/woman(p)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "female_spy(ye)",
+    "base": "../../components/people/woman(ye)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "female_spy(br)",
+    "base": "../../components/people/woman(br)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "female_spy(bk)",
+    "base": "../../components/people/woman(bk)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "spy",
+    "base": "../../components/people/person_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "spy(wh)",
+    "base": "../../components/people/person(wh)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "spy(p)",
+    "base": "../../components/people/person(p)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "spy(ye)",
+    "base": "../../components/people/person(ye)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "spy(br)",
+    "base": "../../components/people/person(br)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "spy(bk)",
+    "base": "../../components/people/person(bk)_anim",
+    "dest": "../../../emoji/utf"
+  }
+]

@@ -5060,51 +5060,129 @@
   },
   {
     "moji": "👮",
-    "full_name": "police_officer",
-    "code": "cop",
+    "code": "police_officer",
     "code_ja": "警察官",
     "category": "people",
     "unicode": "1f46e"
   },
   {
     "moji": "👮🏻",
-    "full_name": "police_officer(wh)",
-    "code": "cop(wh)",
+    "code": "police_officer(wh)",
     "code_ja": "警察官(白)",
     "category": "people",
     "unicode": "1f46e-1f3fb"
   },
   {
     "moji": "👮🏼",
-    "full_name": "police_officer(p)",
-    "code": "cop(p)",
+    "code": "police_officer(p)",
     "code_ja": "警察官(桃)",
     "category": "people",
     "unicode": "1f46e-1f3fc"
   },
   {
     "moji": "👮🏽",
-    "full_name": "police_officer(ye)",
-    "code": "cop(ye)",
+    "code": "police_officer(ye)",
     "code_ja": "警察官(黄)",
     "category": "people",
     "unicode": "1f46e-1f3fd"
   },
   {
     "moji": "👮🏾",
-    "full_name": "police_officer(br)",
-    "code": "cop(br)",
+    "code": "police_officer(br)",
     "code_ja": "警察官(茶)",
     "category": "people",
     "unicode": "1f46e-1f3fe"
   },
   {
     "moji": "👮🏿",
-    "full_name": "police_officer(bk)",
-    "code": "cop(bk)",
+    "code": "police_officer(bk)",
     "code_ja": "警察官(黒)",
     "category": "people",
     "unicode": "1f46e-1f3ff"
+  },
+  {
+    "moji": "👮‍♂️",
+    "code": "male_police_officer",
+    "code_ja": "男性警察官",
+    "category": "people",
+    "unicode": "1f46e-200d-2642-fe0f"
+  },
+  {
+    "moji": "👮🏻‍♂️",
+    "code": "male_police_officer(wh)",
+    "code_ja": "男性警察官(白)",
+    "category": "people",
+    "unicode": "1f46e-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "moji": "👮🏼‍♂️",
+    "code": "male_police_officer(p)",
+    "code_ja": "男性警察官(桃)",
+    "category": "people",
+    "unicode": "1f46e-1f3fc-200d-2642-fe0f"
+  },
+  {
+    "moji": "👮🏽‍♂️",
+    "code": "male_police_officer(ye)",
+    "code_ja": "男性警察官(黄)",
+    "category": "people",
+    "unicode": "1f46e-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "moji": "👮🏾‍♂️",
+    "code": "male_police_officer(br)",
+    "code_ja": "男性警察官(茶)",
+    "category": "people",
+    "unicode": "1f46e-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "moji": "👮🏿‍♂️",
+    "code": "male_police_officer(bk)",
+    "code_ja": "男性警察官(黒)",
+    "category": "people",
+    "unicode": "1f46e-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "moji": "👮‍♀️",
+    "code": "female_police_officer",
+    "code_ja": "女性警察官",
+    "category": "people",
+    "unicode": "1f46e-200d-2640-fe0f"
+  },
+  {
+    "moji": "👮🏻‍♀️",
+    "code": "female_police_officer(wh)",
+    "code_ja": "女性警察官(白)",
+    "category": "people",
+    "unicode": "1f46e-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "moji": "👮🏼‍♀️",
+    "code": "female_police_officer(p)",
+    "code_ja": "女性警察官(桃)",
+    "category": "people",
+    "unicode": "1f46e-1f3fc-200d-2640-fe0f"
+  },
+  {
+    "moji": "👮🏽‍♀️",
+    "code": "female_police_officer(ye)",
+    "code_ja": "女性警察官(黄)",
+    "category": "people",
+    "unicode": "1f46e-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "moji": "👮🏾‍♀️",
+    "code": "female_police_officer(br)",
+    "code_ja": "女性警察官(茶)",
+    "category": "people",
+    "unicode": "1f46e-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "moji": "👮🏿‍♀️",
+    "code": "female_police_officer(bk)",
+    "code_ja": "女性警察官(黒)",
+    "category": "people",
+    "unicode": "1f46e-1f3ff-200d-2640-fe0f"
   },
   {
     "moji": "👯",
@@ -5388,44 +5466,128 @@
   {
     "moji": "👷",
     "code": "construction_worker",
-    "code_ja": "工事現場の人",
+    "code_ja": "建設労働者",
     "category": "people",
     "unicode": "1f477"
   },
   {
     "moji": "👷🏻",
     "code": "construction_worker(wh)",
-    "code_ja": "工事現場の人(白)",
+    "code_ja": "建設労働者(白)",
     "category": "people",
     "unicode": "1f477-1f3fb"
   },
   {
     "moji": "👷🏼",
     "code": "construction_worker(p)",
-    "code_ja": "工事現場の人(桃)",
+    "code_ja": "建設労働者(桃)",
     "category": "people",
     "unicode": "1f477-1f3fc"
   },
   {
     "moji": "👷🏽",
     "code": "construction_worker(ye)",
-    "code_ja": "工事現場の人(黄)",
+    "code_ja": "建設労働者(黄)",
     "category": "people",
     "unicode": "1f477-1f3fd"
   },
   {
     "moji": "👷🏾",
     "code": "construction_worker(br)",
-    "code_ja": "工事現場の人(茶)",
+    "code_ja": "建設労働者(茶)",
     "category": "people",
     "unicode": "1f477-1f3fe"
   },
   {
     "moji": "👷🏿",
     "code": "construction_worker(bk)",
-    "code_ja": "工事現場の人(黒)",
+    "code_ja": "建設労働者(黒)",
     "category": "people",
     "unicode": "1f477-1f3ff"
+  },
+  {
+    "moji": "👷‍♂️",
+    "code": "male_construction_worker",
+    "code_ja": "男性建設労働者",
+    "category": "people",
+    "unicode": "1f477-200d-2642-fe0f"
+  },
+  {
+    "moji": "👷🏻‍♂️",
+    "code": "male_construction_worker(wh)",
+    "code_ja": "男性建設労働者(白)",
+    "category": "people",
+    "unicode": "1f477-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "moji": "👷🏼‍♂️",
+    "code": "male_construction_worker(p)",
+    "code_ja": "男性建設労働者(桃)",
+    "category": "people",
+    "unicode": "1f477-1f3fc-200d-2642-fe0f"
+  },
+  {
+    "moji": "👷🏽‍♂️",
+    "code": "male_construction_worker(ye)",
+    "code_ja": "男性建設労働者(黄)",
+    "category": "people",
+    "unicode": "1f477-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "moji": "👷🏾‍♂️",
+    "code": "male_construction_worker(br)",
+    "code_ja": "男性建設労働者(茶)",
+    "category": "people",
+    "unicode": "1f477-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "moji": "👷🏿‍♂️",
+    "code": "male_construction_worker(bk)",
+    "code_ja": "男性建設労働者(黒)",
+    "category": "people",
+    "unicode": "1f477-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "moji": "👷‍♀️",
+    "code": "female_construction_worker",
+    "code_ja": "女性建設労働者",
+    "category": "people",
+    "unicode": "1f477-200d-2640-fe0f"
+  },
+  {
+    "moji": "👷🏻‍♀️",
+    "code": "female_construction_worker(wh)",
+    "code_ja": "女性建設労働者(白)",
+    "category": "people",
+    "unicode": "1f477-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "moji": "👷🏼‍♀️",
+    "code": "female_construction_worker(p)",
+    "code_ja": "女性建設労働者(桃)",
+    "category": "people",
+    "unicode": "1f477-1f3fc-200d-2640-fe0f"
+  },
+  {
+    "moji": "👷🏽‍♀️",
+    "code": "female_construction_worker(ye)",
+    "code_ja": "女性建設労働者(黄)",
+    "category": "people",
+    "unicode": "1f477-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "moji": "👷🏾‍♀️",
+    "code": "female_construction_worker(br)",
+    "code_ja": "女性建設労働者(茶)",
+    "category": "people",
+    "unicode": "1f477-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "moji": "👷🏿‍♀️",
+    "code": "female_construction_worker(bk)",
+    "code_ja": "女性建設労働者(黒)",
+    "category": "people",
+    "unicode": "1f477-1f3ff-200d-2640-fe0f"
   },
   {
     "moji": "👸",
@@ -5686,6 +5848,90 @@
     "code_ja": "衛兵(黒)",
     "category": "people",
     "unicode": "1f482-1f3ff"
+  },
+  {
+    "moji": "💂‍♂️",
+    "code": "male_guardsman",
+    "code_ja": "男性衛兵",
+    "category": "people",
+    "unicode": "1f482-200d-2642-fe0f"
+  },
+  {
+    "moji": "💂🏻‍♂️",
+    "code": "male_guardsman(wh)",
+    "code_ja": "男性衛兵(白)",
+    "category": "people",
+    "unicode": "1f482-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "moji": "💂🏼‍♂️",
+    "code": "male_guardsman(p)",
+    "code_ja": "男性衛兵(桃)",
+    "category": "people",
+    "unicode": "1f482-1f3fc-200d-2642-fe0f"
+  },
+  {
+    "moji": "💂🏽‍♂️",
+    "code": "male_guardsman(ye)",
+    "code_ja": "男性衛兵(黄)",
+    "category": "people",
+    "unicode": "1f482-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "moji": "💂🏾‍♂️",
+    "code": "male_guardsman(br)",
+    "code_ja": "男性衛兵(茶)",
+    "category": "people",
+    "unicode": "1f482-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "moji": "💂🏿‍♂️",
+    "code": "male_guardsman(bk)",
+    "code_ja": "男性衛兵(黒)",
+    "category": "people",
+    "unicode": "1f482-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "moji": "💂‍♀️",
+    "code": "female_guardsman",
+    "code_ja": "女性衛兵",
+    "category": "people",
+    "unicode": "1f482-200d-2640-fe0f"
+  },
+  {
+    "moji": "💂🏻‍♀️",
+    "code": "female_guardsman(wh)",
+    "code_ja": "女性衛兵(白)",
+    "category": "people",
+    "unicode": "1f482-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "moji": "💂🏼‍♀️",
+    "code": "female_guardsman(p)",
+    "code_ja": "女性衛兵(桃)",
+    "category": "people",
+    "unicode": "1f482-1f3fc-200d-2640-fe0f"
+  },
+  {
+    "moji": "💂🏽‍♀️",
+    "code": "female_guardsman(ye)",
+    "code_ja": "女性衛兵(黄)",
+    "category": "people",
+    "unicode": "1f482-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "moji": "💂🏾‍♀️",
+    "code": "female_guardsman(br)",
+    "code_ja": "女性衛兵(茶)",
+    "category": "people",
+    "unicode": "1f482-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "moji": "💂🏿‍♀️",
+    "code": "female_guardsman(bk)",
+    "code_ja": "女性衛兵(黒)",
+    "category": "people",
+    "unicode": "1f482-1f3ff-200d-2640-fe0f"
   },
   {
     "moji": "💃",
@@ -7731,12 +7977,141 @@
     "unicode": "1f574"
   },
   {
+    "moji": "🕵‍👤",
+    "code": "spy_silhouette",
+    "code_ja": "影に包まれるスパイ",
+    "category": "people",
+    "unicode": "1f575-200d-1f464"
+  },
+  {
     "moji": "🕵",
-    "code": "sleuth_or_spy",
+    "code": "spy",
     "code_ja": "スパイ",
     "category": "people",
     "unicode": "1f575"
   },
+  {
+    "moji": "🕵🏻",
+    "code": "spy(wh)",
+    "code_ja": "スパイ(白)",
+    "category": "people",
+    "unicode": "1f575-1f3fb"
+  },
+  {
+    "moji": "🕵🏼",
+    "code": "spy(p)",
+    "code_ja": "スパイ(桃)",
+    "category": "people",
+    "unicode": "1f575-1f3fc"
+  },
+  {
+    "moji": "🕵🏽",
+    "code": "spy(ye)",
+    "code_ja": "スパイ(黄)",
+    "category": "people",
+    "unicode": "1f575-1f3fd"
+  },
+  {
+    "moji": "🕵🏾",
+    "code": "spy(br)",
+    "code_ja": "スパイ(茶)",
+    "category": "people",
+    "unicode": "1f575-1f3fe"
+  },
+  {
+    "moji": "🕵🏿",
+    "code": "spy(bk)",
+    "code_ja": "スパイ(黒)",
+    "category": "people",
+    "unicode": "1f575-1f3ff"
+  },
+  {
+    "moji": "🕵‍♂️",
+    "code": "male_spy",
+    "code_ja": "男性スパイ",
+    "category": "people",
+    "unicode": "1f575-200d-2642-fe0f"
+  },
+  {
+    "moji": "🕵🏻‍♂️",
+    "code": "male_spy(wh)",
+    "code_ja": "男性スパイ(白)",
+    "category": "people",
+    "unicode": "1f575-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "moji": "🕵🏼‍♂️",
+    "code": "male_spy(p)",
+    "code_ja": "男性スパイ(桃)",
+    "category": "people",
+    "unicode": "1f575-1f3fc-200d-2642-fe0f"
+  },
+  {
+    "moji": "🕵🏽‍♂️",
+    "code": "male_spy(ye)",
+    "code_ja": "男性スパイ(黄)",
+    "category": "people",
+    "unicode": "1f575-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "moji": "🕵🏾‍♂️",
+    "code": "male_spy(br)",
+    "code_ja": "男性スパイ(茶)",
+    "category": "people",
+    "unicode": "1f575-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "moji": "🕵🏿‍♂️",
+    "code": "male_spy(bk)",
+    "code_ja": "男性スパイ(黒)",
+    "category": "people",
+    "unicode": "1f575-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "moji": "🕵‍♀️",
+    "code": "female_spy",
+    "code_ja": "女性スパイ",
+    "category": "people",
+    "unicode": "1f575-200d-2640-fe0f"
+  },
+  {
+    "moji": "🕵🏻‍♀️",
+    "code": "female_spy(wh)",
+    "code_ja": "女性スパイ(白)",
+    "category": "people",
+    "unicode": "1f575-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "moji": "🕵🏼‍♀️",
+    "code": "female_spy(p)",
+    "code_ja": "女性スパイ(桃)",
+    "category": "people",
+    "unicode": "1f575-1f3fc-200d-2640-fe0f"
+  },
+  {
+    "moji": "🕵🏽‍♀️",
+    "code": "female_spy(ye)",
+    "code_ja": "女性スパイ(黄)",
+    "category": "people",
+    "unicode": "1f575-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "moji": "🕵🏾‍♀️",
+    "code": "female_spy(br)",
+    "code_ja": "女性スパイ(茶)",
+    "category": "people",
+    "unicode": "1f575-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "moji": "🕵🏿‍♀️",
+    "code": "female_spy(bk)",
+    "code_ja": "女性スパイ(黒)",
+    "category": "people",
+    "unicode": "1f575-1f3ff-200d-2640-fe0f"
+  },
+
+
+
   {
     "moji": "🕶",
     "code": "dark_sunglasses",
@@ -18935,6 +19310,510 @@
     "code_ja": "女子歌手(黒)",
     "category": "people",
     "unicode": "1f469-1f3ff-200d-1f3a4"
+  },
+  {
+    "moji": "🧑‍🎨",
+    "code": "artist",
+    "code_ja": "芸術家",
+    "category": "people",
+    "unicode": "1f9d1-200d-1f3a8"
+  },
+  {
+    "moji": "🧑🏻‍🎨",
+    "code": "artist(wh)",
+    "code_ja": "芸術家(白)",
+    "category": "people",
+    "unicode": "1f9d1-1f3fb-200d-1f3a8"
+  },
+  {
+    "moji": "🧑🏼‍🎨",
+    "code": "artist(p)",
+    "code_ja": "芸術家(桃)",
+    "category": "people",
+    "unicode": "1f9d1-1f3fc-200d-1f3a8"
+  },
+  {
+    "moji": "🧑🏽‍🎨",
+    "code": "artist(ye)",
+    "code_ja": "芸術家(黄)",
+    "category": "people",
+    "unicode": "1f9d1-1f3fd-200d-1f3a8"
+  },
+  {
+    "moji": "🧑🏾‍🎨",
+    "code": "artist(br)",
+    "code_ja": "芸術家(茶)",
+    "category": "people",
+    "unicode": "1f9d1-1f3fe-200d-1f3a8"
+  },
+  {
+    "moji": "🧑🏿‍🎨",
+    "code": "artist(bk)",
+    "code_ja": "芸術家(黒)",
+    "category": "people",
+    "unicode": "1f9d1-1f3ff-200d-1f3a8"
+  },
+  {
+    "moji": "👨‍🎨",
+    "code": "male_artist",
+    "code_ja": "男性芸術家",
+    "category": "people",
+    "unicode": "1f468-200d-1f3a8"
+  },
+  {
+    "moji": "👨🏻‍🎨",
+    "code": "male_artist(wh)",
+    "code_ja": "男性芸術家(白)",
+    "category": "people",
+    "unicode": "1f468-1f3fb-200d-1f3a8"
+  },
+  {
+    "moji": "👨🏼‍🎨",
+    "code": "male_artist(p)",
+    "code_ja": "男性芸術家(桃)",
+    "category": "people",
+    "unicode": "1f468-1f3fc-200d-1f3a8"
+  },
+  {
+    "moji": "👨🏽‍🎨",
+    "code": "male_artist(ye)",
+    "code_ja": "男性芸術家(黄)",
+    "category": "people",
+    "unicode": "1f468-1f3fd-200d-1f3a8"
+  },
+  {
+    "moji": "👨🏾‍🎨",
+    "code": "male_artist(br)",
+    "code_ja": "男性芸術家(茶)",
+    "category": "people",
+    "unicode": "1f468-1f3fe-200d-1f3a8"
+  },
+  {
+    "moji": "👨🏿‍🎨",
+    "code": "male_artist(bk)",
+    "code_ja": "男性芸術家(黒)",
+    "category": "people",
+    "unicode": "1f468-1f3ff-200d-1f3a8"
+  },
+  {
+    "moji": "👩‍🎨",
+    "code": "female_artist",
+    "code_ja": "女性芸術家",
+    "category": "people",
+    "unicode": "1f469-200d-1f3a8"
+  },
+  {
+    "moji": "👩🏻‍🎨",
+    "code": "female_artist(wh)",
+    "code_ja": "女性芸術家(白)",
+    "category": "people",
+    "unicode": "1f469-1f3fb-200d-1f3a8"
+  },
+  {
+    "moji": "👩🏼‍🎨",
+    "code": "female_artist(p)",
+    "code_ja": "女性芸術家(桃)",
+    "category": "people",
+    "unicode": "1f469-1f3fc-200d-1f3a8"
+  },
+  {
+    "moji": "👩🏽‍🎨",
+    "code": "female_artist(ye)",
+    "code_ja": "女性芸術家(黄)",
+    "category": "people",
+    "unicode": "1f469-1f3fd-200d-1f3a8"
+  },
+  {
+    "moji": "👩🏾‍🎨",
+    "code": "female_artist(br)",
+    "code_ja": "女性芸術家(茶)",
+    "category": "people",
+    "unicode": "1f469-1f3fe-200d-1f3a8"
+  },
+  {
+    "moji": "👩🏿‍🎨",
+    "code": "female_artist(bk)",
+    "code_ja": "女性芸術家(黒)",
+    "category": "people",
+    "unicode": "1f469-1f3ff-200d-1f3a8"
+  },
+  {
+    "moji": "🧑‍🚀",
+    "code": "astronaut",
+    "code_ja": "宇宙飛行士",
+    "category": "people",
+    "unicode": "1f9d1-200d-1f680"
+  },
+  {
+    "moji": "🧑🏻‍🚀",
+    "code": "astronaut(wh)",
+    "code_ja": "宇宙飛行士(白)",
+    "category": "people",
+    "unicode": "1f9d1-1f3fb-200d-1f680"
+  },
+  {
+    "moji": "🧑🏼‍🚀",
+    "code": "astronaut(p)",
+    "code_ja": "宇宙飛行士(桃)",
+    "category": "people",
+    "unicode": "1f9d1-1f3fc-200d-1f680"
+  },
+  {
+    "moji": "🧑🏽‍🚀",
+    "code": "astronaut(ye)",
+    "code_ja": "宇宙飛行士(黄)",
+    "category": "people",
+    "unicode": "1f9d1-1f3fd-200d-1f680"
+  },
+  {
+    "moji": "🧑🏾‍🚀",
+    "code": "astronaut(br)",
+    "code_ja": "宇宙飛行士(茶)",
+    "category": "people",
+    "unicode": "1f9d1-1f3fe-200d-1f680"
+  },
+  {
+    "moji": "🧑🏿‍🚀",
+    "code": "astronaut(bk)",
+    "code_ja": "宇宙飛行士(黒)",
+    "category": "people",
+    "unicode": "1f9d1-1f3ff-200d-1f680"
+  },
+  {
+    "moji": "👨‍🚀",
+    "code": "male_astronaut",
+    "code_ja": "男性宇宙飛行士",
+    "category": "people",
+    "unicode": "1f468-200d-1f680"
+  },
+  {
+    "moji": "👨🏻‍🚀",
+    "code": "male_astronaut(wh)",
+    "code_ja": "男性宇宙飛行士(白)",
+    "category": "people",
+    "unicode": "1f468-1f3fb-200d-1f680"
+  },
+  {
+    "moji": "👨🏼‍🚀",
+    "code": "male_astronaut(p)",
+    "code_ja": "男性宇宙飛行士(桃)",
+    "category": "people",
+    "unicode": "1f468-1f3fc-200d-1f680"
+  },
+  {
+    "moji": "👨🏽‍🚀",
+    "code": "male_astronaut(ye)",
+    "code_ja": "男性宇宙飛行士(黄)",
+    "category": "people",
+    "unicode": "1f468-1f3fd-200d-1f680"
+  },
+  {
+    "moji": "👨🏾‍🚀",
+    "code": "male_astronaut(br)",
+    "code_ja": "男性宇宙飛行士(茶)",
+    "category": "people",
+    "unicode": "1f468-1f3fe-200d-1f680"
+  },
+  {
+    "moji": "👨🏿‍🚀",
+    "code": "male_astronaut(bk)",
+    "code_ja": "男性宇宙飛行士(黒)",
+    "category": "people",
+    "unicode": "1f468-1f3ff-200d-1f680"
+  },
+  {
+    "moji": "👩‍🚀",
+    "code": "female_astronaut",
+    "code_ja": "女性宇宙飛行士",
+    "category": "people",
+    "unicode": "1f469-200d-1f680"
+  },
+  {
+    "moji": "👩🏻‍🚀",
+    "code": "female_astronaut(wh)",
+    "code_ja": "女性宇宙飛行士(白)",
+    "category": "people",
+    "unicode": "1f469-1f3fb-200d-1f680"
+  },
+  {
+    "moji": "👩🏼‍🚀",
+    "code": "female_astronaut(p)",
+    "code_ja": "女性宇宙飛行士(桃)",
+    "category": "people",
+    "unicode": "1f469-1f3fc-200d-1f680"
+  },
+  {
+    "moji": "👩🏽‍🚀",
+    "code": "female_astronaut(ye)",
+    "code_ja": "女性宇宙飛行士(黄)",
+    "category": "people",
+    "unicode": "1f469-1f3fd-200d-1f680"
+  },
+  {
+    "moji": "👩🏾‍🚀",
+    "code": "female_astronaut(br)",
+    "code_ja": "女性宇宙飛行士(茶)",
+    "category": "people",
+    "unicode": "1f469-1f3fe-200d-1f680"
+  },
+  {
+    "moji": "👩🏿‍🚀",
+    "code": "female_astronaut(bk)",
+    "code_ja": "女性宇宙飛行士(黒)",
+    "category": "people",
+    "unicode": "1f469-1f3ff-200d-1f680"
+  },
+  {
+    "moji": "🧑‍✈️",
+    "code": "pilot",
+    "code_ja": "パイロット",
+    "category": "people",
+    "unicode": "1f9d1-200d-2708-fe0f"
+  },
+  {
+    "moji": "🧑🏻‍✈️",
+    "code": "pilot(wh)",
+    "code_ja": "パイロット(白)",
+    "category": "people",
+    "unicode": "1f9d1-1f3fb-200d-2708-fe0f"
+  },
+  {
+    "moji": "🧑🏼‍✈️",
+    "code": "pilot(p)",
+    "code_ja": "パイロット(桃)",
+    "category": "people",
+    "unicode": "1f9d1-1f3fc-200d-2708-fe0f"
+  },
+  {
+    "moji": "🧑🏽‍✈️",
+    "code": "pilot(ye)",
+    "code_ja": "パイロット(黄)",
+    "category": "people",
+    "unicode": "1f9d1-1f3fd-200d-2708-fe0f"
+  },
+  {
+    "moji": "🧑🏾‍✈️",
+    "code": "pilot(br)",
+    "code_ja": "パイロット(茶)",
+    "category": "people",
+    "unicode": "1f9d1-1f3fe-200d-2708-fe0f"
+  },
+  {
+    "moji": "🧑🏿‍✈️",
+    "code": "pilot(bk)",
+    "code_ja": "パイロット(黒)",
+    "category": "people",
+    "unicode": "1f9d1-1f3ff-200d-2708-fe0f"
+  },
+  {
+    "moji": "👨‍✈️",
+    "code": "male_pilot",
+    "code_ja": "男性パイロット",
+    "category": "people",
+    "unicode": "1f468-200d-2708-fe0f"
+  },
+  {
+    "moji": "👨🏻‍✈️",
+    "code": "male_pilot(wh)",
+    "code_ja": "男性パイロット(白)",
+    "category": "people",
+    "unicode": "1f468-1f3fb-200d-2708-fe0f"
+  },
+  {
+    "moji": "👨🏼‍✈️",
+    "code": "male_pilot(p)",
+    "code_ja": "男性パイロット(桃)",
+    "category": "people",
+    "unicode": "1f468-1f3fc-200d-2708-fe0f"
+  },
+  {
+    "moji": "👨🏽‍✈️",
+    "code": "male_pilot(ye)",
+    "code_ja": "男性パイロット(黄)",
+    "category": "people",
+    "unicode": "1f468-1f3fd-200d-2708-fe0f"
+  },
+  {
+    "moji": "👨🏾‍✈️",
+    "code": "male_pilot(br)",
+    "code_ja": "男性パイロット(茶)",
+    "category": "people",
+    "unicode": "1f468-1f3fe-200d-2708-fe0f"
+  },
+  {
+    "moji": "👨🏿‍✈️",
+    "code": "male_pilot(bk)",
+    "code_ja": "男性パイロット(黒)",
+    "category": "people",
+    "unicode": "1f468-1f3ff-200d-2708-fe0f"
+  },
+  {
+    "moji": "👩‍✈️",
+    "code": "female_pilot",
+    "code_ja": "女性パイロット",
+    "category": "people",
+    "unicode": "1f469-200d-2708-fe0f"
+  },
+  {
+    "moji": "👩🏻‍✈️",
+    "code": "female_pilot(wh)",
+    "code_ja": "女性パイロット(白)",
+    "category": "people",
+    "unicode": "1f469-1f3fb-200d-2708-fe0f"
+  },
+  {
+    "moji": "👩🏼‍✈️",
+    "code": "female_pilot(p)",
+    "code_ja": "女性パイロット(桃)",
+    "category": "people",
+    "unicode": "1f469-1f3fc-200d-2708-fe0f"
+  },
+  {
+    "moji": "👩🏽‍✈️",
+    "code": "female_pilot(ye)",
+    "code_ja": "女性パイロット(黄)",
+    "category": "people",
+    "unicode": "1f469-1f3fd-200d-2708-fe0f"
+  },
+  {
+    "moji": "👩🏾‍✈️",
+    "code": "female_pilot(br)",
+    "code_ja": "女性パイロット(茶)",
+    "category": "people",
+    "unicode": "1f469-1f3fe-200d-2708-fe0f"
+  },
+  {
+    "moji": "👩🏿‍✈️",
+    "code": "female_pilot(bk)",
+    "code_ja": "女性パイロット(黒)",
+    "category": "people",
+    "unicode": "1f469-1f3ff-200d-2708-fe0f"
+  },
+  {
+    "moji": "🧑‍⚖️",
+    "code": "judge",
+    "code_ja": "裁判官",
+    "category": "people",
+    "unicode": "1f9d1-200d-2696-fe0f"
+  },
+  {
+    "moji": "🧑🏻‍⚖️",
+    "code": "judge(wh)",
+    "code_ja": "裁判官(白)",
+    "category": "people",
+    "unicode": "1f9d1-1f3fb-200d-2696-fe0f"
+  },
+  {
+    "moji": "🧑🏼‍⚖️",
+    "code": "judge(p)",
+    "code_ja": "裁判官(桃)",
+    "category": "people",
+    "unicode": "1f9d1-1f3fc-200d-2696-fe0f"
+  },
+  {
+    "moji": "🧑🏽‍⚖️",
+    "code": "judge(ye)",
+    "code_ja": "裁判官(黄)",
+    "category": "people",
+    "unicode": "1f9d1-1f3fd-200d-2696-fe0f"
+  },
+  {
+    "moji": "🧑🏾‍⚖️",
+    "code": "judge(br)",
+    "code_ja": "裁判官(茶)",
+    "category": "people",
+    "unicode": "1f9d1-1f3fe-200d-2696-fe0f"
+  },
+  {
+    "moji": "🧑🏿‍⚖️",
+    "code": "judge(bk)",
+    "code_ja": "裁判官(黒)",
+    "category": "people",
+    "unicode": "1f9d1-1f3ff-200d-2696-fe0f"
+  },
+  {
+    "moji": "👨‍⚖️",
+    "code": "male_judge",
+    "code_ja": "男性裁判官",
+    "category": "people",
+    "unicode": "1f468-200d-2696-fe0f"
+  },
+  {
+    "moji": "👨🏻‍⚖️",
+    "code": "male_judge(wh)",
+    "code_ja": "男性裁判官(白)",
+    "category": "people",
+    "unicode": "1f468-1f3fb-200d-2696-fe0f"
+  },
+  {
+    "moji": "👨🏼‍⚖️",
+    "code": "male_judge(p)",
+    "code_ja": "男性裁判官(桃)",
+    "category": "people",
+    "unicode": "1f468-1f3fc-200d-2696-fe0f"
+  },
+  {
+    "moji": "👨🏽‍⚖️",
+    "code": "male_judge(ye)",
+    "code_ja": "男性裁判官(黄)",
+    "category": "people",
+    "unicode": "1f468-1f3fd-200d-2696-fe0f"
+  },
+  {
+    "moji": "👨🏾‍⚖️",
+    "code": "male_judge(br)",
+    "code_ja": "男性裁判官(茶)",
+    "category": "people",
+    "unicode": "1f468-1f3fe-200d-2696-fe0f"
+  },
+  {
+    "moji": "👨🏿‍⚖️",
+    "code": "male_judge(bk)",
+    "code_ja": "男性裁判官(黒)",
+    "category": "people",
+    "unicode": "1f468-1f3ff-200d-2696-fe0f"
+  },
+  {
+    "moji": "👩‍⚖️",
+    "code": "female_judge",
+    "code_ja": "女性裁判官",
+    "category": "people",
+    "unicode": "1f469-200d-2696-fe0f"
+  },
+  {
+    "moji": "👩🏻‍⚖️",
+    "code": "female_judge(wh)",
+    "code_ja": "女性裁判官(白)",
+    "category": "people",
+    "unicode": "1f469-1f3fb-200d-2696-fe0f"
+  },
+  {
+    "moji": "👩🏼‍⚖️",
+    "code": "female_judge(p)",
+    "code_ja": "女性裁判官(桃)",
+    "category": "people",
+    "unicode": "1f469-1f3fc-200d-2696-fe0f"
+  },
+  {
+    "moji": "👩🏽‍⚖️",
+    "code": "female_judge(ye)",
+    "code_ja": "女性裁判官(黄)",
+    "category": "people",
+    "unicode": "1f469-1f3fd-200d-2696-fe0f"
+  },
+  {
+    "moji": "👩🏾‍⚖️",
+    "code": "female_judge(br)",
+    "code_ja": "女性裁判官(茶)",
+    "category": "people",
+    "unicode": "1f469-1f3fe-200d-2696-fe0f"
+  },
+  {
+    "moji": "👩🏿‍⚖️",
+    "code": "female_judge(bk)",
+    "code_ja": "女性裁判官(黒)",
+    "category": "people",
+    "unicode": "1f469-1f3ff-200d-2696-fe0f"
   },
   {
     "moji": "🥧",

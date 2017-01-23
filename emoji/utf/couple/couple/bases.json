@@ -1,0 +1,224 @@
+[
+  {
+    "moji": "👫",
+    "full_name": "couple_holding_hands",
+    "code": "couple",
+    "code_ja": "手をつないだカップル",
+    "category": "people",
+    "unicode": "1f46b",
+    "combination_base": "man",
+    "combination": ["man", "", "woman"]
+  },
+  {
+    "moji": "👫🏻",
+    "full_name": "couple_holding_hands(wh)",
+    "code": "couple(wh)",
+    "code_ja": "手をつないだカップル(白)",
+    "category": "people",
+    "unicode": "1f46b-1f3fb",
+    "combination_base": "man(wh)",
+    "combination": ["man(wh)", "", "woman(wh)"]
+  },
+  {
+    "moji": "👫🏼",
+    "full_name": "couple_holding_hands(p)",
+    "code": "couple(p)",
+    "code_ja": "手をつないだカップル(桃)",
+    "category": "people",
+    "unicode": "1f46b-1f3fc",
+    "combination_base": "man(p)",
+    "combination": ["man(p)", "", "woman(p)"]
+  },
+  {
+    "moji": "👫🏽",
+    "full_name": "couple_holding_hands(ye)",
+    "code": "couple(ye)",
+    "code_ja": "手をつないだカップル(黄)",
+    "category": "people",
+    "unicode": "1f46b-1f3fd",
+    "combination_base": "man(ye)",
+    "combination": ["man(ye)", "", "woman(ye)"]
+  },
+  {
+    "moji": "👫🏾",
+    "full_name": "couple_holding_hands(br)",
+    "code": "couple(br)",
+    "code_ja": "手をつないだカップル(茶)",
+    "category": "people",
+    "unicode": "1f46b-1f3fe",
+    "combination_base": "man(br)",
+    "combination": ["man(br)", "", "woman(br)"]
+  },
+  {
+    "moji": "👫🏿",
+    "full_name": "couple_holding_hands(bk)",
+    "code": "couple(bk)",
+    "code_ja": "手をつないだカップル(黒)",
+    "category": "people",
+    "unicode": "1f46b-1f3ff",
+    "combination_base": "man(bk)",
+    "combination": ["man(bk)", "", "woman(bk)"]
+  },
+  {
+    "moji": "👬",
+    "code": "two_men_holding_hands",
+    "code_ja": "手をつないだ二人の男性",
+    "category": "people",
+    "unicode": "1f46c",
+    "combination_base": "man",
+    "combination": ["man", "", "man"]
+  },
+  {
+    "moji": "👬🏻",
+    "code": "two_men_holding_hands(wh)",
+    "code_ja": "手をつないだ二人の男性(白)",
+    "category": "people",
+    "unicode": "1f46c-1f3fb",
+    "combination_base": "man(wh)",
+    "combination": ["man(wh)", "", "man(wh)"]
+  },
+  {
+    "moji": "👬🏼",
+    "code": "two_men_holding_hands(p)",
+    "code_ja": "手をつないだ二人の男性(桃)",
+    "category": "people",
+    "unicode": "1f46c-1f3fc",
+    "combination_base": "man(p)",
+    "combination": ["man(p)", "", "man(p)"]
+  },
+  {
+    "moji": "👬🏽",
+    "code": "two_men_holding_hands(ye)",
+    "code_ja": "手をつないだ二人の男性(黄)",
+    "category": "people",
+    "unicode": "1f46c-1f3fd",
+    "combination_base": "man(ye)",
+    "combination": ["man(ye)", "", "man(ye)"]
+  },
+  {
+    "moji": "👬🏾",
+    "code": "two_men_holding_hands(br)",
+    "code_ja": "手をつないだ二人の男性(茶)",
+    "category": "people",
+    "unicode": "1f46c-1f3fe",
+    "combination_base": "man(br)",
+    "combination": ["man(br)", "", "man(br)"]
+  },
+  {
+    "moji": "👬🏿",
+    "code": "two_men_holding_hands(bk)",
+    "code_ja": "手をつないだ二人の男性(黒)",
+    "category": "people",
+    "unicode": "1f46c-1f3ff",
+    "combination_base": "man(bk)",
+    "combination": ["man(bk)", "", "man(bk)"]
+  },
+  {
+    "moji": "👭",
+    "code": "two_women_holding_hands",
+    "code_ja": "手をつないだ二人の女性",
+    "category": "people",
+    "unicode": "1f46d",
+    "combination_base": "woman",
+    "combination": ["woman", "", "woman"]
+  },
+  {
+    "moji": "👭🏻",
+    "code": "two_women_holding_hands(wh)",
+    "code_ja": "手をつないだ二人の女性(白)",
+    "category": "people",
+    "unicode": "1f46d-1f3fb",
+    "combination_base": "woman(wh)",
+    "combination": ["woman(wh)", "", "woman(wh)"]
+  },
+  {
+    "moji": "👭🏼",
+    "code": "two_women_holding_hands(p)",
+    "code_ja": "手をつないだ二人の女性(桃)",
+    "category": "people",
+    "unicode": "1f46d-1f3fc",
+    "combination_base": "woman(p)",
+    "combination": ["woman(p)", "", "woman(p)"]
+  },
+  {
+    "moji": "👭🏽",
+    "code": "two_women_holding_hands(ye)",
+    "code_ja": "手をつないだ二人の女性(黄)",
+    "category": "people",
+    "unicode": "1f46d-1f3fd",
+    "combination_base": "woman(ye)",
+    "combination": ["woman(ye)", "", "woman(ye)"]
+  },
+  {
+    "moji": "👭🏾",
+    "code": "two_women_holding_hands(br)",
+    "code_ja": "手をつないだ二人の女性(茶)",
+    "category": "people",
+    "unicode": "1f46d-1f3fe",
+    "combination_base": "woman(br)",
+    "combination": ["woman(br)", "", "woman(br)"]
+  },
+  {
+    "moji": "👭🏿",
+    "code": "two_women_holding_hands(bk)",
+    "code_ja": "手をつないだ二人の女性(黒)",
+    "category": "people",
+    "unicode": "1f46d-1f3ff",
+    "combination_base": "woman(bk)",
+    "combination": ["woman(bk)", "", "woman(bk)"]
+  },
+  {
+    "moji": "💑",
+    "code": "couple_with_heart",
+    "code_ja": "カップルとハート",
+    "category": "people",
+    "unicode": "1f491",
+    "combination_base": "man",
+    "combination": ["man", "heart", "woman"]
+  },
+  {
+    "moji": "💑🏻",
+    "code": "couple_with_heart(wh)",
+    "code_ja": "カップルとハート(白)",
+    "category": "people",
+    "unicode": "1f491-1f3fb",
+    "combination_base": "man(wh)",
+    "combination": ["man(wh)", "heart", "woman(wh)"]
+  },
+  {
+    "moji": "💑🏼",
+    "code": "couple_with_heart(p)",
+    "code_ja": "カップルとハート(桃)",
+    "category": "people",
+    "unicode": "1f491-1f3fc",
+    "combination_base": "man(p)",
+    "combination": ["man(p)", "heart", "woman(p)"]
+  },
+  {
+    "moji": "💑🏽",
+    "code": "couple_with_heart(ye)",
+    "code_ja": "カップルとハート(黄)",
+    "category": "people",
+    "unicode": "1f491-1f3fd",
+    "combination_base": "man(ye)",
+    "combination": ["man(ye)", "heart", "woman(ye)"]
+  },
+  {
+    "moji": "💑🏾",
+    "code": "couple_with_heart(br)",
+    "code_ja": "カップルとハート(茶)",
+    "category": "people",
+    "unicode": "1f491-1f3fe",
+    "combination_base": "man(br)",
+    "combination": ["man(br)", "heart", "woman(br)"]
+  },
+  {
+    "moji": "💑🏿",
+    "code": "couple_with_heart(bk)",
+    "code_ja": "カップルとハート(黒)",
+    "category": "people",
+    "unicode": "1f491-1f3ff",
+    "combination_base": "man(bk)",
+    "combination": ["man(bk)", "heart", "woman(bk)"]
+  }
+]
