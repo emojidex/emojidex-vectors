@@ -1,0 +1,104 @@
+[
+  {
+    "code": "man_with_head_scarf",
+    "base": "../../components/people/man_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "man_with_head_scarf(wh)",
+    "base": "../../components/people/man(wh)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "man_with_head_scarf(p)",
+    "base": "../../components/people/man(p)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "man_with_head_scarf(ye)",
+    "base": "../../components/people/man(ye)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "man_with_head_scarf(br)",
+    "base": "../../components/people/man(br)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "man_with_head_scarf(bk)",
+    "base": "../../components/people/man(bk)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "woman_with_head_scarf",
+    "base": "../../components/people/woman_anim",
+    "overlay": "shawl",
+    "background": "shawl_back",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "woman_with_head_scarf(wh)",
+    "base": "../../components/people/woman(wh)_anim",
+    "overlay": "shawl",
+    "background": "shawl_back",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "woman_with_head_scarf(p)",
+    "base": "../../components/people/woman(p)_anim",
+    "overlay": "shawl",
+    "background": "shawl_back",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "woman_with_head_scarf(ye)",
+    "base": "../../components/people/woman(ye)_anim",
+    "overlay": "shawl",
+    "background": "shawl_back",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "woman_with_head_scarf(br)",
+    "base": "../../components/people/woman(br)_anim",
+    "overlay": "shawl",
+    "background": "shawl_back",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "woman_with_head_scarf(bk)",
+    "base": "../../components/people/woman(bk)_anim",
+    "overlay": "shawl",
+    "background": "shawl_back",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "head_scarf",
+    "base": "../../components/people/person_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "head_scarf(wh)",
+    "base": "../../components/people/person(wh)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "head_scarf(p)",
+    "base": "../../components/people/person(p)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "head_scarf(ye)",
+    "base": "../../components/people/person(ye)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "head_scarf(br)",
+    "base": "../../components/people/person(br)_anim",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "head_scarf(bk)",
+    "base": "../../components/people/person(bk)_anim",
+    "dest": "../../../emoji/utf"
+  }
+]

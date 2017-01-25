@@ -42,6 +42,9 @@ class VariantGenerator
       if File.exist?("#{@source}/background.svg")
         image = Phantom::SVG::Base.new("#{@source}/background.svg")
         image.combine("#{@source}/#{variant[:base]}.svg")
+      elsif variant.include? :background
+        image = Phantom::SVG::Base.new("#{@source}/#{variant[:background]}.svg")
+        image.combine("#{@source}/#{variant[:base]}.svg")
       else
         image = Phantom::SVG::Base.new("#{@source}/#{variant[:base]}.svg")
       end
