@@ -5338,10 +5338,129 @@
   },
   {
     "moji": "👳",
-    "code": "man_with_turban",
-    "code_ja": "インド人",
+    "code": "turban",
+    "code_ja": "ターバン",
     "category": "people",
     "unicode": "1f473"
+  },
+  {
+    "moji": "👳🏻",
+    "code": "turban(wh)",
+    "code_ja": "ターバン(白)",
+    "category": "people",
+    "unicode": "1f473-1f3fb"
+  },
+  {
+    "moji": "👳🏼",
+    "code": "turban(p)",
+    "code_ja": "ターバン(桃)",
+    "category": "people",
+    "unicode": "1f473-1f3fc"
+  },
+  {
+    "moji": "👳🏽",
+    "code": "turban(ye)",
+    "code_ja": "ターバン(黄)",
+    "category": "people",
+    "unicode": "1f473-1f3fd"
+  },
+  {
+    "moji": "👳🏾",
+    "code": "turban(br)",
+    "code_ja": "ターバン(茶)",
+    "category": "people",
+    "unicode": "1f473-1f3fe"
+  },
+  {
+    "moji": "👳🏿",
+    "code": "turban(bk)",
+    "code_ja": "ターバン(黒)",
+    "category": "people",
+    "unicode": "1f473-1f3ff"
+  },
+  {
+    "moji": "👳‍♂️",
+    "code": "man_wearing_turban",
+    "code_ja": "ターバンをかぶった男",
+    "category": "people",
+    "unicode": "1f473-200d-2642-fe0f"
+  },
+  {
+    "moji": "👳🏻‍♂️",
+    "code": "man_wearing_turban(wh)",
+    "code_ja": "ターバンをかぶった男(白)",
+    "category": "people",
+    "unicode": "1f473-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "moji": "👳🏼‍♂️",
+    "code": "man_wearing_turban(p)",
+    "code_ja": "ターバンをかぶった男(桃)",
+    "category": "people",
+    "unicode": "1f473-1f3fc-200d-2642-fe0f"
+  },
+  {
+    "moji": "👳🏽‍♂️",
+    "code": "man_wearing_turban(ye)",
+    "code_ja": "ターバンをかぶった男(黄)",
+    "category": "people",
+    "unicode": "1f473-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "moji": "👳🏾‍♂️",
+    "code": "man_wearing_turban(br)",
+    "code_ja": "ターバンをかぶった男(茶)",
+    "category": "people",
+    "unicode": "1f473-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "moji": "👳🏿‍♂️",
+    "code": "man_wearing_turban(bk)",
+    "code_ja": "ターバンをかぶった男(黒)",
+    "category": "people",
+    "unicode": "1f473-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "moji": "👳‍♀️",
+    "code": "woman_wearing_turban",
+    "code_ja": "ターバンをかぶった女",
+    "category": "people",
+    "unicode": "1f473-200d-2640-fe0f"
+  },
+  {
+    "moji": "👳🏻‍♀️",
+    "code": "woman_wearing_turban(wh)",
+    "code_ja": "ターバンをかぶった女(白)",
+    "category": "people",
+    "unicode": "1f473-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "moji": "👳🏼‍♀️",
+    "code": "woman_wearing_turban(p)",
+    "code_ja": "ターバンをかぶった女(桃)",
+    "category": "people",
+    "unicode": "1f473-1f3fc-200d-2640-fe0f"
+  },
+  {
+    "moji": "👳🏽‍♀️",
+    "code": "woman_wearing_turban(ye)",
+    "code_ja": "ターバンをかぶった女(黄)",
+    "category": "people",
+    "unicode": "1f473-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "moji": "👳🏾‍♀️",
+    "code": "woman_wearing_turban(br)",
+    "code_ja": "ターバンをかぶった女(茶)",
+    "category": "people",
+    "unicode": "1f473-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "moji": "👳🏿‍♀️",
+    "code": "woman_wearing_turban(bk)",
+    "code_ja": "ターバンをかぶった女(黒)",
+    "category": "people",
+    "unicode": "1f473-1f3ff-200d-2640-fe0f"
   },
   {
     "moji": "👴",
@@ -19820,6 +19939,134 @@
     "code_ja": "女性裁判官(黒)",
     "category": "people",
     "unicode": "1f469-1f3ff-200d-2696-fe0f"
+  },
+
+
+  {
+    "moji": "🧑‍🚒",
+    "code": "firefighter",
+    "code_ja": "消防士",
+    "category": "people",
+    "unicode": "1f9d1-200d-1f692"
+  },
+  {
+    "moji": "🧑🏻‍🚒",
+    "code": "firefighter(wh)",
+    "code_ja": "消防士(白)",
+    "category": "people",
+    "unicode": "1f9d1-1f3fb-200d-1f692"
+  },
+  {
+    "moji": "🧑🏼‍🚒",
+    "code": "firefighter(p)",
+    "code_ja": "消防士(桃)",
+    "category": "people",
+    "unicode": "1f9d1-1f3fc-200d-1f692"
+  },
+  {
+    "moji": "🧑🏽‍🚒",
+    "code": "firefighter(ye)",
+    "code_ja": "消防士(黄)",
+    "category": "people",
+    "unicode": "1f9d1-1f3fd-200d-1f692"
+  },
+  {
+    "moji": "🧑🏾‍🚒",
+    "code": "firefighter(br)",
+    "code_ja": "消防士(茶)",
+    "category": "people",
+    "unicode": "1f9d1-1f3fe-200d-1f692"
+  },
+  {
+    "moji": "🧑🏿‍🚒",
+    "code": "firefighter(bk)",
+    "code_ja": "消防士(黒)",
+    "category": "people",
+    "unicode": "1f9d1-1f3ff-200d-1f692"
+  },
+  {
+    "moji": "👨‍🚒",
+    "code": "male_firefighter",
+    "code_ja": "男性消防士",
+    "category": "people",
+    "unicode": "1f468-200d-1f692"
+  },
+  {
+    "moji": "👨🏻‍🚒",
+    "code": "male_firefighter(wh)",
+    "code_ja": "男性消防士(白)",
+    "category": "people",
+    "unicode": "1f468-1f3fb-200d-1f692"
+  },
+  {
+    "moji": "👨🏼‍🚒",
+    "code": "male_firefighter(p)",
+    "code_ja": "男性消防士(桃)",
+    "category": "people",
+    "unicode": "1f468-1f3fc-200d-1f692"
+  },
+  {
+    "moji": "👨🏽‍🚒",
+    "code": "male_firefighter(ye)",
+    "code_ja": "男性消防士(黄)",
+    "category": "people",
+    "unicode": "1f468-1f3fd-200d-1f692"
+  },
+  {
+    "moji": "👨🏾‍🚒",
+    "code": "male_firefighter(br)",
+    "code_ja": "男性消防士(茶)",
+    "category": "people",
+    "unicode": "1f468-1f3fe-200d-1f692"
+  },
+  {
+    "moji": "👨🏿‍🚒",
+    "code": "male_firefighter(bk)",
+    "code_ja": "男性消防士(黒)",
+    "category": "people",
+    "unicode": "1f468-1f3ff-200d-1f692"
+  },
+  {
+    "moji": "👩‍🚒",
+    "code": "female_firefighter",
+    "code_ja": "女性消防士",
+    "category": "people",
+    "unicode": "1f469-200d-1f692"
+  },
+  {
+    "moji": "👩🏻‍🚒",
+    "code": "female_firefighter(wh)",
+    "code_ja": "女性消防士(白)",
+    "category": "people",
+    "unicode": "1f469-1f3fb-200d-1f692"
+  },
+  {
+    "moji": "👩🏼‍🚒",
+    "code": "female_firefighter(p)",
+    "code_ja": "女性消防士(桃)",
+    "category": "people",
+    "unicode": "1f469-1f3fc-200d-1f692"
+  },
+  {
+    "moji": "👩🏽‍🚒",
+    "code": "female_firefighter(ye)",
+    "code_ja": "女性消防士(黄)",
+    "category": "people",
+    "unicode": "1f469-1f3fd-200d-1f692"
+  },
+  {
+    "moji": "👩🏾‍🚒",
+    "code": "female_firefighter(br)",
+    "code_ja": "女性消防士(茶)",
+    "category": "people",
+    "unicode": "1f469-1f3fe-200d-1f692"
+  },
+  {
+    "moji": "👩🏿‍🚒",
+    "code": "female_firefighter(bk)",
+    "code_ja": "女性消防士(黒)",
+    "category": "people",
+    "unicode": "1f469-1f3ff-200d-1f692"
   },
   {
     "moji": "🥧",
