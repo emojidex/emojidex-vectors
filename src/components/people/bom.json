@@ -70,5 +70,77 @@
   {
     "name": "woman(bk)_anim",
     "materials": ["bases/woman(bk).svg", "eyes/woman"]
+  },
+  {
+    "name": "blond_man_anim",
+    "materials": ["bases/blond/man.svg", "eyes/man", "clothes/blue_shirt"]
+  },
+  {
+    "name": "blond_man(wh)_anim",
+    "materials": ["bases/blond/man(wh).svg", "eyes/man(wh)", "clothes/blue_shirt"]
+  },
+  {
+    "name": "blond_man(p)_anim",
+    "materials": ["bases/blond/man(p).svg", "eyes/man", "clothes/blue_shirt"]
+  },
+  {
+    "name": "blond_man(ye)_anim",
+    "materials": ["bases/blond/man(ye).svg", "eyes/man", "clothes/blue_shirt"]
+  },
+  {
+    "name": "blond_man(br)_anim",
+    "materials": ["bases/blond/man(br).svg", "eyes/man", "clothes/blue_shirt"]
+  },
+  {
+    "name": "blond_man(bk)_anim",
+    "materials": ["bases/blond/man(bk).svg", "eyes/man", "clothes/blue_shirt"]
+  },
+  {
+    "name": "blond_person_anim",
+    "materials": ["bases/blond/person.svg", "eyes/person", "clothes/shirt"]
+  },
+  {
+    "name": "blond_person(wh)_anim",
+    "materials": ["bases/blond/person(wh).svg", "eyes/person(wh)", "clothes/shirt"]
+  },
+  {
+    "name": "blond_person(p)_anim",
+    "materials": ["bases/blond/person(p).svg", "eyes/person", "clothes/shirt"]
+  },
+  {
+    "name": "blond_person(ye)_anim",
+    "materials": ["bases/blond/person(ye).svg", "eyes/person", "clothes/shirt"]
+  },
+  {
+    "name": "blond_person(br)_anim",
+    "materials": ["bases/blond/person(br).svg", "eyes/person", "clothes/shirt"]
+  },
+  {
+    "name": "blond_person(bk)_anim",
+    "materials": ["bases/blond/person(bk).svg", "eyes/person", "clothes/shirt"]
+  },
+  {
+    "name": "blond_woman_anim",
+    "materials": ["bases/blond/woman.svg", "eyes/woman", "clothes/pink_shirt"]
+  },
+  {
+    "name": "blond_woman(wh)_anim",
+    "materials": ["bases/blond/woman(wh).svg", "eyes/woman(wh)", "clothes/pink_shirt"]
+  },
+  {
+    "name": "blond_woman(p)_anim",
+    "materials": ["bases/blond/woman(p).svg", "eyes/woman", "clothes/pink_shirt"]
+  },
+  {
+    "name": "blond_woman(ye)_anim",
+    "materials": ["bases/blond/woman(ye).svg", "eyes/woman", "clothes/pink_shirt"]
+  },
+  {
+    "name": "blond_woman(br)_anim",
+    "materials": ["bases/blond/woman(br).svg", "eyes/woman", "clothes/pink_shirt"]
+  },
+  {
+    "name": "blond_woman(bk)_anim",
+    "materials": ["bases/blond/woman(bk).svg", "eyes/woman", "clothes/pink_shirt"]
   }
 ]
