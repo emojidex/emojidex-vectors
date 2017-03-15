@@ -1,0 +1,110 @@
+[
+  {
+    "code": "man",
+    "base": "../../components/people/man_anim",
+    "overlay": "blue_shirt",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "man(wh)",
+    "base": "../../components/people/man(wh)_anim",
+    "overlay": "blue_shirt",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "man(p)",
+    "base": "../../components/people/man(p)_anim",
+    "overlay": "blue_shirt",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "man(ye)",
+    "base": "../../components/people/man(ye)_anim",
+    "overlay": "blue_shirt",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "man(br)",
+    "base": "../../components/people/man(br)_anim",
+    "overlay": "blue_shirt",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "man(bk)",
+    "base": "../../components/people/man(bk)_anim",
+    "overlay": "blue_shirt",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "woman",
+    "base": "../../components/people/woman_anim",
+    "overlay": "pink_shirt",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "woman(wh)",
+    "base": "../../components/people/woman(wh)_anim",
+    "overlay": "pink_shirt",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "woman(p)",
+    "base": "../../components/people/woman(p)_anim",
+    "overlay": "pink_shirt",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "woman(ye)",
+    "base": "../../components/people/woman(ye)_anim",
+    "overlay": "pink_shirt",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "woman(br)",
+    "base": "../../components/people/woman(br)_anim",
+    "overlay": "pink_shirt",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "woman(bk)",
+    "base": "../../components/people/woman(bk)_anim",
+    "overlay": "pink_shirt",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "adult",
+    "base": "../../components/people/adult_anim",
+    "overlay": "black_shirt",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "adult(wh)",
+    "base": "../../components/people/adult(wh)_anim",
+    "overlay": "black_shirt",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "adult(p)",
+    "base": "../../components/people/adult(p)_anim",
+    "overlay": "black_shirt",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "adult(ye)",
+    "base": "../../components/people/adult(ye)_anim",
+    "overlay": "black_shirt",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "adult(br)",
+    "base": "../../components/people/adult(br)_anim",
+    "overlay": "black_shirt",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "adult(bk)",
+    "base": "../../components/people/adult(bk)_anim",
+    "overlay": "black_shirt",
+    "dest": "../../../emoji/utf"
+  }
+]
