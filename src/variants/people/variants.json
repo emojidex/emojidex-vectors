@@ -73,37 +73,37 @@
   },
   {
     "code": "adult",
-    "base": "../../components/people/adult_anim",
+    "base": "../../components/people/person_anim",
     "overlay": "black_shirt",
     "dest": "../../../emoji/utf"
   },
   {
     "code": "adult(wh)",
-    "base": "../../components/people/adult(wh)_anim",
+    "base": "../../components/people/person(wh)_anim",
     "overlay": "black_shirt",
     "dest": "../../../emoji/utf"
   },
   {
     "code": "adult(p)",
-    "base": "../../components/people/adult(p)_anim",
+    "base": "../../components/people/person(p)_anim",
     "overlay": "black_shirt",
     "dest": "../../../emoji/utf"
   },
   {
     "code": "adult(ye)",
-    "base": "../../components/people/adult(ye)_anim",
+    "base": "../../components/people/person(ye)_anim",
     "overlay": "black_shirt",
     "dest": "../../../emoji/utf"
   },
   {
     "code": "adult(br)",
-    "base": "../../components/people/adult(br)_anim",
+    "base": "../../components/people/person(br)_anim",
     "overlay": "black_shirt",
     "dest": "../../../emoji/utf"
   },
   {
     "code": "adult(bk)",
-    "base": "../../components/people/adult(bk)_anim",
+    "base": "../../components/people/person(bk)_anim",
     "overlay": "black_shirt",
     "dest": "../../../emoji/utf"
   }
