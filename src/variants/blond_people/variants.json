@@ -1,0 +1,110 @@
+[
+  {
+    "code": "man_with_blond_hair",
+    "base": "../../components/people/blond_man_anim",
+    "overlay": "blue_shirt",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "man_with_blond_hair(wh)",
+    "base": "../../components/people/blond_man(wh)_anim",
+    "overlay": "blue_shirt",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "man_with_blond_hair(p)",
+    "base": "../../components/people/blond_man(p)_anim",
+    "overlay": "blue_shirt",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "man_with_blond_hair(ye)",
+    "base": "../../components/people/blond_man(ye)_anim",
+    "overlay": "blue_shirt",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "man_with_blond_hair(br)",
+    "base": "../../components/people/blond_man(br)_anim",
+    "overlay": "blue_shirt",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "man_with_blond_hair(bk)",
+    "base": "../../components/people/blond_man(bk)_anim",
+    "overlay": "blue_shirt",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "woman_with_blond_hair",
+    "base": "../../components/people/blond_woman_anim",
+    "overlay": "pink_shirt",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "woman_with_blond_hair(wh)",
+    "base": "../../components/people/blond_woman(wh)_anim",
+    "overlay": "pink_shirt",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "woman_with_blond_hair(p)",
+    "base": "../../components/people/blond_woman(p)_anim",
+    "overlay": "pink_shirt",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "woman_with_blond_hair(ye)",
+    "base": "../../components/people/blond_woman(ye)_anim",
+    "overlay": "pink_shirt",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "woman_with_blond_hair(br)",
+    "base": "../../components/people/blond_woman(br)_anim",
+    "overlay": "pink_shirt",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "woman_with_blond_hair(bk)",
+    "base": "../../components/people/blond_woman(bk)_anim",
+    "overlay": "pink_shirt",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "person_with_blond_hair",
+    "base": "../../components/people/blond_person_anim",
+    "overlay": "black_shirt",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "person_with_blond_hair(wh)",
+    "base": "../../components/people/blond_person(wh)_anim",
+    "overlay": "black_shirt",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "person_with_blond_hair(p)",
+    "base": "../../components/people/blond_person(p)_anim",
+    "overlay": "black_shirt",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "person_with_blond_hair(ye)",
+    "base": "../../components/people/blond_person(ye)_anim",
+    "overlay": "black_shirt",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "person_with_blond_hair(br)",
+    "base": "../../components/people/blond_person(br)_anim",
+    "overlay": "black_shirt",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "person_with_blond_hair(bk)",
+    "base": "../../components/people/blond_person(bk)_anim",
+    "overlay": "black_shirt",
+    "dest": "../../../emoji/utf"
+  }
+]
