@@ -380,36 +380,6 @@
     "category": "people"
   },
   {
-    "code_ja": "嘔吐",
-    "code": "puke",
-    "category": "faces"
-  },
-  {
-    "code_ja": "嘔吐(白)",
-    "code": "puke(wh)",
-    "category": "faces"
-  },
-  {
-    "code_ja": "嘔吐(桃)",
-    "code": "puke(p)",
-    "category": "faces"
-  },
-  {
-    "code_ja": "嘔吐(黄)",
-    "code": "puke(ye)",
-    "category": "faces"
-  },
-  {
-    "code_ja": "嘔吐(茶)",
-    "code": "puke(br)",
-    "category": "faces"
-  },
-  {
-    "code_ja": "嘔吐(黒)",
-    "code": "puke(bk)",
-    "category": "faces"
-  },
-  {
     "code_ja": "角あり笑顔(紫)",
     "code": "purple_smiling_face_with_horns",
     "category": "faces"
@@ -4231,5 +4201,10 @@
     "code": "blond_white_person",
     "code_ja": "白人",
     "category": "people"
+  },
+  {
+    "code": "slightly_smiling_face(smiley)",
+    "code_ja": "スマイリー(微笑)",
+    "category": "faces"
   }
 ]

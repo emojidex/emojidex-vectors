@@ -12685,6 +12685,48 @@
     "unicode": "1f640"
   },
   {
+    "moji": "🙂",
+    "code": "slightly_smiling_face",
+    "code_ja": "微笑",
+    "category": "faces",
+    "unicode": "1f642"
+  },
+  {
+    "moji": "🙂🏻",
+    "code": "slightly_smiling_face(wh)",
+    "code_ja": "微笑(白)",
+    "category": "faces",
+    "unicode": "1f642-1f3fb"
+  },
+  {
+    "moji": "🙂🏼",
+    "code": "slightly_smiling_face(p)",
+    "code_ja": "微笑(桃)",
+    "category": "faces",
+    "unicode": "1f642-1f3fc"
+  },
+  {
+    "moji": "🙂🏽",
+    "code": "slightly_smiling_face(ye)",
+    "code_ja": "微笑(黄)",
+    "category": "faces",
+    "unicode": "1f642-1f3fd"
+  },
+  {
+    "moji": "🙂🏾",
+    "code": "slightly_smiling_face(br)",
+    "code_ja": "微笑(茶)",
+    "category": "faces",
+    "unicode": "1f642-1f3fe"
+  },
+  {
+    "moji": "🙂🏿",
+    "code": "slightly_smiling_face(bk)",
+    "code_ja": "微笑(黒)",
+    "category": "faces",
+    "unicode": "1f642-1f3ff"
+  },
+  {
     "moji": "🙃",
     "code": "upside_down_face",
     "code_ja": "逆さま顔",
@@ -15031,7 +15073,7 @@
     "code": "starry_eyed",
     "code_ja": "夢想的な顔",
     "category": "faces",
-    "unifull_name": "1f929"
+    "unicode": "1f929"
   },
   {
     "moji": "🤩🏻",
@@ -15039,7 +15081,7 @@
     "code": "starry_eyed(wh)",
     "code_ja": "夢想的な顔(白)",
     "category": "faces",
-    "unifull_name": "1f929-1f3fb"
+    "unicode": "1f929-1f3fb"
   },
   {
     "moji": "🤩🏼",
@@ -15047,7 +15089,7 @@
     "code": "starry_eyed(p)",
     "code_ja": "夢想的な顔(桃)",
     "category": "faces",
-    "unifull_name": "1f929-1f3fc"
+    "unicode": "1f929-1f3fc"
   },
   {
     "moji": "🤩🏽",
@@ -15055,7 +15097,7 @@
     "code": "starry_eyed(ye)",
     "code_ja": "夢想的な顔(黄)",
     "category": "faces",
-    "unifull_name": "1f929-1f3fd"
+    "unicode": "1f929-1f3fd"
   },
   {
     "moji": "🤩🏾",
@@ -15063,7 +15105,7 @@
     "code": "starry_eyed(br)",
     "code_ja": "夢想的な顔(茶)",
     "category": "faces",
-    "unifull_name": "1f929-1f3fe"
+    "unicode": "1f929-1f3fe"
   },
   {
     "moji": "🤩🏿",
@@ -15071,7 +15113,49 @@
     "code": "starry_eyed(bk)",
     "code_ja": "夢想的な顔(黒)",
     "category": "faces",
-    "unifull_name": "1f929-1f3ff"
+    "unicode": "1f929-1f3ff"
+  },
+  {
+    "moji": "🤮",
+    "code": "puke",
+    "code_ja": "嘔吐",
+    "category": "faces",
+    "unicode": "1f92e"
+  },
+  {
+    "moji": "🤮🏻",
+    "code": "puke(wh)",
+    "code_ja": "嘔吐(白)",
+    "category": "faces",
+    "unicode": "1f92e-1f3fb"
+  },
+  {
+    "moji": "🤮🏼",
+    "code": "puke(p)",
+    "code_ja": "嘔吐(桃)",
+    "category": "faces",
+    "unicode": "1f92e-1f3fc"
+  },
+  {
+    "moji": "🤮🏽",
+    "code": "puke(ye)",
+    "code_ja": "嘔吐(黄)",
+    "category": "faces",
+    "unicode": "1f92e-1f3fd"
+  },
+  {
+    "moji": "🤮🏾",
+    "code": "puke(br)",
+    "code_ja": "嘔吐(茶)",
+    "category": "faces",
+    "unicode": "1f92e-1f3fe"
+  },
+  {
+    "moji": "🤮🏿",
+    "code": "puke(bk)",
+    "code_ja": "嘔吐(黒)",
+    "category": "faces",
+    "unicode": "1f92e-1f3ff"
   },
   {
     "moji": "🤰",
