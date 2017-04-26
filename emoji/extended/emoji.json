@@ -1442,8 +1442,9 @@
     "category": "food"
   },
   {
-    "code_ja": "ファラフェル",
-    "code": "falafel",
+    "code_ja": "パラーター",
+    "code": "stuffed_flatbread",
+    "tags": ["paratha", "aloo paratha", "परौठा", "आलू पराठा"],
     "category": "food"
   },
   {
@@ -3382,6 +3383,7 @@
   {
     "code_ja": "パエリア(シーフード)",
     "code": "shallow_pan_of_food(seafood)",
+    "tags": ["seafood paella"],
     "category": "food"
   },
   {
@@ -4196,5 +4198,50 @@
     "code": "slightly_smiling_face(smiley)",
     "code_ja": "スマイリー(微笑)",
     "category": "faces"
+  },
+  {
+    "code": "1Yen",
+    "code_ja": "1円",
+    "category": "objects"
+  },
+  {
+    "code": "5Yen",
+    "code_ja": "5円",
+    "category": "objects"
+  },
+  {
+    "code": "10Yen",
+    "code_ja": "10円",
+    "category": "objects"
+  },
+  {
+    "code": "50Yen",
+    "code_ja": "50円",
+    "category": "objects"
+  },
+  {
+    "code": "100Yen",
+    "code_ja": "100円",
+    "category": "objects"
+  },
+  {
+    "code": "500Yen",
+    "code_ja": "500円",
+    "category": "objects"
+  },
+  {
+    "code": "1000Yen",
+    "code_ja": "1000円",
+    "category": "objects"
+  },
+  {
+    "code": "5000Yen",
+    "code_ja": "5000円",
+    "category": "objects"
+  },
+  {
+    "code": "10000Yen",
+    "code_ja": "10000円",
+    "category": "objects"
   }
 ]
