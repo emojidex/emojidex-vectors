@@ -1,0 +1,14 @@
+{
+	"name": "airplane",
+	"loops": 0,
+  "skip_first": false,
+  "default_delay": "400/1000",
+	"frames": [
+    {"airplane": 1300},
+    "descend_1",
+    "descend_2",
+    "descend_1",
+    {"airplane": 800},
+    {"ascend_1": 900}
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "poop",
+  "loops": 0,
+  "skip_first": false,
+  "default_delay": "200/1000",
+  "frames": [
+    {"poop": 2400},
+    "poop_2",
+    "poop_3",
+    "poop_2"
+  ]
+}
