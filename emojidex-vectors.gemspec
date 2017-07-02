@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
   s.license     = 'emojidex Open License'
   s.summary     = 'Vectorized [SVG] emoji assets for emojidex.'
   s.description = 'Vectorized [SVG] assets for emojidex. These assets can be used as a gem and combined with emojidex-toolkit and emojidex-converter.'
-  s.authors     = ['Yoshihiro Tsuchiyama', 'Jun Tohyama', 'Rei Kagetsuki', 'Rika Yoshida']
+  s.authors     = ['Yoshihiro Tsuchiyama', 'Lagunis', 'Jun Tohyama', 'Rei Kagetsuki', 'Rika Yoshida']
   s.email       = 'info@emojidex.com'
   s.files       = Dir.glob('emoji/**/*') +
                   Dir.glob('lib/**/*.rb') +
