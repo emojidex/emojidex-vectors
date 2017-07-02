@@ -1,0 +1,22 @@
+{
+	"name": "joystick",
+	"loops": 0,
+  "skip_first": false,
+  "default_delay": "200/1000",
+	"frames": [
+    "base",
+    "trigger",
+    "base",
+    "trigger",
+    "base",
+    "tip_1",
+    "tip_2",
+    "tip_1",
+    "base",
+    "switch",
+    "base",
+    "switch",
+    "trigger",
+    "tip_1"
+  ]
+}

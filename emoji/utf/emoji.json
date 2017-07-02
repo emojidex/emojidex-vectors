@@ -1350,6 +1350,13 @@
     "unicode": "1f329"
   },
   {
+    "moji": "⛈",
+    "code": "cloud_with_lightning_and_rain",
+    "code_ja": "雷雨雲",
+    "category": "nature",
+    "unicode": "26c8"
+  },
+  {
     "moji": "🌪",
     "code": "cloud_with_tornado",
     "code_ja": "竜巻",
@@ -9922,6 +9929,48 @@
     "code_ja": "モアイ像",
     "category": "objects",
     "unicode": "1f5ff"
+  },
+  {
+    "moji": "🛠",
+    "code": "hammer_wrench",
+    "code_ja": "ハンマーとレンチ",
+    "category": "objects",
+    "unicode": "1f6e0"
+  },
+  {
+    "moji": "🛡",
+    "code": "shield",
+    "code_ja": "盾",
+    "category": "objects",
+    "unicode": "1f6e1"
+  },
+  {
+    "moji": "🛏",
+    "code": "bed",
+    "code_ja": "ベッド",
+    "category": "objects",
+    "unicode": "1f6cf"
+  },
+  {
+    "moji": "🛢",
+    "code": "oil_drum",
+    "code_ja": "ドラム缶",
+    "category": "objects",
+    "unicode": "1f6e2"
+  },
+  {
+    "moji": "🛎",
+    "code": "call_bell",
+    "code_ja": "卓上ベル",
+    "category": "objects",
+    "unicode": "1f6ce"
+  },
+  {
+    "moji": "🥩",
+    "code": "cut_of_meat",
+    "code_ja": "厚切り肉",
+    "category": "objects",
+    "unicode": "1f969"
   },
   {
     "moji": "😀",
