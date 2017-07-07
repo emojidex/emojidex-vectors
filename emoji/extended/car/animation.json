@@ -1,0 +1,15 @@
+{
+  "name": "car",
+  "loops": 0,
+  "skip_first": false,
+  "default_delay": "86/1000",
+  "frames": [
+    "car",
+    "car_wheelspin_1",
+    "car_wheelspin_2",
+    "car_wheelspin_3",
+    "car_wheelspin_4",
+    "car_wheelspin_5",
+    "car_wheelspin_6"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "red_car",
+  "loops": 0,
+  "skip_first": false,
+  "default_delay": "86/1000",
+  "frames": [
+    "red_car",
+    "red_car_wheels_1",
+    "red_car_wheels_2"
+  ]
+}
