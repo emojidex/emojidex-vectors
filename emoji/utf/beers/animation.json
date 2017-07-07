@@ -1,0 +1,15 @@
+{
+  "name": "beers",
+  "loops": 0,
+  "skip_first": false,
+  "default_delay": "50/1000",
+  "frames": [
+    "beers",
+    {"beers-nosplash": 2000},
+    "beers-3",
+    "beers-2",
+    "beers-1",
+    "beers-2",
+    "beers-3"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "balloon",
+  "loops": 0,
+  "skip_first": false,
+  "default_delay": "333/1000",
+  "frames": [
+    "balloon",
+    "balloon_1",
+    "balloon_2",
+    "balloon_3",
+    "balloon_2",
+    "balloon_1"
+  ]
+}
