@@ -1,0 +1,16 @@
+{
+  "name": "alarm_clock",
+  "loops": 0,
+  "skip_first": false,
+  "default_delay": "88/1000",
+  "frames": [
+    "alarm_clock",
+    "ring-r1",
+    "ring-r2",
+    "ring-r1",
+    "alarm_clock",
+    "ring-l1",
+    "ring-l2",
+    "ring-l1"
+  ]
+}
