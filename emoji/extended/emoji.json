@@ -5,6 +5,11 @@
     "category": "symbols"
   },
   {
+    "code": "car",
+    "code_ja": "車(黒)",
+    "category": "transportation"
+  },
+  {
     "moji": "#️⃣️",
     "full_name": "number_sign",
     "code": "hash",
@@ -4247,6 +4252,11 @@
   {
     "code": "10000Yen",
     "code_ja": "10000円",
+    "category": "objects"
+  },
+  {
+    "code": "alarm_clock(yellow)",
+    "code_ja": "目覚まし時計(黄)",
     "category": "objects"
   }
 ]

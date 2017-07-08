@@ -1677,6 +1677,27 @@
     "unicode": "1f354"
   },
   {
+    "moji": "🍔‍🧀",
+    "code": "cheeseburger",
+    "code_ja": "チーズバーガー",
+    "category": "food",
+    "unicode": "1f354-200d-1f9c0"
+  },
+  {
+    "moji": "🍔‍🥓",
+    "code": "bacon_burger",
+    "code_ja": "ベーコンバーガー",
+    "category": "food",
+    "unicode": "1f354-200d-1f953"
+  },
+  {
+    "moji": "🍔‍🥓‍🧀",
+    "code": "bacon_cheeseburger",
+    "code_ja": "ベーコンチーズバーガー",
+    "category": "food",
+    "unicode": "1f354-200d-1f953-200d-1f9c0"
+  },
+  {
     "moji": "🍕",
     "full_name": "slice_of_pizza",
     "code": "pizza",
