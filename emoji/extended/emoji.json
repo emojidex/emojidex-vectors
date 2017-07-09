@@ -4255,6 +4255,261 @@
     "category": "objects"
   },
   {
+    "code": "bow",
+    "code_ja": "平謝り",
+    "category": "gestures"
+  },
+  {
+    "code": "bow(wh)",
+    "code_ja": "平謝り(白)",
+    "category": "gestures"
+  },
+  {
+    "code": "bow(p)",
+    "code_ja": "平謝り(桃)",
+    "category": "gestures"
+  },
+  {
+    "code": "bow(ye)",
+    "code_ja": "平謝り(黄)",
+    "category": "gestures"
+  },
+  {
+    "code": "bow(br)",
+    "code_ja": "平謝り(茶)",
+    "category": "gestures"
+  },
+  {
+    "code": "bow(bk)",
+    "code_ja": "平謝り(黒)",
+    "category": "gestures"
+  },
+  {
+    "code": "face_palm",
+    "code_ja": "あちゃー",
+    "category": "gestures"
+  },
+  {
+    "code": "face_palm(wh)",
+    "code_ja": "あちゃー(白)",
+    "category": "gestures"
+  },
+  {
+    "code": "face_palm(p)",
+    "code_ja": "あちゃー(桃)",
+    "category": "gestures"
+  },
+  {
+    "code": "face_palm(ye)",
+    "code_ja": "あちゃー(黄)",
+    "category": "gestures"
+  },
+  {
+    "code": "face_palm(br)",
+    "code_ja": "あちゃー(茶)",
+    "category": "gestures"
+  },
+  {
+    "code": "face_palm(bk)",
+    "code_ja": "あちゃー(黒)",
+    "category": "gestures"
+  },
+  {
+    "code": "feeling_dejected",
+    "code_ja": "キャラクター(しょんぼり)",
+    "category": "gestures"
+  },
+  {
+    "code": "feeling_dejected(wh)",
+    "code_ja": "キャラクター(しょんぼり・白)",
+    "category": "gestures"
+  },
+  {
+    "code": "feeling_dejected(p)",
+    "code_ja": "キャラクター(しょんぼり・桃)",
+    "category": "gestures"
+  },
+  {
+    "code": "feeling_dejected(ye)",
+    "code_ja": "キャラクター(しょんぼり・黄)",
+    "category": "gestures"
+  },
+  {
+    "code": "feeling_dejected(br)",
+    "code_ja": "キャラクター(しょんぼり・茶)",
+    "category": "gestures"
+  },
+  {
+    "code": "feeling_dejected(bk)",
+    "code_ja": "キャラクター(しょんぼり・黒)",
+    "category": "gestures"
+  },
+  {
+    "code": "person_with_pouting_face",
+    "code_ja": "キャラクター(怒る)",
+    "category": "gestures"
+  },
+  {
+    "code": "person_with_pouting_face(wh)",
+    "code_ja": "キャラクター(怒る・白)",
+    "category": "gestures"
+  },
+  {
+    "code": "person_with_pouting_face(p)",
+    "code_ja": "キャラクター(怒る・桃)",
+    "category": "gestures"
+  },
+  {
+    "code": "person_with_pouting_face(ye)",
+    "code_ja": "キャラクター(怒る・黄)",
+    "category": "gestures"
+  },
+  {
+    "code": "person_with_pouting_face(br)",
+    "code_ja": "キャラクター(怒る・茶)",
+    "category": "gestures"
+  },
+  {
+    "code": "person_with_pouting_face(bk)",
+    "code_ja": "キャラクター(怒る・黒)",
+    "category": "gestures"
+  },
+  {
+    "code": "no_good",
+    "code_ja": "腕バツ",
+    "category": "gestures"
+  },
+  {
+    "code": "no_good(wh)",
+    "code_ja": "腕バツ(白)",
+    "category": "gestures"
+  },
+  {
+    "code": "no_good(p)",
+    "code_ja": "腕バツ(桃)",
+    "category": "gestures"
+  },
+  {
+    "code": "no_good(ye)",
+    "code_ja": "腕バツ(黄)",
+    "category": "gestures"
+  },
+  {
+    "code": "no_good(br)",
+    "code_ja": "腕バツ(茶)",
+    "category": "gestures"
+  },
+  {
+    "code": "no_good(bk)",
+    "code_ja": "腕バツ(黒)",
+    "category": "gestures"
+  },
+  {
+    "code": "ok_woman",
+    "code_ja": "腕マル",
+    "category": "gestures"
+  },
+  {
+    "moji": "🙆🏻",
+    "full_name": "face_with_ok_gesture(wh)",
+    "code": "ok_woman(wh)",
+    "code_ja": "腕マル(白)",
+    "category": "gestures",
+    "unicode": "1f646-1f3fb"
+  },
+  {
+    "moji": "🙆🏼",
+    "full_name": "face_with_ok_gesture(p)",
+    "code": "ok_woman(p)",
+    "code_ja": "腕マル(桃)",
+    "category": "gestures",
+    "unicode": "1f646-1f3fc"
+  },
+  {
+    "moji": "🙆🏽",
+    "full_name": "face_with_ok_gesture(ye)",
+    "code": "ok_woman(ye)",
+    "code_ja": "腕マル(黄)",
+    "category": "gestures",
+    "unicode": "1f646-1f3fd"
+  },
+  {
+    "moji": "🙆🏾",
+    "full_name": "face_with_ok_gesture(br)",
+    "code": "ok_woman(br)",
+    "code_ja": "腕マル(茶)",
+    "category": "gestures",
+    "unicode": "1f646-1f3fe"
+  },
+  {
+    "moji": "🙆🏿",
+    "full_name": "face_with_ok_gesture(bk)",
+    "code": "ok_woman(bk)",
+    "code_ja": "腕マル(黒)",
+    "category": "gestures",
+    "unicode": "1f646-1f3ff"
+  },
+  {
+    "code": "shrug",
+    "code_ja": "肩をすくめる",
+    "category": "gestures"
+  },
+  {
+    "code": "shrug(wh)",
+    "code_ja": "肩をすくめる(白)",
+    "category": "gestures"
+  },
+  {
+    "code": "shrug(p)",
+    "code_ja": "肩をすくめる(桃)",
+    "category": "gestures"
+  },
+  {
+    "code": "shrug(ye)",
+    "code_ja": "肩をすくめる(黄)",
+    "category": "gestures"
+  },
+  {
+    "code": "shrug(br)",
+    "code_ja": "肩をすくめる(茶)",
+    "category": "gestures"
+  },
+  {
+    "code": "shrug(bk)",
+    "code_ja": "肩をすくめる(黒)",
+    "category": "gestures"
+  },
+  {
+    "code": "information_desk_person",
+    "code_ja": "案内",
+    "category": "people"
+  },
+  {
+    "code": "information_desk_person(wh)",
+    "code_ja": "案内(白)",
+    "category": "people"
+  },
+  {
+    "code": "information_desk_person(p)",
+    "code_ja": "案内(桃)",
+    "category": "people"
+  },
+  {
+    "code": "information_desk_person(ye)",
+    "code_ja": "案内(黄)",
+    "category": "people"
+  },
+  {
+    "code": "information_desk_person(br)",
+    "code_ja": "案内(茶)",
+    "category": "people"
+  },
+  {
+    "code": "information_desk_person(bk)",
+    "code_ja": "案内(黒)",
+    "category": "people"
+  },
+  {
     "code": "alarm_clock(yellow)",
     "code_ja": "目覚まし時計(黄)",
     "category": "objects"
