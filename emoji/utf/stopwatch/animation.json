@@ -1,0 +1,16 @@
+{
+  "name": "stopwatch",
+  "loops": 0,
+  "skip_first": false,
+  "default_delay": "125/100",
+  "frames": [
+    "stopwatch",
+    "stopwatch-7.5s",
+    "stopwatch-15s",
+    "stopwatch-22.5s",
+    "stopwatch-30s",
+    "stopwatch-37.5s",
+    "stopwatch-45s",
+    "stopwatch-52.5s"
+  ]
+}
