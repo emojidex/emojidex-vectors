@@ -2114,6 +2114,48 @@
     "unicode": "1f385-1f3ff"
   },
   {
+    "moji": "🧜‍♀️",
+    "code": "mermaid",
+    "code_ja":"人魚",
+    "category": "people",
+    "unicode": "1f9dc-200d-2640-fe0f"
+  },
+  {
+    "moji": "🧜🏻‍♀️",
+    "code": "mermaid(wh)",
+    "code_ja":"人魚(白)",
+    "category": "people",
+    "unicode": "1f9dc-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "moji": "🧜🏼‍♀️",
+    "code": "mermaid(p)",
+    "code_ja":"人魚(桃)",
+    "category": "people",
+    "unicode": "1f9dc-1f3fc-200d-2640-fe0f"
+  },
+  {
+    "moji": "🧜🏽‍♀️",
+    "code": "mermaid(ye)",
+    "code_ja":"人魚(黄)",
+    "category": "people",
+    "unicode": "1f9dc-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "moji": "🧜🏾‍♀️",
+    "code": "mermaid(br)",
+    "code_ja":"人魚(茶)",
+    "category": "people",
+    "unicode": "1f9dc-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "moji": "🧜🏿‍♀️",
+    "code": "mermaid(bk)",
+    "code_ja":"人魚(黒)",
+    "category": "people",
+    "unicode": "1f9dc-1f3ff-200d-2640-fe0f"
+  },
+  {
     "moji": "🎆",
     "code": "fireworks",
     "code_ja": "花火",
@@ -9932,6 +9974,20 @@
     "unicode": "1f6e1"
   },
   {
+    "moji": "🛫",
+    "code": "airplane_departing",
+    "code_ja": "飛行機の出発",
+    "category": "objects",
+    "unicode": "1f6eb"
+  },
+  {
+    "moji": "🛬",
+    "code": "airplane_arriving",
+    "code_ja": "飛行機の到着",
+    "category": "objects",
+    "unicode": "1f6ec"
+  },
+  {
     "moji": "🛏",
     "code": "bed",
     "code_ja": "ベッド",
@@ -12759,6 +12815,48 @@
     "code_ja": "ほえー(ネコ)",
     "category": "faces",
     "unicode": "1f640"
+  },
+  {
+    "moji": "🙁",
+    "code": "slightly_frowning",
+    "code_ja": "微しかめっ顔",
+    "category": "faces",
+    "unicode": "1f641"
+  },
+  {
+    "moji": "🙁🏻",
+    "code": "slightly_frowning(wh)",
+    "code_ja": "微しかめっ顔(白)",
+    "category": "faces",
+    "unicode": "1f641-1f3fb"
+  },
+  {
+    "moji": "🙁🏼",
+    "code": "slightly_frowning(p)",
+    "code_ja": "微しかめっ顔(桃)",
+    "category": "faces",
+    "unicode": "1f641-1f3fc"
+  },
+  {
+    "moji": "🙁🏽",
+    "code": "slightly_frowning(ye)",
+    "code_ja": "微しかめっ顔(黄)",
+    "category": "faces",
+    "unicode": "1f641-1f3fd"
+  },
+  {
+    "moji": "🙁🏾",
+    "code": "slightly_frowning(br)",
+    "code_ja": "微しかめっ顔(茶)",
+    "category": "faces",
+    "unicode": "1f641-1f3fe"
+  },
+  {
+    "moji": "🙁🏿",
+    "code": "slightly_frowning(bk)",
+    "code_ja": "微しかめっ顔(黒)",
+    "category": "faces",
+    "unicode": "1f641-1f3ff"
   },
   {
     "moji": "🙂",
@@ -16938,6 +17036,20 @@
     "unicode": "23f0"
   },
   {
+    "moji": "⏱",
+    "code": "stopwatch",
+    "code_ja": "ストップウォッチ",
+    "category": "objects",
+    "unicode": "23f1"
+  },
+  {
+    "moji": "⏲",
+    "code": "timer",
+    "code_ja": "タイマー",
+    "category": "objects",
+    "unicode": "23f2"
+  },
+  {
     "moji": "⏳",
     "full_name": "hourglass_with_flowing_sand",
     "code": "hourglass_flowing_sand",
@@ -21114,6 +21226,13 @@
     "unicode": "1f967"
   },
   {
+    "moji": "🥨",
+    "code": "pretzel",
+    "code_ja": "プレッツェル",
+    "category": "food",
+    "unicode": "1f968"
+  },
+  {
     "moji": "🥪",
     "code_ja": "サンドイッチ",
     "code": "sandwich",
@@ -21154,6 +21273,13 @@
     "code": "T-Rex",
     "category": "nature",
     "unicode": "1f996"
+  },
+  {
+    "moji": "🦗",
+    "code_ja": "鈴虫",
+    "code": "cricket",
+    "category": "nature",
+    "unicode": "1f997"
   },
   {
     "moji": "🛸",

@@ -1538,6 +1538,11 @@
     "category": "objects"
   },
   {
+    "code_ja": "スマートフォン(横向き)",
+    "code": "smartphone(horizontal)",
+    "category": "objects"
+  },
+  {
     "code_ja": "遺伝子",
     "code": "DNA",
     "category": "objects"
@@ -4069,36 +4074,6 @@
     "category": "food"
   },
   {
-    "code": "mermaid",
-    "code_ja":"人魚",
-    "category": "people"
-  },
-  {
-    "code": "mermaid(wh)",
-    "code_ja":"人魚(白)",
-    "category": "people"
-  },
-  {
-    "code": "mermaid(p)",
-    "code_ja":"人魚(桃)",
-    "category": "people"
-  },
-  {
-    "code": "mermaid(ye)",
-    "code_ja":"人魚(黄)",
-    "category": "people"
-  },
-  {
-    "code": "mermaid(br)",
-    "code_ja":"人魚(茶)",
-    "category": "people"
-  },
-  {
-    "code": "mermaid(bk)",
-    "code_ja":"人魚(黒)",
-    "category": "people"
-  },
-  {
     "code": "(right)glove",
     "code_ja": "グローブ(右)",
     "category": "objects"
@@ -4206,7 +4181,7 @@
   },
   {
     "code": "slightly_smiling_face(smiley)",
-    "code_ja": "スマイリー(微笑)",
+    "code_ja": "スマイリー(微笑顔)",
     "category": "faces"
   },
   {
@@ -4518,6 +4493,21 @@
     "code": "pizza_pie",
     "code_ja": "ピザパイ",
     "category": "food"
+  },
+  {
+    "code": "slightly_frowning(smiley)",
+    "code_ja": "スマイリー(微しかめっ顔)",
+    "category": "faces"
+  },
+  {
+    "code": "slightly_smiling(smiley)",
+    "code_ja": "スマイリー(微笑)",
+    "category": "faces"
+  },
+  {
+    "code": "frowning_face(smiley)",
+    "code_ja": "スマイリー(渋面)",
+    "category": "faces"
   },
   {
     "code": "white_frowning_face",
