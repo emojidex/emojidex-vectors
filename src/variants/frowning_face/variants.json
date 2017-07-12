@@ -1,0 +1,38 @@
+[
+  {
+    "code": "frowning_face",
+    "base": "../../components/faces/face_base",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "frowning_face(wh)",
+    "base": "../../components/faces/face_base(wh)",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "frowning_face(p)",
+    "base": "../../components/faces/face_base(p)",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "frowning_face(ye)",
+    "base": "../../components/faces/face_base(ye)",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "frowning_face(br)",
+    "base": "../../components/faces/face_base(br)",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "frowning_face(bk)",
+    "overlay": "overlay_bk",
+    "base": "../../components/faces/face_base(bk)",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "frowning_face(smiley)",
+    "base": "../../components/faces/face_base(smiley)",
+    "dest": "../../../emoji/extended"
+  }
+]

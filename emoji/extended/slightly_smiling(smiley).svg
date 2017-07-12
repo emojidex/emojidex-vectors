@@ -60,7 +60,7 @@
     <path style='fill:#F79700;' d='M32,61.3291016C15.8271484,61.3291016,2.6699219,48.171875,2.6699219,32   C2.6699219,15.8276367,15.8271484,2.6708984,32,2.6708984c16.171875,0,29.328125,13.1567383,29.328125,29.3291016   C61.328125,48.171875,48.171875,61.3291016,32,61.3291016z M32,5.1708984C17.2060547,5.1708984,5.1699219,17.206543,5.1699219,32   c0,14.7939453,12.0361328,26.8291016,26.8300781,26.8291016c14.7929688,0,26.828125-12.0351563,26.828125-26.8291016   C58.828125,17.206543,46.7929688,5.1708984,32,5.1708984z' id='path848'/>
     <path style='fill:#9E3F0A;' d='M32,62.1933594C15.3515625,62.1933594,1.8066406,48.6484375,1.8066406,32   S15.3515625,1.8066406,32,1.8066406S62.1933594,15.3515625,62.1933594,32S48.6484375,62.1933594,32,62.1933594z M32,4.3066406   C16.7299805,4.3066406,4.3066406,16.7299805,4.3066406,32c0,15.2705078,12.4233398,27.6933594,27.6933594,27.6933594   c15.2705078,0,27.6933594-12.4228516,27.6933594-27.6933594C59.6933594,16.7299805,47.2705078,4.3066406,32,4.3066406z' id='path850'/>
   </g>
-  <metadata id="metadata53">
+  <metadata id="metadata107">
     <rdf:RDF>
       <cc:Work rdf:about=''>
         <dc:format>
@@ -70,13 +70,21 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <defs id="defs51"/>
-  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1920" inkscape:window-height="1017" id="namedview49" showgrid="false" inkscape:zoom="14.75" inkscape:cx="27.402538" inkscape:cy="23.654511" inkscape:window-x="1920" inkscape:window-y="26" inkscape:window-maximized="1" inkscape:current-layer="svg2"/>
-  <polygon style="fill:#330100;" points="27.2851563,18.8544922 12.5888672,18.8544922 12.5888672,15.8544922 24.8828125,15.8544922   25.3349609,13.8330078 28.2626953,14.4882813 " id="polygon37"/>
-  <rect x="12.5888672" y="21.8012695" style="fill:#330100;" width="14.2099609" height="3" id="rect39"/>
-  <path style="fill:#330100;" d="M24.6650391,23.7011719c0,2.5751953-1.9077148,4.6625977-4.2612305,4.6625977  c-2.3544922,0-4.2626953-2.0874023-4.2626953-4.6625977" id="path41"/>
-  <rect x="35.9782372" y="15.8095055" transform="matrix(0.9916734 0.1287781 -0.1287781 0.9916734 2.5904388 -5.444891)" style="fill:#330100;" width="14.844305" height="2.9996421" id="rect43"/>
-  <rect x="35.9775391" y="21.7558594" style="fill:#330100;" width="14.8457031" height="3" id="rect45"/>
-  <path style="fill:#330100;" d="M38.2080078,23.6557617c0,2.6005859,1.9921875,4.7080078,4.4501953,4.7080078  c2.4609375,0,4.453125-2.1074219,4.453125-4.7080078" id="path47"/>
-  <path inkscape:connector-curvature="0" style="fill:#330200" d="m 20.137866,48.344798 c -1.643067,-1.054688 0.874511,-2.956055 1.864746,-3.464844 7.84375,-4.026367 15.719726,-5.239258 21.365234,1.908203 2.96875,3.757812 -1.826172,5.330078 -3.602539,3.739258 -4.036133,-3.614258 -8.610352,-5.226563 -12.606445,-5.03418 -3.996582,0.19043 -4.331055,4.573242 -7.020996,2.851563 z" id="path43"/>
+  <defs id="defs105"/>
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1920" inkscape:window-height="1029" id="namedview103" showgrid="false" inkscape:zoom="10.429825" inkscape:cx="19.756129" inkscape:cy="29.842278" inkscape:window-x="0" inkscape:window-y="27" inkscape:window-maximized="1" inkscape:current-layer="svg2"/>
+  <linearGradient id="SVGID_3_5de46874c7dff6afc317778c606ab48e" gradientUnits="userSpaceOnUse" x1="31.9990101" y1="35.0209389" x2="31.9990101" y2="56.2578125">
+    <stop offset='0' style='stop-color:#FFE79F;stop-opacity:0' id='stop48'/>
+    <stop offset='1' style='stop-color:#FFD63F' id='stop50'/>
+  </linearGradient>
+  <g id="g67">
+    <ellipse style='fill:#330100;' cx='19.9648495' cy='26.5205002' rx='3.5078499' ry='4.5282998' id='ellipse69'/>
+    <ellipse style='fill:#330100;' cx='44.0346985' cy='26.5205002' rx='3.5083001' ry='4.5282998' id='ellipse71'/>
+  </g>
+  <path style="fill:#330100;" d="M32,49.75c-10.5004883,0-15.8383789-5.2167969-16.0605469-5.4394531l2.1210938-2.1210938  C18.1025391,42.2304688,22.8120117,46.75,32,46.75c9.1875,0,13.8974609-4.5195313,13.9443359-4.5654297l2.1162109,2.1259766  C47.8388672,44.5332031,42.5009766,49.75,32,49.75z" id="path89"/>
+  <g id="g91"/>
+  <g id="g93"/>
+  <g id="g95"/>
+  <g id="g97"/>
+  <g id="g99"/>
+  <g id="g101"/>
 </svg>

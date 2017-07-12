@@ -1,37 +1,37 @@
 [
   {
-    "code": "slightly_smiling_face",
+    "code": "slightly_smiling",
     "base": "../../components/faces/face_base",
     "dest": "../../../emoji/utf"
   },
   {
-    "code": "slightly_smiling_face(wh)",
+    "code": "slightly_smiling(wh)",
     "base": "../../components/faces/face_base(wh)",
     "dest": "../../../emoji/utf"
   },
   {
-    "code": "slightly_smiling_face(p)",
+    "code": "slightly_smiling(p)",
     "base": "../../components/faces/face_base(p)",
     "dest": "../../../emoji/utf"
   },
   {
-    "code": "slightly_smiling_face(ye)",
+    "code": "slightly_smiling(ye)",
     "base": "../../components/faces/face_base(ye)",
     "dest": "../../../emoji/utf"
   },
   {
-    "code": "slightly_smiling_face(br)",
+    "code": "slightly_smiling(br)",
     "base": "../../components/faces/face_base(br)",
     "dest": "../../../emoji/utf"
   },
   {
-    "code": "slightly_smiling_face(bk)",
+    "code": "slightly_smiling(bk)",
     "overlay": "overlay_bk",
     "base": "../../components/faces/face_base(bk)",
     "dest": "../../../emoji/utf"
   },
   {
-    "code": "slightly_smiling_face(smiley)",
+    "code": "slightly_smiling(smiley)",
     "base": "../../components/faces/face_base(smiley)",
     "dest": "../../../emoji/extended"
   }

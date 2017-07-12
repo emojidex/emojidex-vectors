@@ -1,0 +1,33 @@
+{
+  "name": "tachometer",
+  "loops": 0,
+  "skip_first": true,
+  "default_delay": "100/1000",
+  "frames": [
+    "tachometer",
+    {"tachometer_0k": 800},
+    {"tachometer_1k": 50},
+    {"tachometer_2k": 120},
+    {"tachometer_3k": 120},
+    {"tachometer_4k": 120},
+    {"tachometer_5k": 120},
+    {"tachometer_6k": 300},
+    {"tachometer_4k": 180},
+    {"tachometer_5k": 180},
+    {"tachometer_6k": 300},
+    {"tachometer_4k": 240},
+    {"tachometer_5k": 240},
+    {"tachometer_6k": 240},
+    {"tachometer_7k": 240},
+    {"tachometer_8k": 240},
+    {"tachometer_9k": 240},
+    {"tachometer_8k": 120},
+    {"tachometer_7k": 120},
+    {"tachometer_6k": 120},
+    {"tachometer_5k": 120},
+    {"tachometer_4k": 120},
+    {"tachometer_3k": 120},
+    {"tachometer_2k": 400},
+    {"tachometer_1k": 50}
+  ]
+}

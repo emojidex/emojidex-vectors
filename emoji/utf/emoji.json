@@ -11790,6 +11790,49 @@
     "unicode": "1f625-1f3ff"
   },
   {
+    "moji": "☹",
+    "code": "frowning_face",
+    "code_ja": "渋面",
+    "emoticon": ":(",
+    "category": "faces",
+    "unicode": "2639"
+  },
+  {
+    "moji": "☹🏻",
+    "code": "frowning_face(wh)",
+    "code_ja": "渋面(白)",
+    "category": "faces",
+    "unicode": "2639-1f3fb"
+  },
+  {
+    "moji": "☹🏼",
+    "code": "frowning_face(p)",
+    "code_ja": "渋面(桃)",
+    "category": "faces",
+    "unicode": "2639-1f3fc"
+  },
+  {
+    "moji": "☹🏽",
+    "code": "frowning_face(ye)",
+    "code_ja": "渋面(黄)",
+    "category": "faces",
+    "unicode": "2639-1f3fd"
+  },
+  {
+    "moji": "☹🏾",
+    "code": "frowning_face(br)",
+    "code_ja": "渋面(茶)",
+    "category": "faces",
+    "unicode": "2639-1f3fe"
+  },
+  {
+    "moji": "☹🏿",
+    "code": "frowning_face(bk)",
+    "code_ja": "渋面(黒)",
+    "category": "faces",
+    "unicode": "2639-1f3ff"
+  },
+  {
     "moji": "😦",
     "full_name": "frowning_face_with_open_mouth",
     "code": "frowning",
@@ -12719,42 +12762,42 @@
   },
   {
     "moji": "🙂",
-    "code": "slightly_smiling_face",
+    "code": "slightly_smiling",
     "code_ja": "微笑",
     "category": "faces",
     "unicode": "1f642"
   },
   {
     "moji": "🙂🏻",
-    "code": "slightly_smiling_face(wh)",
+    "code": "slightly_smiling(wh)",
     "code_ja": "微笑(白)",
     "category": "faces",
     "unicode": "1f642-1f3fb"
   },
   {
     "moji": "🙂🏼",
-    "code": "slightly_smiling_face(p)",
+    "code": "slightly_smiling(p)",
     "code_ja": "微笑(桃)",
     "category": "faces",
     "unicode": "1f642-1f3fc"
   },
   {
     "moji": "🙂🏽",
-    "code": "slightly_smiling_face(ye)",
+    "code": "slightly_smiling(ye)",
     "code_ja": "微笑(黄)",
     "category": "faces",
     "unicode": "1f642-1f3fd"
   },
   {
     "moji": "🙂🏾",
-    "code": "slightly_smiling_face(br)",
+    "code": "slightly_smiling(br)",
     "code_ja": "微笑(茶)",
     "category": "faces",
     "unicode": "1f642-1f3fe"
   },
   {
     "moji": "🙂🏿",
-    "code": "slightly_smiling_face(bk)",
+    "code": "slightly_smiling(bk)",
     "code_ja": "微笑(黒)",
     "category": "faces",
     "unicode": "1f642-1f3ff"
@@ -17347,13 +17390,6 @@
     "code_ja": "法輪",
     "category": "symbols",
     "unicode": "2638"
-  },
-  {
-    "moji": "☹",
-    "code": "white_frowning_face",
-    "code_ja": "渋面",
-    "category": "faces",
-    "unicode": "2639"
   },
   {
     "moji": "☺",
