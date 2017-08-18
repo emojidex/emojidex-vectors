@@ -1867,6 +1867,13 @@
     "unicode": "1f960"
   },
   {
+    "moji": "🥫",
+    "code": "canned_food",
+    "code_ja": "缶詰",
+    "category": "food",
+    "unicode": "1f96b"
+  },
+  {
     "moji": "🍫",
     "code": "chocolate_bar",
     "code_ja": "チョコレート",
@@ -1938,6 +1945,13 @@
     "code_ja": "箸",
     "category": "food",
     "unicode": "1f962"
+  },
+  {
+    "moji": "🥣",
+    "code": "bowl_with_spoon",
+    "code_ja": "ボウルとスプーン",
+    "category": "food",
+    "unicode": "1f963"
   },
   {
     "moji": "🍴",
@@ -7331,8 +7345,7 @@
   },
   {
     "moji": "📡",
-    "full_name": "satellite_antenna",
-    "code": "satellite",
+    "code": "satellite_antenna",
     "code_ja": "アンテナ",
     "category": "objects",
     "unicode": "1f4e1"
@@ -10112,6 +10125,20 @@
     "code_ja": "飛行機の到着",
     "category": "objects",
     "unicode": "1f6ec"
+  },
+  {
+    "moji": "🛋",
+    "code": "couch_and_lamp",
+    "code_ja": "ソファと照明器具",
+    "category": "objects",
+    "unicode": "1f6cb"
+  },
+  {
+    "moji": "🛍",
+    "code": "shopping_bags",
+    "code_ja": "買い物袋",
+    "category": "objects",
+    "unicode": "1f6cd"
   },
   {
     "moji": "🛏",
@@ -14729,6 +14756,27 @@
     "unicode": "1f68b"
   },
   {
+    "moji": "🛣",
+    "code": "motorway",
+    "code_ja": "高速道路",
+    "category": "transportation",
+    "unicode": "1f6e3"
+  },
+  {
+    "moji": "🛤",
+    "code": "railway_track",
+    "code_ja": "鉄道",
+    "category": "transportation",
+    "unicode": "1f6e4"
+  },
+  {
+    "moji": "🛩",
+    "code": "small_airplane",
+    "code_ja": "小型飛行機",
+    "category": "transportation",
+    "unicode": "1f6e9"
+  },
+  {
     "moji": "🚌",
     "code": "bus",
     "code_ja": "バス",
@@ -15277,6 +15325,13 @@
     "code_ja": "ショッピングカート",
     "category": "objects",
     "unicode": "1f6d2"
+  },
+  {
+    "moji": "🛳",
+    "code": "passenger_ship",
+    "code_ja": "旅客船",
+    "category": "transportation",
+    "unicode": "1f6f3"
   },
   {
     "moji": "🛴",
@@ -17184,6 +17239,55 @@
     "unicode": "23f3"
   },
   {
+    "moji": "⏏",
+    "code": "eject_button",
+    "code_ja": "取り出しボタン",
+    "category": "symbols",
+    "unicode": "23cf"
+  },
+  {
+    "moji": "⏭",
+    "code": "next_track_button",
+    "code_ja": "次トラックボタン",
+    "category": "symbols",
+    "unicode": "23ed"
+  },
+  {
+    "moji": "⏮",
+    "code": "previous_track_button",
+    "code_ja": "前トラックボタン",
+    "category": "symbols",
+    "unicode": "23ee"
+  },
+  {
+    "moji": "⏯",
+    "code": "play_or_pause_button",
+    "code_ja": "再生一時停止ボタン",
+    "category": "symbols",
+    "unicode": "23ef"
+  },
+  {
+    "moji": "⏸",
+    "code": "pause_button",
+    "code_ja": "一時停止ボタン",
+    "category": "symbols",
+    "unicode": "23f8"
+  },
+  {
+    "moji": "⏹",
+    "code": "stop_button",
+    "code_ja": "停止ボタン",
+    "category": "symbols",
+    "unicode": "23f9"
+  },
+  {
+    "moji": "⏺",
+    "code": "record_button",
+    "code_ja": "録ボタン",
+    "category": "symbols",
+    "unicode": "23fa"
+  },
+  {
     "moji": "Ⓜ️",
     "full_name": "circled_latin_capital_letter_m",
     "code": "m",
@@ -17384,6 +17488,13 @@
     "code_ja": "将棋の駒(黒)1",
     "category": "objects",
     "unicode": "2617"
+  },
+  {
+    "moji": "☘",
+    "code": "shamrock",
+    "code_ja": "シャムロック",
+    "category": "nature",
+    "unicode": "2618"
   },
   {
     "moji": "☙",
@@ -18812,6 +18923,13 @@
     "unicode": "26ef"
   },
   {
+    "moji": "⛰",
+    "code": "mountain",
+    "code_ja": "山",
+    "category": "places",
+    "unicode": "26f0"
+  },
+  {
     "moji": "⛱",
     "code": "umbrella_on_ground",
     "code_ja": "海水浴場",
@@ -18832,6 +18950,13 @@
     "code_ja": "ゴルフ",
     "category": "objects",
     "unicode": "26f3"
+  },
+  {
+    "moji": "⛴",
+    "code": "ferry",
+    "code_ja": "フェリー",
+    "category": "transportation",
+    "unicode": "26f4"
   },
   {
     "moji": "⛵",
@@ -19086,6 +19211,13 @@
     "code_ja": "×",
     "category": "abstract",
     "unicode": "2716"
+  },
+  {
+    "moji": "✝",
+    "code": "latin_cross",
+    "code_ja": "十字架",
+    "category": "symbols",
+    "unicode": "271d"
   },
   {
     "moji": "✡",
@@ -21216,8 +21348,6 @@
     "category": "people",
     "unicode": "1f469-1f3ff-200d-2696-fe0f"
   },
-
-
   {
     "moji": "🧑‍🚒",
     "code": "firefighter",
@@ -21345,6 +21475,139 @@
     "unicode": "1f469-1f3ff-200d-1f692"
   },
   {
+    "moji": "🧑‍🧣",
+    "code": "person_with_scarf",
+    "code_ja": "マフラを巻いた人",
+    "category": "people",
+    "unicode": "1f9d1-200d-1f9e3"
+  },
+  {
+    "moji": "🧑🏻‍🧣",
+    "code": "person_with_scarf(wh)",
+    "code_ja": "マフラを巻いた人(白)",
+    "category": "people",
+    "unicode": "1f9d1-1f3fb-200d-1f9e3"
+  },
+  {
+    "moji": "🧑🏼‍🧣",
+    "code": "person_with_scarf(p)",
+    "code_ja": "マフラを巻いた人(桃)",
+    "category": "people",
+    "unicode": "1f9d1-1f3fc-200d-1f9e3"
+  },
+  {
+    "moji": "🧑🏽‍🧣",
+    "code": "person_with_scarf(ye)",
+    "code_ja": "マフラを巻いた人(黄)",
+    "category": "people",
+    "unicode": "1f9d1-1f3fd-200d-1f9e3"
+  },
+  {
+    "moji": "🧑🏾‍🧣",
+    "code": "person_with_scarf(br)",
+    "code_ja": "マフラを巻いた人(茶)",
+    "category": "people",
+    "unicode": "1f9d1-1f3fe-200d-1f9e3"
+  },
+  {
+    "moji": "🧑🏿‍🧣",
+    "code": "person_with_scarf(bk)",
+    "code_ja": "マフラを巻いた人(黒)",
+    "category": "people",
+    "unicode": "1f9d1-1f3ff-200d-1f9e3"
+  },
+  {
+    "moji": "👨‍🧣",
+    "code": "man_with_scarf",
+    "code_ja": "マフラを巻いた男",
+    "category": "people",
+    "unicode": "1f468-200d-1f9e3"
+  },
+  {
+    "moji": "👨🏻‍🧣",
+    "code": "man_with_scarf(wh)",
+    "code_ja": "マフラを巻いた男(白)",
+    "category": "people",
+    "unicode": "1f468-1f3fb-200d-1f9e3"
+  },
+  {
+    "moji": "👨🏼‍🧣",
+    "code": "man_with_scarf(p)",
+    "code_ja": "マフラを巻いた男(桃)",
+    "category": "people",
+    "unicode": "1f468-1f3fc-200d-1f9e3"
+  },
+  {
+    "moji": "👨🏽‍🧣",
+    "code": "man_with_scarf(ye)",
+    "code_ja": "マフラを巻いた男(黄)",
+    "category": "people",
+    "unicode": "1f468-1f3fd-200d-1f9e3"
+  },
+  {
+    "moji": "👨🏾‍🧣",
+    "code": "man_with_scarf(br)",
+    "code_ja": "マフラを巻いた男(茶)",
+    "category": "people",
+    "unicode": "1f468-1f3fe-200d-1f9e3"
+  },
+  {
+    "moji": "👨🏿‍🧣",
+    "code": "man_with_scarf(bk)",
+    "code_ja": "マフラを巻いた男(黒)",
+    "category": "people",
+    "unicode": "1f468-1f3ff-200d-1f9e3"
+  },
+  {
+    "moji": "👩‍🧣",
+    "code": "woman_with_scarf",
+    "code_ja": "マフラを巻いた女",
+    "category": "people",
+    "unicode": "1f469-200d-1f9e3"
+  },
+  {
+    "moji": "👩🏻‍🧣",
+    "code": "woman_with_scarf(wh)",
+    "code_ja": "マフラを巻いた女(白)",
+    "category": "people",
+    "unicode": "1f469-1f3fb-200d-1f9e3"
+  },
+  {
+    "moji": "👩🏼‍🧣",
+    "code": "woman_with_scarf(p)",
+    "code_ja": "マフラを巻いた女(桃)",
+    "category": "people",
+    "unicode": "1f469-1f3fc-200d-1f9e3"
+  },
+  {
+    "moji": "👩🏽‍🧣",
+    "code": "woman_with_scarf(ye)",
+    "code_ja": "マフラを巻いた女(黄)",
+    "category": "people",
+    "unicode": "1f469-1f3fd-200d-1f9e3"
+  },
+  {
+    "moji": "👩🏾‍🧣",
+    "code": "woman_with_scarf(br)",
+    "code_ja": "マフラを巻いた女(茶)",
+    "category": "people",
+    "unicode": "1f469-1f3fe-200d-1f9e3"
+  },
+  {
+    "moji": "👩🏿‍🧣",
+    "code": "woman_with_scarf(bk)",
+    "code_ja": "マフラを巻いた女(黒)",
+    "category": "people",
+    "unicode": "1f469-1f3ff-200d-1f9e3"
+  },
+  {
+    "moji": "🥤",
+    "code": "cup_with_straw",
+    "code_ja": "ソフトドリンク",
+    "category": "food",
+    "unicode": "1f964"
+  },
+  {
     "moji": "🥧",
     "code": "pie",
     "code_ja": "パイ",
@@ -21380,6 +21643,13 @@
     "unicode": "1f965"
   },
   {
+    "moji": "🧣",
+    "code": "scarf",
+    "code_ja": "マフラ",
+    "category": "objects",
+    "unicode": "1f9e3"
+  },
+  {
     "moji": "🧤",
     "code": "gloves",
     "code_ja": "グローブ",
@@ -21387,11 +21657,25 @@
     "unicode": "1f9e4"
   },
   {
+    "moji": "🧦",
+    "code": "socks",
+    "code_ja": "靴下",
+    "category": "objects",
+    "unicode": "1f9e6"
+  },
+  {
     "moji": "🦔",
     "code": "hedgehog",
     "code_ja": "ハリネズミ",
     "category": "nature",
     "unicode": "1f994"
+  },
+  {
+    "moji": "🦕",
+    "code": "sauropod",
+    "code_ja": "竜脚類恐竜",
+    "category": "nature",
+    "unicode": "1f995"
   },
   {
     "moji": "🦖",
@@ -21406,6 +21690,13 @@
     "code": "cricket",
     "category": "nature",
     "unicode": "1f997"
+  },
+  {
+    "moji": "🛰",
+    "code": "satellite",
+    "code_ja": "人工衛星",
+    "category": "cosmos",
+    "unicode": "1f6f0"
   },
   {
     "moji": "🛸",
@@ -21427,6 +21718,13 @@
     "code_ja": "ハート(虹)",
     "category": "abstract",
     "unicode": "2764-200d-1f9e1-200d-1f49b-200d-1f49a-200d-1f499-200d-1f49c"
+  },
+  {
+    "moji": "🧢",
+    "code": "billed_cap",
+    "code_ja": "キャップ",
+    "category": "objects",
+    "unicode": "1f9e2"
   },
   {
     "moji": "🧠",

@@ -1,116 +1,110 @@
 [
   {
-    "code": "man_with_head_scarf",
+    "code": "man_with_scarf",
     "base": "../../components/people/man_anim",
+    "overlay": "man_overlay",
     "dest": "../../../emoji/utf"
   },
   {
-    "code": "man_with_head_scarf(wh)",
+    "code": "man_with_scarf(wh)",
     "base": "../../components/people/man(wh)_anim",
+    "overlay": "man_overlay",
     "dest": "../../../emoji/utf"
   },
   {
-    "code": "man_with_head_scarf(p)",
+    "code": "man_with_scarf(p)",
     "base": "../../components/people/man(p)_anim",
+    "overlay": "man_overlay",
     "dest": "../../../emoji/utf"
   },
   {
-    "code": "man_with_head_scarf(ye)",
+    "code": "man_with_scarf(ye)",
     "base": "../../components/people/man(ye)_anim",
+    "overlay": "man_overlay",
     "dest": "../../../emoji/utf"
   },
   {
-    "code": "man_with_head_scarf(br)",
+    "code": "man_with_scarf(br)",
     "base": "../../components/people/man(br)_anim",
+    "overlay": "man_overlay",
     "dest": "../../../emoji/utf"
   },
   {
-    "code": "man_with_head_scarf(bk)",
+    "code": "man_with_scarf(bk)",
     "base": "../../components/people/man(bk)_anim",
+    "overlay": "man_overlay",
     "dest": "../../../emoji/utf"
   },
   {
-    "code": "woman_with_head_scarf",
+    "code": "woman_with_scarf",
     "base": "../../components/people/woman_anim",
-    "overlay": "shawl",
-    "background": "shawl_back",
+    "overlay": "woman_overlay",
     "dest": "../../../emoji/utf"
   },
   {
-    "code": "woman_with_head_scarf(wh)",
+    "code": "woman_with_scarf(wh)",
     "base": "../../components/people/woman(wh)_anim",
-    "overlay": "shawl",
-    "background": "shawl_back",
+    "overlay": "woman_overlay",
     "dest": "../../../emoji/utf"
   },
   {
-    "code": "woman_with_head_scarf(p)",
+    "code": "woman_with_scarf(p)",
     "base": "../../components/people/woman(p)_anim",
-    "overlay": "shawl",
-    "background": "shawl_back",
+    "overlay": "woman_overlay",
     "dest": "../../../emoji/utf"
   },
   {
-    "code": "woman_with_head_scarf(ye)",
+    "code": "woman_with_scarf(ye)",
     "base": "../../components/people/woman(ye)_anim",
-    "overlay": "shawl",
-    "background": "shawl_back",
+    "overlay": "woman_overlay",
     "dest": "../../../emoji/utf"
   },
   {
-    "code": "woman_with_head_scarf(br)",
+    "code": "woman_with_scarf(br)",
     "base": "../../components/people/woman(br)_anim",
-    "overlay": "shawl",
-    "background": "shawl_back",
+    "overlay": "woman_overlay",
     "dest": "../../../emoji/utf"
   },
   {
-    "code": "woman_with_head_scarf(bk)",
+    "code": "woman_with_scarf(bk)",
     "base": "../../components/people/woman(bk)_anim",
-    "overlay": "shawl",
-    "background": "shawl_back",
+    "overlay": "woman_overlay",
     "dest": "../../../emoji/utf"
   },
   {
-    "code": "head_scarf",
+    "code": "person_with_scarf",
     "base": "../../components/people/person_anim",
-    "overlay": "shawl",
-    "background": "shawl_back",
+    "overlay": "person_overlay",
     "dest": "../../../emoji/utf"
   },
   {
-    "code": "head_scarf(wh)",
+    "code": "person_with_scarf(wh)",
     "base": "../../components/people/person(wh)_anim",
-    "overlay": "shawl",
-    "background": "shawl_back",
+    "overlay": "person_overlay",
     "dest": "../../../emoji/utf"
   },
   {
-    "code": "head_scarf(p)",
+    "code": "person_with_scarf(p)",
     "base": "../../components/people/person(p)_anim",
-    "overlay": "shawl",
-    "background": "shawl_back",
+    "overlay": "person_overlay",
     "dest": "../../../emoji/utf"
   },
   {
-    "code": "head_scarf(ye)",
+    "code": "person_with_scarf(ye)",
     "base": "../../components/people/person(ye)_anim",
-    "overlay": "shawl",
-    "background": "shawl_back",
+    "overlay": "person_overlay",
     "dest": "../../../emoji/utf"
   },
   {
-    "code": "head_scarf(br)",
+    "code": "person_with_scarf(br)",
     "base": "../../components/people/person(br)_anim",
-    "overlay": "shawl",
-    "background": "shawl_back",
+    "overlay": "person_overlay",
     "dest": "../../../emoji/utf"
   },
   {
-    "code": "head_scarf(bk)",
+    "code": "person_with_scarf(bk)",
     "base": "../../components/people/person(bk)_anim",
-    "overlay": "shawl",
-    "background": "shawl_back",
+    "overlay": "person_overlay",
     "dest": "../../../emoji/utf"
   }
 ]
