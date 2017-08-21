@@ -358,6 +358,14 @@
     "unicode": "1f1ec-1f1e7"
   },
   {
+    "moji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "full_name": "regional_indicator_symbol_letters_GB",
+    "code": "gb-eng",
+    "code_ja": "英国イギリス国旗",
+    "category": "symbols",
+    "unicode": "1f3f4-e0067-e0062-e0065-e006e-e0067-e007f"
+  },
+  {
     "moji": "🇮🇹",
     "full_name": "regional_indicator_symbol_letters_IT",
     "code": "it",
@@ -924,11 +932,25 @@
     "unicode": "1f1fd-1f1f8"
   },
   {
+    "moji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "code": "gb-sct",
+    "code_ja": "英国スコットランド国旗",
+    "category": "symbols",
+    "unicode": "1f3f4-e0067-e0062-e0073-e0063-e0074-e007f"
+  },
+  {
     "moji": "🇽🇼",
     "code": "xw",
     "code_ja": "ウェールズ国旗",
     "category": "symbols",
     "unicode": "1f1fd-1f1fc"
+  },
+  {
+    "moji": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+    "code": "gb-wls",
+    "code_ja": "英国ウェールズ国旗",
+    "category": "symbols",
+    "unicode": "1f3f4-e0067-e0062-e0077-e006c-e0073-e007f"
   },
   {
     "moji": "🈁",
@@ -21738,42 +21760,42 @@
     "code": "ILY_sign",
     "code_ja": "愛しているのサイン",
     "category": "gestures",
-    "unicoe": "1f91f"
+    "unicode": "1f91f"
   },
   {
     "moji": "🤟🏻",
     "code": "ILY_sign(wh)",
     "code_ja": "愛してるのサイン(白)",
     "category": "gestures",
-    "unicoe": "1f91f-1f3fb"
+    "unicode": "1f91f-1f3fb"
   },
   {
     "moji": "🤟🏼",
     "code": "ILY_sign(p)",
     "code_ja": "愛してるのサイン(桃)",
     "category": "gestures",
-    "unicoe": "1f91f-1f3fc"
+    "unicode": "1f91f-1f3fc"
   },
   {
     "moji": "🤟🏽",
     "code": "ILY_sign(ye)",
     "code_ja": "愛してるのサイン(黄)",
     "category": "gestures",
-    "unicoe": "1f91f-1f3fd"
+    "unicode": "1f91f-1f3fd"
   },
   {
     "moji": "🤟🏾",
     "code": "ILY_sign(br)",
     "code_ja": "愛してるのサイン(茶)",
     "category": "gestures",
-    "unicoe": "1f91f-1f3fe"
+    "unicode": "1f91f-1f3fe"
   },
   {
     "moji": "🤟🏿",
     "code": "ILY_sign(bk)",
     "code_ja": "愛してるのサイン(黒)",
     "category": "gestures",
-    "unicoe": "1f91f-1f3ff"
+    "unicode": "1f91f-1f3ff"
   },
   {
     "moji": "🛷",
