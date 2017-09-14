@@ -1,0 +1,10 @@
+{
+  "name": "feet",
+  "loops": 0,
+  "skip_first": false,
+  "default_delay": "500/1000",
+  "frames": [
+    "record_button_active",
+    "record_button"
+  ]
+}
