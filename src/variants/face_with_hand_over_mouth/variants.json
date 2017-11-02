@@ -1,0 +1,38 @@
+[
+  {
+    "code": "face_with_hand_over_mouth",
+    "base": "../../components/faces/face_base",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "face_with_hand_over_mouth(wh)",
+    "base": "../../components/faces/face_base(wh)",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "face_with_hand_over_mouth(p)",
+    "base": "../../components/faces/face_base(p)",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "face_with_hand_over_mouth(ye)",
+    "base": "../../components/faces/face_base(ye)",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "face_with_hand_over_mouth(br)",
+    "base": "../../components/faces/face_base(br)",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "face_with_hand_over_mouth(bk)",
+    "overlay": "overlay_bk",
+    "base": "../../components/faces/face_base(bk)",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "face_with_hand_over_mouth(smiley)",
+    "base": "../../components/faces/face_base(smiley)",
+    "dest": "../../../emoji/extended"
+  }
+]

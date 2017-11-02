@@ -1,0 +1,38 @@
+[
+  {
+    "code": "crazy_face",
+    "base": "../../components/faces/face_base",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "crazy_face(wh)",
+    "base": "../../components/faces/face_base(wh)",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "crazy_face(p)",
+    "base": "../../components/faces/face_base(p)",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "crazy_face(ye)",
+    "base": "../../components/faces/face_base(ye)",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "crazy_face(br)",
+    "base": "../../components/faces/face_base(br)",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "crazy_face(bk)",
+    "overlay": "overlay_bk",
+    "base": "../../components/faces/face_base(bk)",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "crazy_face(smiley)",
+    "base": "../../components/faces/face_base(smiley)",
+    "dest": "../../../emoji/extended"
+  }
+]
