@@ -1,0 +1,110 @@
+[
+  {
+    "code": "male_vampire",
+    "base": "../../components/people/man_anim",
+    "overlay": "man_overlay",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "male_vampire(wh)",
+    "base": "../../components/people/man(wh)_anim",
+    "overlay": "man_overlay",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "male_vampire(p)",
+    "base": "../../components/people/man(p)_anim",
+    "overlay": "man_overlay",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "male_vampire(ye)",
+    "base": "../../components/people/man(ye)_anim",
+    "overlay": "man_overlay",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "male_vampire(br)",
+    "base": "../../components/people/man(br)_anim",
+    "overlay": "man_overlay",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "male_vampire(bk)",
+    "base": "../../components/people/man(bk)_anim",
+    "overlay": "man_overlay",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "female_vampire",
+    "base": "../../components/people/woman_anim",
+    "overlay": "woman_overlay",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "female_vampire(wh)",
+    "base": "../../components/people/woman(wh)_anim",
+    "overlay": "woman_overlay",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "female_vampire(p)",
+    "base": "../../components/people/woman(p)_anim",
+    "overlay": "woman_overlay",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "female_vampire(ye)",
+    "base": "../../components/people/woman(ye)_anim",
+    "overlay": "woman_overlay",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "female_vampire(br)",
+    "base": "../../components/people/woman(br)_anim",
+    "overlay": "woman_overlay",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "female_vampire(bk)",
+    "base": "../../components/people/woman(bk)_anim",
+    "overlay": "woman_overlay",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "vampire",
+    "base": "../../components/people/person_anim",
+    "overlay": "person_overlay",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "vampire(wh)",
+    "base": "../../components/people/person(wh)_anim",
+    "overlay": "person_overlay",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "vampire(p)",
+    "base": "../../components/people/person(p)_anim",
+    "overlay": "person_overlay",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "vampire(ye)",
+    "base": "../../components/people/person(ye)_anim",
+    "overlay": "person_overlay",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "vampire(br)",
+    "base": "../../components/people/person(br)_anim",
+    "overlay": "person_overlay",
+    "dest": "../../../emoji/utf"
+  },
+  {
+    "code": "vampire(bk)",
+    "base": "../../components/people/person(bk)_anim",
+    "overlay": "person_overlay",
+    "dest": "../../../emoji/utf"
+  }
+]

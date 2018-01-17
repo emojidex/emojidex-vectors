@@ -31,6 +31,16 @@
     "dest": "../../../emoji/utf"
   },
   {
+    "code": "crazy_face(esthetic)",
+    "base": "../../components/faces/face_base(esthetic)",
+    "dest": "../../../emoji/extended"
+  },
+  {
+    "code": "crazy_face(blank)",
+    "base": "../../components/faces/face_base(blank)",
+    "dest": "../../../emoji/extended"
+  },
+  {
     "code": "crazy_face(smiley)",
     "base": "../../components/faces/face_base(smiley)",
     "dest": "../../../emoji/extended"

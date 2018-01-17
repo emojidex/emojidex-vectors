@@ -30,6 +30,11 @@
     "dest": "../../../emoji/utf"
   },
   {
+    "code": "starry_eyed(esthetic)",
+    "base": "../../components/faces/face_base(esthetic)",
+    "dest": "../../../emoji/extended"
+  },
+  {
     "code": "starry_eyed(smiley)",
     "base": "../../components/faces/face_base(smiley)",
     "dest": "../../../emoji/extended"

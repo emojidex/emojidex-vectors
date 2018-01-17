@@ -31,6 +31,11 @@
     "dest": "../../../emoji/utf"
   },
   {
+    "code": "frowning_face(esthetic)",
+    "base": "../../components/faces/face_base(esthetic)",
+    "dest": "../../../emoji/extended"
+  },
+  {
     "code": "frowning_face(smiley)",
     "base": "../../components/faces/face_base(smiley)",
     "dest": "../../../emoji/extended"
