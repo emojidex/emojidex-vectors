@@ -15,7 +15,7 @@
    preserveAspectRatio="none"
    version="1.1"
    id="svg7"
-   sodipodi:docname="arrow_down.svg"
+   sodipodi:docname="arrow_left.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="frame0_metadata11">
@@ -55,10 +55,10 @@
      inkscape:current-layer="svg7" />
   <g
      id="frame0_g3"
-     transform="matrix(-1.0735863,0,0,-1.0735863,66.354763,66.354763)">
+     transform="matrix(0,-1.0735863,1.0735863,0,-2.3547606,66.354763)">
     <polygon
        style="fill:#040000"
-       points="15.31543,25.785156 32.000488,2.1933594 48.68457,25.78418 39.225586,25.785156 39.225586,61.806641 24.775391,61.806641 24.774414,25.78418 "
+       points="39.225586,61.806641 24.775391,61.806641 24.774414,25.78418 15.31543,25.785156 32.000488,2.1933594 48.68457,25.78418 39.225586,25.785156 "
        id="frame0_polygon5" />
   </g>
 </svg>
